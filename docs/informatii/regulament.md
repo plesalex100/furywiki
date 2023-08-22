@@ -318,6 +318,7 @@ a locurilor foarte retrase)
 
 ### 1.39 PANĂ DE CURENT
 - În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
+Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zilei.
 
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 

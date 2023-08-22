@@ -36,5 +36,8 @@ Acest job constă în transportarea paleților din jurul depozitului și încăr
 - Puteți repeta acest proces până când vreți să încheiați tura.
 
 - Plata se face după fiecare palet încărcat în camion.
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::
 
 - Pentru a încheia tura, vorbiți cu NPC-ul de la intrare.

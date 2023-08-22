@@ -37,3 +37,6 @@ Distrugerea avionul va duce la anularea turei și aplicarea unei taxe.
 :::
 
 - Plata se face după ce parcați avionul pe aeroport.
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::

@@ -4,7 +4,83 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
-## Server Update v2.13
+## Server Update V2.17 - 22/08/2023
+- A fost fixata tractarea la firma de mecanici
+- Au fost sterse din garajele din oras deoarece erau intr-un numar foarte mare.
+- A fost fixat sistemul de anti-afk
+
+## Server Update - 18/08/2023
+- Barbutul a fost scos de pe server, pana la implementarea unui alt sistem.
+- Mecanicii pot tracta masini semnalate ca parcate neregulamentar de catre politisti.
+
+## Server Update v2.16 - 17/08/2023
+
+- Au fost majorate salariile pentru facțiunile legale: Poliție, SMURD și ANAF.
+- A fost adăugat un waypoint la /bk2 pentru medici.
+- Timpul de explozie al bombei artizanale a fost crescut.
+- S-a introdus un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+- Problemele legate de stocarea gloanțelor în arme au fost rezolvate.
+- A fost remediată problema cu "un singur glonț" după încărcare.
+- Spawn-ul bărcilor de poliție a fost reparat.
+- Sistemul de "Trage după tine" de la poliție a fost reparat.
+
+- Au fost adăugate atașamente pentru arme, acestea pot fi confecționate în același loc ca și armele.
+- Pentru a le echipa, trebuie să aveți arma deja echipată și să trageți atașamentul în spațiul destinat lor în inventar.
+
+![](https://i.imgur.com/2fhrIpN.png)
+
+## Server Update v2.15 - 15/08/2023
+
+- Au fost optimizate mașinile din dealership pentru a reduce impactul asupra FPS-urilor.
+- A fost rezolvat bug-ul prin care polițiștii puteau primi jail.
+- De acum, atunci când primești PK, stația se oprește automat.
+- A fost scăzută limita de polițiști on pentru jaf Pacific de la 25 la 20.
+- Hainele fetelor de la sală au fost setate.
+- A fost mărită limita superioară pentru businessul de mecanici la facturi.
+- A fost rezolvat bug-ul la telefon prin care nu se puteau șterge apelurile recente.
+- A fost scăzut timpul de creștere a plantei de Marijuana de la 1 oră la 30 minute, astfel s-a sporit acest job față de cel de tutun aproape cu 2x.
+- A fost implementat meniul din care puteți să vă înființați o afacere, PED-ul se află în primărie în partea stângă.
+- Business-urile de Taxi și Mecanici vor avea de acum înainte stoc.
+
+- A fost creat sistemul de spălare a banilor murdari cu ajutorul business-urilor: benzinării, spălătorii auto, magazine, firme de taxi și de mecanici.
+
+:::warning Explicație
+- Pentru spălarea banilor murdari aveți nevoie de încasări la business, cu fiecare marjă depășită aveți posibilitatea de a spăla bani de aproximativ 3x mai mult față de încasări. 
+- Cu cât tindeți spre maximul permis de spălare a banilor conform intervalului în care vă situați cu încasările, aveți risc să alertați ANAF-ul cu privire la evaziunea fiscală comisă.
+- ANAF-ul vă poate da amenzi și chiar suspenda activitatea afacerii în caz de necooperare.
+:::
+
+![](https://i.imgur.com/JZi4aF5.png)
+![](https://i.imgur.com/cCvBMWz.png)
+![](https://i.imgur.com/mJVqiSz.png)
+
+## Server Update v2.14 - 14/08/2023
+
+- A fost implementat un sistem anticheat pentru a preveni spawnarea de obiecte.
+- Problema legată de salvarea vestei anti-glont la deconectare/crash a fost rezolvată.
+- S-a adăugat un sistem care salvează locația mașinii la deconectare și ii da spawn  la conectare.
+- Pe insula Cayo a fost adăugată o benzinărie.
+- Funcționalitatea garajelor a fost îmbunătățită, permițând parcarea vehiculului chiar și atunci când nu te afli în apropierea garajului (util pentru bărci).
+- Bărcile, elicopterele și avioanele nu se mai strică la spawn și vor apărea întotdeauna reparate.
+- Un magazin de haine a fost adăugat pe insula Cayo.
+- Magazinul de armuri și injectii a fost mutat în locația de crafting a armelor.
+- Timpul de așteptare la spitalul ilegal a fost redus la 2 minute. Menționăm că această facilitate nu a fost niciodată blocată doar pentru organizații/mafii și a fost întotdeauna disponibilă pentru civili.
+- S-au creat truse de prim ajutor pentru organizații/mafie, dar acestea vor fi implementate în următorul update.
+- La livrarea  la benzinării, un nou checkpoint pentru reumplere va fi activat.
+
+## Server Update  - 11/08/2023
+
+- Au fost adaugate 3 elicoptere la Smurd.
+- A fost fixat vehiculul Lotus de la Politie.
+- A fost optimizat telefonul aproape in totalitate.
+- A fost adaugata aplicatia [Youtube Music in telefon](/general/telefon.html#aplicatia-yt-music). De acum puteti asculta sau cauta orice video de pe youtube si sa ascultati orice melodie / video de pe youtube.
+- Au fost adaugate in magazin 3 boxe. Boxa Mica, Boxa Medie, Boxa Mare. La care va puteti conecta prin Bluetooth (doar proprietarul boxei momentan).
+
+![](https://i.imgur.com/Zcid6nX.png)
+![](https://i.imgur.com/JhAZfys.png)
+![](https://i.imgur.com/9TJ6KEb.png)
+
+## Server Update v2.13 - 10/08/2023
 
 - A fost introdusă comanda /d pentru medici.
 - Prețurile licențelor au fost majorate pentru toate cu excepția celei de vânător.

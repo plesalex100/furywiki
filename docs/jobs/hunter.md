@@ -82,3 +82,6 @@ Este recomandată folosirea unei genți pentru a putea transporta mai multe mate
 | Carne de căprioară    |    $20-30   |
 
 - Acolo unde prețul variază, poate varia și greutatea materialului.
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::

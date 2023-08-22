@@ -45,3 +45,7 @@ Acest job constă în prinderea peștilor și vânzarea acestora la o locație s
 | Caras                |    $50       |
 | Platica              |    $45       |
 | Biban                |    $55       |
+
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::

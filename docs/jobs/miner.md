@@ -68,4 +68,8 @@ Acest job constă în adunarea de minereuri, prelucrarea lor la topitorie și v�
 | Rubin                |    $168      |
 | Diamant              |    $180      |
 
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::
+
 - Cele două materiale care nu au preț nu pot fi vândute, dar se foloses în alte scopuri.

@@ -30,3 +30,6 @@ Acest job constă în urmărirea rutei și preluarea călătorilor din stație.
 ![gifBusDriver](https://i.imgur.com/2QEdutJ.gif)
 
 - Plata va fi făcută la finalul cursei.
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::

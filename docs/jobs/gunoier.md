@@ -41,3 +41,6 @@ Aveți posibilitatea să practicați acest job împreună cu un prieten pentru u
 :::
 
 - Plata va fi făcută după fiecare descărcare a gunoiului la groapa de gunoi.
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::

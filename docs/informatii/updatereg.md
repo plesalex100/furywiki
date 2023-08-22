@@ -4,9 +4,14 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
-## UPDATE 06/08/2023
+## UPDATE 16/08/2023
 [1.39 PANĂ DE CURENT](/informatii/regulament.html#_1-39-pana-de-curent)
 - În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
+Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zilei.
+
+## UPDATE 06/08/2023
+~~[1.39 PANĂ DE CURENT](/informatii/regulament.html#_1-39-pana-de-curent)~~
+~~- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.~~
 
 ## UPDATE 05/08/2023
 [1.19 Rob&Kill (R&K) & Kill&Rob(K&R)](/informatii/regulament.html#_1-19-rob-kill-r-k-kill-rob-k-r)

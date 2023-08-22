@@ -42,6 +42,9 @@ Acest job constă în a lua o tavă și a colecta bucățile de carne din 2 cuti
 ![](https://i.imgur.com/BkAuOh9.gif)
 
 - Plata va fi făcută după fiecare cutie împachetată și pusă în depozit, dar și după fiecare cutie livrată (livrarea este opțională).
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::
 
 :::tip Sfat!
 - Este mai profitabil să livrați cutiile decât să le colectați și împachetați.

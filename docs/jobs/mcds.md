@@ -41,3 +41,7 @@ Acest job constă în prepararea comenzilor primite dar și în a menține resta
 | Big N' Tasty         |    $35       |
 | Fillet-O-Fish        |    $23       |
 | McChicken            |    $21       |
+
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::

@@ -49,3 +49,6 @@ Lângă bara de viață și armură va apărea încă o bară galbenă care repr
 
 - Scândurile pot fi vândute la NPC ul de lângă topoganul de descărcare, iar plata va fi făcută per scândură.
 ![](https://i.imgur.com/Q4Xr88c.png)
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::

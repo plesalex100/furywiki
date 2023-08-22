@@ -38,9 +38,12 @@ Brake -> reprezintă frânarea trenului; dacă este butonul de brake este roșu,
 
 - Odată ce ați început tura, parcurgeți fiecare stație. Stațiile sunt marcate cu un checkpoint verde pe hartă, iar următoarea stație va fi marcată mereu cu un checkpoint roșu. Veți fi anunțați cu 150m înainte de a ajunge la stație.
 
-- După ce ați ajuns în stație, așteptați ca pasagerii să urce în tren, apoi porniți trenul și continuați ruta.
+- După ce ați ajuns în stație, așteptați ca pasagerii să urce în tren, apoi porniți trenul și continuați ruta. După ce completați o stație veți primi și plata.
 :::details Oprire în stație
 ![](https://i.imgur.com/PPYGiWx.gif)
+:::
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::
 
 - Aveți posibilitatea de a vă da jos din tren dacă este nevoie, însă nu vă îndepărtați de el prea mult, deoarece tura se va anula.

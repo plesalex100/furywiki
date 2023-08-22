@@ -18,6 +18,13 @@ title: Tirist
 Puteți lucra și fără licență, dar la un traffic stop din partea poliției puteți fi sancționați.
 :::
 
+## Skills
+
+- Skill 1 -> 1% boost la plată
+- Skill 2 -> 1.03% boost la plată
+- Skill 3 -> 1.06% boost la plată
+- Skill 4 -> 1.12% boost la plată
+
 ## Cum practic acest job?
 
 Acest job constă în transportarea remorcilor cu marfă de la un punct la altul.
@@ -44,3 +51,7 @@ Acest job constă în transportarea remorcilor cu marfă de la un punct la altul
 :::
 
 - Plata se face după fiecare cursă finalizată.
+
+:::tip SFAT!
+- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+:::

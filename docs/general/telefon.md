@@ -19,7 +19,7 @@ title: Telefon
 
 - Aceasta este intefața telefonului:
 
-![](https://i.imgur.com/2j3KQ2n.png)
+![](https://i.imgur.com/FYGj2mS.png)
 
 - În partea de jos a telefonului, avem 4 aplicații care se presupun a fi utilizate cel mai des:
 
@@ -156,3 +156,8 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 ### Aplicația "Investiții"
 
 - Cu ajutorul acestei apicații putem realiza o investiție short-term sau long-term. Mai multe detalii despre investiții le puteți găsi la secțiunea ["Investiții"](/economie/investitii).
+
+
+### Aplicația "YT Music"
+
+- Cu ajutorul acestei aplicații putem să ne conectăm la o boxă, pe care o putem cumpăra de la orice magazin care are în stoc acest produs, pentru a asculta muzică sau a vizualiza un videoclip.
