@@ -103,7 +103,9 @@ export default defineConfig({
       {
         text: 'Economie',
         items: [
-          { text: "Business-uri"
+          { text: "Spălarea Banilor", link: '/economie/spalare' },
+          { 
+            text: "Business-uri"
             , collapsed: true,
             items: [
               { text: "Mecanici", link: '/economie/mecanici' },

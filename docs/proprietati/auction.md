@@ -18,11 +18,14 @@ title: Licitatii
 
 ### Benzinărie
 
-- todo
+- Trebuie să vă apropiați de locul unde deschideți meniul de administrare al benzinăriei, și selectați opțiunea "Licitează benzinăria".
+- Sistemul funcționează identic cu cel de la case.
+
+![](https://i.imgur.com/R5aEYyd.png)
 
 ### Magazin
 
-- todo
+- soon
 
 ## Cum pot sa particip la o licitație?
 
