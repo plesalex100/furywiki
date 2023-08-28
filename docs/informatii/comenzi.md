@@ -125,6 +125,10 @@ title: Comenzi Utile
 
 - Accesează Rockstar Editor.
 
+### /fpsboost
+
+- Afiseaza meniul cu optiunile de FPS Boost.
+
 ### to add more
 
 ## Butoane cu funcții prestabilite

@@ -19,7 +19,7 @@ title: Telefon
 
 - Aceasta este intefața telefonului:
 
-![](https://i.imgur.com/FYGj2mS.png)
+![](https://i.imgur.com/IA272B0.png)
 
 - În partea de jos a telefonului, avem 4 aplicații care se presupun a fi utilizate cel mai des:
 
@@ -161,3 +161,16 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 ### Aplicația "YT Music"
 
 - Cu ajutorul acestei aplicații putem să ne conectăm la o boxă, pe care o putem cumpăra de la orice magazin care are în stoc acest produs, pentru a asculta muzică sau a vizualiza un videoclip.
+
+### Aplicația "Daily Pics"
+
+Cu ajutorul acestei aplicații putem îndeplini un task zilnic (interval orar 00-00) ce presupune următorii pași pentru a primi o recompensă:
+- Deschideți aplicația și vizualizați imaginea
+
+![](https://i.imgur.com/56FecUQ.png)
+- După ce vizualizați imaginea, căutați locația din imagine
+- Odată ajunși la locație, apăsați pe butonul "Check In" din aplicație pentru a primi recompensa
+
+![](https://i.imgur.com/Aejo9Dz.png)
+
+- In functie de cate zile consecutive aveti in streak veti primii din ce in ce mai multi fire coins / bani. In zilele prime din streak veti primii fire coins.

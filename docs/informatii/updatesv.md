@@ -4,6 +4,35 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.19 - 28/08/2023
+
+- A fost fixata problema cu streak-urile din aplicatia Daily Pic. (toti care ati pierdut streak-ul vi s-a restituit la ziua 1)
+- A fost adaugat un achivement si un daily quest pentru daily pic-uri.
+- A fost mutat job-ul de [Electrician]() la 75 de ore jucate. Totodata castigul acesta a fost majorat pentru a fi corespunzator cu orele necesare.
+
+- A fost adaugat un job de [Spalator de Geamuri](/jobs/windowcleaner.html) la 0 ore jucate, care se poate face co-op.
+- A fost adaugat un achivement si daily quest legat de job-ul de spalator de geamuri.
+
+- Meniul de /fpsboost a primit un mic redesing.
+- Aplicatia de daily pic a primit un mic redesign
+
+- Mentionăm faptul că am început munca la câteva joburi legale și ilegale, unele dintre ele urmând să fie introduse începând de mâine.
+- Mafiile și organizațiile vor primi în perioada următoare actualizări conform listei stabilite în ședința de azi.
+- Poliția are în lucru o serie de mașini, precum și o listă de actualizări care urmează să fie implementată în zilele următoare.
+
+![](https://i.imgur.com/r5ezObQ.png)
+![](https://i.imgur.com/opMRMul.png)
+
+## Server Update v2.18 - 27/08/2023
+
+- A fost adaugat un sistem de fpsboost, puteti folosii [comanda /fpsboost](/informatii/comenzi.html#fpsboost)
+- Politistii nu isi mai pierd telefonul si statia la PK.
+- Daca aveti iteme inexistente (de ex zaruri sau iteme de la task-uri) in vehicule acestea nu se mai spawnau, astfel a fost fixat ca itemele sa fie pur si simplu ignorate.
+- A fost adaugat o [aplicatie noua in telefon numita Daily Pic](/general/telefon.html#aplicatia-daily-pics). Veti primii zilnic (interval orar 00-00) o poza, cu o locatie aleatorie de pe harta, va trebuii sa dati check in pentru a primii niste bani / fire coins. In functie de cate zile consecutive aveti in streak veti primii din ce in ce mai multi fire coins / bani. In zilele prime din streak veti primii fire coins.
+
+![](https://i.imgur.com/56FecUQ.png)
+![](https://i.imgur.com/Aejo9Dz.png)
+
 ## Server Update V2.17 - 22/08/2023
 - A fost fixata tractarea la firma de mecanici
 - Au fost sterse din garajele din oras deoarece erau intr-un numar foarte mare.

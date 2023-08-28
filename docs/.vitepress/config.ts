@@ -80,8 +80,8 @@ export default defineConfig({
             text: "Joburi legale",
             collapsed: true,
             items: [ // in ordinea numarului de ore necesare - low to high
+              { text: "Spalator de geamuri", link: '/jobs/windowcleaner' },
               { text: "Pescar", link: '/jobs/fisher' },
-              { text: "Electrician", link: '/jobs/electrician' },
               { text: "Șofer de autobuz", link: '/jobs/busdriver' },
               { text: "Miner", link: '/jobs/miner' },
               { text: "Gunoier", link: '/jobs/gunoier' }, 
@@ -89,6 +89,7 @@ export default defineConfig({
               { text: "Măcelar", link: '/jobs/butcher' }, 
               { text: "McDonald's", link: '/jobs/mcds' },
               { text: "Tirist", link: '/jobs/trucker' },
+              { text: "Electrician", link: '/jobs/electrician' },
               { text: "Stivuitorist", link: '/jobs/forklift' },
               { text: "Petrolist", link: '/jobs/petrolist' },
               { text: "Tăietor de lemne", link: '/jobs/lumberjack' },

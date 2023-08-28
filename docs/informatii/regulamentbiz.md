@@ -4,16 +4,6 @@ title: Regulament Business
 
 # <center>REGULAMENT BUSINESS</center>
 
-
-## SERVICIUL DE AMBULANTA
-
-- Este interzisă utilizarea oricărui obiect ilegal în timpul desfășurării activității medicale.
-- Este interzisă deținerea de obiecte ilegale în inventar sau în mașinile de la business.
-- Este interzisă reclama negativă asupra unui alt business sau blocarea în orice fel a unui jucător de a apela un alt serviciu.
-- Este interzisă practicarea unui job legal sau ilegal în timpul desfășurării businessului.
-- Este interzisă orice atitudine jignitoare sau orice interacțiune cu scopul de a provoca.
-- Este interzisă angajarea sau păstrarea în business a unui angajat cu cazier sau probleme penale.
-
 ## SERVICIUL DE TAXI
 
 - Este interzisă utilizarea oricărui obiect ilegal în timpul desfășurării activității publice.

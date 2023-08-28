@@ -320,6 +320,13 @@ a locurilor foarte retrase)
 - În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
 Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zilei.
 
+### 1.40 Armele de Mafie
+**(DB, Navy, Gagdet, MG)**
+- Ele pot fi jefuite de catre civili, dar este interzisa folosirea lor. Pana cand se va regla din script, am rugamintea sa nu folositi armele de mafie. Se va sanctiona cu Ban 5 zile! 
+
+### 1.41 Rubble
+- Incepand de maine ( 27.08 ) masina utilitara de tip Rubble  va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. Se va sanctiona cu Fail RP.
+
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
 ### 2.0 **Răpirea / Ostatici**
