@@ -4,6 +4,20 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## UPDATE 04/10/2023
+[1.14 Player Kill](/informatii/regulament.html#_1-14-player-kill)
+:::warning Excepție la PK
+- Polițiștii care sunt implicați într-o situație cum ar fi: jaf, urmărire care se lasă cu focuri de armă, razii, patrule pe rău famate în urma cărora s-au tras focuri de arma, ETC și își iau PK, când se reîntorc la secție și primesc din nou cod 0, pot să se reîntoarcă, indiferent că a luat PK la acea acțiune (se rolează faptul că poliția mereu are întăriri).
+:::
+
+## UPDATE 04/10/2023 
+[8.0 Regulament Jaf Banca Pacific/ Transport/ Yacht](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+- Numarul maxim de membri care pot participa la un jaf pe Yacht este de 20 (Membri cu grad si membri din familia mica).
+
+## UPDATE 06/09/2023
+[1.28 Refuz Roleplay](/informatii/regulament.html#_1-28-refuz-roleplay)
+- Este INTERZIS sa rămâneți AFK intr-o zona rău famată / zonă retrasă. In cazul in care un jucător va încerca să interacționeze cu o persoană AFK, acest lucru va fi permis, făcând excepție de la regula interacțiunii cu o persoană AFK, iar persoana AFK va fi sancționată cu Refuz RP. - Sanctiune BAN 10 zile.
+
 ## UPDATE 26/08/2023
 [1.41  Rubble](/informatii/regulament.html#_1-41-rubble)
 - Incepand de maine ( 27.08 ) masina utilitara de tip Rubble  va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. Se va sanctiona cu Fail RP.

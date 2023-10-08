@@ -4,11 +4,192 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
-## Server Update v2.19 - 28/08/2023
+## Server Updates v2.3
+
+- A fost adăugat sistemul impozitelor auto, în care impozitul se calculează în funcție de valoarea mașinii din dealership.📢 
+- Au fost mărite premiile la achiziționarea pachetelor VIP, precum și payday-ul VIP.
+
+:::info **FuryGP - Formula 1🥇** 
+La aeroportul din Los Santos a fost adăugată opțiunea de a lua avionul către circuit, unde puteți găsi un checkpoint de la care puteți începe sesiunea de calificări. Fiecare sesiune are un maxim de 5 lapuri și nu există nicio limită maximă de sesiuni; cel mai bun timp va fi luat în considerare pentru clasamentul calificărilor. Vă rugăm să rețineți că, în cazul în care primiți o penalizare, acel lap nu va fi luat în considerare.
+
+![](https://i.imgur.com/VFokGeT.png)
+
+- Clasamentul live al calificarilor poate fi găsit pe panel la adresa -> https://panel.furyrp.ro/#/f1
+
+- Calificările sunt disponibile până sâmbătă, 07/10/2023 la ora 16:00. Primele 20 de poziții vor participa în cursa care va avea loc duminică, 08/10/2023 la ora 18:00. Cursa de duminică va consta din 22 de lapuri, iar premiile sunt următoarele: 
+
+🥇 LOCUL 1 - 1.000.000$
+
+🥈 LOCUL 2 - 600.000$
+
+🥉 LOCUL 3 - 300.000$
+:::
+
+## Cars update
+
+Urmatoarele masini au fost adaugate in dealership:
+
+- Mercedes AMG-ONE **(VIP)**
+- Koenigsegg Jesko **(Hyper Car)**
+- Maserati MC20 **(Hyper Car)**
+- Mercedes C63 AMG **(Street Illegal)**
+- Mitsubishi Lancer Evo X **(Street Illegal)**
+- Subaru Impreza WRX STI **(Street Illegal)**
+
+## Server Update v2.29
+
+- Parasutele au fost introduse ca obiecte disponibile pentru achiziționare în magazine (vezi imaginea de mai jos).
+
+![](https://i.imgur.com/TsjZtQN.png)
+
+- Începând de acum, există o modalitate de a obține un laptop prin jaf la magazinul de bijuterii.
+- Problema pierderii obiectelor din chest-urile caselor a fost remediată.
+
+- A fost introdus un nou jaf pe yacht.
+
+![](https://i.imgur.com/edbU0n5.png)
+
+## Server Update v2.28
+
+- Urmatoarele job-uri au primit un mic boost astfel încât economia să fie aliniată în funcție de orele jucate.
+
+```Pescar, Sofer de Autobuz, Gunoier, Vatman, Macelar, Trucker, McDonalds, Stivuitorist, Electrician, Petrolist, Padurar, Pilot Cargo, Tutun```
+
+- Benzinariile au primit, de asemenea, un mic boost pentru a se alinia cu economia.
+- Jafurile au primit, de asemenea, un boost pentru a ne asigura că sunt mai profitabile.
+
+## Server Update v2.27
+
+- Colecția de îmbrăcăminte a primit o actualizare semnificativă. 
+- Pentru fiecare schimbare a unui obiect vestimentar, v-a fost restituită suma corespunzătoare. ( https://pastebin.com/07Ev6svW )
+- Prețurile hainelor au fost actualizate.
+- În aplicatia Fury Bet, sunt disponibile atât rezultatele meciurilor de ieri, cât și partidele în desfășurare, fiind marcate distinct cu culoarea verde.
+- Server-ul a beneficiat de câteva optimizări semnificative.
+
+![](https://i.imgur.com/HCE6XzM.png)
+
+## Server Update v2.26
+
+- A fost adaugata Garderoba la case. Aceasta poate fi achizitionata din meniul Mobilier al casei.
+- A fost adaugata functia de Reroll pentru Daily Quest-uri, in cazul in care acestea au fost finalizate si doriti sa completati alte activitati / nu sunteti multumiti de quest-urile valabile la momentul respectiv.
+- A fost adaugata o notificare in momentul achizitionarii functiei de Drift Assistance pentru a evita achizitionarea din greseala a acesteia.
+- A fost schimbata culoarea checkpoint-urilor de la cursa in culoarea verde.
+- Cursele pot avea o miza care este acordata castigatorului cursei la 60 de secunde dupa ce acesta a trecut linia de Finish, respectiv cand ultimul participant a finalizat cursa.
+- A fost adaugata o notificare prin care puteti vedea cati participanti au intrat in cursa.
+- Bug-ul prin care Drift Score-ul ramanea blocat pe ecran dupa finalizarea cursei a fost rezolvat.
+- Bug-ul prin care Drift Score-ul se inregistra atat pentru sofer cat si pentru pasager a fost rezolvat.
+- Timpul comei dupa un accident a fost scazut.
+- A fost fixat crash-ul de la legimitatii / buletine / permise.
+
+## Small Server Update v2.25
+
+- A fost implementat un sistem prin care puteți să creați curse de mașini, fie de viteză, fie de drift.
+![](https://i.imgur.com/eJDDdW0.png)
+- A fost adăugat un sistem de Drift Assistance, care vă permite dezactivarea ESP-ului mașinii din meniul Z, pe care îl găsiți pe server în Meniu Vehicul.
+![](https://i.imgur.com/yko6vF4.png)
+![]()
+- A fost reparată problema legitimatiilor și a fost adăugată legitimatie pentru factiunea ANAF.
+- A fost adăugat un nou mapping. SPOILER
+![](https://i.imgur.com/VG9fQmU.png)
+- Au fost adăugate Bundesliga, Ligue 1, Serie A și La Liga.
+- Optiunea de Drift Assistance poate fi verificata cu testerul OBD.
+- A fost adaugat un Achievement si Daily Quest (de la 50h) "SLIDE MASTER" - drift. 
+![](https://i.imgur.com/F8bWIuN.png)
+
+## Small Server Update
+
+- A fost adăugată posibilitatea de a cumpăra Navy Revolver pentru mafii.
+- A fost creată posibilitatea de crafting a gloanțelor pentru Navy Revolver.
+- A fost crescut damage-ul armei Deagle din dotarea poliției.
+- A fost adăugat Sawnoff Shotgun în crafting.
+- S-a mărit costul unui cazier la $15.000.
+- A fost adaugat repair kit in magazine.
+
+- A fost adăugat [FURYBET](/general/telefon.html#aplicatia-fury-bet), aplicația din telefon care vă permite să pariați pe meciuri din mai multe ligi. Ulterior, urmează implementarea și a altor competiții. Momentan, ligile de fotbal adăugate sunt: Liga 1, Cupa Romaniei, Premier League, UEFA Champions League și UEFA Europa League.
+![](https://i.imgur.com/VpJF3hj.png)
+
+## Small Server Update
+
+- A fost rezolvată problema cu secțiunea EXTRA din tunning.
+- A fost reparată problema cu payday-ul.
+- Rata de spawn a animalelor de la vânător a fost crescută.
+- A fost adăugată în dealershipul auto second-hand categoria Vintage.
+- A fost adăugată pe panel secțiunea de proprietăți.
+- A fost adăugată pe panel harta zonelor [publice/retrase/rau famate] - varianta încă în lucru.
+
+## Small Server Update
+
+- S-a mărit capacitatea de livrare pentru magazine în funcție de vehicul.
+- S-au creat pagini în panel pentru factiuni și a început crearea dashboard-ului.
+
+## Server Update v2.24
+
+- S-au modificat locațiile de respawn.
+- OBD-ul verifică acum tunning-ul mașinii în baza de date.
+- A fost adăugată pagina de factiuni pe [panel](panel.html) -> https://panel.furyrp.ro/#/factions
+- Prețurile de achiziționare a mărfii pentru magazie au fost reduse cu 50%.
+- S-a mărit capacitatea de livrare pentru magazine în funcție de vehicul.
+- S-a rezolvat problema elicopterelor și a vehiculului de tip Rubble care se spawnau fără anumite părți.
+- S-au creat pagini în [panel](panel.html) pentru factiuni și a început crearea dashboard-ului.
+
+## Server Update v2.23
+
+- A fost adăugat un nou jaf la magazinul de bijuterii.
+- A fost șters și rescris [jobul de scafandru](/jobs/diver) și a fost mărită plata/cutiile; de acum aveți o limită de 20 de minute sub apă pe un tub de oxigen.
+- De acum înainte, la orice crash, veți primi cutiile înapoi la reconectare.
+- A fost mărită plata/cutie de la 2500$ la 3000$.
+- A fost reparat jaf-ul de la Pacific.
+- A fost rezolvată problema benzinariei de pe insula Cayo.
+
+## Server Update v2.22
+
+- A fost fixat sistemul de coma la accident ca toti jucatorii sa fie sync-uiti cu soferul cand se produce un accident.
+- De acum mecanicii care fac itp-ul unui vehicul din Low Class primesc automat banii pe ITP fara sa fie nevoie ca jucatorii sa plateasca acel itp.
+- A fost adaugat un sistem prin care la fiecare Payday un jucator ales aleatoriu va castiga un premiu in Bani sau in Fire Coins
+- A fost fixata pozitia dealership-ul second hand.
+- A fost fixat mesajul de la electrician cu plata tripla.
+
+- A fost adaugat [job-ul ilegal de Cocaina](/jobs/ilegale) de la 400 de ore jucate.
+
+## Server Update v2.21
+
+- De acum înainte, fiecare pontaj se închide la întreruperea bruscă a jocului (crash) sau la ieșirea din joc, primind banii aferenți pontajului.
+- A fost adăugată în MDT opțiunea de a include persoanele implicate în rapoarte/amenzi/apeluri.
+- A fost creat un sistem pentru obținerea permisului de port-armă în colaborare cu poliția.
+- A fost rezolvată problema prin care unele rapoarte din MDT nu erau afișate.
+- De acum înainte, polițiștii primesc respawn la secție după un PK.
+- Problema codului 0 legată de blip-urile care rămâneau până la reconectare a fost remediată.
+- BK3 a fost eliminat.
+- Fiecare polițist poate scoate din garaj 2 mașini.
+- În situația în care samanta de iarbă este pierdută, o veți primi automat înapoi.
+- Pontajele pentru poliție/medici/ANAF beneficiază de un VIP JOB BOOST.
+- La jobul de electrician, dacă capacitatea este mai mică de 1000 de megawați, plata jobului este triplă.
+- Jaful de la Pacific a fost reparat.
+- Dealership-ul second hand a fost mutat la codul postal 745 si mappingul de la OTTO`s auto a fost scos (sursa de crash).
+
+## Server Update v2.20
+
+- Au fost adăugate mai multe informații sub formă de notificare pentru jucătorii noi cu privire la sistemele de achievement, daily photo și investments.
+- De acum înainte, fiecare jucător nou primește un telefon la conectare.
+- De acum înainte, laptopurile necesare pentru Pacific Heist se vor obține din bank transport.
+- A fost adăugată la mesele din black market posibilitatea de a închiria o masă cu 1.000.000$ / 30 zile.
+- A fost adăugat [jobul de Scafandru](/jobs/diver) la 300 de ore.
+- A fost adăugat un mapping și un spital ilegal în oraș.
+- Au fost eliminate blip-urile de pe hartă de la spitalele ilegale.
+- A fost pusă restricție pe armele de mafie, putând fi echipate doar de către membrii mafiilor.
+- A fost adăugată mască de gaze pentru jaful de la Pacific Bank, pentru declanșarea gazului toxic; aceasta îți va oferi un extra de 60 de secunde.
+- A fost adăugat un minigame nou la deschiderea ușii seifului, crescând astfel dificultatea jafului.
+- Numărul minim de polițiști pentru jaf a fost scăzut la 15.
+- Miza jafului de la Pacific a fost mărită, totalul ajungând între **1.1 - 1.2 milioane**.
+- A fost adaugata posibilitatea de a-ti taia catusele contra cost.
+- A fost adaugat un nou achievement si un daily quest pentru jobul de scafandru.
+
+ 
+## Server Update v2.19
 
 - A fost fixata problema cu streak-urile din aplicatia Daily Pic. (toti care ati pierdut streak-ul vi s-a restituit la ziua 1)
 - A fost adaugat un achivement si un daily quest pentru daily pic-uri.
-- A fost mutat job-ul de [Electrician]() la 75 de ore jucate. Totodata castigul acesta a fost majorat pentru a fi corespunzator cu orele necesare.
+- A fost mutat job-ul de [Electrician](/jobs/electrician.html) la 75 de ore jucate. Totodata castigul acesta a fost majorat pentru a fi corespunzator cu orele necesare.
 
 - A fost adaugat un job de [Spalator de Geamuri](/jobs/windowcleaner.html) la 0 ore jucate, care se poate face co-op.
 - A fost adaugat un achivement si daily quest legat de job-ul de spalator de geamuri.
@@ -23,7 +204,7 @@ title: Update-uri Server
 ![](https://i.imgur.com/r5ezObQ.png)
 ![](https://i.imgur.com/opMRMul.png)
 
-## Server Update v2.18 - 27/08/2023
+## Server Update v2.18 
 
 - A fost adaugat un sistem de fpsboost, puteti folosii [comanda /fpsboost](/informatii/comenzi.html#fpsboost)
 - Politistii nu isi mai pierd telefonul si statia la PK.
@@ -33,16 +214,16 @@ title: Update-uri Server
 ![](https://i.imgur.com/56FecUQ.png)
 ![](https://i.imgur.com/Aejo9Dz.png)
 
-## Server Update V2.17 - 22/08/2023
+## Server Update V2.17
 - A fost fixata tractarea la firma de mecanici
 - Au fost sterse din garajele din oras deoarece erau intr-un numar foarte mare.
 - A fost fixat sistemul de anti-afk
 
-## Server Update - 18/08/2023
+## Small Server Update
 - Barbutul a fost scos de pe server, pana la implementarea unui alt sistem.
 - Mecanicii pot tracta masini semnalate ca parcate neregulamentar de catre politisti.
 
-## Server Update v2.16 - 17/08/2023
+## Server Update v2.16
 
 - Au fost majorate salariile pentru facțiunile legale: Poliție, SMURD și ANAF.
 - A fost adăugat un waypoint la /bk2 pentru medici.
@@ -58,7 +239,7 @@ title: Update-uri Server
 
 ![](https://i.imgur.com/2fhrIpN.png)
 
-## Server Update v2.15 - 15/08/2023
+## Server Update v2.15
 
 - Au fost optimizate mașinile din dealership pentru a reduce impactul asupra FPS-urilor.
 - A fost rezolvat bug-ul prin care polițiștii puteau primi jail.
@@ -83,7 +264,7 @@ title: Update-uri Server
 ![](https://i.imgur.com/cCvBMWz.png)
 ![](https://i.imgur.com/mJVqiSz.png)
 
-## Server Update v2.14 - 14/08/2023
+## Server Update v2.14
 
 - A fost implementat un sistem anticheat pentru a preveni spawnarea de obiecte.
 - Problema legată de salvarea vestei anti-glont la deconectare/crash a fost rezolvată.
@@ -97,7 +278,7 @@ title: Update-uri Server
 - S-au creat truse de prim ajutor pentru organizații/mafie, dar acestea vor fi implementate în următorul update.
 - La livrarea  la benzinării, un nou checkpoint pentru reumplere va fi activat.
 
-## Server Update  - 11/08/2023
+## Small Server Update
 
 - Au fost adaugate 3 elicoptere la Smurd.
 - A fost fixat vehiculul Lotus de la Politie.
@@ -109,7 +290,7 @@ title: Update-uri Server
 ![](https://i.imgur.com/JhAZfys.png)
 ![](https://i.imgur.com/9TJ6KEb.png)
 
-## Server Update v2.13 - 10/08/2023
+## Server Update v2.13
 
 - A fost introdusă comanda /d pentru medici.
 - Prețurile licențelor au fost majorate pentru toate cu excepția celei de vânător.
@@ -141,7 +322,7 @@ title: Update-uri Server
 - A fost implementat un sistem de închidere cu cod pentru uși.
 - Spitalul de pe Cayo cat si cel ilegal de la codul postal 069 sunt deschise NON STOP.
 
-## Server Update v2.12 - 07/08/2023
+## Server Update v2.12
  Bugs & Fixes
 - A fost scazuta distanta de la care poti lua pe cineva in /th
 - Au fost adaugate hainele specifice pentru puscarie
@@ -158,7 +339,7 @@ title: Update-uri Server
 - La jobul de Petrolist, cand imbuteliati combustibilul nu mai primiti toate butoaiele odata
 - De acum, la electrician, daca este pana de curent, plata se tripleaza
 
-## Server Update v2.11 - 06/08/2023
+## Server Update v2.11
 
 - S-a schimbat prețul canistrei.
 - Jucătorii nu mai pot demisiona singuri din business, pot fi doar demiși de proprietar.
@@ -166,7 +347,7 @@ title: Update-uri Server
 - S-a rezolvat bug-ul de la începerea job-urilor de vânător, pescar și vatman.
 
 
-## SERVER UPDATE v2.10 - 05/08/2023
+## SERVER UPDATE v2.10
 
 UPDATES
 
@@ -183,7 +364,7 @@ UPDATES
 - A fost adăugat un dealer Second Hand pentru mașini, unde puteți lista mașinile dumneavoastră de vânzare. În acesta interfață grafică, puteți vizualiza stadiul de tuning al mașinii disponibile și aveți posibilitatea de a efectua un test drive. Menționăm că nu puteți lista mașina spawnată, iar procedura de listare a mașinii pentru vânzare sau locația de cumpărare se află la codul poștal 767.
 ![](https://i.imgur.com/42BangZ.png)
 
-## SERVER UPDATE v.2.09 - 03/08/2023
+## SERVER UPDATE v.2.09
 
             FIXES
 ---------------------------------
@@ -207,14 +388,14 @@ UPDATES
 - S-a fixat comanda /shirt, acum nu mai aveți corp invizibil după ce o folosiți.
 - De acum ai nevoie de ITP valid pentru a putea modifica mașina.
 
-## SERVER UPDATE v2.08 - 02/08/2023
+## SERVER UPDATE v2.08
 
 - sJobul de miner a fost mutat la 80 de ore.
 - A fost reparata problema tarnacoapelor blocate pe spate la Miner.
 - SNS Pistol nu mai este disponibil în Gun Shop.
 - Mașinile din subsolul Dealershipului au fost șterse din motive de optimizare.
 
-## SERVER UPDATE v2.07 - 01/08/2023
+## SERVER UPDATE v2.07
 
 🎉 UPDATES & FIXES🎉
 - La codul postal 587 a fost adăugat garaj de mecanici și blip pe hartă.
@@ -228,7 +409,7 @@ UPDATES
 - De acum puteți utiliza inventarul și dacă sunteți răniți, dar nu îl puteți utiliza dacă sunteți în comă.
 - A fost adăugat shop pe Cayo pentru veste anti-glont și adrenalină. (Se pot utiliza de către organizații și mafii).
 
-## SERVER UPDATE v2.06 - 31/07/2023
+## SERVER UPDATE v2.06
 
 UPDATES:
 - S-a actualizat chatul pentru membrii VIP.
@@ -242,7 +423,7 @@ BUG FIXES:
 - Au fost reparate joburile de miner și petrolist.
 - A fost rezolvat bugul prin care puteai să faci kilometri la mașină pentru altcineva la achievements.
 
-## SERVER UPDATE v2.05 - 29/07/2023
+## SERVER UPDATE v2.05
 
 **Updates**
 - A fost adaugata verificare pentru AFK ( sistem prin care nu primiti kick daca introduceti un cod).
@@ -254,7 +435,7 @@ BUG FIXES:
 - A fost reparata problema de la medici cu trusa de* *prim ajutor
 - A fost  reparata functia de vinde unui jucator din inventar
 
-## SERVER UPDATE v2.04 - 27/07/2023
+## SERVER UPDATE v2.04
 
 ---------------------- BUGS ---------------------------
 
@@ -277,7 +458,7 @@ BUG FIXES:
 - SUZUKI GSX R1000
 - HONDA GL1800 GOLDWING
 
-## SERVER UPDATE v2.03 - 26/07/2023
+## SERVER UPDATE v2.03
 
 - S-a rezolvat problema achievementului la Haine.
 - S-a fixat JOB BOOST la Vatman.
@@ -288,7 +469,7 @@ BUG FIXES:
 - Bandajele medicale nu se mai pot vinde/oferi.
 - A fost adăugată în Gun Shop opțiunea de a cumpăra doar gloanțe.
 
-## SERVER UPDATE v2.02 - 25/07/2023
+## SERVER UPDATE v2.02
 
 --------------✅ BUGS✅ ------------------
 

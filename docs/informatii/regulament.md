@@ -113,6 +113,10 @@ Condusul unei mașini de super sport ( cu garda joasă ) pe un drum neasfaltat.
 - Reprezintă momentul în care **un jucător este în comă**, iar acesta folosește opțiunea de **respawn**. 
 - Jucătorul cu pricina trebuie **să uite** toate **informațiile acumulate** în roleplay-ul respectiv, **nume, locații, informații, etc.**
 - In cazul organizatiilor liderul poate da PK unui jucator pentru ca acesta sa uite informatiile detinute despre organizatia respectiva.
+:::warning Excepție la PK
+- Polițiștii care sunt implicați într-o situație cum ar fi: jaf, urmărire care se lasă cu focuri de armă, razii, patrule pe rău famate în urma cărora s-au tras focuri de arma, ETC și își iau PK, când se reîntorc la secție și primesc din nou cod 0, pot să se reîntoarcă, indiferent că a luat PK la acea acțiune (se rolează faptul că poliția mereu are întăriri).
+:::
+
 
 <hr style="transform: translateY(10px)"/>
 
@@ -235,6 +239,7 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 ### 1.28 Refuz Roleplay
 - **Este interzis să refuzați interacțiunea roleplay** cu ceilalți jucători. Se consideră **Refuz Roleplay** în momentul în care
 părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bară (AFK), refuzați orice fel de interacțiune.
+- Este INTERZIS sa rămâneți AFK intr-o zona rău famată / zonă retrasă. In cazul in care un jucător va încerca să interacționeze cu o persoană AFK, acest lucru va fi permis, făcând excepție de la regula interacțiunii cu o persoană AFK, iar persoana AFK va fi sancționată cu Refuz RP. - Sanctiune BAN 10 zile.
 
 #### **AFK în Roleplay**
 - Nu este permis să vă puneți AFK în timpul unui roleplay. 
@@ -397,8 +402,8 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 
 ### 8.0 Regulament Jaf Banca Pacific/ Transport
 
-
 - Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
 - Numarul maxim de membri care pot participa la  jaful unui Transport bancar este de 10 (doar cu grad).
+- Numarul maxim de membri care pot participa la un jaf pe Yacht este de 20 (Membri cu grad si membri din familia mica).
 - In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
 - La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!

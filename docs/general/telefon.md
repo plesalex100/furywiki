@@ -19,7 +19,7 @@ title: Telefon
 
 - Aceasta este intefața telefonului:
 
-![](https://i.imgur.com/IA272B0.png)
+![](https://i.imgur.com/dAVz9a1.png)
 
 - În partea de jos a telefonului, avem 4 aplicații care se presupun a fi utilizate cel mai des:
 
@@ -174,3 +174,27 @@ Cu ajutorul acestei aplicații putem îndeplini un task zilnic (interval orar 00
 ![](https://i.imgur.com/Aejo9Dz.png)
 
 - In functie de cate zile consecutive aveti in streak veti primii din ce in ce mai multi fire coins / bani. In zilele prime din streak veti primii fire coins.
+
+### Aplicația "Fury Bet"
+
+- Cu ajutorul acestei aplicații putem să pariem pe diferite meciuri de fotbal din ziua respectivă.
+
+*Exemplu: meciurile din 17/09/2023*
+![](https://i.imgur.com/VpJF3hj.png)
+
+- Pentru a plasa un pariu trebuie să selectați un meci, să selectați 1 / X / 2. 1 Reprezintă că echipa gazdă va câștiga, X înseamnă că o să fie scor egal, iar 2 înseamnă că va câștiga echipa în deplasare. 
+
+- În funcție de ce vreți să selectați dintre 1 / X / 2, vor apărea niște valori. Acele valori reprezintă cotele. 
+# Ce reprezintă cota?
+- Cota reprezintă numărul cu care suma pariată se va înmulți, iar în cazul în care pariul este câștigător, veți primi suma pariată înmulțită cu cota respectivă.
+
+*ex: meciul dintre Viitorul Constanța și FCSB are cotele 2.59 pentru 1, 2.99 pentru X și 2.06 pentru 2. Dacă voi paria $50.000 că va câștiga FCSB (cota 2.06), și FCSB va câștiga, voi primi $103.000.*
+![](https://i.imgur.com/QAiLBsr.png)
+
+- După ce ați selectat un meci și ați ales pariul, trebuie să introduceți suma pe care doriți să o pariați și să apăsați pe butonul "Pariază".
+
+:::tip Notă!
+- Puteți paria pe toate meciurile disponibile, dar dacă nu ghiciți toate pariurile, veți pierde suma pariată.
+:::
+
+- Dacă biletul este câștigător, apăsați după finalul tuturor meciulor pe butonul "Verifică biletul".

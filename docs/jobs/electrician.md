@@ -39,6 +39,7 @@ Acest job are un impact foarte mare asupra orașului și constă în repararea p
 - Plata va fi făcută după fiecare panou reparat.
 :::tip SFAT!
 - Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
+- Dacă capacitatea este mai mică de 1000 de megawați, plata jobului este triplă.
 :::
 
 - Pentru a încheia tura, vorbiți cu NPC-ul sau folosiți comanda /quitjob.

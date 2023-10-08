@@ -71,7 +71,11 @@ title: Poliția Fury
 
 ## Vehicule
 
-În funcție de necesități, polițiștii au în dotare mai multe tipuri de autospeciale:
+<a href="https://www.youtube.com/watch?v=k_ouUXLj2fY" target="_blank">
+ <img src="https://img.youtube.com/vi/k_ouUXLj2fY/0.jpg" alt="Watch the video" width="240" height="180" border="1" />
+</a>
+
+<!-- În funcție de necesități, polițiștii au în dotare mai multe tipuri de autospeciale:
 
 :::details Autospeciale Standard -> pentru situații normale cum ar fi: patrulare, traffic stop-uri, etc
 ![politieAuto](https://i.imgur.com/3EUiNjq.png)
@@ -91,7 +95,7 @@ title: Poliția Fury
 
 :::details Elicopter de poliție -> pentru sprijin aerian
 ![politieElicopter](https://i.imgur.com/2qFWnaM.png)
-:::
+::: -->
 
 ## MDT -> Baza de date a poliției
 
