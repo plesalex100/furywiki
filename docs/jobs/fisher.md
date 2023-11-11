@@ -11,13 +11,17 @@ title: Pescar
 ## Cerințe
 
 - Nu este necesară experiență.
-- Momeală (150$ / 20 bucăți).
+- Momeală mică - vierme (7$ / buc).
+- Deținerea unei [licențe](/general/licente) de pescar pentru a putea lucra legal.
+:::tip
+Puteți lucra și fără licență, dar la o razie din partea poliției veți fi sancționați.
+:::
 
 ## Cum practic acest job?
 
 Acest job constă în prinderea peștilor și vânzarea acestora la o locație specială.
 
-- Înainte de a începe jobul propriu-zis aveți nevoie de momeală aceasta se poate lua de la o locație specială pe care o aflați de la NPC-ul jobului.
+- Înainte de a începe jobul propriu-zis aveți nevoie de momeală aceasta se poate lua de la o locație specială care este Magazinul Pescar, locație pe care o aflați de la NPC-ul jobului.
 
 - Începi prin a merge la [locația jobului](locatii) și a interacționa cu NPC-ul ce se află pe malul lacului pentru a începe pescuitul.
 :::details NPC
@@ -36,16 +40,9 @@ Acest job constă în prinderea peștilor și vânzarea acestora la o locație s
 - După ce ați început să pescuiți la un moment dat undița voastră se va mișca și veți fi nevoiți să nimeriți apasând tasta <KeyIcon keyType="space"/> în locul indicat pentru a prinde peștele. Mai jos aveți un exemplu pentru acest mini-game:
 ![](https://i.imgur.com/NKfwaF0.gif)
 
-- După ce ați prins cantitatea de pește pe care o doriți, puteți să vă duceți să vindeți peștele în aceeași locație de unde vă puteți cumpăra și momeală.
-
-| Pește                | Preț vânzare |
-| -------------------  | :-----------:|
-| Ghibort              |    $70       |
-| Rosioara             |    $60       |
-| Caras                |    $50       |
-| Platica              |    $45       |
-| Biban                |    $55       |
+- După ce ați prins cantitatea de pește pe care o doriți, puteți să vă duceți să vindeți peștele la secțiunea specială din magazinul pescarului, în aceeași locație de unde vă puteți cumpăra și momeală.
 
 :::tip SFAT!
+- Peștele de lac poate fi folosit ca momeală pentru ->[pescarul oceanic](/jobs/fisherv2)<-
 - Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::

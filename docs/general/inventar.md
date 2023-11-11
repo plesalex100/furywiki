@@ -12,8 +12,8 @@ title: Inventar
 
 - Inventarul poate fi deschis sau închis apăsând tasta <KeyIcon keyType="i"/> , respectiv tot tasta <KeyIcon keyType="i"/> sau <KeyIcon keyType="esc"/> / <KeyIcon keyType="backspace"/>.
 :::details Apasă pentru a vedea interfața inventarului
-- Aceasta este interfața inventarului:
-![pozaInventar](https://i.imgur.com/ESNChXo.png)
+- Cam așa ar arăta interfața inventarului:
+![pozaInventar](https://i.imgur.com/hN0et1X.png)
 :::
 
 ## Ce sunt butoanele de la baza inventarului?
@@ -57,7 +57,7 @@ title: Inventar
 
 ![pozaInventarForma](https://i.imgur.com/ZeqEQqA.png)
 :::tip
-- Progress bar-ul "Formă fizică" poate fi crescut mergând la [sala de forță](./sala).
+- Progress bar-ul "Formă fizică" poate fi crescut mergând la [sala de forță](./sala) sau lucrând ca [miner](/jobs/miner).
 :::
 
 ## Cum folosesc itemele din inventar?
@@ -99,7 +99,17 @@ Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **
 
 - Pentru a scoate geanta, apăsați pe butonul cu logo de ghiozdan din dreapta jos.
 
-![pozaInventarUneqGeanta](https://i.imgur.com/ez0rSxb.png)
+![pozaInventarUneqGeanta](https://i.imgur.com/vGZ9Ont.png)
+
+## Crafting
+
+- De asemenea, puteți folosi butonul de lângă cel de dezechipare geantă pentru a crafta diferite obiecte cum ar fi bandaje, pentru a monta undițe cu diferite monturi, etc
+
+![](https://i.imgur.com/Pn6EhWx.png)
+
+:::details Exemplu de iteme care pot fi craftate/montate
+![](https://i.imgur.com/i2OGjD2.png)
+:::
 
 ## Folosirea shortcut-urilor
 

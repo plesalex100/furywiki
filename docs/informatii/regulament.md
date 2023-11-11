@@ -166,6 +166,7 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Se interzice jefuirea unei persoane iar apoi omorârea ei. 
 - Excepție de la această regulă face situația în care cel care a fost deja jefuit începe să aibe un comportament nepotrivit și nu respectă indicațiile jefuitorului.
 - Se interzice omorarea si jefuirea unei persoane.
+- ESTE INTERZISĂ uciderea unui jucător percheziționat. Această acțiune va fi considerată Rob & Kill și se va sancționa ca atare.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -327,10 +328,13 @@ Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zile
 
 ### 1.40 Armele de Mafie
 **(DB, Navy, Gagdet, MG)**
-- Ele pot fi jefuite de catre civili, dar este interzisa folosirea lor. Pana cand se va regla din script, am rugamintea sa nu folositi armele de mafie. Se va sanctiona cu Ban 5 zile! 
+- Ele pot fi jefuite de catre civili, dar este interzisa folosirea lor.
 
 ### 1.41 Rubble
-- Incepand de maine ( 27.08 ) masina utilitara de tip Rubble  va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. Se va sanctiona cu Fail RP.
+- Masina utilitara de tip Rubble va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. 
+:::warning
+- Se va sanctiona cu Fail RP.
+:::
 
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
@@ -344,6 +348,7 @@ Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zile
 - 2.06   Atunci când negociați eliberarea unui ostatic, ambele părți au obligația de a respecta învoiala inițială.
 - 2.07   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
 - 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
+- 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -403,7 +408,9 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 ### 8.0 Regulament Jaf Banca Pacific/ Transport
 
 - Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
-- Numarul maxim de membri care pot participa la  jaful unui Transport bancar este de 10 (doar cu grad).
+- Numarul maxim de membri care pot participa la  jaful unui Transport bancar este de 20 (doar cu grad).
 - Numarul maxim de membri care pot participa la un jaf pe Yacht este de 20 (Membri cu grad si membri din familia mica).
-- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
+- Numarul minim de membri care pot participa la orice tip de jaf (Exceptand ATM-urile) este de 4 (Membri cu grad si membri din familia mica).
+- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf. (Exceptie politia, se roleaza ca mereu sunt intariri pe drum)
 - La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
+- 

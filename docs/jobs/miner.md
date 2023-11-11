@@ -14,7 +14,8 @@ title: Miner
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 - Deținerea unei [licențe](/general/licente) de miner pentru a putea lucra legal.
 :::tip 
-Puteți lucra și fără licență, dar la o razie din partea poliției veți fi sancționați.
+- Puteți lucra și fără licență, dar la o razie din partea poliției veți fi sancționați.
+- Lucratul la mină vă îmbunătățește [forma fizică](/general/inventar.html#forma-fizica)
 :::
 
 ## Cum practic acest job?

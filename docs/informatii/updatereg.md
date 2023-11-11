@@ -4,6 +4,17 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## UPDATE 29/10/2023
+
+[1.19 Kill & Rob / Rob & Kill](/informatii/regulament.html#_1-19-rob-kill-r-k-kill-rob-k-r)
+- ESTE INTERZISĂ uciderea unui jucător percheziționat. Această acțiune va fi considerată Rob & Kill și se va sancționa ca atare.
+
+[2.09 Regulament Răpiri / Ostatic](/informatii/regulament.html#_2-0-rapirea-ostatici)
+- Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
+
+[8.0 Regulament Jaf Banca Pacific/ Transport](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+- Numarul minim de membri care pot participa la orice tip de jaf (Exceptand ATM-urile) este de 4 (Membri cu grad si membri din familia mica).
+
 ## UPDATE 04/10/2023
 [1.14 Player Kill](/informatii/regulament.html#_1-14-player-kill)
 :::warning Excepție la PK

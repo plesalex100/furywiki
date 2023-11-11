@@ -96,6 +96,7 @@ Meniul de administrare al casei are următoarele opțiuni:
 
 ### Chiriași
 -> Aici puteți vedea persoanele care au chirie în casa dumneavoastră.
+-> De asemenea, accesând acest meniu puteți vedea fiecare chiriaș și în cazul în care acesta crează probleme, puteți să-i încheiați contractul de chirie.
 
 ### Ieși din casă
 -> Comandă rapidă de a ieși din casă.
@@ -139,6 +140,9 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 ## Cum pot să devin chiriaș într-o casă? 
 
 - Pentru a deveni chiriaș, trebuie să fiți invitați în casă de proprietar și să apăsați tasta <KeyIcon keyType="k"/> -> Meniu Casa și să selectați opțiunea "Cumpara Chirie" și să selectați numărul de zile de chirie. În dreapta o să aveți informații despre costul pe o zi de chirie, acesta fiind setat de proprietar.
+
+:::warning Atentie!
+- Proprietarul poate oricând să vă încheie contractul în cazul în care veți crea neplăceri.
 
 ![](https://i.imgur.com/ULYCfgq.png)
 

@@ -36,6 +36,7 @@ export default defineConfig({
         text: 'Informații utile',
         items: [
           { text: "Despre noi", link: '/informatii/about' },
+          { text: "Autentificare", link: '/informatii/auth' },
           { text: "Regulament General", link: '/informatii/regulament' },
           { text: "Regulament Business", link: '/informatii/regulamentbiz' },
           { text: 'Zone Publice/Rău Famate/Retrase', link: '/informatii/map' },
@@ -97,6 +98,7 @@ export default defineConfig({
               { text: "Vânător", link: '/jobs/hunter' },
               { text: "Pilot", link: '/jobs/pilot' },
               { text: "Scafandru", link: '/jobs/diver' },
+              { text:"Pescar Oceanic", link: '/jobs/fisherv2' }
             ]
           },
           { text: 'Activități ilegale', link: '/jobs/ilegale' },
@@ -139,6 +141,7 @@ export default defineConfig({
           { text: "Poliția", link: '/factions/politie' },
           { text: "Smurd", link: '/factions/smurd' },
           { text: "ANAF", link: '/factions/anaf' },
+          { text: "Fury News", link: '/factions/news' },
         ]
       }
 

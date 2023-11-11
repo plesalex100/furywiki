@@ -4,6 +4,195 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Cars Update
+
+Urmatoarele masini au fost adaugate in dealership:
+- Ferrari 296
+- BMW M3 G80
+- Lotus 430GT
+- Honda NSX-R
+
+## Mini-Update
+
+- De acum, armele cu suppressor nu mai alertează poliția.
+- Damage-ul la PISTOL50 a fost micșorat la 50.
+- Intervalul de plată la business-ul de taxi a fost mărit.
+
+## Server Update v2.39
+
+- Datorită supraaglomerarii  excesive a zonei Fleeca Bank - Dealership - Poliție, am decis să mutăm Dealershipul auto într-o nouă locație, mai precis la codul postal 614. Acest nou spațiu a fost decorat cu fotografii ale mașinilor realizate de membrii comunității și postate pe canalul "poze ic".
+
+**/GPS - Dealership auto**
+
+![](https://i.imgur.com/00ZasDJ.png)
+
+## Server Update v2.37
+
+- De acum managerul spitalului poate sa se vizualizeze rapoartele, apelurile si reviveurile medicilor.
+- Optiunea de factureaza este disponibila de la medic rezident+.
+- /codurism a fost actualizata.
+- A fost reparat bug-ul de la meniul "Z" pentru disparitia iconitelor.
+
+- MDT-ul din cadrul facțiunii Smurd a suferit câteva modificări interne. 
+- De acum puteti vizualiza dupa numele paramedicului/politistului CNP-ul in momentul preluarii apelului.
+
+![](https://i.imgur.com/M7E4wCY.png)
+
+- De asemenea, am ajustat animația în momentul aplicării bandajului, astfel încât să se evite ridicarea și blocarea jucătorului în timpul acesteia.
+- Totodata, sistemul de targă a fost remaniat. 
+- A fost rezolvată o problemă prin care unele bancomate nu puteau fi scoase din perete din cauza unei texturi invizibile.
+- Au fost adaugate log-uri pentru Jaf-urile la ATM.
+- Sistemul prin care se initializează mesele în cadrul jafului de pe yacht a fost rescris, astfel încât să nu mai apară probleme legate de acestea.
+
+- În plus, sistemul de housing a suferit următoarele modificări importante:
+- A fost introdusă opțiunea de a rezilia contractul unui chiriaș. Chiriașului i se va încheia contractul fără a primi rambursarea pentru perioada rămasă.
+- În momentul vânzării unei case, chiriașii vor fi evacuați automat, iar cheile oferite altor jucători vor fi resetate.
+
+![](https://i.imgur.com/HGt3Pet.png)
+
+![](https://i.imgur.com/zWYz8Gy.png)
+
+## Server Update v2.36
+
+- Economia jobului Pescar Oceanic a fost recalculata.
+- A fost adaugat in dotarea politiei testul GSR ( Acest tip de test este utilizat în investigațiile legate de crime sau incidente cu arme de foc pentru a stabili dacă o persoană a tras recent cu o armă. )
+- Puteti scapa de detectarea testului GSR in urma spalarii in apa.
+
+![](https://i.imgur.com/NexhQrc.png)
+
+## Server Update v2.35
+
+- Prețul canistrei de benzină a fost modificat de la 500 la 1500.
+- Acum, în consola F8 se va afișa informația cu privire la cine a pus punga pe cap.
+- Job-ul de pilot cargo a primit o notificare adițională, care conține informații despre frecvența job-ului și o recomandare de a folosi stația.
+- Jafurile au fost revizuite și reparate în cazul în care au fost necesare intervenții.
+- De acum înainte, există log-uri pentru Yacht Heist.
+- Valoarea banilor primiți în urma unui jaf la un ATM a fost ajustată, acum aceasta variază între 20.000$ și 25.000$.
+
+### NEW JOB - Pescar oceanic🐟
+
+- A fost creat un nou job, pescar oceanic, care va permite prinderea in larg a unor pesti mai grei/scumpi.
+- Au fost adaugate 3 barci noi in Dealership cu capacitate mai mare speciale pentru pescuit.
+- A fost implementat un sistem nou de vindere a pestilor inclusiv pentru Jobul de Pescar de la 0 ore.
+- A fost adaugat un sistem de crafting din inventar in care va puteti crafta montura speciala pentru tipul de peste dorit.
+- Pretul pestilor se va actualiza in fiecare zi la ora 12AM si 12PM.
+- A fost adaugat ghidul pescarului ca item in magzainul de la jobul de pescar.
+- A fost creata posibilitatea de craftare a bandajelor in meniul de crafting.
+
+![](https://i.imgur.com/B6pcgfL.png)
+
+![](https://i.imgur.com/UdMeisw.png)
+
+### NEW FEATURE
+- Se ofera posibilitatea jucatorilor de a detine un colant personalizat pe masina personala.
+Pentru solicitari -> Discord: combrands
+
+![](https://i.imgur.com/XdHqva5.png)
+
+## Server Update v2.34
+
+- A fost modificat designul minimapei, pentru a putea benefecia de toate funnctionalitatile acesteia.
+- A fost adaugata optiunea de a lega la maini un jucator cu sfoara.
+- A fost adaugata posibilitatea de a pune punga pe cap jucatorilor.
+- De acum puteti raspunde la intrebarea "Doriti punguta?"
+- A fost creata posibilitatea de a taia sfoara cu ajutorul unui cutit.
+- A fost rezolvat bugul "ai o guma pe talpa".
+
+:::details Asta va vedea jucătorul care are punga pe cap
+![](https://i.imgur.com/jK2lJs6.png)
+:::
+
+![](https://i.imgur.com/cH9QBpm.png)
+
+![](https://i.imgur.com/UNj8GN7.png)
+
+![](https://i.imgur.com/uPj9Bso.png)
+
+## Server Update v2.33
+
+- Azi este Vineri 13, și cu această ocazie, am creat un eveniment tematic. În acest roadmap format din 10 niveluri, puteți câștiga diverse premii, de la Fire Coins la o mașină unică Friday13 Fury 2023. Pentru a câștiga mașina, trebuie să completați cele 10 misiuni. Fiecare model de mașină are cinci exemplare în stoc, iar încă 6 mașini, două din fiecare model, vor fi acordate prin tragere la sorți după încheierea evenimentului, pentru jucătorii care au finalizat cele 10 misiuni, dar nu au reușit să obțină mașina din stoc.
+Succes!
+
+**Evenimentul va fi activ pana in data de 15.10.2023 23:59**
+
+![](https://i.imgur.com/a68HKwc.png)
+
+- A fost fixat VIP Animations la gradul de VIP Fury.
+
+## Server Update v2.32
+
+- AdaptiveActionHUD reprezintă un concept nou, un HUD care se adaptează în funcție de acțiunile pe care le desfășurați ca jucător.
+
+- ReactiveMap -> Acesta colorează harta interior în funcție de modificările statisticilor pentru nutriție, hidratare, starea de sănătate și nivelul de armură.
+
+- DynamicTags -> Prin  apăsarea  tastei M, puteți interacționa cu HUD-ul din colțul din dreapta sus pentru a accesa informații legate de timpul rămas în investiție, Daily Pic,  și Fire Coins detinuti, etc..
+
+- A fost adaugata liga Euro - Calificări in FuryBet
+
+![](https://i.imgur.com/WiBjPQ8.png)
+
+## Cars Update
+
+Anumite facțiuni au primit niște mașini noi.
+
+- ANAF acum beneficiază de 4 mașini noi.
+- Smurd acum beneficiază de o mașină cu echipament special de descarcerare/alte urgențe majore.
+- Fury News acum beneficiează de un elicopter pentru reportaje de la înălțime.
+
+![](https://i.imgur.com/aEwV2ok.png)
+
+## Server Updates v2.31
+
+- Jaful de la yacht a fost reechilibrat în următorul mod:
+- S-au adăugat încă 6 cărucioare cu bani.
+- Suma de bani de pe fiecare cărucior a fost redusă.
+- A fost introdus un puzzle format din 3 hack-uri, care trebuie rezolvat înainte de a încărca stick-ul.
+- De asemenea, a fost adaugat un garaj pentru bărci de poliție mai aproape de yacht.
+
+- În cazul Jafului de la banca Pacific, de acum este necesar câte un stick încărcat pentru fiecare laptop utilizat.
+- Anunțurile CNN au acum un cooldown.
+- Funcționalitatea /v chat a fost restricționată și poate fi accesată doar de către utilizatorii VIP FURY și VIP DIAMOND.
+- Pentru toți posesorii de VIP Fury cu inventarul redus, acesta va fi resetat la 90% la conectare.
+- Bugul care cauza o scădere sub 90% în inventarul VIP Fury a fost reparat.
+- A fost adugata comanda /setfreq pentru a va putea seta bind-uri pe anumite frecvente din F8.
+
+Exemplu Bind Frecventa 50 pe tasta numpad 5
+```bind keyboard NUMPAD5 "setfreq 50";```
+
+Exemplu bind pentru a oprii statia
+```bind keyboard NUMPAD0 "setfreq 0";```
+
+## Shop Update 
+
+New VIP - VIP FURY
+
+### NEW FEATURES:
+
+- Forma fizica +100% , aceasta nu scade sub 90%
+- Asigurare pentru FuryBet, in cazul in care biletul este pierdut, primesti inapoi 10% din valoarea pariata.
+- Limita pariu FuryBet 1.500.000$
+- Acces la noul VIP Chat prin comanda /v.
+
+### CLASSIC FEATURES
++150.000$ la achiziționare
++2400$ la fiecare Payday
++25% JOB BOOST
+-45% Impozit Auto
+-35% Impozit Business
+-Comision de retragere 0% 
+-Garderobă extinsă (puteți salva până la 50 de costumații)
+-3 X VIP CAR TICKET
+-Prioritate restock Dealership 16min. ( 1 min fata de VIP DIAMOND )
+-3 X Custom Car Plate
+-Animatii VIP
+-TAG pe joc 
+-Grad pe discord
+-Vei putea scoate 6 vehicule în același timp
+
+Disponibil pe : https://store.furyrp.ro/
+
+![](https://i.imgur.com/sjh3y4T.png)
+
 ## Server Updates v2.3
 
 - A fost adăugat sistemul impozitelor auto, în care impozitul se calculează în funcție de valoarea mașinii din dealership.📢 
