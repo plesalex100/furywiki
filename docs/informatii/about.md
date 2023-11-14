@@ -3,7 +3,7 @@ title: About us
 ---
 
 
-# <p style="text-align: center;">About us</p>
+# <p style="text-align: center;">:fire:About us:fire:</p>
 
 ## Cine suntem noi?
 
