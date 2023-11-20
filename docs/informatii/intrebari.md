@@ -3,18 +3,18 @@ title: Întrebări frecvente
 ---
 
 
-# <center>:question:Q&A:exclamation:</center>
+# <span class="title-font"><center>:question:Q&A:exclamation:</center></span>
 
-Această secțiune este dedicată întrebărilor adresate frecvent staff-ului sau întrebările pe care jucătorii și le adresează înainte de a se decide să începă să joace pe Fury Romania.
+### <span class="title-font"><center> Această secțiune este dedicată întrebărilor adresate frecvent staff-ului sau întrebările pe care jucătorii și le adresează înainte de a se decide să începă să joace pe Fury Romania</center></span>
 
-## Q: Pe ce platformă se află serverul?
+## <span class="header-font">Q: Pe ce platformă se află serverul?</span>
 
 ### A: Serverul se află pe platforma FiveM. Acesta poate fi downloadat accesând următorul link: https://fivem.net
 :::tip Atenție!
 Pentru a juca pe această platformă trebuie să aveți GTA 5 cumpărat.
 :::
 
-## Q: Ce este roleplay-ul?
+## <span class="header-font">Q: Ce este roleplay-ul?</span>
 
 ### A: Roleplay-ul este modul de joc al serverului și reprezintă simularea vieții reale, prin intermediul caracterului tău din joc.
 
@@ -22,15 +22,15 @@ Pentru a juca pe această platformă trebuie să aveți GTA 5 cumpărat.
  Acest mod de joc are în spate niște *[REGULI](https://furyrp.ro/regulament/)* care trebuiesc citite și reținute deoarece respectarea acestora contribuie la buna desfășurare a activităților și interacțiunilor playerilor pe server. 
 :::
 
-## Q: Serverul este Hard RP?
+## <span class="header-font">Q: Serverul este Hard RP?</span>
 
 ### A: Serverul nu are stabilit nivelul de roleplay, însă toate acțiunile trebuiesc făcute la un nivel cât mai înalt de realism și cât mai avansate.
 
-## Q: Trebuie să fac un test introductiv ca să joc pe server?
+## <span class="header-font">Q: Trebuie să fac un test introductiv ca să joc pe server?</span>
 
 ### A: Nu, serverul poate fi jucat de oricine, însă abaterea de la [regulamentul general](/informatii/regulament) va fi sancționată ca atare.
 
-## Q: Ce joburi sunt pe server și câți bani fac de la fiecare?
+## <span class="header-font">Q: Ce joburi sunt pe server și câți bani fac de la fiecare?</span>
 
 ### A: Informațiile legate de fiecare job le puteți găsi pe Wiki la secțiunea **Economie - Joburi legale**.
 
@@ -38,18 +38,18 @@ Pentru a juca pe această platformă trebuie să aveți GTA 5 cumpărat.
 Informații pentru jobul de -> [pescar](/jobs/fisher) <-
 :::
 
-## Q: Cum pot aplica în staff?
+## <span class="header-font">Q: Cum pot aplica în staff?</span>
 
 ### A: Periodic, pe [discord](https://discord.gg/furyro) se vor anunța perioadele în care se pot completa aplicații pentru a intra în staff. În cazul în care nu există o perioadă de aplicare, înseamnă că staff-ul nu are nevoie de noi membri.
 
-## Q: Cum pot aplica în facțiuni?
+## <span class="header-font">Q: Cum pot aplica în facțiuni?</span>
 
 ### A: La fel ca și la staff, se vor anunța perioadele în care se pot completa aplicații pentru a intra în facțiuni. În cazul în care nu există o perioadă de aplicare, înseamnă că facțiunile nu au nevoie de noi membri.
 
-## Q: Îmi pot schimba infățișarea / trăsăturile feței când vreau? 
+## <span class="header-font">Q: Îmi pot schimba infățișarea / trăsăturile feței când vreau? </span>
 
 ### A: Nu, aspectul fizic vi-l puteți face la prima logare pe server, urmând ca acesta să fie nemodificabil, singura modalitate de schimbare fiind ck-ul. De aceea vă recomandăm să aveți grijă la acest aspect.
 
-## Q: Cum îmi creez mafie? 
+## <span class="header-font">Q: Cum îmi creez mafie? </span>
 
 ### A: Crearea unei organizații / mafie se va realiza strict IC.

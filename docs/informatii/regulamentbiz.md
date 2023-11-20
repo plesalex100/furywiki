@@ -2,9 +2,9 @@
 title: Regulament Business
 ---
 
-# <center>REGULAMENT BUSINESS</center>
+# <center><span class="title-font">REGULAMENT BUSINESS</span></center>
 
-## SERVICIUL DE TAXI
+## <span class="header-font">SERVICIUL DE TAXI</span>
 
 - Este interzisă utilizarea oricărui obiect ilegal în timpul desfășurării activității publice.
 - Este interzisă deținerea de obiecte ilegale în inventar sau în mașinile de la business.
@@ -15,7 +15,7 @@ title: Regulament Business
 - Este interzisă solicitarea sau forțarea unui jucător de a plăti o sumă extra celei afișate în telefon.
 
 
-## SERVICIUL DE MECANICI
+## <span class="header-font">SERVICIUL DE MECANICI</span>
 
 - Este interzisă utilizarea oricărui obiect ilegal în timpul desfășurării activității publice.
 - Este interzisă deținerea de obiecte ilegale în inventar sau în mașinile de la business.

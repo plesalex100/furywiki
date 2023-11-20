@@ -17,6 +17,20 @@
   --vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
 }
 
+@font-face {
+  font-family: Conthrax;
+  src: url("/public/Conthrax.ttf") format("truetype");
+}
+
+.title-font {
+  font-family: 'Conthrax';
+}
+
+.header-font {
+  color: orange;
+  font-family: 'Conthrax';
+}
+
 /**
  * Component: Button
  * -------------------------------------------------------------------------- */

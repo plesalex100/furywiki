@@ -2,9 +2,9 @@
 title: Panel
 ---
 
-# <p style="text-align: center;">Cum mă loghez pe [panel](https://panel.furyrp.ro/)?</p>
+# <span class="title-font"><center>Cum mă loghez pe [panel](https://panel.furyrp.ro/)?</center></span>
 
-## Pentru a te loga pe panel trebuie să urmezi pașii următori:
+## <span class="header-font">Pentru a te loga pe panel trebuie să urmezi pașii următori:</span>
 
 ::: details Pasul 1
 Intră pe https://panel.furyrp.ro/ și apasă pe butonul de Log In din partea dreaptă sus.

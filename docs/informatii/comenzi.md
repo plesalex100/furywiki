@@ -3,9 +3,9 @@ title: Comenzi Utile
 ---
 
 
-# <p style="text-align: center;">Comenzi</p>
+# <span class="title-font"><center>Comenzi</center></span>
 
-## Comenzi în chat
+## <span class="header-font">Comenzi în chat</span>
 
 ### /gps
 
@@ -178,13 +178,13 @@ La apăsarea acestei taste caracterul tău va face o animație specifică!
 ### Tasta F11
 - Alege proximitatea voice chat-ului. (partea dreapta jos a ecranului)
 
-## Cum pot modifica un hotkey?
+## <span class="header-font">Cum pot modifica un hotkey?</span>
 
 - Aveți posibilitatea de a schimba orice tastă din joc cu orice altă tastă dorită accesând setările jocului.
 
 **ESC - Settings - Keybinds(apăsați enter pentru a edita o tastă) - FiveM**
 
-## Cum îmi pot seta un bind pentru o anumită comandă?
+## <span class="header-font">Cum îmi pot seta un bind pentru o anumită comandă?</span>
 
 - Aveți posibilitatea de a seta un bind pentru orice comandă din joc prin intermediul unei comenzi scrise in consolă (F8).
 
