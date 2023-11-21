@@ -5,18 +5,18 @@ title: Sala de forță
     import KeyIcon from '../.vitepress/components/KeyIcon.vue'
 </script>
 
-# <p style="text-align: center;">Informații despre sală și progres</p>
+# <span class="title-font"><center>Informații despre sală și progres</center></span>
 
-## Unde găsesc sala?
+## <span class="header-font">Unde găsesc sala?</span>
 
 - Locația sălii de forță poate fi găsită cu ajutorul comenzii [/gps](/informatii/comenzi) și este marcată pe hartă cu un simbol de ganteră.
 :::details Exteriorul sălii
 ![pozaSala](https://i.imgur.com/bsvaZNc.png)
 :::
 
-## Cum îmi crește forța?
+## <span class="header-font">Cum îmi crește forța?</span>
 
-- Pentru început, pentru a începe să lucrezi la sală va trebui să te schimbi în hainele de sală. Acestea pot fi luate de la NPC-ul aflat pe bancă de la intrarea în sală prin apăsarea tastei <KeyIcon keyType="e"/>.
+- <span style="color:white">Pentru început, pentru a începe să lucrezi la sală va trebui să te schimbi în hainele de sală. Acestea pot fi luate de la NPC-ul aflat pe bancă de la intrarea în sală prin apăsarea tastei <KeyIcon keyType="e"/>.</span>
 :::details Schimbarea în haine de sală
 ![haineSalaa](https://i.imgur.com/wPP4Vbp.gif)
 :::
@@ -60,23 +60,19 @@ title: Sala de forță
 :::details Mini-game sală
 ![gif](https://i.imgur.com/H6I6uJB.gif)
 :::
+
  
-## Cum pot accelera progresul la sală?
+## <span class="header-font">Cum pot accelera progresul la sală?</span>
 
 - Progresul poate fi accelerat folosind diferite suplimente. Acestea pot fi cumpărate de la tonomatul din dreapta de la intrarea în sală. Pentru a cumpăra un supliment, trebuie să vă apropiați de tonomat și să apăsați tasta <KeyIcon keyType="e"/>.
 :::details Tonomat suplimente
 ![pozaTonomat1](https://i.imgur.com/v3FeTwA.png)
 :::
-
-## Menținerea progresului
-
-- Maximul de progres pe care îl puteți face în 24 de ore este de 20%. Acesta trebuie menținut prin antrenamente zilnice, altfel progresul va scădea.
-
 ::: warning ATENȚIE!
 - Progresul scade progresiv, mai exact cu 1% pe oră jucată pe server.
 :::
 
-## Cu ce ne ajută sala?
+## <span class="header-font">Cu ce ne ajută sala?</span>
 
 Motivele pentru care este încurajată folosirea sălii sunt:
 - Pentru creșterea capacității de a căra mai multe kg de iteme în [geantă](/general/inventar.html#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri), astfel unele joburi sunt mai ușor de practicat, sunt mai eficiente și se fac mai mulți bani

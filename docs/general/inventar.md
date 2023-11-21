@@ -6,17 +6,20 @@ title: Inventar
 </script>
 
 <!-- https://imgur.com/a/SfMv60W link toate tastele-->
-# <center>Informații despre inventar și interfața acestuia</center>
+# <span class="title-font"><center>Informații despre inventar și interfața acestuia</center></span>
 
-## Cum accesez inventarul ?
+## <span class="header-font">Cum accesez inventarul ?</span>
 
-- Inventarul poate fi deschis sau închis apăsând tasta <KeyIcon keyType="i"/> , respectiv tot tasta <KeyIcon keyType="i"/> sau <KeyIcon keyType="esc"/> / <KeyIcon keyType="backspace"/>.
+:::info Keybind
+- <span style="color:white">Inventarul poate fi deschis sau închis apăsând tasta <KeyIcon keyType="i"/> , respectiv tot tasta <KeyIcon keyType="i"/> sau <KeyIcon keyType="esc"/> / <KeyIcon keyType="backspace"/>.</span>
+:::
 :::details Apasă pentru a vedea interfața inventarului
 - Cam așa ar arăta interfața inventarului:
 ![pozaInventar](https://i.imgur.com/hN0et1X.png)
 :::
 
-## Ce sunt butoanele de la baza inventarului?
+
+## <span class="header-font">Ce sunt butoanele de la baza inventarului?</span>
 
 - Aceste butoane ne oferă posibilitatea de a:
 :::details Vinde itemele altui jucător
@@ -46,48 +49,57 @@ title: Inventar
 ![pozaInventarDrop](https://i.imgur.com/Xm3NEra.png)
 
 
-## Pune/Scoate un obiect vestimentar
+## <span class="header-font">Pune/Scoate un obiect vestimentar</span>
 
 - Ne putem scoate/pune diferite obiecte vestimentare pe care le purtăm cu ajutorul butoanelor din dreapta caracterului.
 
 ![pozaInventarHaine](https://i.imgur.com/5xHwgHl.png)
 
-## Forma fizică
-- Forma fizică se împarte pe 7 levele și cu cât procentul de progress crește, aspectul fizic și mușchii caracterului se vor defini, dar și mai important, numărul de slot-uri și kg de iteme în urma purtării [genții](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) va crește.
+## <span class="header-font">Forma fizică</span>
+:::info
+- <span style="color:white">Forma fizică se împarte pe 7 levele și cu cât procentul de progress crește, aspectul fizic și mușchii caracterului se vor defini, dar și mai important, numărul de slot-uri și kg de iteme în urma purtării [genții](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) va crește.</span>
+:::
 
 ![pozaInventarForma](https://i.imgur.com/ZeqEQqA.png)
 :::tip
 - Progress bar-ul "Formă fizică" poate fi crescut mergând la [sala de forță](./sala) sau lucrând ca [miner](/jobs/miner).
 :::
 
-## Cum folosesc itemele din inventar?
+## <span class="header-font">Cum folosesc itemele din inventar?</span>
 
-- Utilizarea itemelor din inventar se folosesc făcând un drag and drop pe butonul de <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Folosește</span> de la baza inventarului.
-
+:::info
+- <span style="color:white">Utilizarea itemelor din inventar se folosesc făcând un drag and drop pe butonul de <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Folosește</span> de la baza inventarului.</span>
+:::
 :::details Exemplu utilizare item
 ![gifInventarUse](https://i.imgur.com/dfjtIXh.gif)
 :::
 
-## Cum accesez cele 6 quick slot-uri?
+## <span class="header-font">Cum accesez cele 6 quick slot-uri?</span>
 
-- Pentru a accesa itemele poziționate pe unul din cele 6 quick slot-uri, trebuie pur și simplu să apăsați pe tastele <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">1 -> 6</span>, și ca să vedeți ce iteme aveți pe fiecare slot apăsați tasta <KeyIcon keyType="tab"/>.
+:::info
+- <span style="color:white">Pentru a accesa itemele poziționate pe unul din cele 6 quick slot-uri, trebuie pur și simplu să apăsați pe tastele <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">1 -> 6</span>, și ca să vedeți ce iteme aveți pe fiecare slot apăsați tasta <KeyIcon keyType="tab"/>.</span>
+:::
 :::details Exemplu utilizare quick slot
 ![gifInventarSlots](https://i.imgur.com/Tpb5fzy.gif)
 :::
 
-## Numărul de kg de iteme care pot fi cărate 
+## <span class="header-font">Numărul de kg de iteme care pot fi cărate</span>
 
-- Indiferent de forma fizică, numărul de kg de iteme care pot fi cărate fără a folosi o [geantă](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) este de **10kg**.
+:::info
+- <span style="color:white">Indiferent de forma fizică, numărul de kg de iteme care pot fi cărate fără a folosi o [geantă](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) este de **10kg**.</span>
 
 ![pozaInventarKg](https://i.imgur.com/FBTN8iR.png)
+:::
 
-## Utilizarea genților pentru a mări numărul de slot-uri
+## <span class="header-font">Utilizarea genților pentru a mări numărul de slot-uri</span>
 
-- Gențile pot fi achiziționate de la orice [magazin](/proprietati/magazine) (în limita stocului disponibil) și ajută la creșterea numărului de slot-uri ale inventarului, dar și al numărului de kg de iteme care pot fi cărate. 
+:::info
+- <span style="color:white"> Gențile pot fi achiziționate de la orice [magazin](/proprietati/magazine) (în limita stocului disponibil) și ajută la creșterea numărului de slot-uri ale inventarului, dar și al numărului de kg de iteme care pot fi cărate. </span>
 
-- De reținut este că numărul de sloturi și kg pe care o geantă le adaugă variază în funcție de forma [fizică](#forma-fizica).
+- <span style="color:white">De reținut este că numărul de sloturi și kg pe care o geantă le adaugă variază în funcție de forma [fizică](#forma-fizica).</span>
 
-Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **20kg**, iar cu *100%* este de **80kg**.
+<span style="color:white">Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **20kg**, iar cu *100%* este de **80kg**.</span>
+:::
 
 :::details Extindere inventar FORMA FIZICĂ 0
 ![gifInventarGeanta0](https://i.imgur.com/wslJsgp.gif)
@@ -97,35 +109,40 @@ Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **
 ![gifInventarGeanta100](https://i.imgur.com/Ry1xAWY.gif)
 :::
 
-- Pentru a scoate geanta, apăsați pe butonul cu logo de ghiozdan din dreapta jos.
+:::info
+- <span style="color:red">Pentru a scoate geanta, apăsați pe butonul cu logo de ghiozdan din dreapta jos.</span>
 
 ![pozaInventarUneqGeanta](https://i.imgur.com/vGZ9Ont.png)
+:::
 
-## Crafting
+## <span class="header-font">Crafting</span>
 
-- De asemenea, puteți folosi butonul de lângă cel de dezechipare geantă pentru a crafta diferite obiecte cum ar fi bandaje, pentru a monta undițe cu diferite monturi, etc
+:::info
+- <span style="color:white">De asemenea, puteți folosi butonul de lângă cel de dezechipare geantă pentru a crafta diferite obiecte cum ar fi bandaje, pentru a monta undițe cu diferite monturi, etc</span>
 
 ![](https://i.imgur.com/Pn6EhWx.png)
-
+:::
 :::details Exemplu de iteme care pot fi craftate/montate
 ![](https://i.imgur.com/i2OGjD2.png)
 :::
 
-## Folosirea shortcut-urilor
+## <span class="header-font">Folosirea shortcut-urilor</span>
 
 Există 2 shortcut-uri care pot fi folosite:
 
-### Ctrl + Click
+### <span class="title-font">Ctrl + Click</span>
 - Înlocuirea funcției de "Folosește" a itemelor din inventar.
 :::details Folosirea shortcut-ului Ctrl + Click
 ![gifInventarCtrlClick](https://i.imgur.com/SdtR0Ft.gif)
 :::
 
-### Shift + Click
+### <span class="title-font">Shift + Click</span>
 - Mută itemele din inventar în portbagaj/geantă/cufăr sau invers mai rapid.
 
-## Accesarea portbagajului
+## <span class="header-font">Accesarea portbagajului</span>
 
-- Accesarea portbagajului se face prin poziționarea caracterului în fața portbagajului și apăsarea tastei <KeyIcon keyType="i"/> pentru a-l putea utiliza.
-- Este recomandată folosirea shortcut-ului [shift + click](#shift-click)
+:::info
+- <span style="color:white">Accesarea portbagajului se face prin poziționarea caracterului în fața portbagajului și apăsarea tastei <KeyIcon keyType="i"/> pentru a-l putea utiliza.</span>
+- <span style="color:white">Este recomandată folosirea shortcut-ului <span style="color:red">[shift + click](#shift-click)</span></span>
 ![gifPortbagaj](https://i.imgur.com/gjhDkxg.gif)
+:::

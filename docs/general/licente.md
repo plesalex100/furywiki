@@ -3,19 +3,21 @@ title: Biroul de licențe
 ---
 
 
-# <center>Informații despre licențe</center>
+# <span class="title-font"><center>Informații despre licențe</center></span>
 
-## Unde se află biroul de licențe?
+## <span class="header-font">Unde se află biroul de licențe?</span>
 
 - Locația biroului de licențe poate fi găsită la intrarea în primărie (NPC-ul din dreapta după ce intrați).
 
-## Ce sunt licențele?
+## <span class="header-font">Ce sunt licențele?</span>
 
-- Licențele sunt documente care atestă faptul că dețineți cunoștințele necesare pentru a practica un anumit job.
+:::info
+- <span style="color:white">Licențele sunt documente care atestă faptul că dețineți cunoștințele necesare pentru a practica un anumit job.</span>
 
-- Licențele sunt necesare pentru a putea practica legal anumite joburi.
+- <span style="color:white">Licențele sunt necesare pentru a putea practica legal anumite joburi.</span>
+:::
 
-## Cum îmi cumpăr o licență?
+## <span class="header-font">Cum îmi cumpăr o licență?</span>
 
 - Pentru a achiziționa o licență, trebuie să vorbiți cu agentul de la biroul de licențe.
 
@@ -23,15 +25,15 @@ title: Biroul de licențe
 
 | Tip licență          | Preț achiziționare |
 | -------------------  | :-----------------:|
-| Pescar               |    $200            |
-| Electrician          |    $200            |
-| Miner                |    $5400           |
-| Tirist               |    $10000          |
-| Petrolist            |    $13500          |
+| Pescar               |    $260            |
+| Electrician          |    $260            |
+| Miner                |    $15000          |
+| Tirist               |    $13000          |
+| Petrolist            |    $17000          |
 | Vânător              |    $16500          |
-| Pilot                |    $20000          |
-| Stivuitorist         |    $11000          |
-| Tăietor de lemne     |    $15000          |
+| Pilot                |    $25000          |
+| Stivuitorist         |    $14500          |
+| Tăietor de lemne     |    $19500          |
 
 :::warning Atenție!
 Valabilitatea unei licențe este de 7 zile din momentul achiziționării.

@@ -3,9 +3,9 @@ title: "Asigurare medicală"
 ---
 
 
-# <center>Informații despre asigurarea medicală</center>
+# <span class="title-font"><center>Informații despre asigurarea medicală</center></span>
 
-## De unde achiziționez asigurarea medicală?
+## <span class="header-font">De unde achiziționez asigurarea medicală?</span>
 
 - Aceasta poate fi cumpărată prin intermediul [aplicației dedicate de pe telefon](telefon.html#aplicatia-asigurare-medicala) "Asigurare Medicală" și este valabilă 7 zile.
 
@@ -35,11 +35,12 @@ Exemplu:
 
 - Se recomandă achiziționarea Asigurării Medicale deoarece, pe termen lung, este mai avantajoasă.   
 
-## De ce este important să fim asigurați medical?
+## <span class="header-font">De ce este important să fim asigurați medical?</span>
 
-- Principalul motiv este că, în cazul în care suntem răniți, putem apela la serviciile medicale fără a plăti o sumă de bani.
-
-- În cazul în care nu suntem asigurați, veți taxat cu o sumă de bani.
+:::info
+- <span style="color:white">Principalul motiv este că, în cazul în care suntem răniți, putem apela la serviciile medicale fără a plăti o sumă de bani.</span>
+- <span style="color:white">În cazul în care nu suntem asigurați, veți taxat cu o sumă de bani.</span>
+:::
 
 :::tip TIP!
 - Prețul unul revive fără asigurare este de $500.
