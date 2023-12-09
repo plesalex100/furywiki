@@ -4,6 +4,107 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.46
+
+#### HEIST PORT
+
+- A fost creat un nou HEIST.
+- Funcționalitate: Pentru a declanșa jaful, este necesar să găsiți locația de unde începe heist-ul. Odată ce ați pornit în raza voastră marcată pe hartă, vor apărea 17 containere. Una dintre acele containere conține locația pe care trebuie să o atacați. Poliția primește detalii cu privire la locație în momentul în care declanșați jaf-ul de la prima locație.
+Pentru acest jaf aveți nevoie de un flex.
+ 
+![](https://media.discordapp.net/attachments/1020115777917042718/1182782629305667786/new_heist.png?ex=6585f329&is=65737e29&hm=e9766f73ac688deb98f24d491fb1197de86a47983bebe949d303c22a52760b21&=&format=webp&quality=lossless&width=536&height=671)
+
+#### DESIGNER BAGS 
+
+- A fost creat un nou magazin de genți
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1182782628747812894/designer_bags.png?ex=6585f329&is=65737e29&hm=01710b2febee5c6f0462df6da0eb94f18d8a8c5b3a149bfa5e0da20382ef0e21&=&format=webp&quality=lossless&width=536&height=671)
+
+#### Job: Muncitor la Cariera
+
+- A fost creat un nou job Muncitor la Cariera
+- Funcționalitate: Acest job vă oferă posibilitatea de a obține mai multe materiale decat in cazul job-ului de miner deja existent.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1182782629850910800/new_job.png?ex=6585f329&is=65737e29&hm=cb9740730b1ea89ad77a7c4a5e1097f0f59332e81a972f3c34f10c9679e8e6e3&=&format=webp&quality=lossless&width=536&height=671)
+
+#### ARME
+
+- Au fost readugate in crafting armele vechi, datorita procentului de 56,4% dintre voi care ati dorit combinarea pack-ului vechi de arme cu cel nou. Precizam ca s-au facut modificari de balansare a armelor incat sa nu existe discrepante de avantaje.
+- Procentul de preferinta dintre pack-ul vechi si cel nou este egal asa ca am luat decizia de a lasa ambele pack-uri.
+- Arma Sawnoff a fost scoasa din crafting
+- Arma Pump Shotgun a fost scoasa din loadout politie.
+
+- Jaful de la Yacht a fost scos.
+
+## Server Update v2.45
+
+- Au fost adăugate un set de arme noi, cu care noi dorim să implementăm un sistem nou de META pentru arme.
+![](https://media.discordapp.net/attachments/1020115777917042718/1182347099283660860/image.png?ex=65845d8b&is=6571e88b&hm=30fdcbdde776a06bd87c3d6321388b836d3171fd2a4ff0cd84b62bddb5dc1287&=&format=webp&quality=lossless&width=618&height=671)
+![](https://media.discordapp.net/attachments/1020115777917042718/1182347099661160508/image.png?ex=65845d8b&is=6571e88b&hm=2a6df700d751326ea2f5cd232a6abad80026d26f98d4e85024dfabe2ffcecc37&=&format=webp&quality=lossless&width=514&height=671)
+:::info
+- Menționăm că armele vechi sunt încă utilizabile, dar nu mai pot fi craftate.
+:::
+- S-a adaugat o locatie de Dezasamblare Arme accesibila si civililor, unde puteti schimba armele deja craftate pe materii prime.
+- A fost rezolvată problema pierderii afacerilor la restart.
+- Au fost remediate câteva probleme legate de genți, iar sistemul este pregătit pentru un update.
+
+## Server Update v2.44
+
+- Texturile genților au fost modificate.
+- Prețurile genților au fost ajustate.
+- De acum, la fiecare PK, geanta se șterge, la fel ca și în cazul inventarelor.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1179270642932129872/update.png?ex=65792c5f&is=6566b75f&hm=e22b6ff0f56fb1dffca21478efd6540020e03b7dad3e7ee02d1891279e7bfa02&=&format=webp&quality=lossless&width=880&height=330)
+
+## Server Update v2.43
+
+- A fost adaugat VIP JOB BOOST la livrearea ilegalelor.
+- Au fost adaugate tatuajele mafiilor pe versiunea principala.
+- A fost adaugat Meniu Sindicat - > Taxeaza, de acum orice taxa se da, amenda sau  orice bani vin catre sindicat se dau din acest meniu. Oirce plata pe langa se va considera neconforma.
+
+## Server Update v2.42
+
+### Custom Tattoos
+
+- Un nou sistem prin care încurajăm dezvoltarea identificării unor jucători pe baza tatuajelor, momentan în varianta de test strict pentru Mafii.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1177095156730703964/custom_tattoos.png?ex=6571424a&is=655ecd4a&hm=ef177c3407bf4c8623f0c41fd1cc81db717a176c74377fbc69cf698efa771660&=&format=webp&quality=lossless&width=671&height=671)
+
+### AdaptiveRoutes - Sistem de livrări
+
+De ce adaptiv?🤔 
+- Pentru că de acum veți putea să alegeți zona în care doriți să livrați și tipul de drog dorit.
+- Totul creat pe baza unui sistem dinamic bazat pe cerere și ofertă. Mai exact, cu cât va fi livrat o perioadă mai lungă un tip de drog pe o anumită zonă, prețul acestui drog va scădea pe zona respectivă, urmând ca el să crească într-un anumit interval stabilit pe zi.
+- În partea stângă a UI-ului interactiv, în control board, aveți reprezentat sub forma de level cererea/drog și prețul estimativ dacă alegeți să livrați cantitate mare sau mică. Acest lucru vă oferă posibilitatea să primiți comenzi mai rapide sau mai lente. Sub acest control board aveți media cererii drogurilor pe o zonă.
+- Pentru a incepe livrarea este ncesara gasirea Ped-ului de activare care va genereaza un cod valabil pana la ora 00:00
+
+- Acest sistem vă oferă posibilitatea să vă stabiliți singuri prețul produsului livrat în funcție de concurența de piață, crescând astfel interacțiunea celor care dețin zona și a celor care o folosesc pentru livrat.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1177095157368234004/drug_delivery.png?ex=6571424a&is=655ecd4a&hm=31d7259ab617a444c37343657a180bb99883e1ba655b231fb3050aae8b8c265a&=&format=webp&quality=lossless&width=1193&height=671)
+
+### Bank Transport
+
+- Premiul a fost mărit de la 500.000$ - 600.000$ la 900.000$ - 1.000.000$ /transport.
+
+### Other Bugs and Fixes
+
+- Au fost rezolvate mai multe bug-uri minore care afectau calitatea jocului.
+
+## Server Update v2.41
+
+- Am efectuat o actualizare semnificativă asupra modulelor și pașilor necesari pentru Yacht Heist:
+
+- A fost introdus un pas suplimentar înainte de declanșarea jafului, constând în identificarea și contactarea unui informator specializat. 
+- Acest informator vă va furniza un cod de acces esențial pentru decriptarea datelor de pe computerul țintă. Fără acest cod, realizarea jafului devine imposibilă.
+
+- Vă avertizăm, totodată, că poliția poate să încerce să intercepteze întâlnirea cu informatorul, sporind astfel gradul de dificultate.
+
+## Server Update v2.40
+
+- A fost reparat Dealership-ul AUTO.
+- A fost rescris și reparat sistemul de jefuire al ATM-urilor.
+- A fost reparată problema prin care anumite business-uri nu puteau spăla bani.
+
 ## Cars Update
 
 Urmatoarele masini au fost adaugate in dealership:

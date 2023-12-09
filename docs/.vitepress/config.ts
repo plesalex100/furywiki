@@ -98,7 +98,8 @@ export default defineConfig({
               { text: "Vânător", link: '/jobs/hunter' },
               { text: "Pilot", link: '/jobs/pilot' },
               { text: "Scafandru", link: '/jobs/diver' },
-              { text:"Pescar Oceanic", link: '/jobs/fisherv2' }
+              { text:"Pescar Oceanic", link: '/jobs/fisherv2' },
+              { text:"Muncitor la Carieră", link: '/jobs/minerv2' }
             ]
           },
           { text: 'Activități ilegale', link: '/jobs/ilegale' },
