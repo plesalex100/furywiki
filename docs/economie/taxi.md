@@ -14,9 +14,16 @@ title: Firmă de taxi
 
 ![](https://i.imgur.com/lbGG8xm.png)
 
+- În caz că aveți nevoie de servicii de taxi / din orice alt motiv aveți nevoie de un taxi puteți face apel folosind [telefonul](/general/telefon.html).
+
+:::tip Apelare șofer responsabil de cursa dvs
+- Dacă doriți să apelați șoferul care v-a preluat cursa, folosiți butonul predestinat pe pagina de formare a unui număr.
+![](https://i.imgur.com/mV3y7Ct.png)
+:::
+
 ## Cum îmi pot înființa un business de acest fel?
 
-- to do
+- IC
 
 ## Cum îmi pot administra afacerea?
 

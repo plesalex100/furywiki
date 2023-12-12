@@ -11,6 +11,13 @@ title: Poliția Fury
 
 - Poliția orașului Fury se ocupă cu menținerea ordinii și siguranței în oraș, prin aplicarea legilor și pedepsirea celor care le încalcă, dar și cu investigarea și rezolvarea cazurilor de crimă, furt, viol, etc.
 
+- În caz că vă simțiți în pericol / din orice alt motiv aveți nevoie de un echipaj de poliție puteți face apel folosind [telefonul](/general/telefon.html).
+
+:::tip Apelare Agent responsabil de speța dvs
+- Dacă doriți să apelați agentul care v-a preluat cazul, folosiți butonul predestinat pe pagina de formare a unui număr.
+![](https://i.imgur.com/mV3y7Ct.png)
+:::
+
 ## Structură
 
 ### Corp Conducere:

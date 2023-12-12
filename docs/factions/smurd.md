@@ -9,6 +9,13 @@ title: Smurd
 ## Cu ce ne ocupăm?
 - Departamentul Medical al orașului se ocupă cu îngrijirea și salvarea vieților cetățenilor din Los Santos.
 
+- În caz că vă simțiți rău / din orice alt motiv aveți nevoie de un medic puteți face apel folosind [telefonul](/general/telefon.html).
+
+:::tip Apelare medic responsabil de cazul dvs
+- Dacă doriți să apelați medicul care v-a preluat cazul, folosiți butonul predestinat pe pagina de formare a unui număr.
+![](https://i.imgur.com/mV3y7Ct.png)
+:::
+
 ## Structură
 
 #### Director Spital ( Lider ) 

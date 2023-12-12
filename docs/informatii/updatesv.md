@@ -4,6 +4,36 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.47
+
+#### ADAPTIVE CAR TRACTION SYSTEM
+
+- Acest sistem vă permite să utilizați orice tip de mașină pe orice suprafață.
+- Scriptul detectează suprafața pe care mașina rulează și adaptează în timp real manevrabilitatea mașinii în funcție de clasa și tipul de drum pe care aceasta se deplasează.
+- Odată cu aceast update, menționăm că vom opri timp de 24 de ore zapada, facilitând testarea adaptabilității pe condiții normale, deoarece zăpada afectează mai tare tracțiunea mașinii.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1184014563583209482/car_traction.png?ex=658a6e7d&is=6577f97d&hm=d4318e60142f2b975bd209dafdbd57b9389d3bf00f86cadb1edc0208447864b9&=&format=webp&quality=lossless&width=671&height=671)
+
+#### CONFISCARE PERMIS AUTO
+
+- A fost implementat sistemul de confiscare a permiselor de conducere de către polițiști. Acest sistem permite confiscarea pe o durată de 1-12 ore jucate, timp în care nu veți putea conduce. Aceasta facilitează acțiunea pentru firmele de taxi.
+- După expirarea perioadei de confiscare, tot ce trebuie să faceți este să mergeți la secție pentru a vă recupera permisul și a putea conduce din nou. 
+
+#### FUNCTIE TELEFON
+
+- De acum aveti posibilitatea de a suna mecanicul/politistul/medicul/taximetristul care a preluat apelul.
+- Aceasta functie este disponibila in Telefon, in dial panel.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1184014563172159549/callback.png?ex=658a6e7d&is=6577f97d&hm=60e0a3b387e90c157316953e108a964ef6ef82b7e789c72fb64f6e3d69e7f091&=&format=webp&quality=lossless&width=334&height=671)
+
+#### BK2 
+
+- De acum politistilor le va aparea in chat numele medicului care a preluat notificarea.
+
+#### BONUS APEL - SMURD & POLITIE
+
+- Pentru a facilita preluarea apelurilor la distanta, am descis implementarea unui sistem de BONUS care acorda o plata extra apelurilor in functie de Km parcursi pana la locatia apelului.
+
 ## Server Update v2.46
 
 #### HEIST PORT

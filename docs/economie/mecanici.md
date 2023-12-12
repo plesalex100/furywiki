@@ -14,9 +14,16 @@ title: Service Auto
 
 ![](https://i.imgur.com/IQ5gGGz.png)
 
+- În caz că aveți nevoie de servicii de mecanică auto-moto / din orice alt motiv aveți nevoie de un mecanic puteți face apel folosind [telefonul](/general/telefon.html).
+
+:::tip Apelare mecanic responsabil de cazul dvs
+- Dacă doriți să apelați mecanicul care v-a preluat solicitarea, folosiți butonul predestinat pe pagina de formare a unui număr.
+![](https://i.imgur.com/mV3y7Ct.png)
+:::
+
 ## Cum îmi pot înființa un business de acest fel?
 
-- to do
+- **IC**
 
 ## Cum îmi pot administra afacerea?
 
