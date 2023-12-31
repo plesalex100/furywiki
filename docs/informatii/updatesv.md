@@ -4,6 +4,81 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Cars Update
+
+- Urmatoarele masini vor fi disponibile de azi 28.12.2023 ora 20:30 in Dealership.
+
+### Porsche Taycan Turbo S
+### Lamborghini Revuelto
+### Jeep Grand Cherokee Trackhawk
+### Alfa Romeo Giulia
+### Koenigsegg Gemera
+### Ford Ranger Raptor
+### Dodge Durango
+### Chevrolet Chevelle
+### Chevrolet Impala
+### Koenigsegg Agera
+### BMW X6 2012
+### Ferrari 812 Competizione
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1189800538716524574/masini-up.png?ex=659f7b19&is=658d0619&hm=a62ceaa44fa8fb245717e12ce377397ec3022db73baf106053cd573ac674df33&)
+
+## Server Update v2.51
+
+- Transportul de bani a fost revizuit.
+- A fost rezolvata problema disparitiei checkpoint-ului de a planta bomba.
+- De acum inainte, in cazul in care NPC-ul responsabil de transport este omorat, politistii pot finaliza transportul.
+
+## Server Update v2.50
+
+- De acum gradele mai mari decat Comisar pot edita rapoartele din MDT.
+- A fost adaugat tonomat pentru apa/mancare in sectia de politie/spital accesibil doar de catre politisti/medici.
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1189018077740937216/image.png?ex=659ca260&is=658a2d60&hm=c005baf9766a88cf9d6f6d1a301572a552cc29cd31e4777c705c6079ac6ee117&)
+
+## Server Update v2.49
+
+### ⛄ SNOWBALL ARENA⛄ 
+
+- În Legion Square a fost creată arena de luptă cu bulgări de zăpadă, cu modul de joc deathmatch. Cu fiecare eliminare, devii mai puternic având +2HP.
+- Luptă cu alți jucători și obține obiecte pentru a-ți decora bradul de Crăciun.
+- Intră în cursă pentru a câștiga VIP Fury, VIP Diamond sau VIP Gold în funcție de locul pe care îl deții în clasamentul celor mai buni snowball fighters de pe panel. 
+
+### 🎅 DEVINO MOȘ CRĂCIUNUL UNUI JUCĂTOR🎅 
+
+- În fiecare zi, la prima conectare, poți oferi unui jucător marcat pe hartă un cadou. În schimbul acestui dar, primești și tu, la rândul tău, un cadou. 
+
+### 🎄 IMPODOBEȘTE BRADUL🎄 
+
+- Împodobește bradul cu obiectele câștigate la Snowball Arena; bradul se impodobește în zece nivele, fiecare nivel oferindu-ți premii în bani sau fire coins.
+- Cumpără bradul de la magazin și așează-l pe jos.
+- La fiecare 12 ore, poți avansa un nivel și poți câștiga premii mai mari. 
+
+### 🗺️ MAPPING CRACIUN🗺️ 
+
+- Zonele des populate au fost decorate cu obiecte custom specifice Craciunului.
+:::danger !
+Multumim pentru ajutor : zad, Claudiu, mëdeea, Chockapick
+:::
+
+### GIFT OPENING
+- In fiecare zi primesti un cadou in Legion Square, deschide cadoul si castiga premii.
+
+### COLINDA CASELE
+- Poti colinda casele pentru a primi dulciuri pe care le poti vinde elfilor in Legion Square.
+
+:::danger !
+- VEHICULE CUSTOM XMAS 2023 - Disponibile in GIFT OPENING
+- Multumim pentru ajutor: Luci, Găbel 
+:::
+
+## Server Update v2.48
+
+- A fost rezolvat bug-ul referitor la dispariția unor genți la relog și apariția unor genți negre în inventar.
+- A fost reparat bug-ul prin care nu puteați transfera minereurile în Rubble.
+- A fost reparat un bug la sistemul de confiscare a permiselor.
+
+- De acum înainte, armele vechi nu mai pot fi echipate; a fost setat damage-ul discutat la ședință, precum și recoil-ul armelor.
+
 ## Server Update v2.47
 
 #### ADAPTIVE CAR TRACTION SYSTEM
