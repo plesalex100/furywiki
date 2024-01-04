@@ -5,6 +5,10 @@ title: Magazine
 
 # <center>Informații despre funcționarea magazinelor, achiziționare ca proprietate și administrare</center>
 
+## Angajare - Business Activity pe telefon
+
+- Pentru a vă găsi mai repede angajați, aveți la dispoziție pe telefon o aplicație dedicată acestui lucru. Mai multe detalii le puteți găsi -> [aici](/general/telefon.html#aplicatia-business-activity) <-
+
 ## Ce pot cumpăra de la magazin ?
 
 Există mai multe categorii de unde putem cumpăra diferite obiecte:

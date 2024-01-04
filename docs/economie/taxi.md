@@ -21,9 +21,14 @@ title: Firmă de taxi
 ![](https://i.imgur.com/mV3y7Ct.png)
 :::
 
+
 ## Cum îmi pot înființa un business de acest fel?
 
 - IC
+
+## Angajare - Business Activity pe telefon
+
+- Pentru a vă găsi mai repede angajați, aveți la dispoziție pe telefon o aplicație dedicată acestui lucru. Mai multe detalii le puteți găsi -> [aici](/general/telefon.html#aplicatia-business-activity) <-
 
 ## Cum îmi pot administra afacerea?
 

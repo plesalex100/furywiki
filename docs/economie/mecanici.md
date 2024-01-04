@@ -25,9 +25,15 @@ title: Service Auto
 
 - **IC**
 
+## Angajare - Business Activity pe telefon
+
+- Pentru a vă găsi mai repede angajați, aveți la dispoziție pe telefon o aplicație dedicată acestui lucru. Mai multe detalii le puteți găsi -> [aici](/general/telefon.html#aplicatia-business-activity) <-
+
 ## Cum îmi pot administra afacerea?
 
-- Pentru a accesa meniul de administrare a afacerii, trebuie să intri în meniul principal (tasta <KeyIcon keyType="k"/> ) -> Business. Aici vă vor apărea mai multe opțiuni:
+- Pentru a accesa meniul de administrare a afacerii, trebuie să intri în meniul principal (tasta <KeyIcon keyType="k"/> ) -> Business. 
+
+- Aici vă vor apărea mai multe opțiuni:
 
 ![](https://i.imgur.com/zntNOiY.png)
 

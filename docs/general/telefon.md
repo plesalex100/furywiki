@@ -18,9 +18,10 @@ title: Telefon
 ## <span class="header-font">Ce reprezintă fiecare aplicație?</span>
 
 :::info Interfață
-- <span style="color:white">Aceasta este intefața telefonului:</span>
 
-![](https://i.imgur.com/dAVz9a1.png)
+#### <span style="color:white">Intefața telefonului:</span>
+
+![](https://i.imgur.com/wO0p0Wq.png)
 
 - <span style="color:white">În partea de jos a telefonului, avem 4 aplicații care se presupun a fi utilizate cel mai des:</span>
 :::
@@ -235,3 +236,14 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 :::tip
 - Dacă biletul este câștigător, apăsați după finalul tuturor meciulor pe butonul "Verifică biletul".
 :::
+
+### <span class="header-font">Aplicația "Business Activity"</span>
+
+:::info
+- <span style="color:white">Acest sistem vă creează posibilitatea de a interacâiona direct cu patronii firmelor de pe server.</span>
+- <span style="color:white">Va oferă șansa de a vă putea angaja mai rapid la firmele de mecannici/taxi.</span>
+- <span style="color:white">Va arată necesarul de combustibil al benzinariilor și locația lor și facilitează alimentarea lor mai rapidă.</span>
+- <span style="color:white">Magazinele, locația lor și necesarul de produse de care magazinul are nevoie.</span>
+:::
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1192427319911010304/image.png?ex=65a9097b&is=6596947b&hm=f4dd4a06a2b702dfdab48eb80fdfa5e43de16f130a0462883ae226b8fc47a5c4&)

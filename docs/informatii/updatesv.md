@@ -4,6 +4,24 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.52
+
+### Fury Activities
+
+- Acest sistem va creeaza posibilitatea de a interactiona direct cu patronii firmelor de pe server.
+- Va ofera sansa de a va putea angaja mai rapid la firmele de mecannici/taxi.
+- Va arata necesarul de combustibil al benzinariilor si locatia lor si faciliteaza alimentarea lor mai rapida.
+- Magazinele, locatia lor si necesarul de produse de care magazinul are nevoie.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1192427320489803827/image.png?ex=65a9097b&is=6596947b&hm=e6ab722242f4791cd97e1205c124ec9330065d0d9d4000130201ac168e665858&=&format=webp&quality=lossless&width=326&height=671)
+![](https://media.discordapp.net/attachments/1020115777917042718/1192427319911010304/image.png?ex=65a9097b&is=6596947b&hm=f4dd4a06a2b702dfdab48eb80fdfa5e43de16f130a0462883ae226b8fc47a5c4&=&format=webp&quality=lossless&width=1249&height=671)
+
+### UI Store
+
+- A fost modificat UI-ul pentru o mobilitate mai usoara in K -> Shop
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1192427321223819284/image.png?ex=65a9097b&is=6596947b&hm=0e2cf53d621645a6f7967c83dcd069231d08fbf7eb9b1ce8b3336909167374ee&=&format=webp&quality=lossless&width=1249&height=671)
+
 ## Cars Update
 
 - Urmatoarele masini vor fi disponibile de azi 28.12.2023 ora 20:30 in Dealership.

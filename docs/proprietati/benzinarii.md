@@ -11,6 +11,10 @@ Metodele prin care bezinăriile pot fi achiziționate sunt:
 - Prin intermediul [licitațiilor](auction) organizate de către primărie/alți deținători de benzinării
 - De la alți jucători
 
+## Angajare - Business Activity pe telefon
+
+- Pentru a vă găsi mai repede angajați, aveți la dispoziție pe telefon o aplicație dedicată acestui lucru. Mai multe detalii le puteți găsi -> [aici](/general/telefon.html#aplicatia-business-activity) <-
+
 ## Cum se administrează o benzinărie?
 
 ![](https://i.imgur.com/5kS5v6L.png)
