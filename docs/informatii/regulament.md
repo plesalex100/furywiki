@@ -30,17 +30,20 @@ title: Regulament General
 
 ### <span class="header-font">1.04 Out of Character (OOC) </span>
 - Reprezintă momentul când ieșiți din ”pielea personajului” din joc, raportându-vă la viața reală.
-- Este permis doar când aveți **aprobarea unui membru staff, la ticket**.
-- Este **strict interzis** să folosiți informații aflate OOC pentru a obține un avantaj IC.
+- Este permis doar când aveți aprobarea unui membru staff, la ticket.
+- Este strict interzis să folosiți informații aflate OOC pentru a obține un avantaj IC.
+:::danger ATENȚIE!
+- Este strict interzis să folosiți referințe OOC în IC: “Chem pizza”, “fac bon/fac d’ăla”, sau orice alt tip de mesaje ce face referire la OOC. 
+:::
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.05 No Fear (NF) </span>
 - Reprezintă momentul în care un jucător **nu simulează frica** într-o situație Roleplay
 ::: info Exemple
-Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
+- Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
 
-Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
+- Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
 :::
 
 <hr style="transform: translateY(10px)"/>
@@ -56,9 +59,9 @@ Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
 ### <span class="header-font">1.07 Power Gaming (PG) </span>
 - Reprezintă momentul în care **simulați** folosirea unor **puteri supranaturale**, cat si neoferirea de sanse egale in RP.
 ::: info Exemple
-Folosirea informațiilor auzite cât timp ați fost în comă.
+- Folosirea informațiilor auzite cât timp ați fost în comă.
 
-Folosirea telefonul/stației radio atunci când ele au fost confiscate.
+- Folosirea telefonul/stației radio atunci când ele au fost confiscate.
 :::
 
 <hr style="transform: translateY(10px)"/>
@@ -66,17 +69,20 @@ Folosirea telefonul/stației radio atunci când ele au fost confiscate.
 ### <span class="header-font">1.08 Meta Gaming (MG)</span>
 - Reprezintă momentul în care un jucător folosește informații aflate **Out of Character**(OOC) într-o situație **In Character**.
 ::: info Exemplu
-În timp ce Ionescu este jefuit îi dă partajare pe discord prietenului său Popescu, acesta din urmă vine la respectiva locație
+- În timp ce Ionescu este jefuit îi dă partajare pe discord prietenului său Popescu, acesta din urmă vine la respectiva locație
 și omoară jefuitorul. 
+:::
+:::danger Exemplu 2
+- Recunoastrea mafiotilor dupa armele specifice lor de catre Civili sau alti mafioti ( M9 / Beryl / Hera / DB / Navy / MG / Shotgun / Gusenberg etc)
 :::
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.09 Condusul Non Roleplay</span>
-- Reprezintă un **stil de condus nerealist**, pe care nu l-ați aborda niciodată în viața reală.
-- Nu este permis să conduceți **off-road** vehiculele ce **nu sunt proiectate pentru un teren accidentat**, drept urmare mașinile
-super-sport (cu garda joasa) nu trebuie să fie conduse pe un drum foarte accidentat. 
-- De asemenea, nu aveți voie să faceți sărituri de pe munți, de pe rampe.
+- Nu aveți voie să faceți sărituri de pe munți, de pe rampe.
+- Nu aveti voie sa circulati cu mai mult de 200 kph pe drumurile din interiorul Los Santos, Sandy Shores, Paleto, Dusty, Grapeseed, decat daca aveti un motiv IC bine intemeiat.
+- Nu aveti voie sa circulati pe contrasens pe autostrada sau pe artere circulate des fara un motiv IC bine intemeiat. (Iesire port garaj industrial, Centrul Los Santos, Zona Fleeca Centrala etc.
+- Nu aveti voie sa ocoliti speedbump-urile decat cu un motiv IC bine intemeiat.
 ::: info Exemplu
 Condusul unei mașini de super sport ( cu garda joasă ) pe un drum neasfaltat.
 :::
@@ -141,7 +147,9 @@ Se va primi CK atunci:
 ### <span class="header-font">1.16 Roleplay Scarbos</span>
 - Reprezintă **totalitatea roleplay-urile ce conțin o scenă sexuală**, incluzând (violul, necrofilia, pedofilismul, canibalismul). Pentru a putea face acest tip de Roleplay aveți nevoie de **aprobarea pe chat-ul OOC** a persoanei sau persoanelor ce doriți să le implicați.
 - În cazul în care cineva **începe un astfel de roleplay fără acordul dvs.**, aveți tot dreptul nu dați curs scenariului și să **chemați un admin** întrerupând astfel roleplay-ul.
+:::warning Atenție!
 - Este interzisă umilirea unui jucător sau forțarea acestuia să efectueze acțiuni pur și simplu în scopul amuzamentului personal [de exemplu, să-l forțezi să latre, să cânte sau să execute alte acțiuni similare].
+:::
 
 <hr style="transform: translateY(10px)"/>
 
@@ -240,35 +248,42 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 ### <span class="header-font">1.28 Refuz Roleplay</span>
 - **Este interzis să refuzați interacțiunea roleplay** cu ceilalți jucători. Se consideră **Refuz Roleplay** în momentul în care
 părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bară (AFK), refuzați orice fel de interacțiune.
-- Este INTERZIS sa rămâneți AFK intr-o zona rău famată / zonă retrasă. In cazul in care un jucător va încerca să interacționeze cu o persoană AFK, acest lucru va fi permis, făcând excepție de la regula interacțiunii cu o persoană AFK, iar persoana AFK va fi sancționată cu Refuz RP. - Sanctiune BAN 10 zile.
 
 #### <span class="header-font"> **AFK în Roleplay**</span>
 - Nu este permis să vă puneți AFK în timpul unui roleplay. 
 - În cazul în care găsiți o persoana AFK, nu aveți voie începeți vreo acțiune cu acesta.
 - Se interzice membrilor facțiunilor legale (Poliție, SMURD) să stea AFK ON-DUTY mai mult de 5 minute.
+:::warning Atenție!
+- Este INTERZIS sa rămâneți AFK intr-o zona rău famată / zonă retrasă. In cazul in care un jucător va încerca să interacționeze cu o persoană AFK, acest lucru va fi permis, făcând excepție de la regula interacțiunii cu o persoană AFK, iar persoana AFK va fi sancționată cu Refuz RP. - Sanctiune BAN 10 zile.
+:::
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.29 Ticket în Roleplay</span>
 - Este **permis** să chemați un admin în timpul unui roleplay.
-- În cazul în care se desfășoară un schimb de focuri lângă dvs. și doriți să faceți ticket, aveți răbdare ca schimbul de focuri să se
-termine, pentru a nu strica experiența celor din jurul vostru. De asemenea, în cazul roleplay-urilor complexe, cu un număr mare de
-participanți, aveți obligația de a vă îndepărta și a face ticketul astfel încât să nu deranjați persoanele din jurul vostru.
-(Ticketul nu reprezinta incheierea RP-ului, decat daca ambele parti doresc incheierea acestuia) 
+- În cazul în care se desfășoară un schimb de focuri lângă dvs. și doriți să faceți ticket, aveți răbdare ca schimbul de focuri să se termine, pentru a nu strica experiența celor din jurul vostru. De asemenea, în cazul roleplay-urilor complexe, cu un număr mare de participanți, aveți obligația de a vă îndepărta și a face ticketul astfel încât să nu deranjați persoanele din jurul vostru.
+(Ticketul nu reprezinta incheierea RP-ului, decat daca ambele parti doresc incheierea acestuia)
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.30 Acumularea sancțiunilor</span>
-- Acumularea a **3 warn-uri** va duce la banarea automată de către sistem pe o perioadă de 14 zile cu drept de plată.
+- Acumularea a 3 warn-uri va duce la banarea automată de către sistem pe o perioadă de 14 zile cu drept de plată.
+- În momentul în care un jucător va face același fail de 3 ori urmatoarea sancțiune de același tip va fi ban fără drept conform orelor.
+- Un jucător care are mai mult de 10 sancțiuni de ban pe punish-log va primi ban permanent cu drept de plată.
+- La 2 banuri permanente cu drept, al 3-lea va fi ban permanent fără drept 60 de zile.
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.31 Bug-abuse / Cheating</span>
 - Este interzis să abuzați de anumite vulnerabilități ale serverului, în momentul în care descoperiți un BUG aveți obligația de a îl raporta, persoanele care sunt surprinse că au abuzat de anumite bug-uri pentru a își crea unu avantaj vor fi sancționate cu BAN + CK.
 - Folosirea de cheat-uri de orice tip este strict interzisă și aduce după sine Banarea Permanentă.
-:::danger SANCȚIUNI CHEATS
-- Primul ban de CHEATS : PERMANENT, cu drept de plata
-- Al doilea ban de CHEATS : PERMANENT, fără drept de plata + CK
+
+:::danger FOARTE IMPORTANT
+- <span style="color:white">Jucatorii care vor fi prinși cu cod pentru prima dată vor fi sanctionați cu **Ban permanent cu drept de plată**, CK și interdicția de a intra în PD / Mafie pentru o perioadă de 60 de zile.</span>
+- <span style="color:white">Jucatorii care vor fi prinși pentru a doua oara cu cod vor fi sancționați cu **Ban permanent fără drept de plată**.</span>
+
+<span style="color:orange">Toate persoanele care participa la actiuni de tip DM, mai ales cei ce apartin factiunilor ilegale sau LSPD sunt obligati sa filmeze toate actiunile, in cazul in care un jucator este suspectat de a folosi cheats, acesta trebuie sa prezinte filmare. Lipsa unei filmari in acest caz atrage sanctiunea de ban.</span>
+- <span style="color:white">Exemple modalitati pentru inregistrare gameplay care nu consuma multe resurse:</span> <span style="color:red">Medal.tv, Outplayed.tv, Shadowplay, OBS live pe youtube.</span>
 :::
 
 <hr style="transform: translateY(10px)"/>
@@ -283,30 +298,52 @@ participanți, aveți obligația de a vă îndepărta și a face ticketul astfel
 
 ### <span class="header-font">1.33 Facțiunile Legale</span>
 - Corupția **IC/OOC** în cadrul departamentului de poliție se sancționează cu ban 30 de zile.
-- Odată ce ați intrat în Poliție sau în Departamentul Medical, aveți obligația de a rămâne minim 14 zile, nerespectarea acestei reguli duce la scaderea platilor la joburi (X%).
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.34 Regulament /me</span>
 - Se **interzic** /me-urile stupide, fără nici un scop. Comanda /me se folosește atunci când trebuie să rolați anumite acțiuni pentru care nu aveți animații.
-::: tip Exemplu permis
-- /me Îl pune pe bancheta din dreapta. 
+:::info Exemplu permis
+- <span style="color:green">/me Îl pune pe bancheta din dreapta.</span>
 :::
-::: danger Exemplu nepermis
+:::danger Exemplu nepermis
 - /me Scoate un telefon iphone 14 din buzunar, 
 - /me Isi ia pozitia de smecher, 
 - /me Face o poza fara sa observe.
 :::
 - Totodată, **se interzic** /me-urile care sunt date pentru a provoca o persoană.
-::: info Exemplu nepermis
+:::danger Exemplu nepermis
 - /me Se gandeste la ce prost e.
 - /me Reține cum arată.
 - /me Simte miros de fraier.
+:::
+:::info !!!
+- Nu este obligatoriu sa mai rolati /me in cazul unui accident rutier in timpul unei urmariri. In cazul unui accident care nu are loc in timpul unei urmariri sunteti obligati sa faceti RP cu persoana cu care ati avut accidentul.
 :::
 
 ### <span class="header-font">1.35 Este interzis sa soliciti unor jucatori noi sa-ti ofere banii de inceput. Se sanctioneaza cu Character-Kill (CK).</span>
 
 <hr style="transform: translateY(10px)"/>
+
+### <span class="header-font">1.36 Este permisa pentru anunt CNN referitor la VIPs, doar o singura formulare "Inel Diamond/Gold/Silver".</span>
+- P.S FireCoins achiziționate pe un ID nu se pot transfera/vinde.
+
+### <span class="header-font">1.37 Rubble</span>
+- Masina utilitara de tip Rubble va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. 
+:::warning
+- Se va sanctiona cu Fail RP.
+:::
+
+### <span class="header-font">1.38 BUSINESS IC</span>
+- În cazul businessurilor IC (tatuaje, spălătorii, frizerii, garaje mecanici, etc.) pentru care Primăria eliberează un document special, este interzisă solicitarea altor sume - în afara celor specificate în script, cu excepția cazului în care jucătorul dorește să ofere TIPS (bacșiș). Se sancționează cu 120 minute de închisoare (ajail).
+
+[A fost adaugat regulament general pentru TAXI, MECANICI.](/informatii/regulamentbiz.html)
+
+### <span class="header-font">1.39 PANĂ DE CURENT</span>
+- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
+Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zilei.
+
+### <span class="header-font">1.40 Zone pe server</span>
 
 ::: tip
 - **Zone Publice**: Autostrăzi, Aeroporturi, Sediile joburilor legale, Magazinele de haine, Bancomate, Bănci, Magazine alimentare,
@@ -315,29 +352,8 @@ a locurilor foarte retrase)
 - **Zone Retrase**: Munți, Insule, în afara orașului Los Santos, cu excepțiile precizate mai sus.
 - **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard, Vinewood
 :::
-
-### <span class="header-font">1.36 Este permisa pentru anunt CNN referitor la VIPs, doar o singura formulare "Inel Diamond/Gold/Silver".</span>
-- P.S FireCoins achiziționate pe un ID nu se pot transfera/vinde.
-
-### <span class="header-font">1.37 Este permisa depozitarea obiectelor  de la joburile legale in Rubble, dar este interzisa depozitarea obiectelor ilegale ( droguri, arme ) .</span>
-
-### <span class="header-font">1.38 BUSINESS IC</span>
-- În cazul businessurilor IC (tatuaje, spălătorii, frizerii, garaje mecanici, etc.) pentru care Primăria eliberează un document special, este interzisă solicitarea altor sume - în afara celor specificate în script, cu excepția cazului în care jucătorul dorește să ofere TIPS (bacșiș). Se sancționează cu 120 minute de închisoare (ajail).
-
-[A fost adaugat regulament general pentru SMURD, TAXI, MECANICI.](/informatii/regulamentbiz.html)
-
-### <span class="header-font">1.39 PANĂ DE CURENT</span>
-- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
-Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zilei.
-
-### <span class="header-font">1.40 Armele de Mafie</span>
-**(DB, Navy, Gagdet, MG)**
-- Ele pot fi jefuite de catre civili, dar este interzisa folosirea lor.
-
-### <span class="header-font">1.41 Rubble</span>
-- Masina utilitara de tip Rubble va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. 
-:::warning
-- Se va sanctiona cu Fail RP.
+:::warning map.furyrp.ro
+- Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit.
 :::
 
 ## <p style="text-align: center;">Activitățile Ilegale</p>
@@ -365,7 +381,6 @@ Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zile
 - 3.06   Este interzis să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
 - 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
 - 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
-- 3.09   Nu este permis sa jefuiti daca nu aveti minim 10 ore jucate.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -391,13 +406,7 @@ smurd este **singura** variantă de scăpare cu viață dintr-o situație extrem
 
 <hr style="transform: translateY(10px)"/>
 
-::: danger IMPORTANT!
-- **Este recomandat să verificați regulamentul periodic în cazul în care apar schimbări.**
-- **Necunoașterea regulamentului nu vă scutește de sancțiune.**
-:::
-
 ### <span class="header-font">7.0 Civil pentru Mafiot</span>
-
 
 - Va este strict interzis sa interveniti ca civili (adica membri fara grad in mafie)  in roleplay-ul cu POLITIA al membrilor dintr-o mafie (cu grad), exceptie facand situatia in care roleplay-ul incepe cu toata lumea de fata (Membri mafie cu grad + Membri familia mica)
 
@@ -413,7 +422,11 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 
 - Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
 - Numarul maxim de membri care pot participa la  jaful unui Transport bancar este de 20 (doar cu grad).
-- Numarul maxim de membri care pot participa la un jaf pe Yacht este de 20 (Membri cu grad si membri din familia mica).
 - Numarul minim de membri care pot participa la orice tip de jaf (Exceptand ATM-urile) este de 4 (Membri cu grad si membri din familia mica).
 - In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf. (Exceptie politia, se roleaza ca mereu sunt intariri pe drum)
 - La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
+
+::: danger IMPORTANT!
+- **Este recomandat să verificați regulamentul periodic în cazul în care apar schimbări.**
+- **Necunoașterea regulamentului nu vă scutește de sancțiune.**
+:::
