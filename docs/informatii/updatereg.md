@@ -4,6 +4,65 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## Update 09/01/2024
+[1.01 Roleplay](/informatii/regulament.html#_1-01-roleplay-rp)
+- Roleplay-ul reprezintă o modalitate captivantă si o experiență în care jucătorii își pot interpreta personajele într-o lume virtuală. Pentru a crea un mediu echitabil și plăcut pentru toți jucătorii, este important să existe un set de reguli și orientări de urmat.
+- Scopul Roleplay-ul este de a crea o experiență credibilă și realistă în care jucătorii pot interacționa între ei într-un mod care are sens în contextul jocului. Regulamentul ajută la asigurarea faptului că jucătorii rămân în personaj și își interpretează rolurile într-un mod credibil și consecvent
+
+[1.09 Condus Non-Roleplay](/informatii/regulament.html#_1-09-condusul-non-roleplay)
+
+- Va este interzis sa sariti peste munti, stanci cu masinile de la job legal sau cu masinile care faceti un job legal!
+:::info
+Ex: Sa sariti peste stanci cu excavatorul la jobul de miner avansat
+:::
+## Update 07/01/2024
+[1.31 Cheating](/informatii/regulament.html#_1-31-bug-abuse-cheating)
+
+- Toti jucatorii care au fost sanctionati cu ban pentru Cheats sunt obligati sa porneasca filmarea cand intra pe server. Cei care vor fi prinsi fara filmare vor fi sanctionati indiferent daca au avut sau nu au avut interactiune cu alti jucatori pentru Cheats.
+
+## Update 05/01/2024
+
+[1.31 Cheating](/informatii/regulament.html#_1-31-bug-abuse-cheating)
+
+- Jucatorii care vor fi prinsi cu cod pentru prima data vor fi sanctionati cu Ban permanent cu drept de plata , CK si interdictia de a intra in PD/Mafie pentru o perioada de 60 de zile.
+- Jucatorii care vor fi prinsi pentru a doua oara cu cod vor fi sanctionati cu Ban permanent fara drept de plata.
+
+[1.34 Regulament /me](/informatii/regulament.html#_1-34-regulament-me)
+
+- Nu este obligatoriu sa mai rolati /me in cazul unui accident rutier in timpul unei urmariri. In cazul unui accident care nu are loc in timpul unei urmariri sunteti obligati sa faceti RP cu persoana cu care ati avut accidentul.
+
+[1.09 Condus Non-Roleplay](/informatii/regulament.html#_1-09-condusul-non-roleplay)
+
+- Nu aveti voie sa circulati cu mai mult de 200 kph pe drumurile din interiorul Los Santos, Sandy Shores, Paleto, Dusty, Grapeseed, decat daca aveti un motiv IC bine intemeiat.
+- Nu aveti voie sa circulati pe contrasens pe autostrada sau pe artere circulate des fara un motiv IC bine intemeiat. (Iesire port garaj industrial, Centrul Los Santos, Zona Fleeca Centrala etc.
+- Nu aveti voie sa ocoliti speedbump-urile decat cu un motiv IC bine intemeiat.
+
+[1.04 Out Of Character(OOC)](/informatii/regulament.html#_1-04-out-of-character-ooc)
+
+- Este strict interzis sa folositi referinte OOC in IC: “Chem pizza”, “fac bon/fac d’ala”, sau orice alt tip de mesaje ce fac referire la OOC.
+
+## Update 05/01/2024
+[1.30 Acumularea de sanctiuni](/informatii/regulament.html#_1-30-acumularea-sanctiunilor)
+
+- In momentul in care un jucator va face acelasi fail de 3 ori urmatoarea sanctiune de acelasi tip va fi ban fara drept conform orelor
+- Un jucator care are mai mult de 10 sanctiuni de ban pe punish-log va primi ban permanent cu drept
+- La 2 banuri permanente cu drept , al 3-lea va fi ban permanent fara drept 60 de zile.
+
+## Update 04/01/2024
+[1.40 ZONE PE SERVER](/informatii/regulament.html#_1-40-zone-pe-server)
+
+- Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit.
+
+## Update 04/01/2024
+
+[1.31 Bug-abuse / Cheating](/informatii/regulament.html#_1-31-bug-abuse-cheating)
+
+- Toate persoanele care participa la actiuni de tip DM, mai ales cei ce apartin factiunilor ilegale sau LSPD sunt obligati sa filmeze toate actiunile, in cazul in care un jucator este suspectat de a folosi CHEATS, acesta trebuie sa prezinte filmare. 
+- Lipsa unei filmari in acest caz atrage sanctiunea de BAN.
+:::info
+Exemple modalitati pentru inregistrare gameplay care nu consuma multe resurse: Medal.tv, Outplayed.tv, Shadowplay, OBS live pe youtube.
+:::
+
 ## UPDATE 29/10/2023
 
 [1.19 Kill & Rob / Rob & Kill](/informatii/regulament.html#_1-19-rob-kill-r-k-kill-rob-k-r)

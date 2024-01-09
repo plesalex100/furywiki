@@ -4,6 +4,12 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.53
+
+- A fost reparata problema blocarii pompei de combustibil in mana ped-ului dupa alimentare.
+- A fost adaugat in K, "Stream"  , comanda utilizabila de catre @┃  Official Streamer pentru a putea afisa platforma pe care se desfasoara live-ul si titlul.
+- A fost adaugat gradul de "Streamer" pe chat pentru a facilita promovarea creatorilor de continut ai comunitatii noastre.
+
 ## Server Update v2.52
 
 ### Fury Activities
