@@ -4,6 +4,21 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## Update 11/01/2023
+
+[1.09 Condusul Non Roleplay](/informatii/regulament.html#_1-09-condusul-non-roleplay)
+- Va este permis sa faceti stunt-uri, in momentul in care are loc o urmarire.
+
+:::info 
+Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste proceduri noi.
+:::
+
+- Se permite manevra de pit stop in urmariri de pana la 250kmh.
+
+[1.40 Folosirea de iteme in combat](/informatii/regulament.html#_1-40-folosirea-de-iteme-in-combat)
+
+- In timpul combat-ului aveti dreptul sa folositi armuri/adrenaline/bandaje.
+
 ## Update 09/01/2024
 [1.01 Roleplay](/informatii/regulament.html#_1-01-roleplay-rp)
 - Roleplay-ul reprezintă o modalitate captivantă si o experiență în care jucătorii își pot interpreta personajele într-o lume virtuală. Pentru a crea un mediu echitabil și plăcut pentru toți jucătorii, este important să existe un set de reguli și orientări de urmat.
@@ -15,6 +30,19 @@ title: Update-uri Regulament
 :::info
 Ex: Sa sariti peste stanci cu excavatorul la jobul de miner avansat
 :::
+
+[1.18 Toxicitatea](/informatii/regulament.html#_1-18-toxicitatea)
+
+- Injuriile IC duse la extrem si injuriile IC adresate altui jucator fara un context IC in prealabil atrag sanctiuni. **(BAN)**
+
+[3. Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
+
+- 3.09 Mafiile și organizațiile(factiunile plătite) au dreptul de a jefui alti playeri doar cu un motiv IC bine întemeiat.
+
+[2. Rapire/Ostatici](/informatii/regulament.html#_2-0-rapirea-ostatici)
+
+- 2.10 Puteți sechestra un ostatic/persoana rapita intr-o locatie maxim 48h. Persoana care este “legată”(sechestrata) are dreptul sa faca joburi legale, în schimb nu are dreptul sa faca ilegalități de vreun fel sau sa informeze ca este legat IC. (Va trebuie un motiv întemeiat sa sechestrati pe cineva, sechestrarea unui player fără un motiv bine întemeiat atrage sancțiuni)
+
 ## Update 07/01/2024
 [1.31 Cheating](/informatii/regulament.html#_1-31-bug-abuse-cheating)
 
@@ -34,9 +62,12 @@ Ex: Sa sariti peste stanci cu excavatorul la jobul de miner avansat
 [1.09 Condus Non-Roleplay](/informatii/regulament.html#_1-09-condusul-non-roleplay)
 
 - Nu aveti voie sa circulati cu mai mult de 200 kph pe drumurile din interiorul Los Santos, Sandy Shores, Paleto, Dusty, Grapeseed, decat daca aveti un motiv IC bine intemeiat.
-- Nu aveti voie sa circulati pe contrasens pe autostrada sau pe artere circulate des fara un motiv IC bine intemeiat. (Iesire port garaj industrial, Centrul Los Santos, Zona Fleeca Centrala etc.
+- Nu aveti voie sa circulati pe contrasens pe autostrada sau pe artere circulate des fara un motiv IC bine intemeiat. (Iesire port garaj industrial, Centrul Los Santos, Zona Fleeca Centrala etc.)
 - Nu aveti voie sa ocoliti speedbump-urile decat cu un motiv IC bine intemeiat.
-
+- Va este interzis sa sariti peste munti, stanci cu masinile de la job legal sau cu masinile care faceti un job legal!
+:::info
+Ex: Sa sariti peste stanci cu excavatorul la jobul de miner avansat
+:::
 [1.04 Out Of Character(OOC)](/informatii/regulament.html#_1-04-out-of-character-ooc)
 
 - Este strict interzis sa folositi referinte OOC in IC: “Chem pizza”, “fac bon/fac d’ala”, sau orice alt tip de mesaje ce fac referire la OOC.

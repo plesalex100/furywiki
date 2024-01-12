@@ -10,7 +10,8 @@ title: Regulament General
 
 
 ### <span class="header-font">1.01 Roleplay (RP) </span>
-- Reprezintă **simularea vieții reale**, prin intermediul **caracterului tău din joc**. 
+- Roleplay-ul reprezintă o modalitate captivantă si o experiență în care jucătorii își pot interpreta personajele într-o lume virtuală. Pentru a crea un mediu echitabil și plăcut pentru toți jucătorii, este important să existe un set de reguli și orientări de urmat.
+- Scopul Roleplay-ul este de a crea o experiență credibilă și realistă în care jucătorii pot interacționa între ei într-un mod care are sens în contextul jocului. Regulamentul ajută la asigurarea faptului că jucătorii rămân în personaj și își interpretează rolurile într-un mod credibil și consecvent 
 
 <hr style="transform: translateY(10px)"/>
 
@@ -87,6 +88,14 @@ title: Regulament General
 Condusul unei mașini de super sport ( cu garda joasă ) pe un drum neasfaltat.
 :::
 
+:::danger IMPORTANT!!!!!
+- Va este permis sa faceti stunt-uri, in momentul in care are loc o urmarire.
+- Se permite manevra de pit stop in urmariri de pana la 250kmh.
+:::info
+Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste proceduri noi.
+:::
+
+
 #### <span class="header-font">Aparate de zbor</span>
 - Aterizarea elicopterelor, avioanelor se va face doar în zonele predestinate (helipad-uri, aeroport) și în câmpuri larg deschise, nefiind voie să aterizați pe șosea, teren accidentat, drumuri publice. (Excepție de la această regulă fac elicopterele Poliției/SMURD-ului, când acestea se află în misiune) 
 
@@ -161,6 +170,7 @@ Se va primi CK atunci:
 ### <span class="header-font">1.18 Toxicitatea</span>
 - Din dorința de a forma o comunitate primitoare pentru toți jucătorii ne vom rezerva dreptul de a elimina persoanele problematice cele ce nu au intenția de a face un roleplay calitativ, frumos, ci au ca unică intenție deranjarea persoanelor din jur, fără un motiv bine întemeiat, doar pentru propriul amuzament.
 - Provoci un accident în mod intenționat pentru a crea o ceartă.
+- Injuriile IC duse la extrem si injuriile IC adresate altui jucator fara un context IC in prealabil atrag sanctiuni. **(BAN)**
 ::: danger ATENȚIE!
 - **Se interzic suferințele OOC sub orice formă, este interzis ca în urma unui roleplay să mergeți și să înjurați o persoană în privat, pe live, pe instagram, etc.**
 :::
@@ -277,6 +287,9 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 ### <span class="header-font">1.31 Bug-abuse / Cheating</span>
 - Este interzis să abuzați de anumite vulnerabilități ale serverului, în momentul în care descoperiți un BUG aveți obligația de a îl raporta, persoanele care sunt surprinse că au abuzat de anumite bug-uri pentru a își crea unu avantaj vor fi sancționate cu BAN + CK.
 - Folosirea de cheat-uri de orice tip este strict interzisă și aduce după sine Banarea Permanentă.
+:::tip
+- Toti jucatorii care au fost sanctionati cu ban pentru Cheats sunt obligati sa porneasca filmarea cand intra pe server. Cei care vor fi prinsi fara filmare vor fi sanctionati indiferent daca au avut sau nu au avut interactiune cu alti jucatori pentru Cheats.
+:::
 
 :::danger FOARTE IMPORTANT
 - <span style="color:white">Jucatorii care vor fi prinși cu cod pentru prima dată vor fi sanctionați cu **Ban permanent cu drept de plată**, CK și interdicția de a intra în PD / Mafie pentru o perioadă de 60 de zile.</span>
@@ -343,7 +356,10 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
 Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zilei.
 
-### <span class="header-font">1.40 Zone pe server</span>
+### <span class="header-font">1.40 Folosirea de iteme in combat</span>
+- In timpul combat-ului aveti dreptul sa folositi armuri/adrenaline/bandaje.
+
+### <span class="header-font">1.41 Zone pe server</span>
 
 ::: tip
 - **Zone Publice**: Autostrăzi, Aeroporturi, Sediile joburilor legale, Magazinele de haine, Bancomate, Bănci, Magazine alimentare,
@@ -369,6 +385,7 @@ a locurilor foarte retrase)
 - 2.07   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
 - 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
 - 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
+- 2.10  Puteți sechestra un ostatic/persoana rapita intr-o locatie maxim 48h. Persoana care este “legată”(sechestrata) are dreptul sa faca joburi legale, în schimb nu are dreptul sa faca ilegalități de vreun fel sau sa informeze ca este legat IC. (Va trebuie un motiv întemeiat sa sechestrati pe cineva, sechestrarea unui player fără un motiv bine întemeiat atrage sancțiuni)
 
 <hr style="transform: translateY(10px)"/>
 
@@ -381,6 +398,7 @@ a locurilor foarte retrase)
 - 3.06   Este interzis să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
 - 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
 - 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
+- 3.09 Mafiile și organizațiile(factiunile plătite) au dreptul de a jefui alti playeri doar cu un motiv IC bine întemeiat.
 
 <hr style="transform: translateY(10px)"/>
 
