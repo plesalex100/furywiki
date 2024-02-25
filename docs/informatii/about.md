@@ -16,7 +16,7 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 ## <span class="header-font">Echipa Administrativă</span>
 
 :::info
-- **Echipa noastră administrativă este alcătuită din oameni bine pregătiți pentru orice întrebare sau problemă puteți să aveți.**
+- **<span style="color:white">Echipa noastră administrativă este alcătuită din oameni bine pregătiți pentru orice întrebare sau problemă puteți să aveți.</span>**
 :::
 
 ### Cu ce se ocupă fiecare membru al echipei administrative?
@@ -25,31 +25,31 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 
 #### <span style="color:red">Fondator & Co-Fondator</span>
 - Fondatorul și Co-Fondatorul sunt cei care au pus bazele comunității și se ocupă de dezvoltarea acesteia.
-:::info Aceștia pot fi contactați pentru:
-- probleme grave la nivel de comunitate
-- propuneri de colaborări
-- pentru probleme la donații
+:::info <span style="color:#FF7F7F">Aceștia pot fi contactați pentru:</span>
+- <span style="color:#FF7F7F">probleme grave la nivel de comunitate</span>
+- <span style="color:#FF7F7F">propuneri de colaborări</span>
+- <span style="color:#FF7F7F">pentru probleme la donații</span>
 :::
 
 <hr style="transform: translateY(10px)"/>
 
 #### <span style="color:orange">Scripter</span>
 - Scripterul este cel care se ocupă de dezvoltarea scripturilor serverului.
-:::info Acesta poate fi contactat pentru:
-- probleme legate de scripturi 
-- propuneri de sisteme noi
-- pierderi de iteme sau bani din cauza unor bug-uri
+:::info <span style="color:#FFD580">Acesta poate fi contactat pentru:</span>
+- <span style="color:#FFD580">probleme legate de scripturi</span>
+- <span style="color:#FFD580">propuneri de sisteme noi</span>
+- <span style="color:#FFD580">pierderi de iteme sau bani din cauza unor bug-uri</span>
 :::
 
 <hr style="transform: translateY(10px)"/>
 
 #### <span style="color:green">Admin 1-5</span>
 - Adminii formează echipa de support care stau la dispoziția fiecărui jucător în orice moment al zilei, atât pe joc, cât și pe [serverul de discord](https://discord.gg/furyro).
-:::info Aceștia poat fi contactați pentru:
-- întrebări legate de sisteme / locații / joburi de pe server
-- probleme minore la nivel de comunitate
-- pierderi de arme din cauza unor bug-uri
-- reclamații la adresa altor jucători
+:::info <span style="color:#90EE90">Aceștia poat fi contactați pentru:</span>
+- <span style="color:#90EE90">întrebări legate de sisteme / locații / joburi de pe server</span>
+- <span style="color:#90EE90">probleme minore la nivel de comunitate</span>
+- <span style="color:#90EE90">pierderi de arme din cauza unor bug-uri</span>
+- <span style="color:#90EE90">reclamații la adresa altor jucători</span>
 :::
 
 <hr style="transform: translateY(10px)"/>

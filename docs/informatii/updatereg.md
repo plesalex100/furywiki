@@ -2,9 +2,69 @@
 title: Update-uri Regulament
 ---
 
+:::tip Sfat!
+- Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
+:::
+
+##
+
 # <center> Istoric Update Regulament </center>
 
-## Update 11/01/2023
+## [Temporar] Update 25/02/2024 
+[Jefuitul 3.01](/informatii/regulament.html#_3-0-jefuitul)   
+- Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (In dreapta sus la hud va aparea o iconita cu o luna)
+### <span style="color:red">[REGULA TEMPORARA - SERVER UPDATES](/informatii/updatesv.html#temporar-server-update-v2-70)</span>
+
+## Update 18/02/2024
+
+Modificare [2.10 2. Răpirea / Ostatici](/informatii/regulament.html#_2-0-rapirea-ostatici)
+- Puteti sechestra o persoana doar cu aprobarea unui Admin 4+ si nu mai mult de 24 ore.
+
+## Update 16/02/2024
+
+### [1.15 Character Kill](/informatii/regulament.html#_1-15-character-kill)
+- ***Pentru mafii: daca aveti situatie de ck: trebuie sa chemati un Admin 3+ si un membru Sindicat ca sa decida daca contextul se va termina cu ck. In cazul in care nu este o persoana avizata care sa decida situatia puteti “sechestra” persoana pana vine cineva ce are putere decizionala.
+
+## Update 06/02/2024
+
+### [Regulament jaf](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+
+- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 30 (Membri cu grad si membri din familia mica). (era 25)
+
+## Update 20/01/2024
+
+[1.15 Character Kill](/informatii/regulament.html#_1-15-character-kill)
+
+- La anumite situatii de no-fear
+- In momentul cand incerci sa ataci o persoana ce are arma de foc si tu ai o arma alba si mori
+- Cand esti ostatic si membrii din aceeasi organizatie nu respecta faptul ca esti luat ostatic
+
+## Update 18/01/2024
+
+[Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+
+- Numarul minim de oameni la jaful de la Vangelico este de 4 oameni inauntrul locatiei.
+
+## Update 16/01/2024
+
+[1.42 MODIFICARI ILEGALE ALE JOCULUI](/informatii/regulament.html#_1-42-modificari-ilegale-ale-jocului)
+
+- Nu sunt permise modurile de grafică care să altereze condițiile meteorologice, să elimine texturi sau obiecte (props-uri) și nici să aducă beneficii in combat. De asemenea, modurile care implică killfx nu sunt permise. Folosirea acestor moduri atrage sanctiunea de ban.
+- De asemenea va este interzis sa folositi sau sa aveti in PC fisiere care modifica damage, arme, hitbox, etc.
+
+:::tip
+Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Always day, No bushes, etc
+:::
+
+## Update 12/01/2024
+
+### Clarificare
+
+[1.41 REGULA LOCUINTE](/informatii/regulament.html#_1-41-regula-locuinte)
+
+- Fiecare proprietar de locuință are responsabilitatea de a acorda atenție și discernământ atunci când decide cui încredințează cheile casei sale. Persoanele care dețin chei vor beneficia de acces la spațiile de depozitare din interiorul locuinței
+
+## Update 11/01/2024
 
 [1.09 Condusul Non Roleplay](/informatii/regulament.html#_1-09-condusul-non-roleplay)
 - Va este permis sa faceti stunt-uri, in momentul in care are loc o urmarire.

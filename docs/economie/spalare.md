@@ -2,25 +2,25 @@
 title: Spălarea Banilor
 ---
 
-# <center>Informații despre sistemul de spălare a banilor</center>
+# <span class="title-font"><center>Informații despre sistemul de spălare a banilor</center></span>
 
-### În primul rând, pentru a putea să spălați bani, aveți nevoie să fiți proprietarul unei:
+### <span class="header-font">În primul rând, pentru a putea să spălați bani, aveți nevoie să fiți proprietarul unei:</span>
 
--> business de taxi
+<span class="title-font">-> business de taxi</span>
 
--> business de mecanici
+<span class="title-font">-> business de mecanici</span>
 
--> spălătorii auto
+<span class="title-font">-> spălătorii auto</span>
 
--> benzinării
+<span class="title-font">-> benzinării</span>
 
--> magazin
+<span class="title-font">-> magazin</span>
 
-### Fiecare firmă trebuie să aibă capital, adică trebuie să aibă un total de încasări în contul firmei de minim 10.000$.
+### <span class="header-font">Fiecare firmă trebuie să aibă capital, adică trebuie să aibă un total de încasări în contul firmei de minim 10.000$.</span>
 
-### Dacă proprietatea ta a ajuns la 10.000$ capital, aveți posibilitatea să spălați maxim 30.000$. Pentru alte sume aveți la sfârșitul paginii un tabel cu toate valorile necesare.
+### <span class="header-font">Dacă proprietatea ta a ajuns la 10.000$ capital, aveți posibilitatea să spălați maxim 30.000$. Pentru alte sume aveți la sfârșitul paginii un tabel cu toate valorile necesare.</span>
 
-### Banii pe care vreți să-i spălați (banii murdari) vor intra in contul firmei, iar cu cât vă apropiați de 30.000$ de bani murdari introduși (sau depinde de suma pe care o aveți încasată) în contul firmei, cu atât veți avea mai multe șanse să fiți prinși de către ANAF.
+### <span class="header-font">Banii pe care vreți să-i spălați (banii murdari) vor intra in contul firmei, iar cu cât vă apropiați de 30.000$ de bani murdari introduși (sau depinde de suma pe care o aveți încasată) în contul firmei, cu atât veți avea mai multe șanse să fiți prinși de către ANAF.</span>
 
 | Capital Necesar      | Sumă maximă de spălat |
 | -------------------  | :-----------------:   |

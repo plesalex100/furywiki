@@ -2,7 +2,242 @@
 title: Update-uri Server
 ---
 
+:::tip Sfat!
+- Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
+:::
+
+##
+
 # <center> Istoric Update Server </center>
+
+## [Temporar] Server Update v2.70
+
+- Am introdus un nou concept pentru a permite tuturor jucătorilor cu timp de joc variat să poată desfășura activități diferite pe tot parcursul unei zile.
+
+- Acest sistem alternează noaptea cu ziua pe server la intervale regulate și stabilite.
+
+- Pentru a putea vedea ora în intervalul respectiv, ora de pe telefon (L) indică acum ora intervalului.
+
+- A fost adăugat un nou tab în Dynamic HUD care indică dacă este noapte sau zi.
+
+:::danger !!!
+- Sistemul este în teste timp de 48 de ore, după care vom decide prin vot dacă sistemul rămâne pe server sau se revine la varianta normală.
+:::
+
+## Server Update v2.69
+
+### WAR EVENT NEW MAP - Vespucci
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1211024664634196028/vespucci.png?ex=65ecb19b&is=65da3c9b&hm=7b751563659738646e79d27b2ed565a6101d472261c2ae03cf4ff487265b95a9&=&format=webp&quality=lossless&width=671&height=671)
+
+## Server Update v2.68
+
+### 3 NEW DRUGS - Au fost create 3 noi droguri sintetice.
+
+#### MEFEDRONA - Disponibil de la 600h.
+
+#### SPICE - Disponibil de la 700h.
+
+#### LSA - Disponibil de la 1000h.
+
+- A fost adaugat in magazine item-ul Dryer.
+- Job-ul de farmactist a primit un nerf si recalculare, fiind stabilita econimia in functie de orele necesare.
+- Acest job a fost lasat cu boost la implementare pentru creare skill-ului pentru update-ul de azi.
+
+- Reteta noilor droguri este disponibila pentru cumparare de catre mafii.
+- Au fost adaugate pentru livrare in sistemul de livrari.
+- A fost adaugat un mapping nou cu planta noua specifica pentru LSA/SPICE
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1210462027483578398/drugsupdate.png?ex=65eaa59c&is=65d8309c&hm=4fbd9ecf162b3aa8fe644cf600b44bee7e1c1c38decb20117df7095db3cfe44a&=&format=webp&quality=lossless&width=671&height=671)
+
+## Server Update v2.67
+
+- A fost creat un nou job de farmacist, disponibil de la 100 de ore.
+- Job-ul are mai multe nivele de skill.
+- Fiecare item ofera un anumit XP in functie de complexitatea retetei.
+- A fost adaugat un mapping de farmacie in Paleto
+- Reteta pentru prepararea substantelor este disponibila in magazine.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1209376214159073280/farmacist.png?ex=65e6b25e&is=65d43d5e&hm=91cd4ccb07832507eecf5ec8d69a3f0de35ec8880334133c31c36c3fb41b148b&=&format=webp&quality=lossless&width=671&height=671)
+
+## Server Update v2.66
+
+- A fost creat sistemul de Pompieri pentru factiunea SMURD.
+- O data pe ora un foc incepe intr-un punct stabilit.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1209106731729297469/pompieri.png?ex=65e5b764&is=65d34264&hm=d6e15991acb1c3604b8b749024eb1bf0db7891dbd8747f2e4718b33b4ea2c97b&=&format=webp&quality=lossless&width=671&height=671)
+
+- A fost adaugata o noua verificare pentru anticheat pentru REVIVE CHEAT.
+
+## Cars Update
+
+In data de 18/02/2024 ora 20:00 vor intra in stock la Dealership urmatoarele vehicule noi:
+
+- Rolls Royce Phantom
+- Dodge Viper SRT
+- Pagani Huayra Roadster
+- Bugatti Chiron PurSport
+- Dodge Charger SRT Hellcat 
+- VW Passat b7
+- Ford Focus
+- BMW e39
+- Yamaha Xmax 400
+- Yamaha yzf r7
+- Banshee atv
+- Yamaha R1 2014
+- BMW s1000rr Killer
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1208748936723169330/cars.png?ex=65e46a2b&is=65d1f52b&hm=149dddab86c05a2198fd0c521a1d6e9f4d68d1e83e81f9ba3a5de212f36faf1d&=&format=webp&quality=lossless&width=1439&height=638)
+
+## Server Update v2.65
+
+### 💖 Valentine's Day Event
+- La toate job-urile de acum aveti o sansa mica sa primiti cate un trandafir.
+- Puteti oferii trandafirul unei domnisoare de pe server, daca il folositi si nu aveti pe nimeni in jur, va fi aleasa o pretendenta si veti primii locatia ei (nu locatia live)
+- O data oferiti fata va acumula un numar total de trandafiri afisati in Dynamic Tags, si ambii dintre voi veti primii un premiu in bani per fiecare trandafir.
+- Top 3 fete cu cei mai multi trandafiri vor fi premiate cu VIP Fury 30 de zile.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1207168008372494396/image.png?ex=65dea9d1&is=65cc34d1&hm=228f94dcd2ee75cc336f4086746427cadc2d8a5a490b1dcf4fadd5b5a1d9f5b4&=&format=webp&quality=lossless&width=605&height=369)
+
+- Au fost setate la toate jafurile cu 2 politisti in plus necesari (cum au fost inainte de update-ul cu on duty necesar).
+- A fost marit jaful de la Pacific de la 6.000.000$ la 8.000.000$
+- A fost marit jaful de Containere de la 5.000.000$ la 9.000.000$
+
+## Server Update v2.64
+
+- A fost adaugata limita de top up slots pe zi in functie de VIP.
+- A fost adaugata legitimatie la Primarie.
+- A fost marit salariul la Primarie.
+- A fost creat grupul Avocat.
+- Jucatorii sub 150 de ore nu mai au acces la Casino.
+- A fost reparata problema usii la jobul de Curier
+
+## Server Update v2.63
+
+### JOB NOU - Curier
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1205566228463091904/curier.png?ex=65d8d60b&is=65c6610b&hm=76050acdd0364f74c9d6bf4020491bd6310b876fca4b6d63b998cac0b83b3b4c&=&format=webp&quality=lossless&width=563&height=563)
+
+- BK de la medici pentru politie: Polițiștii pot cere acum ajutor rapid de la medici.
+- BK de la medici pentru medici (echipaje aditionale): Medicii pot chema mai multe ambulanțe când e nevoie.
+- Grad MOTO: Smurd
+- Grad ISU: Smurd
+- O problemă referitoare la stergerea rapoartelor a fost rezolvată.
+- A fost adaugata taierea salarila la Smurd
+- Au fost adaugate blips-uri pentru medicii On Duty
+- Verificarea politistilor online pentru jafuri a fost scoasa, de acum verificarea se va face pentru politistii ON-Duty
+- Jaful de la pacific a primit boost de la 5M la 6M.
+- Volvo Medici a primit boost la viteza.
+- BMW Medici a primit boost la viteza
+- A fost adaugata masina de Descarcerare
+- Au fost reparate targile ambulantelor.
+- Elicopterul Smurd a fost reparat.
+
+## Server Update v2.62
+
+### CASINO UPDATE - BURNING CROWN SLOTS
+- Slot machine creat de la 0 de noi avand in compozitie doua speciale.
+- Functioneaza pe baza de Casino Chips care sunt de 2 tipuri Blue Chips - Standard si Orange Chips - Premium
+- Withdraw-ul Premium chips este permis dupa rularea X3 a sumei depuse initial.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1203763574594474014/SLOTS1.png?ex=65db81b1&is=65c90cb1&hm=d3316550606dd1fd87899c4124fbfd59ff60d843ab669d26299d14582f11e41c&=&format=webp&quality=lossless&width=1193&height=671)
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1203763575265566770/image.png?ex=65db81b1&is=65c90cb1&hm=f35a28ee1a7b3cf7c7203d41039a56cb5d76b303f848709822673996cc263188&=&format=webp&quality=lossless&width=1190&height=671)
+
+## Server Update v2.61
+### WAR EVENT UPDATE
+- A fost adaugata o noua harta - "SALA"
+
+- A fost retexturata sectia de politie.
+- Au fost facute modificari la sistemul de tickete, doar pentru admini.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1201542358420959332/update-warevennt.jpg?ex=65d36d05&is=65c0f805&hm=6e6fb206122bcc490edffeb25f6684cbc757440936bbb6dfd4bcaf55c3053597&=&format=webp&width=1193&height=671)
+
+## Server Update v2.60 - Cars Update
+
+- Bugatti Veyron Super Sport
+- Ferrari Purosangue
+- Rolls-Royce Ghost
+- Concept 508 Peugeot Sport
+- Aston Martin V12 Vantage
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1201013865710895124/furyvehs.jpg?ex=65dabb53&is=65c84653&hm=2e0ef816cf74e835096c24462d8a21e3428255910aafdf08527fe1a2f017200a&=&format=webp&width=1193&height=671)
+
+## Server Update v2.59
+
+- A fost rezolvată problema plantării semințelor de Marijuana.
+- Capacitatea benzinariilor a fost mărită de la 5000l la 7500l.
+- A fost adăugată o nouă sală de forță, "FuryGym," la codul postal 663, folosind comanda /gps.
+- Animația de revive a fost scurtată în durată pentru trusele mafiilor și ale polițiștilor.
+- De acum, când primești damage în timpul manevrei de revive, acțiunea va fi anulată.
+- Animația folosirii adrenalinei a fost scurtată, iar acum vă permite să alergați în timpul animației.
+- Cooldown-ul folosirii armurii a fost scăzut de la 3 minute la 2 minute.
+- De acum înainte, ESP-ul mașinilor nu mai poate fi dezactivat dacă mașina depășește viteza de 10 km/h.
+- Au fost făcute modificări minore la sistemul de livrări al drogurilor pentru a evita livrarea în timpul dimineții.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1199215796421935135/image.png?ex=65d430be&is=65c1bbbe&hm=ae3afa36a6d855260b7ca8efa276d36c3a44a90f086df963ccdfa05242e3049c&=&format=webp&quality=lossless&width=633&height=671)
+
+## Server Update v2.58
+
+- Locatia de procesare marijuana-tutun a fost schimbata.
+- Locatia de productie marijuana a fost schimbata.
+- Locatia de productie cocaina a fost schimbata.
+- Factiunea SMURD a primit un pack nou de masini:
+:::info
+-> 1 Logan
+     
+-> 2 Skoda
+
+-> 3 Descarcerare
+
+-> 4 Pompieri-Scania
+
+-> 5 Bronco
+
+-> 6 BMW Seria 3
+
+-> 7 Volvo XC90
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1198519652960194570/smurd_vehcile.png?ex=65bf3368&is=65acbe68&hm=28a6360e63f3f788fac6e4383316d86ad95710bf0010ad37f468af67cf45f74d&=&format=webp&quality=lossless&width=1073&height=671)
+:::
+- ⚽Fury Bet este din nou LIVE⚽ 
+
+## Server Update v2.57 - NEW BUSINESS
+
+### Vending Machines
+
+- Acest sistem vă oferă posibilitatea de a deține un automat de alimente sau obiecte provenite din magazine.
+- Automatele se achiziționează prin licitație exact ca orice alt tip de business.
+- A fost creată o licență specială pentru ele.
+- Prima licitație va avea loc astăzi, 18/01, într-o locație care va fi anunțată mai târziu prin intermediul canalelor IC.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1197439062181687356/image.png?ex=65bb4507&is=65a8d007&hm=f82ee74087d4cb0b8fbb064950442e28a7b685923ce7163e8fc628f0c25024e5&)
+
+## Server Update v2.56
+
+- Au fost adaugate haine noi, in continuarea celor deja existente.
+- Au fost optimizate toate masinile, pentru o experienta placuta fara lag.
+
+## Server Update v2.55
+
+- A fost schimbata sectia de politie.
+- A fost crescut DMG-ul pe M4COLT si AR15
+
+## Server Update v2.54
+
+- Avand in vedere discrepanta dintre cei care au acces la utilizarea armelor de orgaizatie / mafie si cei care nu au acces la aceste arme, am decis sa cream un nou poll doar pentru categoria jucatorilor care au testat mai mult noul combat.
+Intrebarile poll-ului a fost: 
+- "Rework arme : armele de acum + 4/5 dmg boost + multiplier head?  "Rezultat 78,98%
+- "Rework arme: Armele vechi + nerf la damage fara navy, fara military, fara shotgunuri" Rezultat 21,02%
+
+- Astfel incat aproximativ 80% din cei 157 de jucatori, au raspuns ca doresc un Damage crescut si un usor Head Multiplier.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1195623364950249482/image.png?ex=65b4aa07&is=65a23507&hm=c057087c009c4aa35ba54c5b57d8d6bf4fc16808e9168f0f563853c7665e4c88&)
+
+- Armele au primit + 4 Damage/hit
+- A fost reactivat Headshot multiplier , dar cu 1,2x fata de Body Hit ( Ex : Daca arma X are body hit 20 dmg , la headshot va fi 24 dmg.
+- De acum armele au acelasi dmg de la orice distanta.
+- Distanta de bataie a glontului unui SMG a fost scazuta de la 100 de unitati la 80.
 
 ## Server Update v2.53
 

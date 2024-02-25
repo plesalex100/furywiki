@@ -136,19 +136,26 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.15 Character Kill</span>
-- Reprezintă momentul în care personajul creat de dvs. **moare în totalitate**, iar tot progresul va fi pierdut. 
+- Reprezintă momentul în care personajul creat de dvs. **moare în totalitate**, iar tot progresul va fi pierdut.
 - Toate informațiile acumulate din momentul în care ați creat personajul vor fi uitate.
 - **Orele jucate vor fi resetate**.
 - **Toată averea** acumulată până la momentul respectiv **va fi pierdută**.
 - Va trebui să vă creați **alt caracter**, cu un **alt nume**, cu o **altă înfățișare**.
+- ***Pentru mafii: daca aveti situatie de ck: trebuie sa chemati un Admin 3+ si un membru Sindicat ca sa decida daca contextul se va termina cu ck. In cazul in care nu este o persoana avizata care sa decida situatia puteti “sechestra” persoana pana vine cineva ce are putere decizionala
 
 ::: warning ATENȚIE!
 :exclamation:VIP-urile, beneficiile achiziționate de pe [store.furyrp.ro](store.furyrp.ro) **nu vor fi pierdute în urma CK-ului**.
 Se va primi CK atunci: 
 - Când un jucător se sinucide (/me moare, accidente intentionate).
+- La anumite situatii de no-fear
+- In momentul cand incerci sa ataci o persoana ce are arma de foc si tu ai o arma alba si mori
+- Cand esti ostatic si membrii din aceeasi organizatie nu respecta faptul ca esti luat ostatic
 - Când un jucător acumulează 4 caziere.
 - Când un jucător își trădează organizația, gruparea din care face parte.
 - Când un jucător descoperă și/sau abuzează de un BUG ce îi oferă beneficii materiale.
+:::
+:::danger EXPLICAȚIE ARMA ALBĂ VS ARMĂ DE FOC
+- De multe ori playerii aleg sa atace, desi vizibil sau la o distanta considerabila un alt jucator cu un cutit/briceag, deoarece aceste arme albe au o animatie care nu poate fi evitata si da 1-shot. Se creeaza situatii unde jucatorii inarmati cu cutite alearga inspre o persoana cu pistol/automata sperând sa intre in animatia de 1shot. Acest lucru e considerat Nofear, deoarece stii clar ca poti fi picat, dar totusi tu alegi sa faci asta. Fiind un lucru asumat, de aici rezulta si CK-ul.
 :::
 
 <hr style="transform: translateY(10px)"/>
@@ -359,7 +366,20 @@ Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zile
 ### <span class="header-font">1.40 Folosirea de iteme in combat</span>
 - In timpul combat-ului aveti dreptul sa folositi armuri/adrenaline/bandaje.
 
-### <span class="header-font">1.41 Zone pe server</span>
+### <span class="header-font">1.41 REGULA LOCUINTE</span>
+
+- Fiecare proprietar de locuință are responsabilitatea de a acorda atenție și discernământ atunci când decide cui încredințează cheile casei sale. Persoanele care dețin chei vor beneficia de acces la spațiile de depozitare din interiorul locuinței
+
+### <span class="header-font">1.42 MODIFICARI ILEGALE ALE JOCULUI</span>
+
+- Nu sunt permise modurile de grafică care să altereze condițiile meteorologice, să elimine texturi sau obiecte (props-uri) și nici să aducă beneficii in combat. De asemenea, modurile care implică killfx nu sunt permise. Folosirea acestor moduri atrage sanctiunea de ban.
+- De asemenea va este interzis sa folositi sau sa aveti in PC fisiere care modifica damage, arme, hitbox, etc.
+
+:::tip
+Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Always day, No bushes, etc
+:::
+
+### <span class="header-font">1.43 Zone pe server</span>
 
 ::: tip
 - **Zone Publice**: Autostrăzi, Aeroporturi, Sediile joburilor legale, Magazinele de haine, Bancomate, Bănci, Magazine alimentare,
@@ -385,12 +405,13 @@ a locurilor foarte retrase)
 - 2.07   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
 - 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
 - 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
-- 2.10  Puteți sechestra un ostatic/persoana rapita intr-o locatie maxim 48h. Persoana care este “legată”(sechestrata) are dreptul sa faca joburi legale, în schimb nu are dreptul sa faca ilegalități de vreun fel sau sa informeze ca este legat IC. (Va trebuie un motiv întemeiat sa sechestrati pe cineva, sechestrarea unui player fără un motiv bine întemeiat atrage sancțiuni)
+- 2.10  Puteți sechestra un ostatic/persoana rapita intr-o locatie maxim 48h. Persoana care este “legată”(sechestrata) are dreptul sa faca joburi legale, în schimb nu are dreptul sa faca ilegalități de vreun fel sau sa informeze ca este legat IC. (<span style="color:red">Vă trebuie aprobarea unui Admin 4+</span>, un motiv întemeiat sa sechestrati pe cineva, sechestrarea unui player fără un motiv bine întemeiat atrage sancțiuni)
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">3.0 Jefuitul</span>
-- 3.01   Aveți voie să jefuiți jucători doar în intervalul orar **19:00 - 07:00**.
+<!-- - 3.01   Aveți voie să jefuiți jucători doar în intervalul orar **19:00 - 07:00**. -->
+- 3.01   Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (<span style="color:yellow">In dreapta sus la hud va aparea o iconita cu o luna</span>)
 - 3.02   Nu aveți voie să jefuiți persoane în zone publice. 
 - 3.03   Nu aveți voie să jefuiți persoanele ce practică un job legal vizibil.
 - 3.04   Nu aveți voie să jefuiți Polițiștii și Medicii **ON-DUTY** (sunt îmbrăcați în uniformă). În cazul în care sunt OFF-DUTY, aveți voie să îi jefuiți.
@@ -438,11 +459,12 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 
 ### <span class="header-font">8.0 Regulament Jaf Banca Pacific/ Transport</span>
 
-- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
-- Numarul maxim de membri care pot participa la  jaful unui Transport bancar este de 20 (doar cu grad).
-- Numarul minim de membri care pot participa la orice tip de jaf (Exceptand ATM-urile) este de 4 (Membri cu grad si membri din familia mica).
-- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf. (Exceptie politia, se roleaza ca mereu sunt intariri pe drum)
+- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 30 (Membri cu grad si membri din familia mica).
+- Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 10 (doar cu grad).
+- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
+- Numarul minim de oameni la jaful de la Vangelico este de 4 oameni inauntrul locatiei.
 - La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
+
 
 ::: danger IMPORTANT!
 - **Este recomandat să verificați regulamentul periodic în cazul în care apar schimbări.**

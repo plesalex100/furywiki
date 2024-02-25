@@ -3,9 +3,9 @@ title: Locații
 ---
 
 
-# <center>Locații joburi</center>
+# <span class="title-font"><center>Locații joburi</center></span>
 
-## Folosirea [comenzii /gps](/informatii/comenzi)
+## <span class="header-font">Folosirea [comenzii /gps](/informatii/comenzi)</span>
 
 - O metodă pentru aflarea locațiilor este să folosiți în chat comanda ***/gps***.
 
@@ -15,8 +15,10 @@ title: Locații
 
 ![locatiijobs2](https://i.imgur.com/QjO3kse.png)
 
-## Folosirea aplicației E-Jobs din telefon
+## <span class="header-font">Folosirea aplicației E-Jobs din telefon</span>
 
-- O altă metodă este folosirea aplicației E-Jobs, selectarea jobului și apăsarea pe butonul de locație.
+:::info 
+- <span style="color:white">O altă metodă este folosirea aplicației E-Jobs, selectarea jobului și apăsarea pe butonul de locație.</span>
+:::
 
 ![](https://i.imgur.com/J45IOJv.png)

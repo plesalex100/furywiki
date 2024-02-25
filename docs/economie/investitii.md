@@ -3,22 +3,26 @@ title: Investiții
 ---
 
 
-# <center>Investiții</center>
+# <span class="title-font"><center>Investiții</center></span>
 
-## Ce sunt investițiile și cum funcționează?
+## <span class="header-font">Ce sunt investițiile și cum funcționează?</span>
 
-- Investițiile reprezintă un venit pasiv care îți oferă o sumă de bani în funcție de activitatea pe server.
+:::info
+- <span style="color:white">Investițiile reprezintă un venit pasiv care îți oferă o sumă de bani în funcție de activitatea pe server.</span>
 
-- Acestea pot fi accesate din [telefon](/general/telefon), mai exact din aplicația "Investiții".
+- <span style="color:white">Acestea pot fi accesate din [telefon](/general/telefon), mai exact din aplicația "Investiții".</span>
 
-- Investițiile sunt de 2 tipuri:
- 
-### Short term
--> reprezintă numărul de ore jucate pe care le-ai ales să le petreci pe server în ziua respectivă
+- <span style="color:white">Investițiile sunt de 2 tipuri:</span>
+:::
 
--> chiar dacă te deconectezi, orele jucate se vor păstra
+### <span class="header-font">Short term</span>
+:::info
+<span style="color:white">-> reprezintă numărul de ore jucate pe care le-ai ales să le petreci pe server în ziua respectivă</span>
 
--> reward-urile sunt stabilite astfel:
+<span style="color:white">-> chiar dacă te deconectezi, orele jucate se vor păstra</span>
+
+<span style="color:white">-> reward-urile sunt stabilite astfel:</span>
+:::
 
 :::warning Atenție!
 - investițiile short term se resetează pentru toată lumea la ora 04:00 (ora României) indiferent dacă ai o investiție activă sau nu.
@@ -43,12 +47,14 @@ title: Investiții
 De exemplu, dacă am făcut o investiție de 5 ore, dar am jucat doar 4 ore, nu voi primi niciun reward. Dar dacă am făcut o investiție de o oră și eu am jucat 6 ore, voi primi reward-ul doar pentru o oră, astfel data viitoare voi calcula mai bine câte ore îmi voi petrece pe server.
 :::
 
- ### Long term 
- -> se investesc atât ore, cât și sume de bani
+ ### <span class="header-font">Long term </span>
+ :::info
+ <span style="color:white">-> se investesc atât ore, cât și sume de bani</span>
 
- -> pot fi făcute la rând, după fiecare investiție finalizată
+ <span style="color:white">-> pot fi făcute la rând, după fiecare investiție finalizată</span>
 
- -> reward-urile sunt stabilite astfel:
+ <span style="color:white">-> reward-urile sunt stabilite astfel:</span>
+:::
 
 |   Ore investite |   Sumă investită   |    Reward   |  Total (suma investită + reward) |
 |  :-----------:  |   :-------------:  |   :-----:   |  :----:   |
@@ -62,9 +68,9 @@ De exemplu, dacă am făcut o investiție de 5 ore, dar am jucat doar 4 ore, nu 
 |     400 ore     |       $800000      |    $440000  |  $1240000 |
 
 :::info Atenție!
-- Poți alege orice investiție indiferent de câte ore jucate actuale deții.
-- Anularea investiției va duce la pierderea sumei investite și a progresului.
-- Nu poți avea mai mult de o investiție long term activă.
+- <span style="color:white">Poți alege orice investiție indiferent de câte ore jucate actuale deții.</span>
+- <span style="color:white">Anularea investiției va duce la pierderea sumei investite și a progresului.</span>
+- <span style="color:white">Nu poți avea mai mult de o investiție long term activă.</span>
 :::
 
 :::tip Exemplu

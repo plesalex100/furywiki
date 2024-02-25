@@ -8,30 +8,32 @@ title: ANAF
 
 <!-- ![](https://i.imgur.com/cYIuCTd.png) { width="300" height="600" style="display: block; margin: 0 auto; align=center" } -->
 
-# <center>:credit_card:Informații despre ANAF:euro:</center>
+# <span class="title-font"><center>:credit_card:Informații despre ANAF:euro:</center></span>
 
-## Cu ce ne ocupăm?
+## <span class="header-font">Cu ce ne ocupăm?</span>
 
-ANAF-ul (Agenția Națională de Administrare Fiscală) este o instituție responsabilă de administrarea și supravegherea sistemului fiscal al orașului Fury. ANAF are mai multe atribuții și responsabilități, printre care se numără:
+:::info
+<span style="color:white">ANAF-ul (Agenția Națională de Administrare Fiscală) este o instituție responsabilă de administrarea și supravegherea sistemului fiscal al orașului Fury. ANAF are mai multe atribuții și responsabilități, printre care se numără:</span>
 
-- supravegherea conformității fiscale
-- inspectarea și controlul fiscal
-- combaterea evaziunii fiscale
-- furnizarea de asistență și informații fiscale
+- <span style="color:white">supravegherea conformității fiscale</span>
+- <span style="color:white">inspectarea și controlul fiscal</span>
+- <span style="color:white">combaterea evaziunii fiscale</span>
+- <span style="color:white">furnizarea de asistență și informații fiscale</span>
+:::
 
-## Structură
+## <span class="header-font">Structură</span>
 
-### Director ANAF
+### <span class="header-font">Director ANAF</span>
 
 - Supervizarea activităților departamentelor și coordonarea întregii facțiuni.
 
-### Ofițeri ANAF
+### <span class="header-font">Ofițeri ANAF</span>
 
 - Asigurarea aplicării corecte a procedurilor și regulilor interne.
 
 - Supervizarea și instruirea membrilor.
 
-### Membrii ANAF
+### <span class="header-font">Membrii ANAF</span>
 
 - Participarea la activități și misiuni specifice departamentului lor.
 
@@ -39,7 +41,7 @@ ANAF-ul (Agenția Națională de Administrare Fiscală) este o instituție respo
 
 - todo -->
 
-## Combaterea evaziunii fiscale
+## <span class="header-font">Combaterea evaziunii fiscale</span>
 
 - Membrii ANAF au la dispoziție un program special care monitorizeaza afacerile.
 
@@ -51,7 +53,7 @@ Interfața acestui program este știută doar de ANAF și nu este disponibilă p
 
 - ANAF-ul menține confidențialitatea întotdeauna, astfel datele personale sunt protejate n conformitate cu legile și politicile de confidențialitate aplicabile.
 
-## Comunicare cu comunitatea
+## <span class="header-font">Comunicare cu comunitatea</span>
 
 - ANAF-ul poate organiza ghiduri și sesiuni de întrebări și răspunsuri pentru a ajuta membrii comunității să înțeleagă mai bine sistemul fiscal, și pentru a-l regla dacă este nevoie.
 

@@ -3,7 +3,7 @@ title: Întrebări frecvente
 ---
 
 
-# <span class="title-font"><center>:question:Q&A:exclamation:</center></span>
+# <span class="title-font"><center>:question:FAQ:exclamation:</center></span>
 
 ### <span class="title-font"><center> Această secțiune este dedicată întrebărilor adresate frecvent staff-ului sau întrebările pe care jucătorii și le adresează înainte de a se decide să începă să joace pe Fury Romania</center></span>
 
@@ -22,9 +22,9 @@ Pentru a juca pe această platformă trebuie să aveți GTA 5 cumpărat.
  Acest mod de joc are în spate niște *[REGULI](https://furyrp.ro/regulament/)* care trebuiesc citite și reținute deoarece respectarea acestora contribuie la buna desfășurare a activităților și interacțiunilor playerilor pe server. 
 :::
 
-## <span class="header-font">Q: Serverul este Hard RP?</span>
+## <span class="header-font">Q: Ce tip de roleplay are serverul?</span>
 
-### A: Serverul nu are stabilit nivelul de roleplay, însă toate acțiunile trebuiesc făcute la un nivel cât mai înalt de realism și cât mai avansate.
+### A: Serverul este de tip <span style="color:red">Advanced Roleplay</span>, astfel toate acțiunile trebuiesc făcute la un nivel cât mai înalt de realism și cât mai avansate.
 
 ## <span class="header-font">Q: Trebuie să fac un test introductiv ca să joc pe server?</span>
 

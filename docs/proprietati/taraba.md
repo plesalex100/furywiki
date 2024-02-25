@@ -6,9 +6,9 @@ title: Taraba la portbagaj
     import KeyIcon from '../.vitepress/components/KeyIcon.vue'
 </script>
 
-# <center>Informații despre taraba creată la portbagajul dubei</center>
+# <span class="title-font"><center>Informații despre taraba creată la portbagajul dubei</center></span>
 
-## Cum îmi pot deschide o tarabă la portbagajul dubei?
+## <span class="header-font">Cum îmi pot deschide o tarabă la portbagajul dubei?</span>
 
 - Puteți face asta apăsând tasta <KeyIcon keyType="k"/> *-> Meniu Vehicul -> Deschide Taraba* în apropierea dubei. În momentul acela ușile din spatele dubei se vor deschide, iar în spatele dubei va apărea o masă.
 
@@ -24,11 +24,13 @@ title: Taraba la portbagaj
 ![](https://i.imgur.com/pJCE1cd.png)
 ![](https://i.imgur.com/38HF3KP.png)
 
-## Ce avantaje am dacă deschid acest tip de magazin?
+## <span class="header-font">Ce avantaje am dacă deschid acest tip de magazin?</span>
 
-Avantajele acestui tip de magazin sunt:
-- Vânzare rapidă a produselor
-- Posibilitatea de a vinde produsele la prețul dorit
-- Posibilitatea de a vinde produsele în orice locație
-- Posibilitatea de a gestiona propriul stock de produse
-- etc
+:::info
+<span style="color:white">Avantajele acestui tip de magazin sunt:</span>
+- <span style="color:white">Vânzare rapidă a produselor</span>
+- <span style="color:white">Posibilitatea de a vinde produsele la prețul dorit</span>
+- <span style="color:white">Posibilitatea de a vinde produsele în orice locație</span>
+- <span style="color:white">Posibilitatea de a gestiona propriul stock de produse</span>
+- <span style="color:white">etc</span>
+:::

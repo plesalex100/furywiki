@@ -2,18 +2,14 @@
 title: Achievement-uri
 ---
 
-# <center>Informații despre achievement-uri și daily quest-uri</center>
+# <span class="title-font"><center>Informații despre achievement-uri și daily quest-uri</center></span>
 
-## Ce sunt achievement-urile și daily quest-urile?
+## <span class="header-font">Ce sunt achievement-urile și daily quest-urile?</span>
 
 - Achievement-urile sunt obiective pe care le poți îndeplini pentru a primi recompense în bani, iar daily quest-urile sunt niște obiective primtie zilnic pe care le poți îndeplini pentru a primi recompense în bani.
 
-## Cum pot vedea achievement-urile și daily quest-urile?
+## <span class="header-font">Cum pot vedea achievement-urile și daily quest-urile?</span>
 
 - Meniul poate fi accesat cu ajutorul aplicației "Achievements" de pe [telefon](/general/telefon).
 
 ![](https://i.imgur.com/dhTr27U.png)
-
-## Cum funcționează nivelul și job boost-ul?
-
-- todo
