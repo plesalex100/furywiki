@@ -10,6 +10,15 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## Update 27/02/2024
+
+[1.07 PowerGaming](/informatii/regulament.html#_1-07-power-gaming-pg)
+
+- Nu se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti tranzactii intr-o zona rau famata/retrasa cu obiecte/masini si inainte sa faceti tranzactia il jefuiti/rapiti.
+- Se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti o tranzactie de tipul : " Vand inel cu diamant/furi/aur" si il ademeniti intr-o zona rau famata/retrasa pentru a-l jefui/rapi. Incercam ca tranzactiile de tipul asta sa nu fie permise.
+- Se considera PG atunci cand de exemplu cineva vrea sa cumpere o masina , acesta va cere sa faca un test-drive cu ea si il fortati sa vina cu voi intr-o zona rau famata/retrasa. De ce? Pentru ca din script nu puteti sa sariti din masina decat la viteze foarte mici, astfel nu dati sansa la RP si celuilalt.
+- Nu se considera PG atunci cand intr-un RP blocati caile de acces. De ce? In functie de RP-ul pe care vreti sa-l faceti PD/Mafie fiecare isi creaza un avantaj blocand caile de acces. ( Mafiile blocheaza o locatie sa prinda jefuitori sau alta mafie, PD-ul blocheaza o zona sa nu iasa nimeni din ea la razie etc.)
+
 ## [Temporar] Update 25/02/2024 
 [Jefuitul 3.01](/informatii/regulament.html#_3-0-jefuitul)   
 - Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (In dreapta sus la hud va aparea o iconita cu o luna)
