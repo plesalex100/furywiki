@@ -10,19 +10,20 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
-## [Temporar] Server Update v2.70
+## Server Update v2.71
 
-- Am introdus un nou concept pentru a permite tuturor jucătorilor cu timp de joc variat să poată desfășura activități diferite pe tot parcursul unei zile.
+- Având în vedere rezultatele votului privind noul sistem, am decis să îl eliminăm de pe server.
+- Sistemul corelat cu ora reala de noapte zi este din nou pe server.
 
-- Acest sistem alternează noaptea cu ziua pe server la intervale regulate și stabilite.
+## ~~[Temporar] Server Update v2.70~~
 
-- Pentru a putea vedea ora în intervalul respectiv, ora de pe telefon (L) indică acum ora intervalului.
+~~- Am introdus un nou concept pentru a permite tuturor jucătorilor cu timp de joc variat să poată desfășura activități diferite pe tot parcursul unei zile.~~
 
-- A fost adăugat un nou tab în Dynamic HUD care indică dacă este noapte sau zi.
+~~- Acest sistem alternează noaptea cu ziua pe server la intervale regulate și stabilite.~~
 
-:::danger !!!
-- Sistemul este în teste timp de 48 de ore, după care vom decide prin vot dacă sistemul rămâne pe server sau se revine la varianta normală.
-:::
+~~- Pentru a putea vedea ora în intervalul respectiv, ora de pe telefon (L) indică acum ora intervalului.~~
+
+~~- A fost adăugat un nou tab în Dynamic HUD care indică dacă este noapte sau zi.~~
 
 ## Server Update v2.69
 

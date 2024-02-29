@@ -19,10 +19,10 @@ title: Update-uri Regulament
 - Se considera PG atunci cand de exemplu cineva vrea sa cumpere o masina , acesta va cere sa faca un test-drive cu ea si il fortati sa vina cu voi intr-o zona rau famata/retrasa. De ce? Pentru ca din script nu puteti sa sariti din masina decat la viteze foarte mici, astfel nu dati sansa la RP si celuilalt.
 - Nu se considera PG atunci cand intr-un RP blocati caile de acces. De ce? In functie de RP-ul pe care vreti sa-l faceti PD/Mafie fiecare isi creaza un avantaj blocand caile de acces. ( Mafiile blocheaza o locatie sa prinda jefuitori sau alta mafie, PD-ul blocheaza o zona sa nu iasa nimeni din ea la razie etc.)
 
-## [Temporar] Update 25/02/2024 
-[Jefuitul 3.01](/informatii/regulament.html#_3-0-jefuitul)   
-- Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (In dreapta sus la hud va aparea o iconita cu o luna)
-### <span style="color:red">[REGULA TEMPORARA - SERVER UPDATES](/informatii/updatesv.html#temporar-server-update-v2-70)</span>
+## ~~[Temporar] Update 25/02/2024 ~~
+~~[Jefuitul 3.01](/informatii/regulament.html#_3-0-jefuitul)   ~~
+~~- Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (In dreapta sus la hud va aparea o iconita cu o luna)~~
+### ~~<span style="color:red">[REGULA TEMPORARA - SERVER UPDATES](/informatii/updatesv.html#temporar-server-update-v2-70)~~</span>
 
 ## Update 18/02/2024
 

@@ -416,8 +416,8 @@ a locurilor foarte retrase)
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">3.0 Jefuitul</span>
-<!-- - 3.01   Aveți voie să jefuiți jucători doar în intervalul orar **19:00 - 07:00**. -->
-- 3.01   Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (<span style="color:yellow">In dreapta sus la hud va aparea o iconita cu o luna</span>)
+- 3.01   Aveți voie să jefuiți jucători doar în intervalul orar **19:00 - 07:00**.
+<!-- - 3.01   Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (<span style="color:yellow">In dreapta sus la hud va aparea o iconita cu o luna</span>) -->
 - 3.02   Nu aveți voie să jefuiți persoane în zone publice. 
 - 3.03   Nu aveți voie să jefuiți persoanele ce practică un job legal vizibil.
 - 3.04   Nu aveți voie să jefuiți Polițiștii și Medicii **ON-DUTY** (sunt îmbrăcați în uniformă). În cazul în care sunt OFF-DUTY, aveți voie să îi jefuiți.
