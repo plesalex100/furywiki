@@ -10,6 +10,24 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## Update 12/03/2024
+
+[3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
+
+- 3.10 Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 3 ore.
+
+## Update 11/03/2024
+
+[1.29 Ticket in Roleplay](/informatii/regulament.html#_1-29-ticket-in-roleplay)
+
+- Nu mai aveti voie sa faceti ticket in RP. In cazul in care in acel RP failul este "Roleplay scarbos" / "Troll" aveti permisiunea de a chema un admin.
+
+## [Temporar] Update 03/03/2024
+
+[2.0 Rapirea/Ostatici](/informatii/regulament.html#_2-0-rapirea-ostatici)
+
+- <span style="color:orange">2.11</span> <span style="color:red"> **Temporar**: Nu aveti voie sa mai rapiti oameni, sa ii tineti ostatici in schimbul unei sume de bani sau bunuri materiale. (Momentan nu avem o solutie clara si fair d.p.d.v al RP-ului, dar in ultimul timp s-a exagerat cu acest tip de RP)</span>
+
 ## Update 27/02/2024
 
 [1.07 PowerGaming](/informatii/regulament.html#_1-07-power-gaming-pg)
@@ -18,11 +36,6 @@ title: Update-uri Regulament
 - Se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti o tranzactie de tipul : " Vand inel cu diamant/furi/aur" si il ademeniti intr-o zona rau famata/retrasa pentru a-l jefui/rapi. Incercam ca tranzactiile de tipul asta sa nu fie permise.
 - Se considera PG atunci cand de exemplu cineva vrea sa cumpere o masina , acesta va cere sa faca un test-drive cu ea si il fortati sa vina cu voi intr-o zona rau famata/retrasa. De ce? Pentru ca din script nu puteti sa sariti din masina decat la viteze foarte mici, astfel nu dati sansa la RP si celuilalt.
 - Nu se considera PG atunci cand intr-un RP blocati caile de acces. De ce? In functie de RP-ul pe care vreti sa-l faceti PD/Mafie fiecare isi creaza un avantaj blocand caile de acces. ( Mafiile blocheaza o locatie sa prinda jefuitori sau alta mafie, PD-ul blocheaza o zona sa nu iasa nimeni din ea la razie etc.)
-
-## ~~[Temporar] Update 25/02/2024 ~~
-~~[Jefuitul 3.01](/informatii/regulament.html#_3-0-jefuitul)   ~~
-~~- Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (In dreapta sus la hud va aparea o iconita cu o luna)~~
-### ~~<span style="color:red">[REGULA TEMPORARA - SERVER UPDATES](/informatii/updatesv.html#temporar-server-update-v2-70)~~</span>
 
 ## Update 18/02/2024
 

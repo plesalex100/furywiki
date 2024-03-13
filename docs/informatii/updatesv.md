@@ -10,6 +10,28 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.74
+
+- Au fost scazute preturile de cumparare a obiectelor din magazine pentru cei care detin afacerile.
+- Acest fapt incurajeaza angajarea jucatorilor noi pentru aprovizionarea magazinelor.
+- A fost scazut stock-ul itemelor in magazine cat si capacitatea maxima de livrare penntru magazine.
+- Cooldown-ul de la folosirea armurii a fost scazut de la 2 min la 1 min.
+
+## Server Update v2.73
+
+- Trusa firmelor de mecanici poate fi utilizata doar in jurul masinii de mecanici.
+- Au fost adaugate haine noi pentru medici.
+- Au fost optimizate masinile care consumau.
+- Poti conduce in timp ce folosesti telefonul.
+
+## Server Update v2.72
+
+### S-au făcut optimizări la server pentru reducerea consumului de resurse:
+
+- Au fost optimizate majoritatea hainelor.
+- Au fost eliminate mappingurile neatribuite unor mafii sau neutilizate.
+- A fost eliminată mașina Toyota RAV4 de la medici.
+
 ## Server Update v2.71
 
 - Având în vedere rezultatele votului privind noul sistem, am decis să îl eliminăm de pe server.

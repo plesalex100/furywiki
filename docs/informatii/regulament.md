@@ -283,9 +283,7 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.29 Ticket în Roleplay</span>
-- Este **permis** să chemați un admin în timpul unui roleplay.
-- În cazul în care se desfășoară un schimb de focuri lângă dvs. și doriți să faceți ticket, aveți răbdare ca schimbul de focuri să se termine, pentru a nu strica experiența celor din jurul vostru. De asemenea, în cazul roleplay-urilor complexe, cu un număr mare de participanți, aveți obligația de a vă îndepărta și a face ticketul astfel încât să nu deranjați persoanele din jurul vostru.
-(Ticketul nu reprezinta incheierea RP-ului, decat daca ambele parti doresc incheierea acestuia)
+- <span style="color:red">Nu mai aveti voie sa faceti ticket in RP. In cazul in care in acel RP failul este "Roleplay scarbos" / "Troll" aveti permisiunea de a chema un admin.</span>
 
 <hr style="transform: translateY(10px)"/>
 
@@ -411,7 +409,8 @@ a locurilor foarte retrase)
 - 2.07   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
 - 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
 - 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
-- 2.10  Puteți sechestra un ostatic/persoana rapita intr-o locatie maxim 48h. Persoana care este “legată”(sechestrata) are dreptul sa faca joburi legale, în schimb nu are dreptul sa faca ilegalități de vreun fel sau sa informeze ca este legat IC. (<span style="color:red">Vă trebuie aprobarea unui Admin 4+</span>, un motiv întemeiat sa sechestrati pe cineva, sechestrarea unui player fără un motiv bine întemeiat atrage sancțiuni)
+- 2.10  Puteți sechestra un ostatic/persoana rapita intr-o locatie maxim 24h. Persoana care este “legată”(sechestrata) are dreptul sa faca joburi legale, în schimb nu are dreptul sa faca ilegalități de vreun fel sau sa informeze ca este legat IC. (<span style="color:red">Vă trebuie aprobarea unui Admin 4+</span>, un motiv întemeiat sa sechestrati pe cineva, sechestrarea unui player fără un motiv bine întemeiat atrage sancțiuni)
+- 2.11  <span style="color:red">Temporar: Nu aveti voie sa mai rapiti oameni, sa ii tineti ostatici in schimbul unei sume de bani sau bunuri materiale. (Momentan nu avem o solutie clara si fair d.p.d.v al RP-ului, dar in ultimul timp s-a exagerat cu acest tip de RP)</span>
 
 <hr style="transform: translateY(10px)"/>
 
@@ -426,6 +425,7 @@ a locurilor foarte retrase)
 - 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
 - 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
 - 3.09 Mafiile și organizațiile(factiunile plătite) au dreptul de a jefui alti playeri doar cu un motiv IC bine întemeiat.
+- 3.10 Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 3 ore.
 
 <hr style="transform: translateY(10px)"/>
 
