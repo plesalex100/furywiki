@@ -10,6 +10,34 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## Update 16/03/2024
+
+[1.43 Disconnect/Combat Logging](/informatii/regulament.html#_1-43-disconnect-in-roleplay-combat-logging)
+
+- NU este permis sa va dati Disconnect in RP.
+- NU este permis sa va dati disconnect ca sa fugiti de o interactiune. ( EX: ati jefuit pe cineva, ati fugit 1 minut in zona publica v-ati dat disconnect)
+- NU este permis sa va dati disconnect pe zone de ilegale. ( Exclus rau famate)
+- NU este permis sa va dati disconnect pe anumite zone ca sa va logati mai tarziu in timpul unei batai.
+- NU este permis sa va dati disconnect in bataie.
+
+[2.11 - Răpiri / Ostatici](/informatii/regulament.html#_2-0-rapirea-ostatici)
+
+- In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 300.000$ in bani sau bunuri. 
+- In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. 
+- Toate sechestrarile vor fi aprobate de Admin 4+.
+:::danger
+- NU UITATI CA SA PUTETI RAPI/SECHESTRA PE CINEVA TREBUIE SA AVETI UN MOTIV BINE INTEMEIAT, SI INFORMATII CLARE DESPRE ACEA PERSOANA. 
+- NERESPECTAREA VA ATRAGE UN BAN DE FAILRP 3-7 ZILE IN FUNCTIE DE GRAVITATE.
+:::
+
+## Upate 15/03/2024
+
+[8.0 Regulament Jafuri/Banca Pacific/Transport](/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+
+- Numarul maxim de persoane  care pot participa la Jafurile de ATM este de 6 persoane, FARA a se deschide focul in zonele publice.
+
+- De asemenea, nici POLITIA NU va deschide focul, nefiind Cod 0 sau Jaf Armat, avand dreptul sa folosească doar Taser-ul din dotare dacă viața nu le este pusă în pericol.
+
 ## Update 12/03/2024
 
 [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)

@@ -58,3 +58,4 @@ Puteți face reclamație unui jucător, să raportați un bug sau să puneți o 
 
 ![menuTicket](https://i.imgur.com/xbsLv2a.png)
 
+<!-- # test commit -->

@@ -10,6 +10,60 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.78
+
+🚓 UPDATE MDT🚓 
+- Gradele din MDT ale politiei au fost actualizate in functie de modificarile deja aplicate pe discord.
+
+- Loadout-ul politiei a fost actualizat in functie de noile grade.
+
+### CUSTOM CARS
+- In fiecare luna va fi adaugata o masina CUSTOM LIVERY prin Tombola Fury.
+- Masina va fi unnicata ( un singur exemplar)
+
+-> Martie 2024 | Flaming Golf <-
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1220560754478944356/flaming_golf.png?ex=660f62c8&is=65fcedc8&hm=a092715dd8d1334ee83e68942344a2c08c77231db9336e348a5d229eec573a94&=&format=webp&quality=lossless&width=671&height=671)
+
+## Server Update v2.77
+
+🚓 UPDATE MDT🚓 
+- A fost adaugata categoria Imobiliare.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1220210832898654278/mdt1.png?ex=660e1ce4&is=65fba7e4&hm=200cfd91152bd5342cdcf082fcae09ea4ba298816c84f62829a3e91ce6538bbb&=&format=webp&quality=lossless&width=605&height=349)
+
+- Zona checkpoint-ului de internare spital a fost marita.
+
+## Server Update v2.76
+
+### A fost adăugat noul sistem de Graffiti
+
+- Fiecare zonă de livrare are acum 10 poziții de graffiti predefinite.
+- Pentru a putea deține o zonă, mafia/organizația trebuie să captureze toate cele 10 poziții, schimbând graffitiul existent cu graffitiul lor.
+- Capturarea unei zone se poate face în intervalul orar 19:00-23:00, cu excepția zilei de azi, până se capturează toate zonele.
+- Odată ce o zonă a fost câștigată, ea nu mai poate fi capturată timp de 48 de ore.
+
+- A fost adăugat în magazine item-ul Spray Can.
+
+- Dacă o mafie/organizație deține o zonă și la ora 23:00 are o parte din graffitiuri incomplete, aceasta poate să le refacă și în afara intervalului stabilit.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1219358063358906378/zonelivrare.png?ex=660b02b0&is=65f88db0&hm=2eb91552b17cb46941a3cdc60c59a33215a67dcac2109d1f7b48d198d8e0489e&=&format=webp&quality=lossless&width=1193&height=671)
+
+## Server Update v2.75
+
+### NEW CARS UPDATE
+- Ferrari LaFerrari Aperta
+- Lamborghini Aventador SVJ
+- Bugatti Divo
+- Nissan Silvia S15 
+- Volkswagen Golf GTI
+- BMW iX
+- Audi e-tron GT
+- Tesla Model X Plaid
+- Lucid Air
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1218405909055930420/cars-update.png?ex=66078bed&is=65f516ed&hm=f119884e95150177f005d3ce03ebedff22b821299b0e35ead68699df43b2e973&=&format=webp&quality=lossless&width=1193&height=671)
+
 ## Server Update v2.74
 
 - Au fost scazute preturile de cumparare a obiectelor din magazine pentru cei care detin afacerile.

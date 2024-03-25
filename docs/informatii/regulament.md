@@ -383,7 +383,14 @@ Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zile
 Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Always day, No bushes, etc
 :::
 
-### <span class="header-font">1.43 Zone pe server</span>
+### <span class="header-font">1.43 Disconnect în roleplay/Combat logging</span>
+- NU este permis sa va dati Disconnect in RP.
+- NU este permis sa va dati disconnect ca sa fugiti de o interactiune. ( EX: ati jefuit pe cineva, ati fugit 1 minut in zona publica v-ati dat disconnect)
+- NU este permis sa va dati disconnect pe zone de ilegale. ( Exclus rau famate)
+- NU este permis sa va dati disconnect pe anumite zone ca sa va logati mai tarziu in timpul unei batai.
+- NU este permis sa va dati disconnect in bataie.
+
+### <span class="header-font">1.44 Zone pe server</span>
 
 ::: tip
 - **Zone Publice**: Autostrăzi, Aeroporturi, Sediile joburilor legale, Magazinele de haine, Bancomate, Bănci, Magazine alimentare,
@@ -410,7 +417,11 @@ a locurilor foarte retrase)
 - 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
 - 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
 - 2.10  Puteți sechestra un ostatic/persoana rapita intr-o locatie maxim 24h. Persoana care este “legată”(sechestrata) are dreptul sa faca joburi legale, în schimb nu are dreptul sa faca ilegalități de vreun fel sau sa informeze ca este legat IC. (<span style="color:red">Vă trebuie aprobarea unui Admin 4+</span>, un motiv întemeiat sa sechestrati pe cineva, sechestrarea unui player fără un motiv bine întemeiat atrage sancțiuni)
-- 2.11  <span style="color:red">Temporar: Nu aveti voie sa mai rapiti oameni, sa ii tineti ostatici in schimbul unei sume de bani sau bunuri materiale. (Momentan nu avem o solutie clara si fair d.p.d.v al RP-ului, dar in ultimul timp s-a exagerat cu acest tip de RP)</span>
+- 2.11 In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 300.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
+:::danger
+- NU UITATI CA SA PUTETI RAPI/SECHESTRA PE CINEVA TREBUIE SA AVETI UN MOTIV BINE INTEMEIAT, SI INFORMATII CLARE DESPRE ACEA PERSOANA. 
+- NERESPECTAREA VA ATRAGE UN BAN DE FAILRP 3-7 ZILE IN FUNCTIE DE GRAVITATE.
+:::
 
 <hr style="transform: translateY(10px)"/>
 
@@ -463,14 +474,17 @@ Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad s
 Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1 membru cu grad 3 familie mica in ideea in care daca 1 membru cu grad cere intariri sa aveti motiv ca si civilii aflati in masinile celorlalti membri cu grad sa poata intervenii.
 :::
 
-### <span class="header-font">8.0 Regulament Jaf Banca Pacific/ Transport</span>
+### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific / Transport</span>
 
 - Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 30 (Membri cu grad si membri din familia mica).
 - Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 10 (doar cu grad).
 - In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
 - Numarul minim de oameni la jaful de la Vangelico este de 4 oameni inauntrul locatiei.
 - La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
-
+- Numarul maxim de persoane  care pot participa la Jafurile de ATM este de 6 persoane, FARA a se deschide focul in zonele publice.
+:::warning
+- De asemenea, nici POLITIA NU va deschide focul, nefiind Cod 0 sau Jaf Armat, avand dreptul sa folosească doar Taser-ul din dotare dacă viața nu le este pusă în pericol.
+:::
 
 ::: danger IMPORTANT!
 - **Este recomandat să verificați regulamentul periodic în cazul în care apar schimbări.**
