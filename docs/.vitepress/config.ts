@@ -154,6 +154,7 @@ export default defineConfig({
 
       {
         text: 'Proprietăți',
+        activeMatch: `^/informatii/`,
         items: [
           { text: "Cum licitez o proprietate?", link: '/proprietati/auction' },
           { text: "Case", link: '/proprietati/case' },
@@ -165,6 +166,7 @@ export default defineConfig({
 
       {
         text: 'Instituții publice',
+        activeMatch: `^/informatii/`,
         items: [
           { text: "Primăria", link: '/factions/primarie' },
           { text: "Poliția", link: '/factions/politie' },

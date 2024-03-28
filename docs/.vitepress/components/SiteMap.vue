@@ -3,9 +3,9 @@ import { VTLink } from '@vue/theme'
 import { useData } from 'vitepress'
 
 const data = useData()
-const nav = data.site.value.themeConfig.nav
-const ecosystem = nav.find((i: any) => i.activeMatch?.includes('informatii'))
-const items = nav
+const sidebar = data.site.value.themeConfig.sidebar
+const ecosystem = sidebar.find((i: any) => i.activeMatch?.includes('informatii'))
+const items = sidebar
   .filter((i: any) => i !== ecosystem && i.items)
   .concat(ecosystem.items)
 </script>
