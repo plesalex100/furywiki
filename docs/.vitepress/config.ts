@@ -68,6 +68,7 @@ export default defineConfig({
 
       {
         text: 'Istoric Update-uri',
+        activeMatch: `^/informatii/`,
         items: [
           { text: "Update-uri server", link: '/informatii/updatesv' },
           { text: "Update-uri regulament", link: '/informatii/updatereg' },
@@ -76,6 +77,7 @@ export default defineConfig({
 
       {
         text: 'General',
+        activeMatch: `^/informatii/`,
         items: [
           { text: "Inventar", link: '/general/inventar' },
           { text: "Telefon", link: '/general/telefon' },
@@ -95,6 +97,7 @@ export default defineConfig({
 
       {
         text: 'Activități legale/ilegale',
+        activeMatch: `^/informatii/`,
         items: [
           { text: 'Unde se află fiecare job?', link: '/jobs/locatii' },
           {
@@ -166,22 +169,6 @@ export default defineConfig({
           { text: "Smurd", link: '/factions/smurd' },
           { text: "ANAF", link: '/factions/anaf' },
           { text: "Fury News", link: '/factions/news' },
-        ]
-      },
-
-      {
-        text: 'test',
-        activeMatch: `^/informatii/`,
-        items: [
-          { text: "Despre noi", link: '/informatii/about' },
-          { text: "Autentificare", link: '/informatii/auth' },
-          { text: "Regulament General", link: '/informatii/regulament' },
-          { text: "Regulament Business", link: '/informatii/regulamentbiz' },
-          { text: 'Zone Publice/Rău Famate/Retrase', link: '/informatii/map' },
-          { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
-          { text: "Comenzi des folosite", link: '/informatii/comenzi' },
-          { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' },
-          { text: "Panel", link: '/informatii/panel' }
         ]
       }
     ],
