@@ -10,6 +10,18 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.79
+
+### S-a adăugat comanda /afk:
+- Selectați jucătorul din apropiere pentru a verifica de cât timp este afk. Folosirea necorespunzătoare a comenzi, va fi sancționată ca si in cazul ID Check-ului.
+
+- Nu mai puteți da respawn dacă sunteți în apropierea unui spital legal/ilegal.
+- A fost remediat bug-ul de la spitalul ilegal/legal care vă scotea de pe patul de spital și vă reseta coma.
+- Nu mai puteți accesa stația dacă sunteți în comă.
+- A fost remediat bug-ul cu sfoara care permitea scoaterea catușelor.
+- A fost adăugată o verificare de tip check inainte de PK.
+- Au fost adaugate 3 noi vehicule factiunii Smurd Los Santos.
+
 ## Server Update v2.78
 
 🚓 UPDATE MDT🚓 
