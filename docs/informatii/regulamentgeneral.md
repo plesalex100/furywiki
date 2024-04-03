@@ -32,3 +32,13 @@ title: Regulament General
 - Este strict interzis să folosiți referințe OOC în IC: “Chem pizza”, “fac bon/fac d’ăla”, sau orice alt tip de mesaje ce face referire la OOC. 
 :::
 
+### <span class="header-font">1.05 No Fear (NF) </span>
+- Reprezintă momentul în care un jucător **nu simulează frica** într-o situație Roleplay
+::: info Exemple
+- <span style="color:white">Ex: Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.</span>
+- <span style="color:white">Ex: Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.</span>
+- <span style="color:white">Ex: Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.</span>
+- <span style="color:white">Ex: Se considera NF atunci cand observi ca se indreapta catre tine o masina si tu iei decizia sa o opresti iesind in fata ei</span>
+- <span style="color:white">Ex :Se considera NF atunci cand dupa un schimb de focuri sau atunci cand cineva a tras dupa tine , dar tu crezi ca s-a creat un Fail acolo, te intorci doar ca sa iei ID-uri sau sa ii " certi" ca de ce trag dupa tine etc.</span>
+
+:::
