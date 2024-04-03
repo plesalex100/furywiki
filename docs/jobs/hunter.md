@@ -31,7 +31,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::danger ATENȚIE!
-- Utilizarea armei de tip "Musket" în alte scopuri în afara jobului de vânător este interzisă și se pedepsește ca atare. Vezi [regulamentul](/informatii/regulament) pentru mai multe detalii.
+- Utilizarea armei de tip "Musket" în alte scopuri în afara jobului de vânător este interzisă și se pedepsește ca atare. Vezi [regulamentul](/informatii/regulamentgeneral.html) pentru mai multe detalii.
 :::
 
 :::info
