@@ -292,3 +292,158 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - Este permisa pentru anunt CNN referitor la VIPs, doar o singura formulare "Inel Diamond/Gold/Silver".
 - P.S FireCoins achiziționate pe un ID nu se pot transfera/vinde.
 
+### <span class="header-font">1.37 Rubble Miner</span>
+- Masina utilitara de tip Rubble va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. (droguri/arme etc) 
+:::warning
+- Se va sanctiona cu Fail RP.
+:::
+
+### <span class="header-font">1.38 BUSINESS IC</span>
+- În cazul businessurilor IC (tatuaje, spălătorii, frizerii, garaje mecanici, etc.) pentru care Primăria eliberează un document special, este interzisă solicitarea altor sume - în afara celor specificate în script, cu excepția cazului în care jucătorul dorește să ofere TIPS (bacșiș). Se sancționează cu 120 minute de ajail.
+
+[A fost adaugat regulament general pentru TAXI, MECANICI.](/informatii/regulamentbiz.html)
+
+### <span class="header-font">1.39 PANĂ DE CURENT</span>
+- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
+
+### <span class="header-font">1.40 Folosirea de iteme in combat</span>
+- In timpul combat-ului aveti dreptul sa folositi armuri/adrenaline/bandaje.
+
+### <span class="header-font">1.41 REGULA LOCUINTE</span>
+
+- Fiecare proprietar de locuință are responsabilitatea de a acorda atenție și discernământ atunci când decide cui încredințează cheile casei sale. Persoanele care dețin chei vor beneficia de acces la spațiile de depozitare din interiorul locuinței
+
+### <span class="header-font">1.42 MODIFICARI ILEGALE ALE JOCULUI</span>
+
+- Nu sunt permise modurile de grafică care să altereze condițiile meteorologice, să elimine texturi sau obiecte (props-uri) și nici să aducă beneficii in combat. De asemenea, modurile care implică killfx nu sunt permise. Folosirea acestor moduri atrage sanctiunea de ban.
+- De asemenea va este interzis sa folositi sau sa aveti in PC fisiere care modifica damage, arme, hitbox, etc.
+
+:::tip
+- Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Always day, No bushes, etc
+:::
+
+### <span class="header-font">1.43 Disconnect in RP / Combat Logging</span>
+- Nu este permis sa va dati disconnect in RP.
+- Nu este permis sa va dati disconnect ca sa fugiti de o interactiune. <span style="color:red">De exemplu - ati jefuit pe cineva, ati fugit 1 minut in zona publica v-ati dat disconnect</span>
+- Nu este permis sa va dati disconnect pe zone de ilegale - exclus rau famate
+- Nu este permis sa va dati disconnect pe anumite zone ca sa va logati mai tarziu in timpul unei batai.
+- Nu este permis sa va dati disconnect in bataie.
+
+### <span class="header-font">1.44 Low Effort Roleplay</span>
+- Regula se refera la Roleplay-urile repetate in care faceti aceleasi actiuni, fara sa ganditi noi portite de scapare, noi modalitati sau in care perpetuati actiuni similare fara un scop bine definit.
+- RP-urile repetate in care umiliti alti jucatori/membri ai altor factiuni sunt interzise. (ban 14-30d)
+
+:::info Exemple
+- <span style="color:white">Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal,fara vreun context IC bine definit    </span>
+- <span style="color:white">Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti</span>
+:::
+
+### <span class="header-font">1.45 Posthunt</span>
+- Este interzis sa faceti Posthunt. Posthunt-ul se defineste prin gasirea de motive/fail-uri in Roleplay-urile altor persoane, doar cu scopul de a fi sanctionate pentru bunul plac personal, sau deoarece exista anumite implicatii(beef-uri/certuri) IC care derapeaza in OOC.
+- Posthunt-ul se sanctioneaza cu ban intre 14 si 30 zile, iar in cazurile posthunt-ului repetat puteti sa va asteptati la banuri fara drept de plata
+
+### <span class="header-font">1.46 Zone pe server</span>
+- Aveti obligatia ca atunci cand incepeti un RP  de urmarire/jefuire/combat sa il duceti pana la capat si nu sa va "ascundeti " in zonele publice ( Singura zona de refugiu, in cazul in care va simtiti depasiti este sectia de Politie )
+
+::: tip
+- **Zone Publice**: Autostrăzi, Aeroporturi, Sediile joburilor legale, Magazinele de haine, Bancomate, Bănci, Magazine alimentare,
+Restaurante, Secțiile de poliție, Spitale, Dealership, Casino, Primărie, Frizerii, Tuning,  Los Santos (cu excepția zonelor rău famate,           
+a locurilor foarte retrase)
+- **Zone Retrase**: Munți, Insule, în afara orașului Los Santos, cu excepțiile precizate mai sus.
+- **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard, Vinewood
+:::
+:::warning map.furyrp.ro
+- Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit.
+:::
+
+## <p style="text-align: center;">Activitățile Ilegale</p>
+
+### <span class="header-font">2.0 **Răpirea / Ostatici**</span>
+
+- 2.01   Nu aveți voie să răpiți jucătorii din zone publice. 
+- 2.02   Nu aveți voie să răpiți persoanele ce practică un job legal vizibil.
+- 2.03   Membrii **mafiei** au dreptul de a răpi pe cineva dintr-o zonă publică, **doar** în cazul în care acțiunea a început într-o zonă rău famată, retrasă iar respectivul a reușit să fugă. În acest caz răpirea trebuie efectuată rapid, jucătorul trebuie legat, luat pe sus și dus într-o zonă rău famată, retrasă. **Dacă respectiva persoană a fugit la secția de poliție nu se mai poate interveni asupra lui**.
+- 2.04   Este interzisă luarea de ostatici pentru a da jaf la bancă (Exceptand Fleeca).
+- 2.05   Este interzis să răpești o persoana având ca unic scop cererea de răscumpărare din partea Poliției.
+- 2.06   Atunci când negociați eliberarea unui ostatic, ambele părți au obligația de a respecta învoiala inițială.
+- 2.07   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
+- 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
+:::warning ATENTIE!
+- NU AVETI VOIE SA CERETI OAMENI CARE DEJA SUNT CAPTURATI SI LA SECTIE.
+:::
+- 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
+- 2.10  Puteti sechestra o persoana doar cu acordul unui <span style="color:red">Admin 4+</span> si cu dovezi pentru a motiva sechestrul
+- 2.11  In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 300.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
+- 2.12  Rapirile sunt permise doar cu acordul unui <span style="color:red">Admin 4+</span> si cu dovezi pentru a motiva rapirea
+- 2.13  Singurul caz in care aveti dreptul sa luati o persoana dintr-o alta factiune/civil in **ostatic(th)** este atunci cand dati jaf la Fleeca.(La acel jaf singura negociere posibila este pentru a primi cale libera in schimbul vietii ostaticului, fara sa se traga din ambele parti. Jaful la Fleeca este work in progress din punct de vedere tehnic)
+
+:::danger
+- NU UITATI CA SA PUTETI RAPI/SECHESTRA PE CINEVA TREBUIE SA AVETI UN MOTIV BINE INTEMEIAT, SI INFORMATII CLARE DESPRE ACEA PERSOANA. 
+- NERESPECTAREA VA ATRAGE UN BAN DE FAILRP 3-7 ZILE IN FUNCTIE DE GRAVITATE.
+:::
+
+<hr style="transform: translateY(10px)"/>
+
+### <span class="header-font">3.0 Jefuitul</span>
+- 3.01   Aveți voie să jefuiți jucători doar în intervalul orar **19:00 - 07:00**.
+- 3.02   Nu aveți voie să jefuiți persoane în zone publice. 
+- 3.03   Nu aveți voie să jefuiți persoanele ce practică un job legal vizibil.
+- 3.04   Nu aveți voie să jefuiți Polițiștii și Medicii **ON-DUTY** (sunt îmbrăcați în uniformă). În cazul în care sunt OFF-DUTY, aveți voie să îi jefuiți.
+- 3.05   Este interzis să obligați o persoană să scoată banii din bancă pentru a o jefui.
+- 3.06   Este interzis să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
+- 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
+- 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
+- 3.09  Mafiile și organizațiile(factiunile plătite) au dreptul de a jefui alti playeri doar cu un motiv IC bine întemeiat.
+- 3.10  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 3 ore.
+
+<hr style="transform: translateY(10px)"/>
+
+### <span class="header-font">4.0 Folosirea Armelor albe & Armelor de foc</span>
+- 4.01 Se interzice folosirea armelor albe și de foc în zonele publice.
+- 4.02 Se interzice deschiderea focului asupra poliției într-o zonă publică. 
+- 4.03 Se permite deschiderea focului asupra poliției indiferent de zonă, doar în cazul în care poliția a deschis focul asupra voastră.
+- 4.04 **Se interzice folosirea Musketei de la jobul de Vânător pentru a comite o ilegalitate**.
+
+<hr style="transform: translateY(10px)"/>
+
+### <span class="header-font">5.0 Furtul autovehiculelor</span>
+- 5.01 Se interzice furtul unui autovehicul dintr-o zonă publică. 
+- 5.02 Se interzice furtul autospecialelor de Poliție, SMURD. Excepție de la această regulă face situația în care furtul unei mașini de poliție, 
+smurd este **singura** variantă de scăpare cu viață dintr-o situație extremă.
+
+<hr style="transform: translateY(10px)"/>
+
+### <span class="header-font">6.0 Acțiunile cu Poliția</span>
+- 6.01 Civilii nu au voie să intervină prin arme albe/arme de foc pentru un alt civil într-o acțiune cu poliția. Excepție face situația în care sunt în aceeași mașină sau sunt parte din aceeași acțiune.
+- 6.02 Se interzice furtul unui autovehicul dintr-o zonă publică. 
+##
+
+<hr style="transform: translateY(10px)"/>
+
+### <span class="header-font">7.0 Civil pentru Mafiot</span>
+
+- Va este strict interzis sa interveniti ca civili (adica membri fara grad in mafie)  in roleplay-ul cu POLITIA al membrilor dintr-o mafie (cu grad), exceptie facand situatia in care roleplay-ul incepe cu toata lumea de fata (Membri mafie cu grad + Membri familia mica ) si in cazul jafurilor armate ( Jaf Pacific / Vangelico )
+
+:::warning SITUATII
+Situatia 1: Daca mafia X sta intr-o anumita zona impreuna cu familia mica si politia va observa, au voie sa intervina doar membrii din familia mica PREZENTI la inceputul roleplay-ului. Nu este permis sa fie chemati mai tarziu pe statie.
+
+Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad si 3 membri din familia mica, acestia au voie sa ajute membrul cu grad in cazul unei posibile batai cu politia, singurii care au voie sa vina in ajutor, fiind membri cu grad
+
+Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1 membru cu grad 3 familie mica in ideea in care daca 1 membru cu grad cere intariri sa aveti motiv ca si civilii aflati in masinile celorlalti membri cu grad sa poata intervenii.
+:::
+
+### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific / Transport</span>
+
+- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
+- Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 10 (doar cu grad).
+- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
+- Numarul minim de oameni la jaful de la Vangelico este de 4 oameni inauntrul locatiei.
+-La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
+:::warning
+- De asemenea, nici POLITIA NU va deschide focul, nefiind Cod 0 sau Jaf Armat, avand dreptul sa folosească doar Taser-ul din dotare dacă viața nu le este pusă în pericol.
+:::
+
+:::danger IMPORTANT!
+- **Este recomandat să verificați regulamentul periodic în cazul în care apar schimbări.**
+- **Necunoașterea regulamentului nu vă scutește de sancțiune.**
+:::
