@@ -8,21 +8,21 @@ import SiteMap from './SiteMap.vue'
 <section id="highlights" class="vt-box-container">
     <div class="vt-box">
       <h2 style="font-family:'Conthrax';color: orange;">Roleplay Advanced</h2>
-      <p>
+      <p style="color:lightyellow">
         Dorința noastră este ca nivelul de roleplay să fie cât mai complex și ridicat cu putință, 
         astfel încât să oferim o experiență cât mai plăcută și realistă jucătorilor noștri.
       </p>
     </div>
     <div class="vt-box">
       <h2 style="font-family:'Conthrax';color: orange;">Update-uri constante</h2>
-      <p>
+      <p style="color:lightyellow">
         Oferim constant Update-uri calitative pentru a îmbunătăți experiența jucătorilor noștri,
         astfel încât să existe mereu ceva nou și interesant de descoperit.
       </p>
     </div>
     <div class="vt-box">
       <h2 style="font-family:'Conthrax';color: orange;">Proiect pe termen lung</h2>
-      <p>
+      <p style="color:lightyellow">
         Proiectul Fury este unul care va fi pe termen lung, astfel puteți să vă bucurați de serverul nostru
         pentru o perioadă îndelungată, fără wipe-uri.
       </p>
