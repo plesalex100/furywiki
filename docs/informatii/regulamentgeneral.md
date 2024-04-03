@@ -14,3 +14,9 @@ title: Regulament General
 - Roleplay-ul reprezintă o modalitate captivantă si o experiență în care jucătorii își pot interpreta personajele într-o lume virtuală. Pentru a crea un mediu echitabil și plăcut pentru toți jucătorii, este important să existe un set de reguli și orientări de urmat.
 - Scopul Roleplay-ul este de a crea o experiență credibilă și realistă în care jucătorii pot interacționa între ei într-un mod care are sens în contextul jocului. Regulamentul ajută la asigurarea faptului că jucătorii rămân în personaj și își interpretează rolurile într-un mod credibil și consecvent 
 
+### <span class="header-font">1.02 Fail Roleplay (FRP)</span>
+- Reprezintă **neadaptarea** la o situație roleplay.
+::: info Exemplu
+- Un cetățean merge la secția de poliție pentru a raporta o răpire, iar polițistul din tură refuză să facă demersurile pentru soluționarea cazului.
+- Merg la CNN și dau anunț "Vand arme in paleto (politia nu vede)"
+:::
