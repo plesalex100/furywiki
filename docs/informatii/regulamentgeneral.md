@@ -24,3 +24,11 @@ title: Regulament General
 ### <span class="header-font">1.03 In Character (IC)</span>
 - Reprezintă momentul în care te aflii în ”pielea personajului”, simulând **viața reală**, astfel putând să acumulați informații, să creați legături, pe care să le puteți folosi în viitoarele Role-Play-uri.
 
+### <span class="header-font">1.04 Out of Character (OOC) </span>
+- Reprezintă momentul când ieșiți din ”pielea personajului” din joc, raportându-vă la viața reală.
+- Este permis doar când aveți aprobarea unui membru staff, la ticket.
+- Este strict interzis să folosiți informații aflate OOC pentru a obține un avantaj IC.
+:::danger ATENȚIE!
+- Este strict interzis să folosiți referințe OOC în IC: “Chem pizza”, “fac bon/fac d’ăla”, sau orice alt tip de mesaje ce face referire la OOC. 
+:::
+
