@@ -256,3 +256,9 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - <span style="color:white">Exemple modalitati pentru inregistrare gameplay care nu consuma multe resurse:</span> <span style="color:red">Medal.tv, Outplayed.tv, Shadowplay, OBS live pe youtube.</span>
 :::
 
+### <span class="header-font">1.32 ID Checking</span>
+	
+- Nu aveți voie sa va uitati la ID-urile altor jucători fără un motiv bine întemeiat. 
+- Nu aveți voie sa va uitati la ID-uri nici daca sunteti la ticket. 
+- Nu aveți voie să apăsați butonul HOME pentru a obține un avantaj IC.
+
