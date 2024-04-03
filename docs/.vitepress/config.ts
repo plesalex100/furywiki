@@ -70,7 +70,6 @@ export default defineConfig({
 
       {
         text: 'Istoric Update-uri',
-        activeMatch: `^/informatii/`,
         items: [
           { text: "Update-uri server", link: '/informatii/updatesv' },
           { text: "Update-uri regulament", link: '/informatii/updatereg' },
