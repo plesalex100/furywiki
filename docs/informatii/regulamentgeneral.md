@@ -190,3 +190,13 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Personajele create trebuie să vină cu o poveste unică, cu un început și un target de obținut în oraș, aveți responsabilitatea de a face roleplay în felul în care este construit personajul ( arogant/imatur/glumet/serios etc.)
 - Caracterele trebuie să aibă un **nume adecvat și realist**; fără a folosi nume celebre/nerealiste/troll (Elvis Presley, ASdfgds Milsugio, etc.)
 
+### <span class="header-font">1.23 COMĂ</span>
+- Reprezintă momentul în care sunteți **”leșinat”** din diferite motive, accidente rutiere, aeriene, feroviare, împușcat, căzături de la distanțe mari, etc. ( Respectand regula CK).
+- Puteți primi ajutor de la medic în orice situație menționată mai sus, **incluzând** situația în care ați intrat în comă din pricina unui schimb de focuri, **indiferent de zona în care ați fost împușcat**.
+- Cât timp sunteți în comă nu puteți acumula informații (auzite, văzute) din jurul vostru. 
+- În situația în care din diferite motive ajungeți în comă, iar un medic ajunge la dvs. și vă oferă ajutor, vă puteți aminti toate informațiile acumulate până în momentul în care ați intrat în comă.
+- O persoană se consideră moartă (PK) **doar** în momentul în care respectiva persoana **a folosit funcția de respawn**.
+- Este interzis să vorbiți, să folosiți telefonul cât timp sunteți în comă, excepție de la această regulă face situația în care ați intrat în comă în urma unui accident rutier, feroviar sau în cazul în care ați căzut de la o distanță mare și niciun jucător nu se află în jurul vostru, caz în care puteți suna la medic.
+- În cazul oricărui RP și dacă nu ați primit revive în decurs de **420 de secunde (7 minute)**, aveți dreptul de a folosi funcția de RESPAWN.
+- <span style="color:red">Aveti obligatia ca atunci cand sunteti in raza medicului de la spitalul de mafioti sa folositi functia de "Internare " . In cazul in care atunci cand folositi aceasta functie nu va puteti interna pentru ca sunt paturile pline si voua v-a aparut functia de "Respawn" , o puteti folosi.</span>
+
