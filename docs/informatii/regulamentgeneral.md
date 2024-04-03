@@ -262,3 +262,6 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - Nu aveți voie sa va uitati la ID-uri nici daca sunteti la ticket. 
 - Nu aveți voie să apăsați butonul HOME pentru a obține un avantaj IC.
 
+### <span class="header-font">1.33 Facțiunile Legale</span>
+- Corupția **IC/OOC** în cadrul departamentului de poliție se sancționează cu ban 30 de zile.
+
