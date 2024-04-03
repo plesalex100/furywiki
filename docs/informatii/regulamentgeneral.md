@@ -248,3 +248,11 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - Toti jucatorii care au fost sanctionati cu ban pentru Cheats sunt obligati sa porneasca filmarea cand intra pe server. Cei care vor fi prinsi fara filmare vor fi sanctionati indiferent daca au avut sau nu au avut interactiune cu alti jucatori pentru Cheats.
 :::
 
+:::danger FOARTE IMPORTANT
+- <span style="color:white">Jucatorii care vor fi prinși cu cod pentru prima dată vor fi sanctionați cu **Ban permanent cu drept de plată**, CK și interdicția de a intra în PD / Mafie pentru o perioadă de 60 de zile.</span>
+- <span style="color:white">Jucatorii care vor fi prinși pentru a doua oara cu cod vor fi sancționați cu **Ban permanent fără drept de plată**.</span>
+
+<span style="color:orange">Toate persoanele care participa la actiuni de tip DM, mai ales cei ce apartin factiunilor ilegale sau LSPD sunt obligati sa filmeze toate actiunile, in cazul in care un jucator este suspectat de a folosi cheats, acesta trebuie sa prezinte filmare. Lipsa unei filmari in acest caz atrage sanctiunea de ban.</span>
+- <span style="color:white">Exemple modalitati pentru inregistrare gameplay care nu consuma multe resurse:</span> <span style="color:red">Medal.tv, Outplayed.tv, Shadowplay, OBS live pe youtube.</span>
+:::
+
