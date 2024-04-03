@@ -516,7 +516,7 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 - De asemenea, nici POLITIA NU va deschide focul, nefiind Cod 0 sau Jaf Armat, avand dreptul sa folosească doar Taser-ul din dotare dacă viața nu le este pusă în pericol.
 :::
 
-::: danger IMPORTANT!
+:::danger IMPORTANT!
 - **Este recomandat să verificați regulamentul periodic în cazul în care apar schimbări.**
 - **Necunoașterea regulamentului nu vă scutește de sancțiune.**
 :::
