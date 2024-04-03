@@ -178,3 +178,8 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 “Vând mașina …”, “Cineva sa ma ia din zona..”
 :::
 
+### <span class="header-font">1.21 Chatul OOC</span>
+- **Chat-ul global** este strict pentru **probleme ooc**. Nu va fi folosit în loc de discord/messenger/facebook. Se vor scrie doar anumite probleme/întrebări/anunțuri ooc.
+- Se interzice folosirea unui **limbaj vulgar pe chatul OOC**.
+- Este **interzis** să faceți **SPAM** pe chat-ul global.
+
