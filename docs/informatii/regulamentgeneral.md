@@ -289,6 +289,6 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - Este interzis sa soliciti unor jucatori noi sa-ti ofere banii de inceput. Se sanctioneaza cu Character-Kill (CK).
 
 ### <span class="header-font">1.36 CNN</span>
-- Este permisa pentru anunt CNN referitor la VIPs, doar o singura formulare "Inel Diamond/Gold/Silver".</span>
+- Este permisa pentru anunt CNN referitor la VIPs, doar o singura formulare "Inel Diamond/Gold/Silver".
 - P.S FireCoins achiziționate pe un ID nu se pot transfera/vinde.
 
