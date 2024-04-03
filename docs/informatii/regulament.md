@@ -395,7 +395,7 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Always day, No bushes, etc
 :::
 
-### <span class="header-font">1.43 Disconnect în roleplay & Combat logging</span>
+### <span class="header-font">1.43 Disconnect in RP / Combat Logging </span>
 
 - NU este permis sa va dati Disconnect in RP.
 - NU este permis sa va dati disconnect ca sa fugiti de o interactiune. 
