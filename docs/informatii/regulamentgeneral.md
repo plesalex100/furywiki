@@ -265,26 +265,3 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 ### <span class="header-font">1.33 Facțiunile Legale</span>
 - Corupția **IC/OOC** în cadrul departamentului de poliție se sancționează cu ban 30 de zile.
 
-### <span class="header-font">1.34 Regulament /me</span>
-- Se **interzic** /me-urile stupide, fără nici un scop. Comanda /me se folosește atunci când trebuie să rolați anumite acțiuni pentru care nu aveți animații.
-:::info Exemplu permis
-- <span style="color:green">/me Îl pune pe bancheta din dreapta.</span>
-:::
-:::danger Exemplu nepermis
-- /me Scoate un telefon iphone 14 din buzunar, 
-- /me Isi ia pozitia de smecher, 
-- /me Face o poza fara sa observe.
-:::
-- Totodată, **se interzic** /me-urile care sunt date pentru a provoca o persoană.
-:::danger Exemplu nepermis
-- /me Se gandeste la ce prost e.
-- /me Reține cum arată.
-- /me Simte miros de fraier.
-:::
-:::info !!!
-- Nu este obligatoriu sa mai rolati /me in cazul unui accident rutier in timpul unei urmariri. In cazul unui accident care nu are loc in timpul unei urmariri sunteti obligati sa faceti RP cu persoana cu care ati avut accidentul.
-:::
-
-### <span class="header-font">1.35 Ofera bani
-- Este interzis sa soliciti unor jucatori noi sa-ti ofere banii de inceput. Se sanctioneaza cu Character-Kill (CK).</span>
-
