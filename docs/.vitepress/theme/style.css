@@ -35,6 +35,10 @@
   display: none !important;
 }
 
+.toggle-layout-button {
+  display: none !important;
+}
+
 /**
  * Component: Button
  * -------------------------------------------------------------------------- */
