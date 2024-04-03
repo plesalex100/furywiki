@@ -106,3 +106,12 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 ### <span class="header-font">1.13 Revenge Kill</span>
 - Se consideră atunci când un jucător te-a omorât iar după ce folosești opțiunea de respawn te întorci în același loc pentru a te răzbuna. **Atenție!** Nu se consideră Revenge Kill dacă primiți revive de la un medic, în acest caz, puteți să duceți răzbunarea la bun sfârșit.
 
+### <span class="header-font">1.14 Player Kill</span>
+- Reprezintă momentul în care **un jucător este în comă**, iar acesta folosește opțiunea de **respawn**. 
+- Jucătorul cu pricina trebuie **să uite** toate **informațiile acumulate** în roleplay-ul respectiv, **nume, locații, informații, etc.**
+- In cazul organizatiilor liderul poate da PK unui jucator pentru ca acesta sa uite informatiile detinute despre organizatia respectiva.
+:::warning Excepție la PK
+- Polițiștii care sunt implicați într-o situație cum ar fi: jaf, urmărire care se lasă cu focuri de armă, razii, patrule pe rău famate în urma cărora s-au tras focuri de armă, ETC și își iau PK, când se reîntorc la secție și primesc din nou COD 0 pot să se reîntoarcă, indiferent că au luat PK la acea acțiune (se rolează faptul că poliția are mereu întăriri).
+- Jucatorii care fac parte din organizatii neoficile/oficiale ( mafii ) au voie dupa ce isi dau respawn sa se intoarca la actiune ( DOAR IN CAZUL COMBATULUI PE GRAFITI )
+:::
+
