@@ -235,3 +235,9 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 ### <span class="header-font">1.29 Ticket în Roleplay</span>
 - <span style="color:red">Se permite Tk-ul in RP, cu exceptia celor de Combat sau Rp-uri complexe cu mai multi participanti. In cazul in care se produce un fail aveti obligatia sa va retrageti intr-o zona mai retrasa si sa va spuneti punctul de vedere. ( Exceptie de la regula atunci cand fail-ul este Troll, RP scarbos, Cheats ) Neconformarea de la regula atrage sanctiuni.</span>
 
+### <span class="header-font">1.30 Acumularea sancțiunilor</span>
+- Acumularea a 3 warn-uri va duce la banarea automată de către sistem pe o perioadă de 14 zile cu drept de plată.
+- În momentul în care un jucător va face același fail de 3 ori urmatoarea sancțiune de același tip va fi ban fără drept conform orelor.
+- Un jucător care are mai mult de 10 sancțiuni de ban pe punish-log va primi ban permanent cu drept de plată.
+- La 2 banuri permanente cu drept, al 3-lea va fi ban permanent fără drept 60 de zile.
+
