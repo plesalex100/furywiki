@@ -7,5 +7,8 @@
     "dev": "vitepress dev docs --host 0.0.0.0 --port 5000",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@vue/theme": "^2.2.5"
   }
 }
