@@ -17,13 +17,13 @@ import SiteMap from './SiteMap.vue'
       <h2>Update-uri constante</h2>
       <p>
         Oferim constant Update-uri calitative pentru a îmbunătăți experiența jucătorilor noștri,
-        astfel încât să existe mereu ceva nou de descoperit.
+        astfel încât să existe mereu ceva nou și interesant de descoperit.
       </p>
     </div>
     <div class="vt-box">
       <h2>Proiect pe termen lung</h2>
       <p>
-        Comunitatea Fury este un proiect pe termen lung, astfel puteți să vă bucurați de serverul nostru
+        Proiectul Fury este unul care va fi pe termen lung, astfel puteți să vă bucurați de serverul nostru
         pentru o perioadă îndelungată, fără wipe-uri.
       </p>
     </div>
