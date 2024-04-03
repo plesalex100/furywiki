@@ -151,3 +151,16 @@ Se va primi CK atunci:
 ### <span class="header-font">1.17 Trolling (Troll)</span>
 - Reprezintă momentul în care un jucător nu are intenția de a face roleplay serios pe server, deranjând fără motiv alte persoane pentru a crea conflicte, provocarea altor jucători fără un motiv, scopul unic fiind propriul amuzament, caterinca de proastă calitate.
 
+### <span class="header-font">1.18 Toxicitatea</span>
+- Din dorința de a forma o comunitate primitoare pentru toți jucătorii ne vom rezerva dreptul de a elimina persoanele problematice cele ce nu au intenția de a face un roleplay calitativ, frumos, ci au ca unică intenție deranjarea persoanelor din jur, fără un motiv bine întemeiat, doar pentru propriul amuzament.
+- Injuriile IC duse la extrem si injuriile IC adresate altui jucator fara un context IC in prealabil atrag sanctiuni. (BAN)
+- Este interzis sa fiti misogini sau sa dati dovada de bombardierism in preajma fetelor ( Regula se aplica persoanelor pe care nu le cunoasteti ). Totodata este interzis sa folositi apelative jignitoare cu fetele/femeile pe care nu le cunoasteti si cu care nu ati avut nici o interactiune care sa va determine sa folositi apelative jignitoare. (fa/zdreanta/etc)
+
+::: danger ATENȚIE!
+- **Se interzic suferințele OOC sub orice formă, este interzis ca în urma unui roleplay să mergeți și să înjurați o persoană în privat, pe live, pe instagram, etc.**
+:::
+
+::: info Exemplu
+Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și începi să o înjuri, umilești, injosesti, fără nici un motiv.
+:::
+
