@@ -20,11 +20,7 @@ hero:
     import SiteMap from '/.vitepress/components/SiteMap.vue'
 </script>
 
-<script setup>
-import SiteMap from '../.vitepress/components/SiteMap.vue'
-</script>
-
-<!-- <SiteMap /> -->
+<SiteMap />
 
 <!-- <style>
   body {
