@@ -219,3 +219,16 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - În acest caz, aveți obligația de a lua legătura cu un Admin 3+ pentru a primi aprobarea roleplay-ului.
 :::
 
+### <span class="header-font">1.28 Refuz Roleplay</span>
+- **Este interzis să refuzați interacțiunea roleplay** cu ceilalți jucători. Se consideră **Refuz Roleplay** în momentul în care
+părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bară (AFK), refuzați orice fel de interacțiune.
+- In cazul care sunteti cu masina personala si sunteti intr-o urmarire cu PD, nu aveti voie sa rolati ca este portbagajul stricat sau alte scuze pentru nu-l deschide.
+
+#### <span class="header-font"> **AFK în Roleplay**</span>
+- Nu este permis să vă puneți AFK în timpul unui roleplay. 
+- În cazul în care găsiți o persoana AFK, nu aveți voie începeți vreo acțiune cu acesta.
+- Se interzice membrilor facțiunilor legale (Poliție, SMURD) să stea AFK ON-DUTY mai mult de 5 minute.
+:::warning Atenție!
+- Este INTERZIS sa rămâneți AFK intr-o zona rău famată / zonă retrasă. In cazul in care un jucător va încerca să interacționeze cu o persoană AFK, acest lucru va fi permis, făcând excepție de la regula interacțiunii cu o persoană AFK, iar persoana AFK va fi sancționată cu Refuz RP. - Sanctiune BAN 10 zile.
+:::
+
