@@ -115,3 +115,11 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 - Jucatorii care fac parte din organizatii neoficile/oficiale ( mafii ) au voie dupa ce isi dau respawn sa se intoarca la actiune ( DOAR IN CAZUL COMBATULUI PE GRAFITI )
 :::
 
+### <span class="header-font">1.15 Character Kill</span>
+- Reprezintă momentul în care personajul creat de dvs. **moare în totalitate**, iar tot progresul va fi pierdut.
+- Toate informațiile acumulate din momentul în care ați creat personajul vor fi uitate.
+- Intr-o situatie de CK trebuie chemat un Admin 4+.
+- **Orele jucate vor fi resetate**.
+- **Toată averea** acumulată până la momentul respectiv **va fi pierdută**.
+- Va trebui să vă creați **alt caracter**, cu un **alt nume**, cu o **altă înfățișare**.
+
