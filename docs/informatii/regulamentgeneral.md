@@ -141,3 +141,10 @@ Se va primi CK atunci:
 - De multe ori playerii aleg sa atace, desi vizibil sau la o distanta considerabila un alt jucator cu un cutit/briceag, deoarece aceste arme albe au o animatie care nu poate fi evitata si da 1-shot. Se creeaza situatii unde jucatorii inarmati cu cutite alearga inspre o persoana cu pistol/automata sperând sa intre in animatia de 1shot. Acest lucru e considerat Nofear, deoarece stii clar ca poti fi picat, dar totusi tu alegi sa faci asta. Fiind un lucru asumat, de aici rezulta si CK-ul.
 :::
 
+### <span class="header-font">1.16 Roleplay Scarbos & Injosirea jucatorilor</span>
+- Reprezintă **totalitatea roleplay-urile ce conțin o scenă sexuală**, incluzând (violul, necrofilia, pedofilismul, canibalismul). Pentru a putea face acest tip de Roleplay aveți nevoie de **aprobarea pe chat-ul OOC** a persoanei sau persoanelor ce doriți să le implicați.
+- În cazul în care cineva **începe un astfel de roleplay fără acordul dvs.**, aveți tot dreptul nu dați curs scenariului și să **chemați un admin** întrerupând astfel roleplay-ul.
+:::warning Atenție!
+- Este interzisă umilirea unui jucător sau forțarea acestuia să efectueze acțiuni pur și simplu în scopul amuzamentului personal [de exemplu, să-l forțezi să latre, să cânte sau să execute alte acțiuni similare].
+:::
+
