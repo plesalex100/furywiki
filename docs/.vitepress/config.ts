@@ -54,7 +54,6 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Informații utile',
-        activeMatch: `^/informatii/`,
         items: [
           { text: "Despre noi", link: '/informatii/about' },
           { text: "Autentificare", link: '/informatii/auth' },
