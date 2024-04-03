@@ -32,11 +32,11 @@
 }
 
 .VPLocalNavOutlineDropdown button[data-v-079b16a8] {
-  display: none !important;
+  display: none;
 }
 
-.toggle-layout-button button[data-v-f455ab11] {
-  display: none !important;
+.toggle-layout-button {
+  display: none;
 }
 
 /**
