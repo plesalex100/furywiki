@@ -76,3 +76,21 @@ title: Regulament General
 - Recunoastrea mafiotilor dupa armele specifice lor de catre Civili sau alti mafioti ( M9 / Beryl / M9A3 / etc)
 :::
 
+### <span class="header-font">1.09 Condusul Non Roleplay</span>
+- Va este permis sa faceti stunt-uri, in momentul in care are loc o urmarire.
+- Nu aveti voie sa circulati cu mai mult de 200 kph pe drumurile din interiorul Los Santos, Sandy Shores, Paleto, Dusty, Grapeseed, decat daca aveti un motiv IC bine intemeiat.
+- Nu aveti voie sa circulati pe contrasens pe autostrada sau pe artere circulate des fara un motiv IC bine intemeiat. (Iesire port garaj industrial, Centrul Los Santos, Zona Fleeca Centrala etc.)
+- Nu aveti voie sa ocoliti speedbump-urile decat cu un motiv IC bine intemeiat.
+- Se permite manevra de pit stop in urmariri de pana la 250kmh.
+- Datorita scriptului de impotmolire  se permite accesul pe orice drum ( OFF-Road, Extreme OFF-Road ) cu orice clasa de masina.
+
+:::info
+Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste proceduri noi.
+:::
+
+#### <span class="header-font">Aparate de zbor</span>
+- Aterizarea elicopterelor, avioanelor se va face doar în zonele predestinate (helipad-uri, aeroport) și în câmpuri larg deschise, nefiind voie să aterizați pe șosea, teren accidentat, drumuri publice. (Excepție de la această regulă fac elicopterele Poliției/SMURD-ului, când acestea se află în misiune) 
+
+#### <span class="header-font">Ambarcațiuni</span>
+- Nu aveți voie să frânați forțat prin deraierea ambarcațiunii pe uscat. Excepție de la această regulă face situația în care viața vă este pusă în pericol.
+
