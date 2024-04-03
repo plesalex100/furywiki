@@ -15,7 +15,7 @@ title: Update-uri Regulament
 - Regulamentul a primit un update destul de mare asa ca am sa va rog pe toti sa il cititi din nou ca sa fiti informati.
 - Este de datoria playerilor comunitatii sa respecte regulamentul serverului.
 
-### -> [Regulament](/informatii/regulament.html) <-
+-> [Regulament](/informatii/regulament) <-
 
 ## Update 16/03/2024
 
