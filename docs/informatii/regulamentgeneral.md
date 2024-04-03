@@ -183,3 +183,10 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Se interzice folosirea unui **limbaj vulgar pe chatul OOC**.
 - Este **interzis** să faceți **SPAM** pe chat-ul global.
 
+### <span class="header-font">1.22 Crearea caracterului</span>
+
+- Toți jucătorii comunității noastre trebuie să țină cont de:
+- Personajele create trebuie să aibă **peste 18 ani**.
+- Personajele create trebuie să vină cu o poveste unică, cu un început și un target de obținut în oraș, aveți responsabilitatea de a face roleplay în felul în care este construit personajul ( arogant/imatur/glumet/serios etc.)
+- Caracterele trebuie să aibă un **nume adecvat și realist**; fără a folosi nume celebre/nerealiste/troll (Elvis Presley, ASdfgds Milsugio, etc.)
+
