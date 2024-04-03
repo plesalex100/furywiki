@@ -42,9 +42,12 @@ title: Regulament General
 ### <span class="header-font">1.05 No Fear (NF) </span>
 - Reprezintă momentul în care un jucător **nu simulează frica** într-o situație Roleplay
 ::: info Exemple
-- Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
+- <span style="color:white">Ex: Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.</span>
+- <span style="color:white">Ex: Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.</span>
+- <span style="color:white">Ex: Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.</span>
+- <span style="color:white">Ex: Se considera NF atunci cand observi ca se indreapta catre tine o masina si tu iei decizia sa o opresti iesind in fata ei</span>
+- <span style="color:white">Ex :Se considera NF atunci cand dupa un schimb de focuri sau atunci cand cineva a tras dupa tine , dar tu crezi ca s-a creat un Fail acolo, te intorci doar ca sa iei ID-uri sau sa ii " certi" ca de ce trag dupa tine etc.</span>
 
-- Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
 :::
 
 <hr style="transform: translateY(10px)"/>
@@ -54,6 +57,7 @@ title: Regulament General
 - Se interzice **luarea în derâdere** sub orice formă a polițiștilor. (sicanarea verbala, bataia de joc, comportament necorespunzator)
 - Se interzice **Cop-Bait-ul**, care reprezintă instigarea organelor de poliție în mod intenționat. (drifturi lângă un polițist, în fața secției de poliție, trecerea pe culoarea roșie a semaforului în mod intenționat atunci când un polițist este în preajmă)
 - Se interzice să vă luați la bătaie/împușcături parte în parte cu membrii Poliției din departamentul S.I.A.S.. Excepție de la această regulă face **situația în care ați dat jaf**. De asemenea, excepție de la această regulă face situația în care vă aflați la una dintre **locațiile de producție de armament, droguri, ilegale**.
+- Se interzice ca **odata ce ajungeti la celule**, chiar inainte sa fiti procesati, sa va tocmiti cu organele PD pentru a cere reducere la amenda/sentinta.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -64,6 +68,7 @@ title: Regulament General
 - Se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti o tranzactie de tipul : " Vand inel cu diamant/furi/aur" si il ademeniti intr-o zona rau famata/retrasa pentru a-l jefui/rapi. Incercam ca tranzactiile de tipul asta sa nu fie permise.
 - Se considera PG atunci cand de exemplu cineva vrea sa cumpere o masina , acesta va cere sa faca un test-drive cu ea si il fortati sa vina cu voi intr-o zona rau famata/retrasa. De ce? Pentru ca din script nu puteti sa sariti din masina decat la viteze foarte mici, astfel nu dati sansa la RP si celuilalt.
 - Nu se considera PG atunci cand intr-un RP blocati caile de acces. De ce? In functie de RP-ul pe care vreti sa-l faceti PD/Mafie fiecare isi creaza un avantaj blocand caile de acces. ( Mafiile blocheaza o locatie sa prinda jefuitori sau alta mafie, PD-ul blocheaza o zona sa nu iasa nimeni din ea la razie etc.)
+- Nu aveti voie ca intr-un RP, in cazul in care sunt sa zicem 4 persoane, ca toate sa fie legate la maini si cu punga pe cap. Aveti obligatia ca macar o persoana sa fie dezlagata la maini si una sa fie fara punga pe cap si totodata persoanele legate sau cele cu pungi pe cap trebuie sa aibe sansa sa poate comunica intre ei.  Aici permitem ca persoana care este legata sa poata rola /me rupe punga cu gura celui care este lasat doar cu punga pe cap.
 
 ::: info Exemple
 - Folosirea informațiilor auzite cât timp ați fost în comă.
@@ -75,32 +80,29 @@ title: Regulament General
 
 ### <span class="header-font">1.08 Meta Gaming (MG)</span>
 - Reprezintă momentul în care un jucător folosește informații aflate **Out of Character**(OOC) într-o situație **In Character**.
+- Este interzis sa stati cu partajarea sau sa va sincronizati pe Discord in timp ce sunteti pe joc.
+- Este interzis sa recunoasteti oamenii dupa voce  atata timp cat au masca pusa.
 ::: info Exemplu
 - În timp ce Ionescu este jefuit îi dă partajare pe discord prietenului său Popescu, acesta din urmă vine la respectiva locație
 și omoară jefuitorul. 
 :::
 :::danger Exemplu 2
-- Recunoastrea mafiotilor dupa armele specifice lor de catre Civili sau alti mafioti ( M9 / Beryl / Hera / DB / Navy / MG / Shotgun / Gusenberg etc)
+- Recunoastrea mafiotilor dupa armele specifice lor de catre Civili sau alti mafioti ( M9 / Beryl / M9A3 / etc)
 :::
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.09 Condusul Non Roleplay</span>
-- Nu aveți voie să faceți sărituri de pe munți, de pe rampe.
-- Nu aveti voie sa circulati cu mai mult de 200 kph pe drumurile din interiorul Los Santos, Sandy Shores, Paleto, Dusty, Grapeseed, decat daca aveti un motiv IC bine intemeiat.
-- Nu aveti voie sa circulati pe contrasens pe autostrada sau pe artere circulate des fara un motiv IC bine intemeiat. (Iesire port garaj industrial, Centrul Los Santos, Zona Fleeca Centrala etc.
-- Nu aveti voie sa ocoliti speedbump-urile decat cu un motiv IC bine intemeiat.
-::: info Exemplu
-Condusul unei mașini de super sport ( cu garda joasă ) pe un drum neasfaltat.
-:::
-
-:::danger IMPORTANT!!!!!
 - Va este permis sa faceti stunt-uri, in momentul in care are loc o urmarire.
+- Nu aveti voie sa circulati cu mai mult de 200 kph pe drumurile din interiorul Los Santos, Sandy Shores, Paleto, Dusty, Grapeseed, decat daca aveti un motiv IC bine intemeiat.
+- Nu aveti voie sa circulati pe contrasens pe autostrada sau pe artere circulate des fara un motiv IC bine intemeiat. (Iesire port garaj industrial, Centrul Los Santos, Zona Fleeca Centrala etc.)
+- Nu aveti voie sa ocoliti speedbump-urile decat cu un motiv IC bine intemeiat.
 - Se permite manevra de pit stop in urmariri de pana la 250kmh.
+- Datorita scriptului de impotmolire  se permite accesul pe orice drum ( OFF-Road, Extreme OFF-Road ) cu orice clasa de masina.
+
 :::info
 Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste proceduri noi.
 :::
-
 
 #### <span class="header-font">Aparate de zbor</span>
 - Aterizarea elicopterelor, avioanelor se va face doar în zonele predestinate (helipad-uri, aeroport) și în câmpuri larg deschise, nefiind voie să aterizați pe șosea, teren accidentat, drumuri publice. (Excepție de la această regulă fac elicopterele Poliției/SMURD-ului, când acestea se află în misiune) 
@@ -135,19 +137,19 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 - Jucătorul cu pricina trebuie **să uite** toate **informațiile acumulate** în roleplay-ul respectiv, **nume, locații, informații, etc.**
 - In cazul organizatiilor liderul poate da PK unui jucator pentru ca acesta sa uite informatiile detinute despre organizatia respectiva.
 :::warning Excepție la PK
-- Polițiștii care sunt implicați într-o situație cum ar fi: jaf, urmărire care se lasă cu focuri de armă, razii, patrule pe rău famate în urma cărora s-au tras focuri de arma, ETC și își iau PK, când se reîntorc la secție și primesc din nou cod 0, pot să se reîntoarcă, indiferent că a luat PK la acea acțiune (se rolează faptul că poliția mereu are întăriri).
+- Polițiștii care sunt implicați într-o situație cum ar fi: jaf, urmărire care se lasă cu focuri de armă, razii, patrule pe rău famate în urma cărora s-au tras focuri de armă, ETC și își iau PK, când se reîntorc la secție și primesc din nou COD 0 pot să se reîntoarcă, indiferent că au luat PK la acea acțiune (se rolează faptul că poliția are mereu întăriri).
+- Jucatorii care fac parte din organizatii neoficile/oficiale ( mafii ) au voie dupa ce isi dau respawn sa se intoarca la actiune ( DOAR IN CAZUL COMBATULUI PE GRAFITI )
 :::
-
 
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.15 Character Kill</span>
 - Reprezintă momentul în care personajul creat de dvs. **moare în totalitate**, iar tot progresul va fi pierdut.
 - Toate informațiile acumulate din momentul în care ați creat personajul vor fi uitate.
+- Intr-o situatie de CK trebuie chemat un Admin 4+.
 - **Orele jucate vor fi resetate**.
 - **Toată averea** acumulată până la momentul respectiv **va fi pierdută**.
 - Va trebui să vă creați **alt caracter**, cu un **alt nume**, cu o **altă înfățișare**.
-- ***Pentru mafii: daca aveti situatie de ck: trebuie sa chemati un Admin 3+ si un membru Sindicat ca sa decida daca contextul se va termina cu ck. In cazul in care nu este o persoana avizata care sa decida situatia puteti “sechestra” persoana pana vine cineva ce are putere decizionala
 
 ::: warning ATENȚIE!
 :exclamation:VIP-urile, beneficiile achiziționate de pe [store.furyrp.ro](store.furyrp.ro) **nu vor fi pierdute în urma CK-ului**.
@@ -159,14 +161,17 @@ Se va primi CK atunci:
 - Când un jucător acumulează 4 caziere.
 - Când un jucător își trădează organizația, gruparea din care face parte.
 - Când un jucător descoperă și/sau abuzează de un BUG ce îi oferă beneficii materiale.
+
+***Pentru mafii: daca aveti situatie de ck: trebuie sa chemati un Admin 4+ ca sa decida daca contextul se va termina cu ck.
 :::
+
 :::danger EXPLICAȚIE ARMA ALBĂ VS ARMĂ DE FOC
 - De multe ori playerii aleg sa atace, desi vizibil sau la o distanta considerabila un alt jucator cu un cutit/briceag, deoarece aceste arme albe au o animatie care nu poate fi evitata si da 1-shot. Se creeaza situatii unde jucatorii inarmati cu cutite alearga inspre o persoana cu pistol/automata sperând sa intre in animatia de 1shot. Acest lucru e considerat Nofear, deoarece stii clar ca poti fi picat, dar totusi tu alegi sa faci asta. Fiind un lucru asumat, de aici rezulta si CK-ul.
 :::
 
 <hr style="transform: translateY(10px)"/>
 
-### <span class="header-font">1.16 Roleplay Scarbos</span>
+### <span class="header-font">1.16 Roleplay Scarbos & Injosirea jucatorilor</span>
 - Reprezintă **totalitatea roleplay-urile ce conțin o scenă sexuală**, incluzând (violul, necrofilia, pedofilismul, canibalismul). Pentru a putea face acest tip de Roleplay aveți nevoie de **aprobarea pe chat-ul OOC** a persoanei sau persoanelor ce doriți să le implicați.
 - În cazul în care cineva **începe un astfel de roleplay fără acordul dvs.**, aveți tot dreptul nu dați curs scenariului și să **chemați un admin** întrerupând astfel roleplay-ul.
 :::warning Atenție!
@@ -182,11 +187,13 @@ Se va primi CK atunci:
 
 ### <span class="header-font">1.18 Toxicitatea</span>
 - Din dorința de a forma o comunitate primitoare pentru toți jucătorii ne vom rezerva dreptul de a elimina persoanele problematice cele ce nu au intenția de a face un roleplay calitativ, frumos, ci au ca unică intenție deranjarea persoanelor din jur, fără un motiv bine întemeiat, doar pentru propriul amuzament.
-- Provoci un accident în mod intenționat pentru a crea o ceartă.
-- Injuriile IC duse la extrem si injuriile IC adresate altui jucator fara un context IC in prealabil atrag sanctiuni. **(BAN)**
+- Injuriile IC duse la extrem si injuriile IC adresate altui jucator fara un context IC in prealabil atrag sanctiuni. (BAN)
+- Este interzis sa fiti misogini sau sa dati dovada de bombardierism in preajma fetelor ( Regula se aplica persoanelor pe care nu le cunoasteti ). Totodata este interzis sa folositi apelative jignitoare cu fetele/femeile pe care nu le cunoasteti si cu care nu ati avut nici o interactiune care sa va determine sa folositi apelative jignitoare. (fa/zdreanta/etc)
+
 ::: danger ATENȚIE!
 - **Se interzic suferințele OOC sub orice formă, este interzis ca în urma unui roleplay să mergeți și să înjurați o persoană în privat, pe live, pe instagram, etc.**
 :::
+
 ::: info Exemplu
 Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și începi să o înjuri, umilești, injosesti, fără nici un motiv.
 :::
@@ -195,9 +202,11 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 
 ### <span class="header-font">1.19 Rob&Kill (R&K) & Kill&Rob(K&R)</span>
 - Se interzice jefuirea unei persoane iar apoi omorârea ei. 
+- Este interzisa perchezitia unui jucator, iar in cazul in care persoana respectiva nu detine asupra lui ceea ce v-ar fi facut sa il jefuiti, sa il omorati. Adica : Daca ideea RP-ului este de a jefui persoana respectiva, atunci imi este interzis sa il perchezitionez si dupa aceea sa il omor. De ce?  E clar ca nu v-a convenit ceea ce avea pe el si ati ales sa il omorati. Dar daca ideea Rp-ului este cu totul alta ( Beef IC, Injuraturi, Informatii  etc. ) atunci nu este sanctionabil faptul ca l-ati perchezitionat si dupa ati ales sa il omorati.
 - Excepție de la această regulă face situația în care cel care a fost deja jefuit începe să aibe un comportament nepotrivit și nu respectă indicațiile jefuitorului.
-- Se interzice omorarea si jefuirea unei persoane.
-- ESTE INTERZISĂ uciderea unui jucător percheziționat. Această acțiune va fi considerată Rob & Kill și se va sancționa ca atare.
+- Exceptie de la aceasta regula face situatia in care jefuitorul este prins de persoana pe care a jefuito si acesta ia de pe el doar bunurile care i-au fost furate
+- <span style="color:red">**Se interzice omorarea si jefuirea unei persoane.</span>
+
 
 <hr style="transform: translateY(10px)"/>
 
@@ -234,6 +243,7 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - O persoană se consideră moartă (PK) **doar** în momentul în care respectiva persoana **a folosit funcția de respawn**.
 - Este interzis să vorbiți, să folosiți telefonul cât timp sunteți în comă, excepție de la această regulă face situația în care ați intrat în comă în urma unui accident rutier, feroviar sau în cazul în care ați căzut de la o distanță mare și niciun jucător nu se află în jurul vostru, caz în care puteți suna la medic.
 - În cazul oricărui RP și dacă nu ați primit revive în decurs de **420 de secunde (7 minute)**, aveți dreptul de a folosi funcția de RESPAWN.
+- <span style="color:red">Aveti obligatia ca atunci cand sunteti in raza medicului de la spitalul de mafioti sa folositi functia de "Internare " . In cazul in care atunci cand folositi aceasta functie nu va puteti interna pentru ca sunt paturile pline si voua v-a aparut functia de "Respawn" , o puteti folosi.</span>
 
 <hr style="transform: translateY(10px)"/>
 
@@ -253,10 +263,6 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Nu aveți voie să angajați pe cineva care să presteze anumite servicii pentru voi și să îi promiteți o sumă de bani sau bunuri, iar la final să nu respectați învoiala inițială
 - Pariurile IC trebuiesc mereu onorate și respectate, drept urmare este interzis să dați SCAM-uri la barbut, etc.
 - Nu se consideră scam în cazul în care împrumutați de bună voie un jucător cu orice bun material.
-- Înainte de a juca barbut cu un jucător aveți obligația de a verifica dacă respectiva persoană deține suma de bani, **folosiți opțiunea de percheziționare**.
-- Jucătorul "are obligația de a verifica dacă celălalt cu care joacă barbut" deține sau nu miza respectivă, DAR asta nu înseamnă că, dacă nu a verificat, nu e înșelătorie (SCAM).
-- Jucătorul are obligația de a juca doar pe averea pe care o detine PERSONAL. Nu exista scuze de genul: "Am masina la persoana X, Am imprumutat de bani pe X si trebuie sa ii primesc intr-o ora", etc.
-- Ambii jucători au obligația de a respecta intelegerea inițială. De ex: "Jucăm pe $100.00, primu la 5 castiga" NU exista scuze de genul: "Avea 4-1 si a zis ca a castigat, normal ca m-am retras". Înțelegerea inițială trebuie respectată pana la FINALUL JOCULUI.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -271,6 +277,7 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 ### <span class="header-font">1.28 Refuz Roleplay</span>
 - **Este interzis să refuzați interacțiunea roleplay** cu ceilalți jucători. Se consideră **Refuz Roleplay** în momentul în care
 părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bară (AFK), refuzați orice fel de interacțiune.
+- In cazul care sunteti cu masina personala si sunteti intr-o urmarire cu PD, nu aveti voie sa rolati ca este portbagajul stricat sau alte scuze pentru nu-l deschide.
 
 #### <span class="header-font"> **AFK în Roleplay**</span>
 - Nu este permis să vă puneți AFK în timpul unui roleplay. 
@@ -283,7 +290,7 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 <hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">1.29 Ticket în Roleplay</span>
-- <span style="color:red">Nu mai aveti voie sa faceti ticket in RP. In cazul in care in acel RP failul este "Roleplay scarbos" / "Troll" aveti permisiunea de a chema un admin.</span>
+- <span style="color:red">Se permite Tk-ul in RP, cu exceptia celor de Combat sau Rp-uri complexe cu mai multi participanti. In cazul in care se produce un fail aveti obligatia sa va retrageti intr-o zona mai retrasa si sa va spuneti punctul de vedere. ( Exceptie de la regula atunci cand fail-ul este Troll, RP scarbos, Cheats ) Neconformarea de la regula atrage sanctiuni.</span>
 
 <hr style="transform: translateY(10px)"/>
 
@@ -345,27 +352,28 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - Nu este obligatoriu sa mai rolati /me in cazul unui accident rutier in timpul unei urmariri. In cazul unui accident care nu are loc in timpul unei urmariri sunteti obligati sa faceti RP cu persoana cu care ati avut accidentul.
 :::
 
-### <span class="header-font">1.35 Este interzis sa soliciti unor jucatori noi sa-ti ofere banii de inceput. Se sanctioneaza cu Character-Kill (CK).</span>
+### <span class="header-font">1.35 Ofera bani
+- Este interzis sa soliciti unor jucatori noi sa-ti ofere banii de inceput. Se sanctioneaza cu Character-Kill (CK).</span>
 
 <hr style="transform: translateY(10px)"/>
 
-### <span class="header-font">1.36 Este permisa pentru anunt CNN referitor la VIPs, doar o singura formulare "Inel Diamond/Gold/Silver".</span>
+### <span class="header-font">1.36 CNN
+- Este permisa pentru anunt CNN referitor la VIPs, doar o singura formulare "Inel Diamond/Gold/Silver".</span>
 - P.S FireCoins achiziționate pe un ID nu se pot transfera/vinde.
 
-### <span class="header-font">1.37 Rubble</span>
-- Masina utilitara de tip Rubble va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. 
+### <span class="header-font">1.37 Rubble Miner</span>
+- Masina utilitara de tip Rubble va fi folosita STRICT pentru jobul de miner. Se interzice folosirea ei pentru alte joburi legale sau depozitarea lucrurilor ilegale. (droguri/arme etc) 
 :::warning
 - Se va sanctiona cu Fail RP.
 :::
 
 ### <span class="header-font">1.38 BUSINESS IC</span>
-- În cazul businessurilor IC (tatuaje, spălătorii, frizerii, garaje mecanici, etc.) pentru care Primăria eliberează un document special, este interzisă solicitarea altor sume - în afara celor specificate în script, cu excepția cazului în care jucătorul dorește să ofere TIPS (bacșiș). Se sancționează cu 120 minute de închisoare (ajail).
+- În cazul businessurilor IC (tatuaje, spălătorii, frizerii, garaje mecanici, etc.) pentru care Primăria eliberează un document special, este interzisă solicitarea altor sume - în afara celor specificate în script, cu excepția cazului în care jucătorul dorește să ofere TIPS (bacșiș). Se sancționează cu 120 minute de ajail.
 
 [A fost adaugat regulament general pentru TAXI, MECANICI.](/informatii/regulamentbiz.html)
 
 ### <span class="header-font">1.39 PANĂ DE CURENT</span>
 - În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
-Aceasta regula se aplica in intervalul orar 19:00 - 07:00, și nu in timpul zilei.
 
 ### <span class="header-font">1.40 Folosirea de iteme in combat</span>
 - In timpul combat-ului aveti dreptul sa folositi armuri/adrenaline/bandaje.
@@ -390,7 +398,21 @@ Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Al
 - NU este permis sa va dati disconnect pe anumite zone ca sa va logati mai tarziu in timpul unei batai.
 - NU este permis sa va dati disconnect in bataie.
 
-### <span class="header-font">1.44 Zone pe server</span>
+### <span class="header-font">1.44 Low Effort Roleplay</span>
+- Regula se refera la Roleplay-urile repetate in care faceti aceleasi actiuni, fara sa ganditi noi portite de scapare, noi modalitati sau in care perpetuati actiuni similare fara un scop bine definit.
+- RP-urile repetate in care umiliti alti jucatori/membri ai altor factiuni sunt interzise. (ban 14-30d)
+
+:::info Exemple
+- <span style="color:white">Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal, fara vreun context IC bine definit</span>
+- <span style="color:white">Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti</span>
+:::
+
+### <span class="header-font">1.45 Posthunt</span>
+- Este interzis sa faceti Posthunt. Posthunt-ul se defineste prin gasirea de motive/fail-uri in Roleplay-urile altor persoane, doar cu scopul de a fi sanctionate pentru bunul plac personal, sau deoarece exista anumite implicatii(beef-uri/certuri) IC care derapeaza in OOC.
+- Posthunt-ul se sanctioneaza cu ban intre 14 si 30 zile, iar in cazurile posthunt-ului repetat puteti sa va asteptati la banuri fara drept de plata
+
+### <span class="header-font">1.46 Zone pe server</span>
+- Aveti obligatia ca atunci cand incepeti un RP  de urmarire/jefuire/combat sa il duceti pana la capat si nu sa va "ascundeti " in zonele publice ( Singura zona de refugiu, in cazul in care va simtiti depasiti este sectia de Politie )
 
 ::: tip
 - **Zone Publice**: Autostrăzi, Aeroporturi, Sediile joburilor legale, Magazinele de haine, Bancomate, Bănci, Magazine alimentare,
@@ -410,14 +432,20 @@ a locurilor foarte retrase)
 - 2.01   Nu aveți voie să răpiți jucătorii din zone publice. 
 - 2.02   Nu aveți voie să răpiți persoanele ce practică un job legal vizibil.
 - 2.03   Membrii **mafiei** au dreptul de a răpi pe cineva dintr-o zonă publică, **doar** în cazul în care acțiunea a început într-o zonă rău famată, retrasă iar respectivul a reușit să fugă. În acest caz răpirea trebuie efectuată rapid, jucătorul trebuie legat, luat pe sus și dus într-o zonă rău famată, retrasă. **Dacă respectiva persoană a fugit la secția de poliție nu se mai poate interveni asupra lui**.
-- 2.04   Este interzisă luarea de ostatici pentru a da jaf la bancă.
+- 2.04   Este interzisă luarea de ostatici pentru a da jaf la bancă (Exceptand Fleeca).
 - 2.05   Este interzis să răpești o persoana având ca unic scop cererea de răscumpărare din partea Poliției.
 - 2.06   Atunci când negociați eliberarea unui ostatic, ambele părți au obligația de a respecta învoiala inițială.
 - 2.07   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
 - 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
+:::warning ATENTIE!
+- NU AVETI VOIE SA CERETI OAMENI CARE DEJA SUNT CAPTURATI SI LA SECTIE.
+:::
 - 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
-- 2.10  Puteți sechestra un ostatic/persoana rapita intr-o locatie maxim 24h. Persoana care este “legată”(sechestrata) are dreptul sa faca joburi legale, în schimb nu are dreptul sa faca ilegalități de vreun fel sau sa informeze ca este legat IC. (<span style="color:red">Vă trebuie aprobarea unui Admin 4+</span>, un motiv întemeiat sa sechestrati pe cineva, sechestrarea unui player fără un motiv bine întemeiat atrage sancțiuni)
-- 2.11 In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 300.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
+- 2.10  Puteti sechestra o persoana doar cu acordul unui <span style="color:red">Admin 4+</span> si cu dovezi pentru a motiva sechestrul
+- 2.11  In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 300.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
+- 2.12  Rapirile sunt permise doar cu acordul unui <span style="color:red">Admin 4+</span> si cu dovezi pentru a motiva rapirea
+- 2.13  Singurul caz in care aveti dreptul sa luati o persoana dintr-o alta factiune/civil in **ostatic(th)** este atunci cand dati jaf la Fleeca.(La acel jaf singura negociere posibila este pentru a primi cale libera in schimbul vietii ostaticului, fara sa se traga din ambele parti. Jaful la Fleeca este work in progress din punct de vedere tehnic)
+
 :::danger
 - NU UITATI CA SA PUTETI RAPI/SECHESTRA PE CINEVA TREBUIE SA AVETI UN MOTIV BINE INTEMEIAT, SI INFORMATII CLARE DESPRE ACEA PERSOANA. 
 - NERESPECTAREA VA ATRAGE UN BAN DE FAILRP 3-7 ZILE IN FUNCTIE DE GRAVITATE.
@@ -427,7 +455,6 @@ a locurilor foarte retrase)
 
 ### <span class="header-font">3.0 Jefuitul</span>
 - 3.01   Aveți voie să jefuiți jucători doar în intervalul orar **19:00 - 07:00**.
-<!-- - 3.01   Aveți voie să jefuiți jucători doar în momentul in care se intuneca/este noapte vizibil pe server. (<span style="color:yellow">In dreapta sus la hud va aparea o iconita cu o luna</span>) -->
 - 3.02   Nu aveți voie să jefuiți persoane în zone publice. 
 - 3.03   Nu aveți voie să jefuiți persoanele ce practică un job legal vizibil.
 - 3.04   Nu aveți voie să jefuiți Polițiștii și Medicii **ON-DUTY** (sunt îmbrăcați în uniformă). În cazul în care sunt OFF-DUTY, aveți voie să îi jefuiți.
@@ -435,8 +462,8 @@ a locurilor foarte retrase)
 - 3.06   Este interzis să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
 - 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
 - 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
-- 3.09 Mafiile și organizațiile(factiunile plătite) au dreptul de a jefui alti playeri doar cu un motiv IC bine întemeiat.
-- 3.10 Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 3 ore.
+- 3.09  Mafiile și organizațiile(factiunile plătite) au dreptul de a jefui alti playeri doar cu un motiv IC bine întemeiat.
+- 3.10  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 3 ore.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -464,24 +491,23 @@ smurd este **singura** variantă de scăpare cu viață dintr-o situație extrem
 
 ### <span class="header-font">7.0 Civil pentru Mafiot</span>
 
-- Va este strict interzis sa interveniti ca civili (adica membri fara grad in mafie)  in roleplay-ul cu POLITIA al membrilor dintr-o mafie (cu grad), exceptie facand situatia in care roleplay-ul incepe cu toata lumea de fata (Membri mafie cu grad + Membri familia mica)
+- Va este strict interzis sa interveniti ca civili (adica membri fara grad in mafie)  in roleplay-ul cu POLITIA al membrilor dintr-o mafie (cu grad), exceptie facand situatia in care roleplay-ul incepe cu toata lumea de fata (Membri mafie cu grad + Membri familia mica ) si in cazul jafurilor armate ( Jaf Pacific / Vangelico )
 
 ::: warning SITUATII
 Situatia 1: Daca mafia X sta intr-o anumita zona impreuna cu familia mica si politia va observa, au voie sa intervina doar membrii din familia mica PREZENTI la inceputul roleplay-ului. Nu este permis sa fie chemati mai tarziu pe statie.
 
-Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad si 3 membri din familia mica, acestia au voie sa ajute membrul cu grad in cazul unei posibile batai cu politia, singurii care au voie sa vina in ajutor, find membri cu grad
+Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad si 3 membri din familia mica, acestia au voie sa ajute membrul cu grad in cazul unei posibile batai cu politia, singurii care au voie sa vina in ajutor, fiind membri cu grad
 
 Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1 membru cu grad 3 familie mica in ideea in care daca 1 membru cu grad cere intariri sa aveti motiv ca si civilii aflati in masinile celorlalti membri cu grad sa poata intervenii.
 :::
 
 ### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific / Transport</span>
 
-- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 30 (Membri cu grad si membri din familia mica).
+- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 25 (Membri cu grad si membri din familia mica).
 - Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 10 (doar cu grad).
 - In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
 - Numarul minim de oameni la jaful de la Vangelico este de 4 oameni inauntrul locatiei.
-- La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
-- Numarul maxim de persoane  care pot participa la Jafurile de ATM este de 6 persoane, FARA a se deschide focul in zonele publice.
+-La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
 :::warning
 - De asemenea, nici POLITIA NU va deschide focul, nefiind Cod 0 sau Jaf Armat, avand dreptul sa folosească doar Taser-ul din dotare dacă viața nu le este pusă în pericol.
 :::

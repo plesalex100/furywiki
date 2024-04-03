@@ -10,6 +10,13 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## Update 02/04/2024
+
+- Regulamentul a primit un update destul de mare asa ca am sa va rog pe toti sa il cititi din nou ca sa fiti informati.
+- Este de datoria playerilor comunitatii sa respecte regulamentul serverului.
+
+### -> [Regulament](/informatii/regulament.html) <-
+
 ## Update 16/03/2024
 
 [1.43 Disconnect/Combat Logging](/informatii/regulament.html#_1-43-disconnect-in-roleplay-combat-logging)

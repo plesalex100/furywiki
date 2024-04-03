@@ -10,6 +10,48 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## 1st April Event - Server Update v2.80
+
+- Special Items:
+
+**Sparge roata, dezactivează frâna jucătorilor, leagă șireturile și multe alte iteme pot fi craftate din inventar după ce ai găsit în tomberoane părțile necesare.
+Căutarea în tomberoane se poate realiza doar la cele care sunt marcate cu o săgeată portocalie.
+Odată folosit, item-ul respectiv va oferi puncte eveniment.**
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1224339971914207263/update2.png?ex=661d2274&is=660aad74&hm=73baf34fa834a42949a19903ad1949d371503385e3f224b7faed8f12be1965d6&=&format=webp&quality=lossless&width=671&height=671)
+
+- Gift Opening:
+
+**În fiecare zi pe durata evenimentului, primiți după conectare un Pachet de prezervative  cu premii care poate fi deschis la Diamond Casino.
+Conține mașini, case, Firecoins, bani și alte premii.**
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1224339971360424036/update1.png?ex=661d2274&is=660aad74&hm=2a178339af12327b353554025d501559ab858890be60b49a1fcaf65c1639f3ba&=&format=webp&quality=lossless&width=671&height=671)
+
+- Leaderboard:
+
+A fost adăugat în K > Leaderboard eveniment, va arăta numărul de puncte acumulate la eveniment.
+### 🥇 Locul 1: Kit HyperX - Tastatură Alloy Origins + HyperX Pulsefire Haste
+### 🥈 Locul 2: Căști Razer Baracuda X Wireless
+### 🥉 Locul 3: Mouse Razer Mamba RGB
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1224339970467172392/leaderboard.png?ex=661d2274&is=660aad74&hm=e34601dc29100d0f44c293e831752e65977e9c17e398eb5705d4cd4538edd18b&=&format=webp&quality=lossless&width=671&height=671)
+
+- Misiuni - April Fools Event:
+
+A fost adăugat în K > APRIL FOOLS EVENT.
+
+Au fost create 10 misiuni, folosind iteme noi.
+
+Premii: bani, Firecoins, mașini custom și multe altele.
+
+Mașinile au stoc limitat.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1224339970907705394/roadmap_event.png?ex=661d2274&is=660aad74&hm=e809d908788b0f70d209d7663f8f2d9a797270d7e05292d177118743217d45eb&=&format=webp&quality=lossless&width=671&height=671)
+
+- Custom Vehicles:
+
+A fost creat un livery custom pentru 6 mașini, disponibile doar pe perioada evenimentului.
+
 ## Server Update v2.79
 
 ### S-a adăugat comanda /afk:
