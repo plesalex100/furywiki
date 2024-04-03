@@ -20,3 +20,7 @@ title: Regulament General
 - Un cetățean merge la secția de poliție pentru a raporta o răpire, iar polițistul din tură refuză să facă demersurile pentru soluționarea cazului.
 - Merg la CNN și dau anunț "Vand arme in paleto (politia nu vede)"
 :::
+
+### <span class="header-font">1.03 In Character (IC)</span>
+- Reprezintă momentul în care te aflii în ”pielea personajului”, simulând **viața reală**, astfel putând să acumulați informații, să creați legături, pe care să le puteți folosi în viitoarele Role-Play-uri.
+
