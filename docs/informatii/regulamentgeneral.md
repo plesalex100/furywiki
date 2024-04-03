@@ -100,3 +100,6 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 ### <span class="header-font">1.11 Vehicle Deathmatch (VDM)</span>
 - Reprezintă **lovirea intenționată** a unui jucător **cu un autovehicul** fără un motiv bine întemeiat.
 
+### <span class="header-font">1.12 Ninja Jack (NJ) </span>
+- Reprezintă **furtul** unui autovehicul **fără a întreține un Roleplay**. 
+
