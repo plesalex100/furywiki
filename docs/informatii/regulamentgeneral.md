@@ -94,3 +94,6 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 #### <span class="header-font">Ambarcațiuni</span>
 - Nu aveți voie să frânați forțat prin deraierea ambarcațiunii pe uscat. Excepție de la această regulă face situația în care viața vă este pusă în pericol.
 
+### <span class="header-font">1.10 Random Deathmatch (RDM)</span>
+- Reprezintă atacarea, **omorârea** unui jucător **fără un motiv bine întemeiat**
+
