@@ -213,3 +213,9 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Pariurile IC trebuiesc mereu onorate și respectate, drept urmare este interzis să dați SCAM-uri la barbut, etc.
 - Nu se consideră scam în cazul în care împrumutați de bună voie un jucător cu orice bun material.
 
+### <span class="header-font">1.27 Roleplay-uri **SPECIALE/ Cu acțiuni Teroriste**</span>
+::: warning Atenție!
+- Se poate întampla des ca jucătorii să vina cu idei de Roleplay-uri mai speciale sau care pot fi considerate acțiuni teroriste.
+- În acest caz, aveți obligația de a lua legătura cu un Admin 3+ pentru a primi aprobarea roleplay-ului.
+:::
+
