@@ -103,3 +103,6 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 ### <span class="header-font">1.12 Ninja Jack (NJ) </span>
 - Reprezintă **furtul** unui autovehicul **fără a întreține un Roleplay**. 
 
+### <span class="header-font">1.13 Revenge Kill</span>
+- Se consideră atunci când un jucător te-a omorât iar după ce folosești opțiunea de respawn te întorci în același loc pentru a te răzbuna. **Atenție!** Nu se consideră Revenge Kill dacă primiți revive de la un medic, în acest caz, puteți să duceți răzbunarea la bun sfârșit.
+
