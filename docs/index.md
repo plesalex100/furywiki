@@ -18,7 +18,10 @@ hero:
 ---
 <script setup> 
     import SiteMap from '/.vitepress/components/SiteMap.vue'
+    import Home from '/.vitepress/components/Home.vue'
 </script>
+
+<Home />
 
 <SiteMap />
 
