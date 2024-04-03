@@ -7,24 +7,24 @@ import SiteMap from './SiteMap.vue'
 
 <section id="highlights" class="vt-box-container">
     <div class="vt-box">
-      <h2>Approachable</h2>
+      <h2>Roleplay Advanced</h2>
       <p>
-        Builds on top of standard HTML, CSS and JavaScript with intuitive
-        API and world-class documentation.
+        Dorința noastră este ca nivelul de roleplay să fie cât mai complex și ridicat cu putință, 
+        astfel încât să oferim o experiență cât mai plăcută și realistă jucătorilor noștri.
       </p>
     </div>
     <div class="vt-box">
-      <h2>Performant</h2>
+      <h2>Update-uri constante</h2>
       <p>
-        Truly reactive, compiler-optimized rendering system that rarely
-        requires manual optimization.
+        Oferim constant Update-uri calitative pentru a îmbunătăți experiența jucătorilor noștri,
+        astfel încât să existe mereu ceva nou de descoperit.
       </p>
     </div>
     <div class="vt-box">
-      <h2>Versatile</h2>
+      <h2>Proiect pe termen lung</h2>
       <p>
-        A rich, incrementally adoptable ecosystem that scales between a
-        library and a full-featured framework.
+        Comunitatea Fury este un proiect pe termen lung, astfel puteți să vă bucurați de serverul nostru
+        pentru o perioadă îndelungată, fără wipe-uri.
       </p>
     </div>
   </section>
