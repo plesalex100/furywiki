@@ -20,6 +20,12 @@ hero:
     import SiteMap from '/.vitepress/components/SiteMap.vue'
 </script>
 
+<script setup>
+import SiteMap from '../.vitepress/components/SiteMap.vue'
+</script>
+
+<SiteMap />
+
 <!-- <style>
   body {
     background-image: url('https://i.imgur.com/7wr2IqN.gif');

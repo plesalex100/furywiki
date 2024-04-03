@@ -20,7 +20,8 @@ export default defineConfig({
         text: 'Regulament',
         items: [
           { text: 'Regulament General', link: '/informatii/regulament' },
-          { text: 'Regulament Business', link: '/informatii/regulamentbiz' }
+          { text: 'Regulament Business', link: '/informatii/regulamentbiz' },
+          { text: 'Regulament OOC Mafii/Organizații Ilegale', link: '/informatii/regulamentmafii'}
         ]
       },
       {
@@ -154,6 +155,7 @@ export default defineConfig({
 
       {
         text: 'Proprietăți',
+        activeMatch: `^/informatii/`,
         items: [
           { text: "Cum licitez o proprietate?", link: '/proprietati/auction' },
           { text: "Case", link: '/proprietati/case' },
@@ -165,6 +167,7 @@ export default defineConfig({
 
       {
         text: 'Instituții publice',
+        activeMatch: `^/informatii/`,
         items: [
           { text: "Primăria", link: '/factions/primarie' },
           { text: "Poliția", link: '/factions/politie' },
