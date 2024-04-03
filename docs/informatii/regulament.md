@@ -6,6 +6,10 @@ title: Regulament General
 
 ![](https://i.imgur.com/Pi4NYYG.png){ width="400" height="500" style="display: block; margin: 0 auto" }
 
+:::tip Sfat!
+- Ultimele update-uri ale regulilor sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
+:::
+
 ## <span style="font-family:Conthrax">Noțiuni de bază</span>
 
 
