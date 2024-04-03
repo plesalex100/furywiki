@@ -171,3 +171,10 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Exceptie de la aceasta regula face situatia in care jefuitorul este prins de persoana pe care a jefuito si acesta ia de pe el doar bunurile care i-au fost furate
 - <span style="color:red">**Se interzice omorarea si jefuirea unei persoane.</span>
 
+### <span class="header-font">1.20 Mixing (MX)</span>
+- Reprezintă transmiterea informațiilor In Character (IC) în Out of Character (OOC). 
+- Se interzice transmiterea informațiilor IC pe chatul global, discord, sau orice alt mijloc OOC.
+::: info Exemplu
+“Vând mașina …”, “Cineva sa ma ia din zona..”
+:::
+
