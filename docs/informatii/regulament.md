@@ -395,12 +395,23 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Always day, No bushes, etc
 :::
 
+### <span class="header-font">1.43 Disconnect in RP / Combat Logging</span>
+Nu este permis sa va dati disconnect in RP.
+
+Nu este permis sa va dati disconnect ca sa fugiti de o interactiune. ( EX: ati jefuit pe cineva, ati fugit 1 minut in zona publica v-ati dat disconnect)
+
+Nu este permis sa va dati disconnect pe zone de ilegale.( Exclus rau famate)
+
+Nu este permis sa va dati disconnect pe anumite zone ca sa va logati mai tarziu in timpul unei batai.
+
+Nu este permis sa va dati disconnect in bataie.
+
 ### <span class="header-font">1.44 Low Effort Roleplay</span>
 - Regula se refera la Roleplay-urile repetate in care faceti aceleasi actiuni, fara sa ganditi noi portite de scapare, noi modalitati sau in care perpetuati actiuni similare fara un scop bine definit.
 - RP-urile repetate in care umiliti alti jucatori/membri ai altor factiuni sunt interzise. (ban 14-30d)
 
 :::info Exemple
-- <span style="color:white">Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal, fara vreun context IC bine definit</span>
+- <span style="color:white">Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal,fara vreun context IC bine definit    </span>
 - <span style="color:white">Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti</span>
 :::
 
