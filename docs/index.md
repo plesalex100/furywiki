@@ -16,6 +16,9 @@ hero:
       text: 🎧 Alătură-te pe Discord
       link: https://discord.gg/furyro
 ---
+<script setup> 
+    import SiteMap from '/.vitepress/components/SiteMap.vue'
+</script>
 
 <!-- <style>
   body {
