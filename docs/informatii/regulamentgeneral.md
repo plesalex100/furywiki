@@ -241,3 +241,10 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - Un jucător care are mai mult de 10 sancțiuni de ban pe punish-log va primi ban permanent cu drept de plată.
 - La 2 banuri permanente cu drept, al 3-lea va fi ban permanent fără drept 60 de zile.
 
+### <span class="header-font">1.31 Bug-abuse / Cheating</span>
+- Este interzis să abuzați de anumite vulnerabilități ale serverului, în momentul în care descoperiți un BUG aveți obligația de a îl raporta, persoanele care sunt surprinse că au abuzat de anumite bug-uri pentru a își crea unu avantaj vor fi sancționate cu BAN + CK.
+- Folosirea de cheat-uri de orice tip este strict interzisă și aduce după sine Banarea Permanentă.
+:::tip
+- Toti jucatorii care au fost sanctionati cu ban pentru Cheats sunt obligati sa porneasca filmarea cand intra pe server. Cei care vor fi prinsi fara filmare vor fi sanctionati indiferent daca au avut sau nu au avut interactiune cu alti jucatori pentru Cheats.
+:::
+
