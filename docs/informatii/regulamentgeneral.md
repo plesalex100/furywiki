@@ -164,3 +164,10 @@ Se va primi CK atunci:
 Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și începi să o înjuri, umilești, injosesti, fără nici un motiv.
 :::
 
+### <span class="header-font">1.19 Rob&Kill (R&K) & Kill&Rob(K&R)</span>
+- Se interzice jefuirea unei persoane iar apoi omorârea ei. 
+- Este interzisa perchezitia unui jucator, iar in cazul in care persoana respectiva nu detine asupra lui ceea ce v-ar fi facut sa il jefuiti, sa il omorati. Adica : Daca ideea RP-ului este de a jefui persoana respectiva, atunci imi este interzis sa il perchezitionez si dupa aceea sa il omor. De ce?  E clar ca nu v-a convenit ceea ce avea pe el si ati ales sa il omorati. Dar daca ideea Rp-ului este cu totul alta ( Beef IC, Injuraturi, Informatii  etc. ) atunci nu este sanctionabil faptul ca l-ati perchezitionat si dupa ati ales sa il omorati.
+- Excepție de la această regulă face situația în care cel care a fost deja jefuit începe să aibe un comportament nepotrivit și nu respectă indicațiile jefuitorului.
+- Exceptie de la aceasta regula face situatia in care jefuitorul este prins de persoana pe care a jefuito si acesta ia de pe el doar bunurile care i-au fost furate
+- <span style="color:red">**Se interzice omorarea si jefuirea unei persoane.</span>
+
