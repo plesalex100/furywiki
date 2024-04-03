@@ -232,3 +232,6 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - Este INTERZIS sa rămâneți AFK intr-o zona rău famată / zonă retrasă. In cazul in care un jucător va încerca să interacționeze cu o persoană AFK, acest lucru va fi permis, făcând excepție de la regula interacțiunii cu o persoană AFK, iar persoana AFK va fi sancționată cu Refuz RP. - Sanctiune BAN 10 zile.
 :::
 
+### <span class="header-font">1.29 Ticket în Roleplay</span>
+- <span style="color:red">Se permite Tk-ul in RP, cu exceptia celor de Combat sau Rp-uri complexe cu mai multi participanti. In cazul in care se produce un fail aveti obligatia sa va retrageti intr-o zona mai retrasa si sa va spuneti punctul de vedere. ( Exceptie de la regula atunci cand fail-ul este Troll, RP scarbos, Cheats ) Neconformarea de la regula atrage sanctiuni.</span>
+
