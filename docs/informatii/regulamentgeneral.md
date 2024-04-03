@@ -200,3 +200,8 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - În cazul oricărui RP și dacă nu ați primit revive în decurs de **420 de secunde (7 minute)**, aveți dreptul de a folosi funcția de RESPAWN.
 - <span style="color:red">Aveti obligatia ca atunci cand sunteti in raza medicului de la spitalul de mafioti sa folositi functia de "Internare " . In cazul in care atunci cand folositi aceasta functie nu va puteti interna pentru ca sunt paturile pline si voua v-a aparut functia de "Respawn" , o puteti folosi.</span>
 
+### <span class="header-font">1.24 Practicarea de joburi legale</span>
+- Aveți obligația de a purta hainele specifice locului de muncă.
+- Aveți obligația de a avea un comportament adecvat în timpul în care practicați un job legal.
+- Se interzice practicarea de activități ilegale cât timp sunteți îmbrăcat în hainele specifice jobului legal, de asemenea se interzic activitățile ilegale cât timp conduceți vehiculele destinate joburilor legale.
+
