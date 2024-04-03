@@ -40,6 +40,7 @@ title: Regulament General
 - <span style="color:white">Ex: Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.</span>
 - <span style="color:white">Ex: Se considera NF atunci cand observi ca se indreapta catre tine o masina si tu iei decizia sa o opresti iesind in fata ei</span>
 - <span style="color:white">Ex :Se considera NF atunci cand dupa un schimb de focuri sau atunci cand cineva a tras dupa tine , dar tu crezi ca s-a creat un Fail acolo, te intorci doar ca sa iei ID-uri sau sa ii " certi" ca de ce trag dupa tine etc.</span>
+:::
 
 ### <span class="header-font">1.06 COP-FEAR (CF)</span>
 - Reprezintă **o subramură a No Fear-ului** ce are ca obiect simularea fricii față de **organele de poliție**.
@@ -47,4 +48,19 @@ title: Regulament General
 - Se interzice **Cop-Bait-ul**, care reprezintă instigarea organelor de poliție în mod intenționat. (drifturi lângă un polițist, în fața secției de poliție, trecerea pe culoarea roșie a semaforului în mod intenționat atunci când un polițist este în preajmă)
 - Se interzice să vă luați la bătaie/împușcături parte în parte cu membrii Poliției din departamentul S.I.A.S.. Excepție de la această regulă face **situația în care ați dat jaf**. De asemenea, excepție de la această regulă face situația în care vă aflați la una dintre **locațiile de producție de armament, droguri, ilegale**.
 - Se interzice ca **odata ce ajungeti la celule**, chiar inainte sa fiti procesati, sa va tocmiti cu organele PD pentru a cere reducere la amenda/sentinta.
+
+### <span class="header-font">1.07 Power Gaming (PG) </span>
+- Reprezintă momentul în care **simulați** folosirea unor **puteri supranaturale**, cat si neoferirea de sanse egale in RP.
+
+- Nu se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti tranzactii intr-o zona rau famata/retrasa cu obiecte/masini si inainte sa faceti tranzactia il jefuiti/rapiti.
+- Se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti o tranzactie de tipul : " Vand inel cu diamant/furi/aur" si il ademeniti intr-o zona rau famata/retrasa pentru a-l jefui/rapi. Incercam ca tranzactiile de tipul asta sa nu fie permise.
+- Se considera PG atunci cand de exemplu cineva vrea sa cumpere o masina , acesta va cere sa faca un test-drive cu ea si il fortati sa vina cu voi intr-o zona rau famata/retrasa. De ce? Pentru ca din script nu puteti sa sariti din masina decat la viteze foarte mici, astfel nu dati sansa la RP si celuilalt.
+- Nu se considera PG atunci cand intr-un RP blocati caile de acces. De ce? In functie de RP-ul pe care vreti sa-l faceti PD/Mafie fiecare isi creaza un avantaj blocand caile de acces. ( Mafiile blocheaza o locatie sa prinda jefuitori sau alta mafie, PD-ul blocheaza o zona sa nu iasa nimeni din ea la razie etc.)
+- Nu aveti voie ca intr-un RP, in cazul in care sunt sa zicem 4 persoane, ca toate sa fie legate la maini si cu punga pe cap. Aveti obligatia ca macar o persoana sa fie dezlagata la maini si una sa fie fara punga pe cap si totodata persoanele legate sau cele cu pungi pe cap trebuie sa aibe sansa sa poate comunica intre ei.  Aici permitem ca persoana care este legata sa poata rola /me rupe punga cu gura celui care este lasat doar cu punga pe cap.
+
+::: info Exemple
+- Folosirea informațiilor auzite cât timp ați fost în comă.
+
+- Folosirea telefonul/stației radio atunci când ele au fost confiscate.
+:::
 
