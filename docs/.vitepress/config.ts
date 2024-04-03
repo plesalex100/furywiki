@@ -67,7 +67,7 @@ export default defineConfig({
         items: [
           { text: "Despre noi", link: '/informatii/about' },
           { text: "Autentificare", link: '/informatii/auth' },
-          { text: "Regulament General", link: '/informatii/regulament' },
+          { text: "Regulament General", link: '/informatii/regulamentgeneral' },
           { text: "Regulament OOC Mafii/Organizații Ilegale", link: '/informatii/regulamentmafii'},
           { text: "Regulament Business", link: '/informatii/regulamentbiz' },
           { text: 'Zone Publice/Rău Famate/Retrase', link: '/informatii/map' },
