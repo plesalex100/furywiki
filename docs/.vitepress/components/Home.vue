@@ -1,6 +1,13 @@
 <script setup lang="ts">
 import { onMounted } from 'vue'
 import SiteMap from './SiteMap.vue'
+
+document.addEventListener('DOMContentLoaded', function() {
+    var buttonToRemove = document.querySelector('.VPLocalNav button[data-v-079b16a8]');
+    if (buttonToRemove) {
+        buttonToRemove.parentNode.removeChild(buttonToRemove);
+    }
+});
 </script>
 
 <template>
