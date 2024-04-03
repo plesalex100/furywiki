@@ -20,7 +20,8 @@ export default defineConfig({
         text: 'Regulament',
         items: [
           { text: 'Regulament General', link: '/informatii/regulament' },
-          { text: 'Regulament Business', link: '/informatii/regulamentbiz' }
+          { text: 'Regulament Business', link: '/informatii/regulamentbiz' },
+          { text: 'Regulament OOC Mafii/Organizații Ilegale', link: '/informatii/regulamentmafii'}
         ]
       },
       {
