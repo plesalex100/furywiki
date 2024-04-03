@@ -398,7 +398,7 @@ Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Al
 ### <span class="header-font">1.43 Disconnect in RP / Combat Logging</span>
 Nu este permis sa va dati disconnect in RP.
 
-Nu este permis sa va dati disconnect ca sa fugiti de o interactiune. ( EX: ati jefuit pe cineva, ati fugit 1 minut in zona publica v-ati dat disconnect)
+Nu este permis sa va dati disconnect ca sa fugiti de o interactiune. <span style="color:red">De exemplu - ati jefuit pe cineva, ati fugit 1 minut in zona publica v-ati dat disconnect</span>
 
 Nu este permis sa va dati disconnect pe zone de ilegale.( Exclus rau famate)
 
