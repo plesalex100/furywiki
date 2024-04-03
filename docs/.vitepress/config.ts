@@ -53,7 +53,17 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Istoric Update-uri',
+        activeMatch: `^/informatii/`,
+        items: [
+          { text: "Update-uri server", link: '/informatii/updatesv' },
+          { text: "Update-uri regulament", link: '/informatii/updatereg' },
+        ]
+      },
+
+      {
         text: 'Informații utile',
+        activeMatch: `^/informatii/`,
         items: [
           { text: "Despre noi", link: '/informatii/about' },
           { text: "Autentificare", link: '/informatii/auth' },
@@ -65,14 +75,6 @@ export default defineConfig({
           { text: "Comenzi des folosite", link: '/informatii/comenzi' },
           { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' },
           { text: "Panel", link: '/informatii/panel' },
-        ]
-      },
-
-      {
-        text: 'Istoric Update-uri',
-        items: [
-          { text: "Update-uri server", link: '/informatii/updatesv' },
-          { text: "Update-uri regulament", link: '/informatii/updatereg' },
         ]
       },
 
