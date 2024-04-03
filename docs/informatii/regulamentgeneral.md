@@ -64,3 +64,15 @@ title: Regulament General
 - Folosirea telefonul/stației radio atunci când ele au fost confiscate.
 :::
 
+### <span class="header-font">1.08 Meta Gaming (MG)</span>
+- Reprezintă momentul în care un jucător folosește informații aflate **Out of Character**(OOC) într-o situație **In Character**.
+- Este interzis sa stati cu partajarea sau sa va sincronizati pe Discord in timp ce sunteti pe joc.
+- Este interzis sa recunoasteti oamenii dupa voce  atata timp cat au masca pusa.
+::: info Exemplu
+- În timp ce Ionescu este jefuit îi dă partajare pe discord prietenului său Popescu, acesta din urmă vine la respectiva locație
+și omoară jefuitorul. 
+:::
+:::danger Exemplu 2
+- Recunoastrea mafiotilor dupa armele specifice lor de catre Civili sau alti mafioti ( M9 / Beryl / M9A3 / etc)
+:::
+
