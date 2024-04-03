@@ -284,3 +284,7 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 :::info !!!
 - Nu este obligatoriu sa mai rolati /me in cazul unui accident rutier in timpul unei urmariri. In cazul unui accident care nu are loc in timpul unei urmariri sunteti obligati sa faceti RP cu persoana cu care ati avut accidentul.
 :::
+
+### <span class="header-font">1.35 Ofera bani</span>
+- Este interzis sa soliciti unor jucatori noi sa-ti ofere banii de inceput. Se sanctioneaza cu Character-Kill (CK).
+
