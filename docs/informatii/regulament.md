@@ -392,19 +392,19 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - De asemenea va este interzis sa folositi sau sa aveti in PC fisiere care modifica damage, arme, hitbox, etc.
 
 :::tip
-Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Always day, No bushes, etc
+- Exemple interzise: Flawless Widescreen, Kill FX, Tracere arme, Blood effects, Always day, No bushes, etc
 :::
 
 ### <span class="header-font">1.43 Disconnect in RP / Combat Logging</span>
-Nu este permis sa va dati disconnect in RP.
+- Nu este permis sa va dati disconnect in RP.
 
-Nu este permis sa va dati disconnect ca sa fugiti de o interactiune. <span style="color:red">De exemplu - ati jefuit pe cineva, ati fugit 1 minut in zona publica v-ati dat disconnect</span>
+- Nu este permis sa va dati disconnect ca sa fugiti de o interactiune. <span style="color:red">De exemplu - ati jefuit pe cineva, ati fugit 1 minut in zona publica v-ati dat disconnect</span>
 
-Nu este permis sa va dati disconnect pe zone de ilegale.( Exclus rau famate)
+- Nu este permis sa va dati disconnect pe zone de ilegale.( Exclus rau famate)
 
-Nu este permis sa va dati disconnect pe anumite zone ca sa va logati mai tarziu in timpul unei batai.
+- Nu este permis sa va dati disconnect pe anumite zone ca sa va logati mai tarziu in timpul unei batai.
 
-Nu este permis sa va dati disconnect in bataie.
+- Nu este permis sa va dati disconnect in bataie.
 
 ### <span class="header-font">1.44 Low Effort Roleplay</span>
 - Regula se refera la Roleplay-urile repetate in care faceti aceleasi actiuni, fara sa ganditi noi portite de scapare, noi modalitati sau in care perpetuati actiuni similare fara un scop bine definit.
