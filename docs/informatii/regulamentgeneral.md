@@ -205,3 +205,6 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Aveți obligația de a avea un comportament adecvat în timpul în care practicați un job legal.
 - Se interzice practicarea de activități ilegale cât timp sunteți îmbrăcat în hainele specifice jobului legal, de asemenea se interzic activitățile ilegale cât timp conduceți vehiculele destinate joburilor legale.
 
+### <span class="header-font">1.25 Afacerile ilegale</span>
+- Este **interzis să achiziționați cu bani reali** (PayPal/Paysafe/Transfer Bancar, etc.) **bunuri IN-GAME** de la **alți jucători**.
+
