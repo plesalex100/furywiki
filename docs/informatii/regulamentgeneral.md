@@ -497,7 +497,7 @@ smurd este **singura** variantă de scăpare cu viață dintr-o situație extrem
 
 - Va este strict interzis sa interveniti ca civili (adica membri fara grad in mafie)  in roleplay-ul cu POLITIA al membrilor dintr-o mafie (cu grad), exceptie facand situatia in care roleplay-ul incepe cu toata lumea de fata (Membri mafie cu grad + Membri familia mica ) si in cazul jafurilor armate ( Jaf Pacific / Vangelico )
 
-::: warning SITUATII
+:::warning SITUATII
 Situatia 1: Daca mafia X sta intr-o anumita zona impreuna cu familia mica si politia va observa, au voie sa intervina doar membrii din familia mica PREZENTI la inceputul roleplay-ului. Nu este permis sa fie chemati mai tarziu pe statie.
 
 Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad si 3 membri din familia mica, acestia au voie sa ajute membrul cu grad in cazul unei posibile batai cu politia, singurii care au voie sa vina in ajutor, fiind membri cu grad
