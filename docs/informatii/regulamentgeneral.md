@@ -123,3 +123,21 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 - **Toată averea** acumulată până la momentul respectiv **va fi pierdută**.
 - Va trebui să vă creați **alt caracter**, cu un **alt nume**, cu o **altă înfățișare**.
 
+::: warning ATENȚIE!
+:exclamation:VIP-urile, beneficiile achiziționate de pe [store.furyrp.ro](store.furyrp.ro) **nu vor fi pierdute în urma CK-ului**.
+Se va primi CK atunci: 
+- Când un jucător se sinucide (/me moare, accidente intentionate).
+- La anumite situatii de no-fear
+- In momentul cand incerci sa ataci o persoana ce are arma de foc si tu ai o arma alba si mori
+- Cand esti ostatic si membrii din aceeasi organizatie nu respecta faptul ca esti luat ostatic
+- Când un jucător acumulează 4 caziere.
+- Când un jucător își trădează organizația, gruparea din care face parte.
+- Când un jucător descoperă și/sau abuzează de un BUG ce îi oferă beneficii materiale.
+
+***Pentru mafii: daca aveti situatie de ck: trebuie sa chemati un Admin 4+ ca sa decida daca contextul se va termina cu ck.
+:::
+
+:::danger EXPLICAȚIE ARMA ALBĂ VS ARMĂ DE FOC
+- De multe ori playerii aleg sa atace, desi vizibil sau la o distanta considerabila un alt jucator cu un cutit/briceag, deoarece aceste arme albe au o animatie care nu poate fi evitata si da 1-shot. Se creeaza situatii unde jucatorii inarmati cu cutite alearga inspre o persoana cu pistol/automata sperând sa intre in animatia de 1shot. Acest lucru e considerat Nofear, deoarece stii clar ca poti fi picat, dar totusi tu alegi sa faci asta. Fiind un lucru asumat, de aici rezulta si CK-ul.
+:::
+
