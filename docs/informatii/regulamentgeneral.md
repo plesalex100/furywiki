@@ -302,7 +302,11 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 [A fost adaugat regulament general pentru TAXI, MECANICI.](/informatii/regulamentbiz.html)
 
 ### <span class="header-font">1.39 PANĂ DE CURENT</span>
-- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția locațiilor unde se desfășoară joburi legale și a garajelor.
+- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția
+locațiilor unde se desfășoară joburi legale și a garajelor.
+:::info
+- Adaugare : (Doar de la 19:00 - la 04:00 cand incepe sa se intunece/sa se faca lumina ingame)
+:::
 
 ### <span class="header-font">1.40 Folosirea de iteme in combat</span>
 - In timpul combat-ului aveti dreptul sa folositi armuri/adrenaline/bandaje.
