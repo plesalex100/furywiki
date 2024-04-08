@@ -24,6 +24,8 @@ title: Update-uri Server
 ### GRAFFITI🖌️ 
 - Au fost create si implementate noile graffiti-uri pentru noile Organnizatii.
 
+<hr>
+
 - Salariile factiunilor Smurd & Politie au fost majorate cu 10%
 
 ## 1st April Event - Server Update v2.80
