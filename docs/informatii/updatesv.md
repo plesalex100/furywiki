@@ -10,6 +10,22 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.81
+
+### 👮 POLICE DISPATCH👮 
+- A fost implementat noul sistem de dispatch care permite politistilor sa creeze statii in functie de actiunea desfasurata.
+- Crearea de statie noua se face cu ajutorul comenzii ``/nd``
+- De acum politistii care sunt on-duty sunt obligati sa-si seteze callsign-ul la intrarea in tura.
+- Statia nefolosita timp de 30 de secunde se va sterge automat.
+- Sistemul este in perioada Beta si va fi imbunatatit pe baza feedback-ului conducerii politiei.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1226753113919197205/dispatch.png?ex=6625e9de&is=661374de&hm=be81a43feb58f614f93b28e80b14a1a6f94013fe2ff535d0ce994f2bd24fad6a&=&format=webp&quality=lossless&width=671&height=671)
+
+### GRAFFITI🖌️ 
+- Au fost create si implementate noile graffiti-uri pentru noile Organnizatii.
+
+- Salariile factiunilor Smurd & Politie au fost majorate cu 10%
+
 ## 1st April Event - Server Update v2.80
 
 - Special Items:
