@@ -71,7 +71,7 @@ title: Regulament OOC Mafii/Organizații Ilegale
 - Puteti sa intrati peste alte organizatii/mafii/familii ic in sediu doar cu acordul Admin 4+
 
 ### <span class="header-font"> 16. Jaf în timpul transportului </span>
-- Vă este interzis să dați jaf Pacific/Interceptare/Vangelico/etc în timpul unui transport. <span style="color:red">(FW)</span>
+- Vă este interzis să dați jaf Pacific/Interceptare/Vangelico/etc în timpul unui transport. <span style="color:red">(FW)</span> 
 
 :::danger IMPORTANT!
 - Ne rezervăm dreptul de a actualiza, modifica regulamentul.

@@ -15,7 +15,6 @@ title: Update-uri Regulament
 ### [Regulament OOC Mafii/Organizatii](/informatii/regulamentmafii.html)
 16. Va este interzis sa dati jaf Pacific/Interceptare/Vangelico/etc in timpul unui transport. (FW)
 
-
 ## Update 04/04/2024
 
 [1.39 Pana de curent](/informatii/regulamentgeneral.html#_1-39-pana-de-curent)
