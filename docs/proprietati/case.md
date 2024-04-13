@@ -27,46 +27,46 @@ Există 4 tipuri de case:
 <Videos video-source="https://www.youtube.com/embed/tca-nWpFumY" />
 :::
 :::details Deluxe 2
-![](https://i.imgur.com/NxzJofO.gif)
+<Videos video-source="https://www.youtube.com/embed/MxnzA3P04J8" />
 :::
 :::details Deluxe 3
-![](https://i.imgur.com/K9PQ8EP.gif)
+<Videos video-source="https://www.youtube.com/embed/8DwWMp7br7I" />
 :::
 ### <span class="header-font">High End - 3 variante de interior</span>
 :::details High End 1
-![](https://i.imgur.com/no8kpIT.gif)
+<Videos video-source="https://www.youtube.com/embed/dVxzqqn3UdI" />
 :::
 :::details High End 2
-![](https://i.imgur.com/FDaPmsA.gif)
+<Videos video-source="https://www.youtube.com/embed/L9nothSCLi0" />
 :::
 :::details High End 3
-![](https://i.imgur.com/LSq4i1R.gif)
+<Videos video-source="https://www.youtube.com/embed/VB8wfS_gCMY" />
 :::
 ### <span class="header-font">Medium - 3 variante de interior</span>
 :::details Medium 1
-![](https://i.imgur.com/ETuHKOJ.gif)
+<Videos video-source="https://www.youtube.com/embed/FxYGIEaC6X0" />
 :::
 :::details Medium 2
-![](https://i.imgur.com/SHuw6mm.gif)
+<Videos video-source="https://www.youtube.com/embed/5Z-l5FlQhtE" />
 :::
 :::details Medium 3
-![](https://i.imgur.com/u71HNRg.gif)
+<Videos video-source="https://www.youtube.com/embed/98p-Vj1BLSo" />
 :::
 ### <span class="header-font">Starter - 5 variante de interior</span>
 :::details Starter 1
-![](https://i.imgur.com/YVQEVeT.gif)
+<Videos video-source="https://www.youtube.com/embed/7O3rrFzicFc" />
 :::
 :::details Starter 2
-![](https://i.imgur.com/oPuq0gG.gif)
+<Videos video-source="https://www.youtube.com/embed/1TsxjuVpQ9w" />
 :::
 :::details Starter 3
-![](https://i.imgur.com/iTutsOW.gif)
+<Videos video-source="https://www.youtube.com/embed/EwlurOUxigU" />
 :::
 :::details Starter 4
-![](https://i.imgur.com/6DR4Yd6.gif)
+<Videos video-source="https://www.youtube.com/embed/4grnTVC_9qA" />
 :::
 :::details Starter 5
-![](https://i.imgur.com/j2uq8EG.gif)
+<Videos video-source="https://www.youtube.com/embed/vvNNkpJPY44" />
 :::
 
 ## <span class="header-font">Cum pot vedea unde e casa mea personală/casa unde am chirie/casa de la care am o copie a cheii?</span>
