@@ -3,6 +3,7 @@ title: Case
 ---
 <script setup> 
     import KeyIcon from '../.vitepress/components/KeyIcon.vue'
+    import Videos from '../.vitepress/components//Videos.vue';
 </script>
 
 
