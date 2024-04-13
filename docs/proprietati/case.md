@@ -24,7 +24,7 @@ Există 4 tipuri de case:
 
 ### <span class="header-font">Deluxe - 3 variante de interior</span>
 :::details Deluxe 1
-<Videos video-source="https://www.youtube.com/watch?v=tca-nWpFumY" />
+<Videos video-source="https://youtu.be/tca-nWpFumY" />
 :::
 :::details Deluxe 2
 ![](https://i.imgur.com/NxzJofO.gif)
