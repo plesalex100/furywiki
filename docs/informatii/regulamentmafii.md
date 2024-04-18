@@ -60,6 +60,9 @@ title: Regulament OOC Mafii/Organizații Ilegale
 ### <span class="header-font"> 12. Alianțe IC </span>
 - In cazul aliantelor IC, aveti dreptul sa participati la actiuni, intr-un mix de membri doar in cazul in care sunt <span style="color:red">maxim 6 persoane dintr-o alta mafie</span>. 
 - Exclus cazul cand sunteti deja intr-o zona si incepe o actiune. 
+:::danger IMPORTANT!
+- Aliantele sunt interzise la graffiti
+:::
 
 ### <span class="header-font"> 13. Structura IC </span>
 - Deoarece nu continuam cu conceptul de **sindicat**, va aparea alta <span style="color:red">structura IC</span>, care are strict <span style="color:red">scopul</span> sa tina <span style="color:red">licitatiile pentru zonele de productie/procesare, sa vanda anumite iteme</span> necesare ce momentan nu pot fi obtinute in alt mod. Totodata aceasta structura se va ocupa de <span style="color:red">task-uri sau alte evenimente</span> pentru mafii (transport, etc).
