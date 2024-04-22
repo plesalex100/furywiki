@@ -437,10 +437,14 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 ### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific / Transport</span>
 
 - Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 20 (Membri cu grad si membri din familia mica).
-- Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 20 (doar cu grad).
-- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
+- Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 25 (doar cu grad).
+- Numarul maxim de membri care pot participa la o interceptare este de 26.
 - Numarul minim de oameni la jaful de la Vangelico este de 4 oameni inauntrul locatiei.
--La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
+- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
+:::info
+- **La jafuri nu se respecta regula de maxim 6, se pot face mixuri in numarul maxim scris mai sus**
+:::
+- La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
 :::warning
 - De asemenea, nici POLITIA NU va deschide focul, nefiind Cod 0 sau Jaf Armat, avand dreptul sa folosească doar Taser-ul din dotare dacă viața nu le este pusă în pericol.
 :::

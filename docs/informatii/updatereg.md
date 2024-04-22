@@ -10,6 +10,22 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## Update 21/04/2024
+
+[8.0 Regulament Jafuri / Banca Pacific / Transport](/informatii/regulamentgeneral.html#_8-0-regulament-jafuri-banca-pacific-transport)
+- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 20 (Membri cu grad si membri din familia mica).
+- Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 25.
+- Numarul maxim de membri care pot participa la o interceptare este de 26.
+:::info
+- La jafuri nu se respecta regula de maxim 6, se pot face mixuri in numarul maxim scris mai sus
+:::
+
+## Update 18/04/2024
+
+### [Regulament OOC Mafii/Organizatii](/informatii/regulamentmafii.html)
+12. Alianțe IC
+- Aliantele sunt interzise la graffiti.
+
 ## Update 12/04/2024
 
 [8.0 Regulament Jafuri / Banca Pacific / Transport](/informatii/regulamentgeneral.html#_8-0-regulament-jafuri-banca-pacific-transport)
