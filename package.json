@@ -9,6 +9,7 @@
     "preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@vue/theme": "^2.2.5"
+    "@vue/theme": "^2.2.5",
+    "sitemap-generator": "^8.5.1"
   }
 }
