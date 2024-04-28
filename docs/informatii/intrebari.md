@@ -19,7 +19,7 @@ Pentru a juca pe această platformă trebuie să aveți GTA 5 cumpărat.
 ### A: Roleplay-ul este modul de joc al serverului și reprezintă simularea vieții reale, prin intermediul caracterului tău din joc.
 
 ::: warning **A NU SE CONFUNDA CU MODUL DE JOC RPG!**
- Acest mod de joc are în spate niște *[REGULI](/informatii/regulamentgeneral.html)* care trebuiesc citite și reținute deoarece respectarea acestora contribuie la buna desfășurare a activităților și interacțiunilor playerilor pe server. 
+ Acest mod de joc are în spate niște *[REGULI](/informatii/regulament.html)* care trebuiesc citite și reținute deoarece respectarea acestora contribuie la buna desfășurare a activităților și interacțiunilor playerilor pe server. 
 :::
 
 ## <span class="header-font">Q: Ce tip de roleplay are serverul?</span>
@@ -28,7 +28,7 @@ Pentru a juca pe această platformă trebuie să aveți GTA 5 cumpărat.
 
 ## <span class="header-font">Q: Trebuie să fac un test introductiv ca să joc pe server?</span>
 
-### A: Nu, serverul poate fi jucat de oricine, însă abaterea de la [regulamentul general](/informatii/regulamentgeneral.html) va fi sancționată ca atare.
+### A: Nu, serverul poate fi jucat de oricine, însă abaterea de la [regulamentul general](/informatii/regulament.html) va fi sancționată ca atare.
 
 ## <span class="header-font">Q: Ce joburi sunt pe server și câți bani fac de la fiecare?</span>
 
