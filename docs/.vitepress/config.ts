@@ -6,6 +6,17 @@ export default defineConfig({
 
   title: "Fury Romania - The Wiki",
   description: "FiveM Roleplay Server",
+
+  head: [
+    ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '192x192', href: '/favicon/android-chrome-192x192.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '512x512', href: '/favicon/android-chrome-512x512.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/favicon/apple-touch-icon.png' }],
+    ['link', { rel: 'manifest', href: '/favicon/site.webmanifest' }],
+  ],
+  
   lastUpdated: true,
 
   appearance: 'dark',
@@ -19,7 +30,7 @@ export default defineConfig({
       {
         text: 'Regulament',
         items: [
-          { text: 'Regulament General', link: '/informatii/regulamentgeneral' },
+          { text: 'Regulament General', link: '/informatii/regulament' },
           { text: 'Regulament Business', link: '/informatii/regulamentbiz' },
           { text: 'Regulament OOC Mafii/Organizații Ilegale', link: '/informatii/regulamentmafii'}
         ]
@@ -67,7 +78,7 @@ export default defineConfig({
         items: [
           { text: "Despre noi", link: '/informatii/about' },
           { text: "Autentificare", link: '/informatii/auth' },
-          { text: "Regulament General", link: '/informatii/regulamentgeneral' },
+          { text: "Regulament General", link: '/informatii/regulament' },
           { text: "Regulament OOC Mafii/Organizații Ilegale", link: '/informatii/regulamentmafii'},
           { text: "Regulament Business", link: '/informatii/regulamentbiz' },
           { text: 'Zone Publice/Rău Famate/Retrase', link: '/informatii/map' },

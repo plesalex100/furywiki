@@ -139,7 +139,7 @@ title: Comenzi Utile
 ### Tasta HOME
 - Arată ID-ul celor din jur și totodată ID-ul tău va fi vizibil la apăsarea acestei taste.
 :::danger ATENȚIE!
-Citește [regulamentul](regulamentgeneral) pentru a afla în ce condiții ai voie să folosești această comandă.
+Citește [regulamentul](regulament) pentru a afla în ce condiții ai voie să folosești această comandă.
 :::
 
 ### Tasta B

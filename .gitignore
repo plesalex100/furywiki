@@ -3,6 +3,8 @@
 **/.vitepress/dist
 **/.vitepress/cache
 
+gen-sitemap.js
+
 /server
 /certs
 
