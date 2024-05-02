@@ -10,6 +10,68 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.84
+
+### Cars Update
+
+Urmatoarele masini au fost adaugate in Dealership:
+- BMW X5 M
+- BMW M3 F80
+- BMW M3 Touring
+- - VW Golf 4
+- Porsche 911 2020
+- Lexus LS 500
+- Lamborghini Murcielago LP670-4 SV
+- Aston Martin V8
+- BMW M3 E36
+- Toyota GR86
+- Maibatsu Sunrise R
+- Mercedes S-Coupe AMG
+- Lamborghini Gallardo
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1234327299243905056/NEWCARS.png?ex=6634f1a0&is=6633a020&hm=ba066c041dc9c3760a1a32726e974bdc247f082ae0042ae1fae60ca7edeefdaa&=&format=webp&quality=lossless&width=512&height=385)
+
+## Server Update v2.83
+
+- De acum înainte puteți utiliza adrenalina inclusiv când aveți arma echipată.
+- Beneficiile VIP au fost crescute (banii primiți la achiziționare + payday).
+- Arma AR 15 a primit un boost de damage de la 16 la 20 pe hit.
+- Au fost efectuate reparații la sistemul Fury Bet.
+
+### Skins Market Fury 
+- A fost adăugat sistemul de market pentru skin-uri. 
+- În această interfață puteți verifica prețul live al skin-urilor dorite, le puteți vinde/achiziționa. 
+- Sistemul oferă comunității posibilitatea de a dicta prețul skinurilor, precum și volumul de cumpărare.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1233685494559412255/skins.png?ex=66349626&is=663344a6&hm=aa29a7acbf7586cc9426ffa9196ce09956ff8953a1ab9ced2296f7293ee8b66b&=&format=webp&quality=lossless&width=671&height=671)
+
+### Transportul Aqua 
+- La fel ca și în cazul transportului bancar, a fost creat un sistem Aqua destinat transporturilor maritime. 
+- Aceste transporturi pot conține arme, bani murdari sau iteme utilizabile pentru jafuri. 
+- După colectarea MP3 playerului aveți la dispoziție 3 minute pentru a-l folosi, altfel acesta nu mai este funcțional. După aflarea codului secret, sunați la numărul dictat de către MP3 player.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1233685494995484703/transport.png?ex=66349626&is=663344a6&hm=14cd6ea463b91ed44cc443c29d5b7f37a10094e46ac201f54e0961d01e8fc0e3&=&format=webp&quality=lossless&width=671&height=671)
+
+## Server update v2.82
+
+### WEAPON SKINS
+- A fost implementat sistemul de skin-uri pentru arme.
+- Meniul este accesibil din K și vă oferă posibilitatea de a vă selecta pe fiecare armă ce skin deținut doriți să folosiți.
+- Sistemul este în teste, de aceea opțiunea Market nu este momentan accesibilă, urmând să fie implementată în perioada următoare.
+- Skin-urile vor putea fi tranzacționate pe market între jucători folosind bani ic.
+- Au fost create 200 de skin-uri, urmând să fie adăugate periodic în cutii noi.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1230360937979183174/skins.png?ex=6635042a&is=6633b2aa&hm=2f47774e02e12f1205bec85ac5c65c9b27a1548598dbcb4695ca1d49e5d12bb9&=&format=webp&quality=lossless&width=671&height=671)
+
+### 🚗 DISTANTIERE MASINI🚗 
+- A fost creat un sistem pentru montarea distanțierelor la mașini.
+- Distanțierele pot fi montate de către mecanici și pot fi achiziționate de la magazin.
+- Pentru a vi se monta distanțierele este necesară intervenția unui mecanic.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1230360937463287839/mecanici.png?ex=6635042a&is=6633b2aa&hm=89e1926f37db9bfdd509feda19babf947477f71c920eec25a4984062f4e702c6&=&format=webp&quality=lossless&width=671&height=671)
+
+:furywhite: Soon: Jafuri noi, activitati noi, Easter Event :furywhite:
+
 ## Server Update v2.81
 
 ### 👮 POLICE DISPATCH👮 
