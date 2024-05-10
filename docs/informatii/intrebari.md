@@ -16,7 +16,7 @@ Pentru a juca pe această platformă trebuie să aveți GTA 5 cumpărat.
 
 ## <span class="header-font">Q: Ce este roleplay-ul?</span>
 
-### A: Roleplay-ul este modul de joc al serverului și reprezintă simularea vieții reale, prin intermediul caracterului tău din joc.
+### A: Roleplay-ul reprezintă o modalitate captivantă si o experiență în care jucătorii își pot interpreta personajele într-o lume virtuală.
 
 ::: warning **A NU SE CONFUNDA CU MODUL DE JOC RPG!**
  Acest mod de joc are în spate niște *[REGULI](/informatii/regulament.html)* care trebuiesc citite și reținute deoarece respectarea acestora contribuie la buna desfășurare a activităților și interacțiunilor playerilor pe server. 
