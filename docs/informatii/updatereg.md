@@ -10,6 +10,14 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## UPDATE 04/10/2023
+[8.0 Regulament Jaf Banca Pacific/Transport/ Yacht](https://wiki.furyrp.ro/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+- Numarul maxim de membri care pot participa la un jaf pe Yacht este de 20 (Membri cu grad si membri din familia mica)
+
+[1.14 Player Kill](https://wiki.furyrp.ro/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
+**Exceptie la PK**
+- Politistii care sunt implicati intr-o situatie cum ar fi: jaf, urmarire care se lasa cu focuri de arma, razii, patrule pe rau famate in urma carora s-au tras focuri de arma, ETC si isi iau PK, cand se reintorc la sectie si primesc din nou cod 0, pot sa se reintoarca, indiferent ca a luat PK la acea actiune (se roleaza faptul ca politia are mereu intariri)
+
 ## Update 21/04/2024
 
 [8.0 Regulament Jafuri / Banca Pacific / Transport](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific-transport)
