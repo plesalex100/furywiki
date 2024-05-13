@@ -10,6 +10,67 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.86
+
+- Problema la Bentley Continental GT referitoare la tunning a fost rezolvata.
+- Problema cu farurile de la masina Mercedes Benz CLS a fost rezolvata.
+- Modelul de la BMW M4 a fost modificat.
+- Modelul de la Lamborghini Gallardo a fost modificat.
+
+## Server Update v2.85
+
+### Easter Event  - Psycho Easter Fury
+
+### 🐰 Mapping special de Paște
+- Orașul a fost decorat în spirit pascal.
+- Mulțumiri speciale tuturor celor care au ajutat la realizarea acestuia.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1236277519091765248/mapping.png?ex=6642a169&is=66414fe9&hm=b29a42a29a015596a0017479c9c15c5734c7fac1e0f51b0ef598efcc0016c8d7&=&format=webp&quality=lossless&width=671&height=671)
+
+### 🐰 Easter Event Roadmap
+- Așa cum v-am obișnuit, aveți la dispoziție un set de misiuni de îndeplinit pentru a obține una din cele 3 mașini decorate cu un colat specific sărbătorilor pascale și tematicii event-ului dar și alte premii după fiecare misiune îndeplinită.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1236277520425554014/roadmap.png?ex=6642a169&is=66414fe9&hm=20df2787cc2d547170507bc4f1bb5b824a4ba9de076f9435f0eb2b7099b27fe6&=&format=webp&quality=lossless&width=671&height=671)
+
+### 🐰 Custom Easter Cars
+- 9 Mașini au fost decorate cu tematica event-ului și pot fi câștigate prin finalizarea Roadmap-ului de misiuni.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1236277521839034438/image.png?ex=6642a16a&is=66414fea&hm=8f8c5e085bda292fcc0ef4e93e8dc6889a4163c26e150cbadf92a495f13083f9&=&format=webp&quality=lossless&width=1439&height=638)
+
+### 🐰 Propriul Coș cu Ouă
+- De la magazinul alimentar puteți să vă cumpărați un coș pentru ouă pe care îl puteți așeza în locul dorit. Acesta poate fi upgradat așezând ouă roșii în el. Cu cât puneți mai multe ouă în el, level-ul coșului este mai mare. Primiți un reward zilnic și un reward la fiecare level-up al coșului. Level-up se poate face doar la interval de 12 ore.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1236277519662186506/oua.png?ex=6642a169&is=66414fe9&hm=724446d2151461c38d3f9b96b200afa813798138c41555b7ca1b96048504b74e&=&format=webp&quality=lossless&width=671&height=671)
+
+### 🐰 Chicken Arena
+- În parcul de la Richman Golf Course, puteți intra în Chicken Arena. Scopul acestui mini-game este de a curenta găina, care și ea este la rândul ei jucător, cu taser-ul primit. Odată ce ați reușit să curentați găina, îi veți prelua înfățișarea. Dacă sunteți găină, aveți o putere specială, "Shockwave", pe care o puteți folosi apăsând CLICK pentru a îndepărta jucătorii din apropierea voastră. Cu cât deveniți găină de mai multe ori și prideți in Shockwave mai mulți jucători, cu atât primiți mai multe PUNCTE. 
+- P.S. 10 puncte = un ou roșu
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1236277518584123443/arena.png?ex=6642a169&is=66414fe9&hm=d2d356d5aee44f407f9b05ab8de2a4c7deb30d2394d36fcc4e9d97d04d5362e2&=&format=webp&quality=lossless&width=671&height=671)
+
+### 🐰 Eggs Battle
+- Ciocnește ouă cu alți jucători cu o miză la mijloc. Pentru a obține un ou eligibil pentru ciocăneală, îl puteți obține din meniul de craft din inventar. 
+- P.S. 10 ouă roșii = 1 Fighter Egg
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1236277521251700746/spartv2-ezgif.com-video-to-gif-converter.gif?ex=6642a169&is=66414fe9&hm=1042ea63ffe8471edc3373aea8e494c76ee67e561d75719f1edc0a2a45b9cc27&=&width=660&height=371)
+
+### 🐰 New Skin Case  - Psycho Skins 
+- O nouă cutie cu skin-uri cu tematica event-ului disponibilă doar până la sfârșitul eventului.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1236277520912089219/skins.png?ex=6642a169&is=66414fe9&hm=6d5484f59161864a2cb2332ee02cb86d3c1d30e3217e7a3b91c521ed08cebbc4&=&format=webp&quality=lossless&width=671&height=671)
+
+### 🐰 Tombolă pe parcursul event-ului
+- Vor fi oferite premii constant pe tot parcursul evenimentului la tombola fury.
+
+### 🐰 Leaderboard și Premii Reale
+- Punctele de event acumulate ale fiecarui jucător vor fi vizibile pe Leaderboard. 
+- Primele 3 locuri vor primi următoarele premii:
+🥇  PlayStation 5
+🥈 HyperX Pulsefire Haste
+🥉  Hanorac personalizat Fury
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1236277520026964009/ps5.png?ex=6642a169&is=66414fe9&hm=81de673528cd278507438dee6a7b5a2fc490d562031ffda3ed10ce082be6b05a&=&format=webp&quality=lossless&width=671&height=671)
+
 ## Server Update v2.84
 
 ### Cars Update
