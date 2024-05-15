@@ -76,11 +76,12 @@ title: Regulament OOC Mafii/Organizații Ilegale
 ### <span class="header-font"> 16. Jaf în timpul transportului </span>
 - Vă este interzis să dați jaf Pacific/Interceptare/Vangelico/etc în timpul unui transport. <span style="color:red">(FW)</span> 
 
-### <span class="header-font"> 17. Grade lider </span>
-- Aveți dreptul la 1 singur grad de lider și 1 singur grad de co-lider d.p.d.v OOC, IC puteți să vă împărțiți cum doriți. 
+### <span class="header-font"> 17. Lider/Co-Lider </span>
+- Aveti dreptul la 1 singur grad de lider si 1 singur grad de co-lider d.p.d.v OOC, IC puteti sa va impartiti cum doriti. <span style="color:red">(FW)</span> 
 
-### <span class="header-font"> 17. Bataie la graffiti </span>
-- Dupa ce va bateti la graffiti va este interzis sa ridicati oameni/luati dupa ei daca nu sunt de la voi din factiune. 
+### <span class="header-font"> 18. Graffiti </span>
+- Dupa ce va bateti la graffiti va este interzis sa ridicati oameni/luati dupa ei daca nu sunt de la voi din factiune.. <span style="color:red">(FW)</span> 
+
 
 :::danger IMPORTANT!
 - Ne rezervăm dreptul de a actualiza, modifica regulamentul.
