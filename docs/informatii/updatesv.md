@@ -10,6 +10,18 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.88
+
+- A fost adaugata o masina noua pentru business-ul Mecanic Auto. Masina se va gasii in dealership, la sectiunea Business.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1240063011398615134/image.png?ex=6645daed&is=6644896d&hm=2afcb66d163177bad98227e7ab4846cf23f8043f5068088f875f16a507dfa75b&)
+
+## Server Update v2.87
+
+- Locurile de la Rolls Royce Phantom au fost rezolvate. (masina dispune acum de 4 locuri)
+- A fost adaugat nou mapping pentru alegerile electorale care vor avea loc in saptamana ce urmeaza.
+- Problema la masina Ford Focus RS in legatura cu crash-ul a fost rezolvata.
+
 ## Server Update v2.86
 
 - Problema la Bentley Continental GT referitoare la tunning a fost rezolvata.
