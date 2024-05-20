@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { ref } from 'vue';
 import Rating from 'primevue/rating';
 
 const value = ref<number | null>(0);
