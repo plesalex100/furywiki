@@ -23,8 +23,8 @@ hero:
 </script>
 
 <Home />
-
 <SiteMap />
+<Rating />
 
 <!-- <style>
   body {
