@@ -24,6 +24,7 @@ hero:
 
 <Home />
 <SiteMap />
+<Rating />
 
 <!-- <style>
   body {
