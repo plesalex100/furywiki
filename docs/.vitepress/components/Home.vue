@@ -12,7 +12,7 @@ import SiteMap from './SiteMap.vue'
 
 <template>
 
-<section id="highlights" class="vt-box-container">
+  <section id="highlights" class="vt-box-container">
     <div class="vt-box">
       <h2 style="font-family:'Conthrax';color: orange;">Roleplay Advanced</h2>
       <p>
@@ -178,6 +178,7 @@ html:not(.dark) .accent,
 
 #highlights .vt-box {
   background-color: transparent;
+  margin-left: -10px;
 }
 
 #sponsors {
