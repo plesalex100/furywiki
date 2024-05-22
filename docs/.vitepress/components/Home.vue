@@ -157,8 +157,8 @@ html:not(.dark) .accent,
 }
 
 #highlights {
-  max-width: 960px;
-  margin: 0px auto;
+  max-width: 900px;
+  margin: auto 330px;
   color: var(--vt-c-text-2);
 }
 
