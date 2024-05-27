@@ -2,9 +2,9 @@
 title: About us
 ---
 
-<script setup>
+<!-- <script setup>
     import Rating from '/.vitepress/components/Rating.vue'
-</script>
+</script> -->
 
 # <center><span class="title-font">:fire:About us:fire:</span></center>
 
