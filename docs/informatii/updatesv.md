@@ -10,6 +10,59 @@ title: Update-uri Server
 
 # <center> Istoric Update Server </center>
 
+## Server Update v2.92
+
+- Sistemul de jefuire a bancomatelor a fost rescris complet si au fost reparate toate erorile.
+- Sistemul de Groups a fost rescris complet pentru fixarea erorilor.
+
+:::info
+Megaupdate coming soon..
+:::
+
+## Cars Update v2.91
+
+- Mercedes AMG GT R PRO
+- Mercedes-Maybach GLS 600
+- Kawasaki Ninja ZX-10RR
+- BMW 850i E31
+- BMW XM G09
+- BMX
+- BMX
+- BMX
+- Lamborghini Tecnomar 63
+- Sea Ray 650 fly
+- Jetski
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1244100934766821376/updatemasini.png?ex=66553449&is=6653e2c9&hm=c958aa78aea89ed17a91972173c4b593d534a615ea3da38efa91295b2aa190d0&=&format=webp&quality=lossless&width=987&height=671)
+
+## Server Update v2.90
+
+### Formula 1
+- Sistemul Formula 1 a fost îmbunătățit.
+- Am rezolvat problema secundelor eronate apărute la intrarea în pit-stop.
+
+### Vânzare Business
+- Problema legată de încasările din vânzarea business-urilor a fost corectată.
+
+### Vehicule
+- Handling-ul motoarelor off-road a fost optimizat pentru terenurile accidentate.
+
+### Take Hostage
+- Sistemul prin care puteți lua ostatici folosind o armă a fost scos.
+
+- De asemenea, am remediat și alte bug-uri minore. 
+
+
+## Server Update v2.89
+
+### Ziua votului :tophat:
+
+- A fost implementat pe server un nou mapping destinat votului pentru Primaria Fury. Acesta se regaseste la Observator.
+- A fost creat un sistem de microfoane pentru debate.
+- A fost creat sistemul de vot. Fiecare vot va fi recompensat cu 20 FireCoins:fury2: 
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1241616227206561852/image.png?ex=665564b8&is=66541338&hm=f41f4fbcd0dbff69c4e84037605a481e6f2613c747af42d4b903b287819aa1a9&=&format=webp&quality=lossless&width=605&height=374)
+
 ## Server Update v2.88
 
 - A fost adaugata o masina noua pentru business-ul Mecanic Auto. Masina se va gasii in dealership, la sectiunea Business.

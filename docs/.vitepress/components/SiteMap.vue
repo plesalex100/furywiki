@@ -32,7 +32,7 @@ const items = sidebar
 
 #sitemap .container {
   max-width: 900px;
-  margin: 0 auto;
+  margin: auto 355px;
   columns: 1;
   padding: 24px 32px;
 }
