@@ -40,6 +40,32 @@
 }
 
 /**
+ * Component: Rating
+ * -------------------------------------------------------------------------- */
+
+.rating-system {
+  text-align: center;
+  margin-top: 2rem;
+}
+.stars {
+  font-size: 2rem;
+}
+.stars span {
+  cursor: pointer;
+  color: #ffca28;
+}
+.stars span:hover {
+  color: #ffa000;
+}
+.fas.fa-star {
+  color: #ffca28;
+}
+.far.fa-star {
+  color: #e0e0e0;
+}
+
+
+/**
  * Component: Button
  * -------------------------------------------------------------------------- */
 

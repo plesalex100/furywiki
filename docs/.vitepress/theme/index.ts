@@ -1,7 +1,7 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
 import Theme from 'vitepress/theme'
-import RatingSystem from './components/Rating.vue'
+import RatingSystem from '../components/Rating.vue'
 import './style.css'
 
 export default {
@@ -12,7 +12,7 @@ export default {
       'layout-bottom': () => h(RatingSystem)
     })
   },
-  enhanceApp({ app, router, siteData }) {
+  enhanceApp({ app }) {
     app.component('RatingSystem', RatingSystem)
   }
 }
