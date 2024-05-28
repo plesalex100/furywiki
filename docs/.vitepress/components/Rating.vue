@@ -1,10 +1,55 @@
-<script setup lang="ts">
-import { ref } from 'vue';
-import Rating from 'primevue/rating';
-
-const value = ref<number | null>(0);
-</script>
 
 <template>
-    <Rating v-model="value" />
-</template>
+    <div class="rating-system">
+      <h3>Rate this page</h3>
+      <div class="stars">
+        <span v-for="star in 5" :key="star" @click="rate(star)">
+          <i :class="star <= rating ? 'fas fa-star' : 'far fa-star'"></i>
+        </span>
+      </div>
+      <p v-if="rated">Thank you for your feedback!</p>
+    </div>
+  </template>
+  
+  <script>
+  export default {
+    data() {
+      return {
+        rating: 0,
+        rated: false
+      };
+    },
+    methods: {
+      rate(star) {
+        this.rating = star;
+        this.rated = true;
+        // Here, you can send the rating to your server or any backend service
+        console.log(`Page rated with ${star} stars.`);
+      }
+    }
+  };
+  </script>
+  
+  <style>
+  .rating-system {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  .stars {
+    font-size: 2rem;
+  }
+  .stars span {
+    cursor: pointer;
+    color: #ffca28;
+  }
+  .stars span:hover {
+    color: #ffa000;
+  }
+  .fas.fa-star {
+    color: #ffca28;
+  }
+  .far.fa-star {
+    color: #e0e0e0;
+  }
+  </style>
+  
