@@ -1,7 +1,7 @@
 <template>
     <div class="rating-system">
-      <transition name="fade" v-if="!rated">
-        <div>
+      <transition name="fade">
+        <div v-if="!rated">
           <span class="header-font">Rate this page</span>
           <div class="stars">
             <span v-for="star in 5" :key="star" @click="rate(star)">
@@ -10,8 +10,8 @@
           </div>
         </div>
       </transition>
-      <transition name="fade" v-else>
-        <span style="font-family:'Conthrax'; padding-bottom: 30px;">Thank you for your feedback!</span>
+      <transition name="fade">
+        <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-if="rated">Thank you for your feedback!</span>
       </transition>
     </div>
   </template>
@@ -31,7 +31,7 @@
         this.rated = true;
         setTimeout(() => {
           this.rated = false;
-        }, 5000); // 5000 milliseconds = 5 seconds
+        }, 300); // Delay of 300 milliseconds between fades
         // Here, you can send the rating to your server or any backend service
         console.log(`Page rated with ${star} stars.`);
       }
