@@ -10,7 +10,7 @@ export default {
   Layout: () => {
     return h(Theme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
-      'layout-bottom': () => h(RatingSystem)
+      // 'layout-bottom': () => h(RatingSystem)
     })
   },
   enhanceApp({ app }) {
