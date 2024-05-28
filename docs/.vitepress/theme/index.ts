@@ -14,6 +14,6 @@ export default {
     })
   },
   enhanceApp({ app }) {
-    app.component('RatingSystem', RatingSystem)
+    // app.component('RatingSystem', RatingSystem)
   }
 }
