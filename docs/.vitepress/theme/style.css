@@ -50,11 +50,11 @@
 
 .rating-system {
   text-align: center;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 .stars {
-  font-size: 12px;
-  padding-bottom: 10px;
+  font-size: 20px;
+  padding-bottom: 25px;
 }
 .stars span {
   cursor: pointer;
