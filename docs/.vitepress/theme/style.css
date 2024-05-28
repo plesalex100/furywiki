@@ -54,6 +54,7 @@
 }
 .stars {
   font-size: 12px;
+  padding-bottom: 10px;
 }
 .stars span {
   cursor: pointer;
