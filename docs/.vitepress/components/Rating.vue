@@ -7,7 +7,7 @@
           <i :class="star <= rating ? 'fas fa-star' : 'far fa-star'"></i>
         </span>
       </div>
-      <span v-if="title-font">Thank you for your feedback!</span>
+      <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-if="rated">Thank you for your feedback!</span>
     </div>
   </template>
   
