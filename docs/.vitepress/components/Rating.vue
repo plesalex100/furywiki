@@ -7,7 +7,9 @@
           <i :class="star <= rating ? 'fas fa-star' : 'far fa-star'"></i>
         </span>
       </div>
-      <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-if="rated">Thank you for your feedback!</span>
+    <transition name="fade">
+        <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-if="rated">Thank you for your feedback!</span>
+    </transition>
     </div>
   </template>
   
@@ -16,13 +18,17 @@
     data() {
       return {
         rating: 0,
-        rated: false
+        rated: false,
+        pageId: 'unique_page_id'
       };
     },
     methods: {
       rate(star) {
         this.rating = star;
         this.rated = true;
+        setTimeout(() => {
+        this.rated = false;
+        }, 5000);
         // Here, you can send the rating to your server or any backend service
         console.log(`Page rated with ${star} stars.`);
       }
@@ -35,21 +41,34 @@
     text-align: center;
     margin-top: 10px;
   }
+
   .stars {
     font-size: 12px;
   }
+
   .stars span {
     cursor: pointer;
     color: #ffca28;
   }
+
   .stars span:hover {
     color: #ffa000;
   }
+
   .fas.fa-star {
     color: #ffca28;
   }
+
   .far.fa-star {
     color: #e0e0e0;
+  }
+
+  .fade-enter-active, .fade-leave-active {
+    transition: opacity 0.5s;
+  }
+
+  .fade-enter, .fade-leave-to {
+    opacity: 0;
   }
   </style>
   
