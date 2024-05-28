@@ -207,9 +207,11 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Este **interzis să achiziționați cu bani reali** (PayPal/Paysafe/Transfer Bancar, etc.) **bunuri IN-GAME** de la **alți jucători**.
 
 ### <span class="header-font">1.26 SCAM</span>
-- Nu aveți voie să angajați pe cineva care să presteze anumite servicii pentru voi și să îi promiteți o sumă de bani sau bunuri, iar la final să nu respectați învoiala inițială
-- Pariurile IC trebuiesc mereu onorate și respectate, drept urmare este interzis să dați SCAM-uri la barbut, etc.
+- Nu aveți voie să angajați pe cineva care să presteze anumite servicii pentru voi și să îi promiteți o sumă de bani sau bunuri, iar la final să nu respectați învoiala inițială.
 - Nu se consideră scam în cazul în care împrumutați de bună voie un jucător cu orice bun material.
+- Nu se considera scam in cazul in care incercati sa vindeti bunuri ce pot fi vandute prin sistemele serverului (K-> vine vehicul/vinde casa) si fentati taxele aferente acestui sistem prin a vinde bunul pe o suma infima ca dupa sa asteptati un transfer sau bani cash din partea celuilalt player.
+- Cumpararea de VIP sau Fire Coins trebuie mereu onorata sub orice forma a tranzactiilor (bunuri/bani/bani murdari), daca nu se respecta va fi BAN 30d.
+- Schimburile si schimburile cu diferenta trebuiesc onorate: Ex: Vand masina x pe 5.000.000$ + masina y, celalat jucator este obligat sa imi dea si masina y pe 1$, se aplica si la case.
 
 ### <span class="header-font">1.27 Roleplay-uri **SPECIALE/ Cu acțiuni Teroriste**</span>
 ::: warning Atenție!
@@ -373,11 +375,10 @@ a locurilor foarte retrase)
 :::warning ATENTIE!
 - NU AVETI VOIE SA CERETI OAMENI CARE DEJA SUNT CAPTURATI SI LA SECTIE.
 :::
-- 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ORE.
+- 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ore. Aveti dreptul sa tineti persoana in RP doar cu un motiv bine intemeiat si nu pentru amuzament. <span style="color:red">( Regula Low Effort )</span>
 - 2.10  Puteti sechestra o persoana doar cu acordul unui <span style="color:red">Admin 4+</span> si cu dovezi pentru a motiva sechestrul
 - 2.11  In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 300.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
-- 2.12  Rapirile sunt permise doar cu acordul unui <span style="color:red">Admin 4+</span> si cu dovezi pentru a motiva rapirea
-- 2.13  Singurul caz in care aveti dreptul sa luati o persoana dintr-o alta factiune/civil in **ostatic(th)** este atunci cand dati jaf la Fleeca.(La acel jaf singura negociere posibila este pentru a primi cale libera in schimbul vietii ostaticului, fara sa se traga din ambele parti. Jaful la Fleeca este work in progress din punct de vedere tehnic)
+- 2.12  Rapirile sunt permise doar cu un motiv bine intemeiat. Nerespectarea atrage sanctiuni de FailRP. <span style="color:red">(Warn/Ban 3d-14d)</span>
 
 :::danger
 - NU UITATI CA SA PUTETI RAPI/SECHESTRA PE CINEVA TREBUIE SA AVETI UN MOTIV BINE INTEMEIAT, SI INFORMATII CLARE DESPRE ACEA PERSOANA. 
@@ -395,8 +396,7 @@ a locurilor foarte retrase)
 - 3.06   Este interzis să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
 - 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
 - 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
-- 3.09  Mafiile și organizațiile(factiunile plătite) au dreptul de a jefui alti playeri doar cu un motiv IC bine întemeiat.
-- 3.10  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 3 ore.
+- 3.09  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 3 ore.
 
 <hr style="transform: translateY(10px)"/>
 

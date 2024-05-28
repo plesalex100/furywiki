@@ -10,7 +10,29 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
-## UPDATE 04/10/2023
+## UPDATE 28/05/2024
+
+### [2.0 Rapirea/Ostatici](/informatii/regulament.html#_2-0-rapirea-ostatici)
+
+- 2.09    Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ore. Aveti dreptul sa tineti persoana in RP doar cu un motiv bine intemeiat si nu pentru amuzament. ( Regula Low Effort)
+- 2.12   Rapirile sunt permise doar cu un motiv bine intemeiat. Nerespectarea atrage sanctiuni de FailRP.(Warn/Ban 3d-14d)
+- ~~2.13 Singurul caz in care aveti dreptul sa luati o persoana dintr-o alta factiune/civil in ostatic(th) este atunci cand dati jaf la Fleeca.(La acel jaf singura negociere posibila este pentru a primi cale libera in schimbul vietii ostaticului, fara sa se traga din ambele parti. Jaful la Fleeca este work in progress din punct de vedere tehnic)~~
+
+
+### [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
+- ~~3.09 Mafiile și organizațiile(factiunile plătite) au dreptul de a jefui alti playeri doar cu un motiv IC bine întemeiat.~~
+
+### Clarificare + update scam:
+
+#### [1.26 SCAM](/informatii/regulament.html#_1-26-scam)
+
+- Nu aveți voie să angajați pe cineva care să presteze anumite servicii pentru voi și să îi promiteți o sumă de bani sau bunuri, iar la final să nu respectați învoiala inițială.
+- Nu se consideră scam în cazul în care împrumutați de bună voie un jucător cu orice bun material.
+- Nu se considera scam in cazul in care incercati sa vindeti bunuri ce pot fi vandute prin sistemele serverului (K-> vine vehicul/vinde casa) si fentati taxele aferente acestui sistem prin a vinde bunul pe o suma infima ca dupa sa asteptati un transfer sau bani cash din partea celuilalt player.
+- Cumpararea de VIP sau Fire Coins trebuie mereu onorata sub orice forma a tranzactiilor (bunuri/bani/bani murdari), daca nu se respecta va fi BAN 30d.
+- Schimburile si schimburile cu diferenta trebuiesc onorate: Ex: Vand masina x pe 5.000.000$ + masina y, celalat jucator este obligat sa imi dea si masina y pe 1$, se aplica si la case.
+
+## UPDATE 04/10/2024
 [8.0 Regulament Jaf Banca Pacific/Transport/ Yacht](https://wiki.furyrp.ro/informatii/regulament.html#_8-0-regulament-jaf-banca-pacific-transport)
 - Numarul maxim de membri care pot participa la un jaf pe Yacht este de 20 (Membri cu grad si membri din familia mica)
 
