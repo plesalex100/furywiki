@@ -11,7 +11,7 @@
         </div>
       </transition>
       <transition name="fade">
-        <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-if="rated">Thank you for your feedback!</span>
+        <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-show="rated">Thank you for your feedback!</span>
       </transition>
     </div>
   </template>
