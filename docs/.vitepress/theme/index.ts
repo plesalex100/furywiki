@@ -9,9 +9,10 @@ export default {
   Layout: () => {
     return h(Theme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      'layout-bottom': () => h(RatingSystem)
     })
   },
   enhanceApp({ app, router, siteData }) {
-    app.component('Rating', RatingSystem)
+    app.component('RatingSystem', RatingSystem)
   }
 }
