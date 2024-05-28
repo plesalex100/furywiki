@@ -45,10 +45,10 @@
 
 .rating-system {
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 10px;
 }
 .stars {
-  font-size: 2rem;
+  font-size: 12px;
 }
 .stars span {
   cursor: pointer;
