@@ -1,12 +1,16 @@
 <template>
     <div class="rating-system">
-      <span class="header-font" v-if="!rated">Rate this page</span>
-      <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-else>Thank you for your feedback!</span>
-      <div class="stars" v-if="!rated">
-        <span v-for="star in 5" :key="star" @click="rate(star)">
-          <i :class="star <= rating ? 'fas fa-star' : 'far fa-star'"></i>
-        </span>
-      </div>
+      <transition name="fade">
+        <span class="header-font" v-if="!rated">Rate this page</span>
+        <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-else>Thank you for your feedback!</span>
+      </transition>
+      <transition name="fade">
+        <div class="stars" v-if="!rated">
+          <span v-for="star in 5" :key="star" @click="rate(star)">
+            <i :class="star <= rating ? 'fas fa-star' : 'far fa-star'"></i>
+          </span>
+        </div>
+      </transition>
     </div>
   </template>
   
