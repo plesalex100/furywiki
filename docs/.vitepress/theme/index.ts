@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import Theme from 'vitepress/theme'
 import RatingSystem from '../components/Rating.vue'
+import '@fortawesome/fontawesome-free/css/all.css'
 import './style.css'
 
 export default {
