@@ -1,13 +1,13 @@
 
 <template>
     <div class="rating-system">
-      <h3>Rate this page</h3>
+      <span class="header-font">Rate this page</span>
       <div class="stars">
         <span v-for="star in 5" :key="star" @click="rate(star)">
           <i :class="star <= rating ? 'fas fa-star' : 'far fa-star'"></i>
         </span>
       </div>
-      <p v-if="rated">Thank you for your feedback!</p>
+      <span v-if="title-font">Thank you for your feedback!</span>
     </div>
   </template>
   
