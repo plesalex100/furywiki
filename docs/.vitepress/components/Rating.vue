@@ -28,10 +28,12 @@
     methods: {
       rate(star) {
         this.rating = star;
-        this.rated = true;
         setTimeout(() => {
-          this.rated = false;
-        }, 300); // Delay of 300 milliseconds between fades
+          this.rated = true;
+          setTimeout(() => {
+            this.rated = false;
+          }, 3000); // Delay before fading out the "Thank you" message
+        }, 500); // Delay before fading out the rating and stars
         // Here, you can send the rating to your server or any backend service
         console.log(`Page rated with ${star} stars.`);
       }
