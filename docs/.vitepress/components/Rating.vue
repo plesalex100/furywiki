@@ -1,7 +1,7 @@
 <template>
     <div class="rating-system">
-      <transition name="fade">
-        <div v-if="!rated">
+      <transition name="fade" v-if="!rated">
+        <div>
           <span class="header-font">Rate this page</span>
           <div class="stars">
             <span v-for="star in 5" :key="star" @click="rate(star)">
@@ -9,7 +9,9 @@
             </span>
           </div>
         </div>
-        <span style="font-family:'Conthrax'; padding-bottom: 30px;" v-if="rated">Thank you for your feedback!</span>
+      </transition>
+      <transition name="fade" v-else>
+        <span style="font-family:'Conthrax'; padding-bottom: 30px;">Thank you for your feedback!</span>
       </transition>
     </div>
   </template>
