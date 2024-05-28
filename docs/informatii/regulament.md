@@ -210,6 +210,7 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Nu aveți voie să angajați pe cineva care să presteze anumite servicii pentru voi și să îi promiteți o sumă de bani sau bunuri, iar la final să nu respectați învoiala inițială
 - Pariurile IC trebuiesc mereu onorate și respectate, drept urmare este interzis să dați SCAM-uri la barbut, etc.
 - Nu se consideră scam în cazul în care împrumutați de bună voie un jucător cu orice bun material.
+- Nu se considera scam in cazul in care incercati sa vindeti bunuri ce pot fi vandute prin sistemele serverului (K-> vine vehicul/vinde casa) si fentati taxele aferente acestui sistem prin a vinde bunul pe o suma infima ca dupa sa asteptati un transfer sau bani cash din partea celuilalt player.
 
 ### <span class="header-font">1.27 Roleplay-uri **SPECIALE/ Cu acțiuni Teroriste**</span>
 ::: warning Atenție!
