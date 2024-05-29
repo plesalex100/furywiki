@@ -140,9 +140,12 @@ Se va primi CK atunci:
 :::
 
 ### <span class="header-font">1.16 Roleplay Scarbos & Injosirea jucatorilor</span>
-- Reprezintă **totalitatea roleplay-urile ce conțin o scenă sexuală**, incluzând (violul, necrofilia, pedofilismul, canibalismul). Pentru a putea face acest tip de Roleplay aveți nevoie de **aprobarea pe chat-ul OOC** a persoanei sau persoanelor ce doriți să le implicați.
-- În cazul în care cineva **începe un astfel de roleplay fără acordul dvs.**, aveți tot dreptul nu dați curs scenariului și să **chemați un admin** întrerupând astfel roleplay-ul.
-:::warning Atenție!
+- Reprezinta Roleplay-urile ce descriu actiuni de tip Erotic Roleplay, Tortura dar si altele.
+- Este interzis ca playerii sa se implice in actiuni de tip eRP sau Tortura fara acordul celorlalte persoane.
+- Este strict interzis sa porniti Roleplay-uri care descriu: canibalism, necrofilie, pedofilie, profanare de morminte, injosirea persoanelor lesinate/in coma prin diferite actiuni.
+- Membrii Mafiilor si Organizatiilor se pot tortura intre ei fara a cere acordul.
+- În cazul în care cineva începe un astfel de roleplay fără acordul dvs., aveți tot dreptul nu dați curs scenariului și să chemați un admin întrerupând astfel roleplay-ul. 
+:::danger ATENȚIE!
 - Este interzisă umilirea unui jucător sau forțarea acestuia să efectueze acțiuni pur și simplu în scopul amuzamentului personal [de exemplu, să-l forțezi să latre, să cânte sau să execute alte acțiuni similare].
 :::
 

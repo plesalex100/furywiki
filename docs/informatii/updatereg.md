@@ -10,6 +10,15 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+## UPDATE 29/05/2024
+
+### Modificare: [1.16  Roleplay Scarbos & Injosirea jucatorilor]()
+
+- Reprezinta Roleplay-urile ce descriu actiuni de tip Erotic Roleplay, Tortura dar si altele.
+- Este interzis ca playerii sa se implice in actiuni de tip eRP sau Tortura fara acordul celorlalte persoane.
+- Este strict interzis sa porniti Roleplay-uri care descriu: canibalism, necrofilie, pedofilie, profanare de morminte, injosirea persoanelor lesinate/in coma prin diferite actiuni.
+- Membrii Mafiilor si Organizatiilor se pot tortura intre ei fara a cere acordul.
+
 ## UPDATE 28/05/2024
 
 ### [2.0 Rapirea/Ostatici](/informatii/regulament.html#_2-0-rapirea-ostatici)
