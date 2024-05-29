@@ -25,21 +25,7 @@ title: Curier
 
 
 <iframe>
-:src=https://i.imgur.com/ATM3hV0.gif
-                style="
-                  height: 100%;
-                  left: 0;
-                  position: absolute;
-                  top: 0;
-                  width: 100%;
-                  border-radius: 6px;
-                "
-                frameborder="0"
-                webkitallowfullscreen
-                mozallowfullscreen
-                allowfullscreen
-                allow="autoplay"
-
+![parcare masina](https://i.imgur.com/ATM3hV0.gif)
 </iframe>
 
 ![parcare masina](https://i.imgur.com/ATM3hV0.gif)
