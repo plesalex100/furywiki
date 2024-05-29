@@ -220,7 +220,7 @@ Cu ajutorul acestei aplicații putem îndeplini un task zilnic (interval orar 00
 - Pentru a plasa un pariu trebuie să selectați un meci, să selectați 1 / X / 2. 1 Reprezintă că echipa gazdă va câștiga, X înseamnă că o să fie scor egal, iar 2 înseamnă că va câștiga echipa în deplasare. 
 
 - În funcție de ce vreți să selectați dintre 1 / X / 2, vor apărea niște valori. Acele valori reprezintă cotele. 
-# <span style="color:red">Ce reprezintă cota?
+# <span style="color:red">Ce reprezintă cota?</span>
 - Cota reprezintă numărul cu care suma pariată se va înmulți, iar în cazul în care pariul este câștigător, veți primi suma pariată înmulțită cu cota respectivă.
 
 :::warning ex: meciul dintre Viitorul Constanța și FCSB are cotele 2.59 pentru 1, 2.99 pentru X și 2.06 pentru 2. Dacă voi paria $50.000 că va câștiga FCSB (cota 2.06), și FCSB va câștiga, voi primi $103.000.*
