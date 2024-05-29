@@ -30,7 +30,7 @@ Acest job constă în transportarea paleților din jurul depozitului și încăr
 :::
 
 :::info
-- Odată ce ați început tura, mergeți în zona marcată cu galben pe hartă pentru a ridica paleții și a-i transporta și încărca în camionul de marfă. Furcile stivuitorului se ridică și coboară cu ajutorul tastelor <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">CTRL</span> și <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">SHIFT</span>.</span>
+- Odată ce ați început tura, mergeți în zona marcată cu galben pe hartă pentru a ridica paleții și a-i transporta și încărca în camionul de marfă. Furcile stivuitorului se ridică și coboară cu ajutorul tastelor <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">CTRL</span> și <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">SHIFT</span>.
 :::
 
 :::details Ridicare paleți
