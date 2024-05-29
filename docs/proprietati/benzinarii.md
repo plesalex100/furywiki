@@ -19,11 +19,11 @@ title: Benzinării
 
 ## <span class="header-font">Cum se administrează o benzinărie?</span>
 
-![](https://i.imgur.com/5kS5v6L.png)
+![](https://i.imgur.com/5kS5v6L.png){.framed-photo}
 
 - <span style="color:white">Dacă dețineți o bezinărie, la [locația acesteia](/general/telefon), care poate fi aflată de pe telefon cu ajutorul aplicației dedicate benzinăriilor, puteți accesa meniul de administrare.</span>
 
-![](https://i.imgur.com/YYv7KiJ.png)
+![](https://i.imgur.com/YYv7KiJ.png){.framed-photo}
 
 ### <span class="header-font">Acest meniu are următoarele opțiuni:</span>
 
@@ -35,21 +35,21 @@ title: Benzinării
 - <span style="color:white">Arată informații generale despre benzinărie, cum ar fi ID-ul acesteia, proprietarul, numărul de litri de combustibil disponibili, prețul la care se vinde combustibilul și prețul/litru cu care se cumpără combustibilul de la [petrolistul](/jobs/petrolist) care alimentează benzinăria.</span>
 :::
 :::details Info Benzinărie
-![](https://i.imgur.com/hqCmXW0.png)
+![](https://i.imgur.com/hqCmXW0.png){.framed-photo}
 :::
 :::info
 ### <span class="header-font">Retrage bani</span>
 - <span style="color:white">Această opțiune este folosită pentru a retrage bani din contul benzinăriei. De asemenea, accesând această opțiune, puteți vedea câți bani aveți în contul benzinăriei.</span>
 :::
 :::details Retrage bani
-![](https://i.imgur.com/B0IPDBt.png)
+![](https://i.imgur.com/B0IPDBt.png){.framed-photo}
 :::
 :::info
 ### <span class="header-font">Schimbă PIN</span>
 - <span style="color:white">PIN-ul este o metodă de securitate pentru a preveni alți [petroliști](/jobs/petrolist) să alimenteze benzinăria fără permisiunea ta. Acesta poate fi schimbat oricând, iar dacă nu este setat niciun pin, bezinăria poate fi alimentată de oricine.</span>
 :::
 :::details Schimbă PIN
-![](https://i.imgur.com/yih2IWD.png)
+![](https://i.imgur.com/yih2IWD.png){.framed-photo}
 :::
 :::info
 ### <span class="header-font">Setează prețurile</span>

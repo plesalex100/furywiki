@@ -11,7 +11,7 @@ title: Parcări și Garaje
 
 - Parcările sunt răspândite pe toată harta având un blips în formă de "P" albastru, iar garajele pot fi accesate de la ușă, doar dacă aveți chirie la o casă sau dacă dețineți o casă.
 
-![](https://i.imgur.com/8IvPCRq.png)
+![](https://i.imgur.com/8IvPCRq.png){.framed-photo}
 
 ## Cum funcționează sistemul de parcări?
 
@@ -34,4 +34,4 @@ Dacă dețineți o casă sau aveți chirie, puteți accesa meniul garajului din 
 
 Când vreți să scoateți o mașină din garajul casei, aceasta se va spawna pe stradă, în apropierea casei.
 
-![](https://i.imgur.com/NLua9Q8.gif)
+![](https://i.imgur.com/NLua9Q8.gif){.framed-gif}

@@ -28,7 +28,7 @@ title: Miner
 :::
 
 :::details NPC
-![](https://i.imgur.com/tJd67Od.png)
+![](https://i.imgur.com/tJd67Od.png){.framed-photo}
 :::
 
 :::info
@@ -38,7 +38,7 @@ title: Miner
 :::
 
 :::details Pietre
-![](https://i.imgur.com/61izlAt.gif)
+![](https://i.imgur.com/61izlAt.gif){.framed-gif}
 :::
 
 :::info
@@ -47,7 +47,7 @@ title: Miner
 - <span style="color:white">Înainte de a o sparge, trebuie să faceți minigame-ul care constă în apăsarea tastei <KeyIcon keyType="space"/> când bara este cel mai aproape de a fi plină. Aveți un exemplu mai jos pentru a înțelege mai ușor.</span>
 :::
 :::details Minigame
-![](https://i.imgur.com/NXzNwnF.gif)
+![](https://i.imgur.com/NXzNwnF.gif){.framed-gif}
 :::
 
 :::info
@@ -57,7 +57,7 @@ title: Miner
 :::
 
 :::tip Rubble-ul are o capacitate de 270kg.
-![](https://i.imgur.com/mcrqzzf.png)
+![](https://i.imgur.com/mcrqzzf.png){.framed-photo}
 :::
 
 :::info
@@ -67,7 +67,7 @@ title: Miner
 :::
 
 :::details Topitorie
-![](https://i.imgur.com/u5LrOAT.gif)
+![](https://i.imgur.com/u5LrOAT.gif){.framed-gif}
 :::
 
 :::info

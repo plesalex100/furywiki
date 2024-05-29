@@ -26,7 +26,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::details NPC
-![](https://i.imgur.com/EfCG1nt.png)
+![](https://i.imgur.com/EfCG1nt.png){.framed-photo}
 :::
 
 :::info
@@ -34,7 +34,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::details Ridicare paleți
-![](https://i.imgur.com/RzTJwDT.gif)
+![](https://i.imgur.com/RzTJwDT.gif){.framed-gif}
 :::
 
 :::info
@@ -42,7 +42,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::details Încărcare paleți
-![](https://i.imgur.com/DmxIKzs.gif)
+![](https://i.imgur.com/DmxIKzs.gif){.framed-gif}
 :::
 
 :::info

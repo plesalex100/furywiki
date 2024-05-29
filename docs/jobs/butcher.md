@@ -20,33 +20,33 @@ title: Măcelar
 :::
 
 :::details NPC
-![](https://i.imgur.com/YBsWmtE.png)
+![](https://i.imgur.com/YBsWmtE.png){.framed-photo}
 :::
 
 :::info
 - <span style="color:white">Odată ce ați început tura, mergeți la checkpoint-ul marcat pe hartă în depozit pentru a lua o tavă.</span>
 
-![](https://i.imgur.com/DtlCQyG.gif)
+![](https://i.imgur.com/DtlCQyG.gif){.framed-gif}
 
 - <span style="color:white">După ce ați luat tava, mergeți la cutiile marcate pe hartă și colectați bucățile de carne din ele.</span>
 
-![](https://i.imgur.com/wd6bJOd.gif)
+![](https://i.imgur.com/wd6bJOd.gif){.framed-gif}
 
 - <span style="color:white">După ce ați colectat toate bucățile de carne, mergeți la mașina de ambalat, ambalați bucățile de carne și puneți-le în depozit. După ce ați terminat acești pași, veți primi o sumă de bani pentru fiecare tavă finalizată, dar veți primi și "Carne Ambalată" în inventar care poate fi livrată cu ajutorul NPC-ului din spatele depozitului, care vă va pune un checkpoint pe hartă unde puteți livra acea carne, care la rândul ei va fi plătită per bucată livrată. De asemenea, aceste cutii pot fi vândute și altor jucători, de obicei mai ieftin, care vor să le livreze în caz că voi nu vreți.</span>
 
-![](https://i.imgur.com/w1AD3h6.gif)
-![](https://i.imgur.com/Vs54DP0.png)
+![](https://i.imgur.com/w1AD3h6.gif){.framed-gif}
+![](https://i.imgur.com/Vs54DP0.png){.framed-photo}
 :::
 
 :::details NPC livrare cutii
-![](https://i.imgur.com/o5iB8lW.png)
+![](https://i.imgur.com/o5iB8lW.png){.framed-photo}
 :::
 
 :::tip Notă!
 - Este necesar să aveți o dubă pentru a livra cutiile.
 :::
 
-![](https://i.imgur.com/BkAuOh9.gif)
+![](https://i.imgur.com/BkAuOh9.gif){.framed-gif}
 
 :::info
 - <span style="color:white">Plata va fi făcută după fiecare cutie împachetată și pusă în depozit, dar și după fiecare cutie livrată (livrarea este opțională).</span>

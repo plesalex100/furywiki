@@ -23,7 +23,7 @@ title: Pilot
 :::
 
 :::details NPC
-![](https://i.imgur.com/Y0WbiZu.png)
+![](https://i.imgur.com/Y0WbiZu.png){.framed-photo}
 :::
 
 :::info
@@ -31,7 +31,7 @@ title: Pilot
 :::
 
 :::details Încărcare cutii
-![](https://i.imgur.com/pC2ZmpD.gif)
+![](https://i.imgur.com/pC2ZmpD.gif){.framed-gif}
 :::
 
 :::info
@@ -39,7 +39,7 @@ title: Pilot
 :::
 
 :::details Ruta
-![](https://i.imgur.com/SC6uWSA.gif)
+![](https://i.imgur.com/SC6uWSA.gif){.framed-gif}
 :::
 
 

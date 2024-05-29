@@ -21,7 +21,7 @@ P.S. FIRECOINS ACHIZIȚIONATE PE UN ID NU SE POT TRANSFERA/VINDE!
 
 - CNN-ul este locația de unde orice jucător poate da un anunț contra unei sume de bani. Acest anunț va apărea pe ecran pentru o perioadă de timp.
 
-![](https://i.imgur.com/1uSa9B4.png)
+![](https://i.imgur.com/1uSa9B4.png){.framed-photo}
 
 ## <span class="header-font">Cum dau un anunț ?</span>
 
@@ -30,5 +30,5 @@ P.S. FIRECOINS ACHIZIȚIONATE PE UN ID NU SE POT TRANSFERA/VINDE!
 
 - <span style="color:white">După ce ați completat detaliile, acesta va apărea pe ecran, oferind celorlalți jucători să vă ia numărul de telefon apăsând tasta <KeyIcon keyType="y"/>.</span>
 
-![](https://i.imgur.com/KnOtwRT.gif)
+![](https://i.imgur.com/KnOtwRT.gif){.framed-gif}
 :::

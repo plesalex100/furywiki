@@ -12,7 +12,7 @@ title: Autentificare
 
 ::: details Cum obțin Gradul #Fury Member
 Apasă pe react la emoji-ul cu logo-ul Fury Romania.
-![reactHere](https://i.imgur.com/sAKOJZ0.png)
+![reactHere](https://i.imgur.com/sAKOJZ0.png){.framed-photo}
 :::
 
 ## <span class="header-font">Link discord cu FiveM</span>
@@ -23,17 +23,17 @@ Apasă pe react la emoji-ul cu logo-ul Fury Romania.
 ::: details Cum verific dacă am discord-ul conectat cu FiveM ?
 
 - Intră în FiveM și apasă pe Settings
-![fivemSettings](https://i.imgur.com/l5l1Xow.png)
+![fivemSettings](https://i.imgur.com/l5l1Xow.png){.framed-photo}
 
 - Dacă aveți discord-ul conectat, in lista <b>Linked identities</b> o să apară iconița discord-ului și username-ul autentificat
-![fivemDiscordLoc](https://i.imgur.com/jmSUt8v.png)
+![fivemDiscordLoc](https://i.imgur.com/jmSUt8v.png){.framed-photo}
 
 :::
 
 
 ::: tip Am un alt cont de discord conectat ! Ce fac ?
 
-1. Scrie in start ![localappdata](https://i.imgur.com/BoQwJFK.png)
+1. Scrie in start ![localappdata](https://i.imgur.com/BoQwJFK.png){.framed-photo}
 ```
     %localappdata%
 ```

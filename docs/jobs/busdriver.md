@@ -23,7 +23,7 @@ title: Șofer de autobuz
 
 - <span style="color:white">Începi prin a vorbi cu directorul de la autogară pentru a primi uniforma, apoi poți începe tura.</span>
 :::details NPC
-![](https://i.imgur.com/gGtErdP.png)
+![](https://i.imgur.com/gGtErdP.png){.framed-photo}
 :::
 
 :::info
@@ -31,7 +31,7 @@ title: Șofer de autobuz
 
 - <span style="color:white">Ajuns la checkpoint, va trebui să aștepți ca pasagerii să urce.</span>
 
-![gifBusDriver](https://i.imgur.com/2QEdutJ.gif)
+![gifBusDriver](https://i.imgur.com/2QEdutJ.gif){.framed-gif}
 
 - <span style="color:white">Plata va fi făcută la finalul cursei.</span>
 

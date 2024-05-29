@@ -10,13 +10,13 @@ title: Primăria
 
 - Primăria se ocupă cu administrarea și gestionarea orașului. Aceasta are responsabilități diverse și acționează în numele și în interesul cetățenilor. De asemenea, primăria se ocupă cu urbanism, întreținere și dezvoltare a infrastructurii. Primăria ține întâlniri publice cu toți cetățenii, periodic, pentru a asculta părerea acestora despre ultimele schimbări sau idei pentru a ajuta orașul.
 
-![](https://i.imgur.com/EZ1QlKk.png)
+![](https://i.imgur.com/EZ1QlKk.png){.framed-photo}
 
 ## <span class="header-font">Locația Primăriei</span>
 
 - Primăria se află la codul poștal 640.
 
-![](https://i.imgur.com/rBCw6o2.png)
+![](https://i.imgur.com/rBCw6o2.png){.framed-photo}
 
 ## <span class="header-font">În ce scop putem contacta primăria?</span>
 
@@ -33,7 +33,7 @@ title: Primăria
 
 - Consilierii sunt reprezentanți ai primăriei care pot asista la evenimente și întâlniri în locul primarului. De asemenea, pentru probleme minore sau probleme de raportat în cazul în care primarul nu este în oraș, aceștia pot prelua informația și o vor transmite mai departe. De cele mai multe ori, persoanele cu care veți intra prima dată în contact vor fi consilierii.
 
-![](https://i.imgur.com/rpgSoZy.jpg)
+![](https://i.imgur.com/rpgSoZy.jpg){.framed-photo}
 
 ## Judecători și avocați
 

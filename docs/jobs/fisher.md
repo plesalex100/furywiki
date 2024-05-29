@@ -27,21 +27,21 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 
 - <span style="color:white">Începi prin a merge la [locația jobului](locatii) și a interacționa cu NPC-ul ce se află pe malul lacului pentru a începe pescuitul.</span>
 :::details NPC
-![](https://i.imgur.com/D5Cd4Je.png)
+![](https://i.imgur.com/D5Cd4Je.png){.framed-photo}
 :::
 
 :::tip 
 - Puteți să vă opriți din pescuit apăsând tasta <KeyIcon keyType="x"/>.
 
-![](https://i.imgur.com/5VNTEAy.png)
+![](https://i.imgur.com/5VNTEAy.png){.framed-photo}
 :::
 
 :::info
 - <span style="color:white">Odată ce ați început pescuitul, mergeți pe malul lacului și începeți să prindeți pește.</span>
-![](https://i.imgur.com/Q0ciWkB.gif)
+![](https://i.imgur.com/Q0ciWkB.gif){.framed-gif}
 
 - <span style="color:white">După ce ați început să pescuiți la un moment dat undița voastră se va mișca și veți fi nevoiți să nimeriți apasând tasta <KeyIcon keyType="space"/> în locul indicat pentru a prinde peștele. Mai jos aveți un exemplu pentru acest mini-game:</span>
-![](https://i.imgur.com/NKfwaF0.gif)
+![](https://i.imgur.com/NKfwaF0.gif){.framed-gif}
 
 - <span style="color:white">După ce ați prins cantitatea de pește pe care o doriți, puteți să vă duceți să vindeți peștele la secțiunea specială din magazinul pescarului, în aceeași locație de unde vă puteți cumpăra și momeală.</span>
 

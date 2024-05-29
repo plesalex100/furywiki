@@ -27,7 +27,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::details NPC
-![](https://i.imgur.com/6qch7tj.png)
+![](https://i.imgur.com/6qch7tj.png){.framed-photo}
 :::
 
 :::danger ATENȚIE!
@@ -38,7 +38,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 <span style="color:white">- Odată ce ați început slectat opțiunea de a începe vânătoarea, mergeți la locația marcată cu o zonă verde pe hartă și începeți să vânați animalele care sunt marcate cu un checkpoint roșu.</span>
 :::
 :::details Harta
-![](https://i.imgur.com/IjaO2nx.png)
+![](https://i.imgur.com/IjaO2nx.png){.framed-photo}
 :::
 
 :::info
@@ -50,14 +50,14 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
   - <span style="color:white">Porc mistreț</span>
 :::
 
-![](https://i.imgur.com/YssdCNV.gif)
+![](https://i.imgur.com/YssdCNV.gif){.framed-gif}
 
 :::info
 - <span style="color:white">După ce omorâți un animal, trebuie să vă apropiați de el și cu tasta <KeyIcon keyType="e"/> începeți să-l jupuiți. Greutatea materialelor obținute poate varia în funcție de animal și de cât noroc aveți să prindeți un animal "mai mare".</span>
 :::
 
 :::details Jupuire animal
-![](https://i.imgur.com/bpmQtT9.gif)
+![](https://i.imgur.com/bpmQtT9.gif){.framed-gif}
 :::
 
 :::tip
@@ -77,7 +77,7 @@ Este recomandată folosirea unei genți pentru a putea transporta mai multe mate
 :::
 
 :::details Vânzare materiale
-![](https://i.imgur.com/E1Zp1xS.gif)
+![](https://i.imgur.com/E1Zp1xS.gif){.framed-gif}
 :::
 
 :::tip SFAT!

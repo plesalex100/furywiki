@@ -59,6 +59,6 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 
 Puteți face reclamație unui jucător, să raportați un bug sau să puneți o întrebare accesând comanda /ticket.
 
-![menuTicket](https://i.imgur.com/xbsLv2a.png)
+![menuTicket](https://i.imgur.com/xbsLv2a.png){.framed-photo}
 
 <!-- <Rating /> -->

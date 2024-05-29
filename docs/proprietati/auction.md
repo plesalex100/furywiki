@@ -15,7 +15,7 @@ title: Licitatii
 - <span style="color:white">Trebuie să vă aflați în interiorul casei. Accesați meniul casei și selectați opțiunea "Licitează casa", apoi alegeți prețul de pornire al licitației.</span>
 - <span style="color:white">După ce ați creat licitația, toți jucătorii vor primi o notificare pe telefon pentru [aplicația "Licitații"](/general/telefon.html#aplicatia-licitatii).</span>
 
-![](https://i.imgur.com/VCBmZue.gif)
+![](https://i.imgur.com/VCBmZue.gif){.framed-gif}
 :::
 ### <span class="header-font">Benzinărie</span>
 
@@ -23,7 +23,7 @@ title: Licitatii
 - <span style="color:white">Trebuie să vă apropiați de locul unde deschideți meniul de administrare al benzinăriei, și selectați opțiunea "Licitează benzinăria".</span>
 - <span style="color:white">Sistemul funcționează identic cu cel de la case.</span>
 
-![](https://i.imgur.com/R5aEYyd.png)
+![](https://i.imgur.com/R5aEYyd.png){.framed-photo}
 :::
 
 ### <span class="header-font">Magazin</span>
@@ -37,7 +37,7 @@ title: Licitatii
 
 - <span style="color:white">După ce ați început să urmăriți licitația, puteți să plasați o ofertă, să încetați să urmăriți licitația sau să opriți cursor-ul cu ajutorul funcțiilor din meniul licitației.</span>
 
-![](https://i.imgur.com/VUTfE0t.gif)
+![](https://i.imgur.com/VUTfE0t.gif){.framed-gif}
 :::
 
 :::tip UTIL!

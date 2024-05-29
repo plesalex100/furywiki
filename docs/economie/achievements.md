@@ -12,4 +12,4 @@ title: Achievement-uri
 
 - Meniul poate fi accesat cu ajutorul aplicației "Achievements" de pe [telefon](/general/telefon).
 
-![](https://i.imgur.com/dhTr27U.png)
+![](https://i.imgur.com/dhTr27U.png){.framed-photo}

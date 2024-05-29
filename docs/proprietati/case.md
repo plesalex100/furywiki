@@ -73,13 +73,13 @@ Există 4 tipuri de case:
 
 :::info
 - <span style="color:white">Pentru a vedea unde se află casa ta personală aveți pe hartă următorul blips:</span>
-![](https://i.imgur.com/x101KQM.png)
+![](https://i.imgur.com/x101KQM.png){.framed-photo}
 
 - <span style="color:white">Pentru a vedea unde se află casa unde ai chirie aveți pe hartă următorul blips:</span>
-![](https://i.imgur.com/q490CkC.png)
+![](https://i.imgur.com/q490CkC.png){.framed-photo}
 
 - <span style="color:white">Pentru a vedea unde se află casa de la care aveți copie la cheie aveți pe hartă următorul blips:</span>
-![](https://i.imgur.com/W8BZwkZ.png)
+![](https://i.imgur.com/W8BZwkZ.png){.framed-photo}
 :::
 
 :::tip UTIL!
@@ -92,8 +92,8 @@ Există 4 tipuri de case:
 :::info
 - <span style="color:white">Pentru a deschide meniul de administrare al casei, trebuie să vă aflați în interiorul acesteia și să apăsați tasta <KeyIcon keyType="k"/> -> Meniu Casa.</span>
 
-![](https://i.imgur.com/IIg1K1P.png)
-![](https://i.imgur.com/WYDmIL4.png)
+![](https://i.imgur.com/IIg1K1P.png){.framed-photo}
+![](https://i.imgur.com/WYDmIL4.png){.framed-photo}
 
 <span style="color:white">Meniul de administrare al casei are următoarele opțiuni:</span>
 :::
@@ -133,7 +133,7 @@ Există 4 tipuri de case:
 
 - <span style="color:white">De aici puteți alege ce mobilă doriți să cumpărați, fiecare tip de mobilier este plasat pe categorii și are preț diferit. După ce cumpărați un obiect, o să fiți puși în modul de editare a casei, unde puteți plasa obiectul cumpărat în orice loc doriți. Aveți pe ecran toate tastele care sunt folosite și funcționalitatea lor. Mai jos aveți un exemplu cu acest proces:</span>
 
-![](https://i.imgur.com/b3ccfmN.gif)
+![](https://i.imgur.com/b3ccfmN.gif){.framed-gif}
 :::
 
 :::tip Sfat!
@@ -145,7 +145,7 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 :::info
 - <span style="color:white">Pentru a invita oameni în casă, aceștia trebuie să vină la casă și să bată la ușă. În când cineva bate la ușă, o să primiți o notificare pe telefon și puteți apăsa tasta <KeyIcon keyType="y"/> pentru a intra pe camera de la vizor și să vedeți cine bate la ușă. Puteți apăsa din nou tasta <KeyIcon keyType="y"/> pentru a deschide ușa (iar atunci cei care vor să intre apăsând tasta <KeyIcon keyType="e"/>) și <KeyIcon keyType="esc"/> pentru a ieși din camera de la vizor.</span>
 
-![](https://i.imgur.com/BqOHKxg.gif)
+![](https://i.imgur.com/BqOHKxg.gif){.framed-gif}
 :::
 
 ## <span class="header-font">Cum pot să devin chiriaș într-o casă?</span> 
@@ -158,7 +158,7 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 - Proprietarul poate oricând să vă încheie contractul în cazul în care veți crea neplăceri.
 :::
 
-![](https://i.imgur.com/ULYCfgq.png)
+![](https://i.imgur.com/ULYCfgq.png){.framed-photo}
 
 ## <span class="header-font">Am garaj la casă?</span>
 

@@ -23,7 +23,7 @@ title: Gunoier
 - <span style="color:white">Începi prin a merge la [locația jobului](locatii) și a interacționa cu NPC-ul din fața clădirii pentru a începe tura.</span>
 :::
 :::details NPC
-![](https://i.imgur.com/DbYjcl6.png)
+![](https://i.imgur.com/DbYjcl6.png){.framed-photo}
 :::
 
 :::tip 
@@ -36,7 +36,7 @@ Aveți posibilitatea să practicați acest job împreună cu un prieten pentru u
 - <span style="color:white">Pentru a colecta gunoiul, ieșiți din mașină și apropiați-vă de pubelele marcate pe hartă și apăsați tasta <KeyIcon keyType="e"/> pentru a le ridica. Aceste pubele trebuiesc duse în spatele mașinii de gunoi pentru a o atașa de mecanismul care le golește folosind tot tasta <KeyIcon keyType="e"/>. După ce l-ați golit, pubela va trebui dusă înapoi la locul ei. Repetați acest proces pentru toate pubelele de gunoi marcate pe hartă.</span>
 :::
 :::details Pubele
-![](https://i.imgur.com/jJwTiJg.gif)
+![](https://i.imgur.com/jJwTiJg.gif){.framed-gif}
 :::
 
 :::info
@@ -44,7 +44,7 @@ Aveți posibilitatea să practicați acest job împreună cu un prieten pentru u
 :::
 
 :::details Descărcare gunoi
-![](https://i.imgur.com/BIVLn83.gif)
+![](https://i.imgur.com/BIVLn83.gif){.framed-gif}
 :::
 
 :::info

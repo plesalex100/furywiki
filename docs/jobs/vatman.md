@@ -18,12 +18,12 @@ title: Vatman
 - <span style="color:white">Începi prin a merge la [locația jobului](locatii) și interacționați cu NPC-ul din stație pentru a începe tura.</span>
 :::
 :::details NPC
-![](https://i.imgur.com/0pEpA2O.png)
+![](https://i.imgur.com/0pEpA2O.png){.framed-photo}
 :::
 
 ### <span class="header-font">Cum funcționează controalele trenului?</span>
 
-![](https://i.imgur.com/JJs0URA.png)
+![](https://i.imgur.com/JJs0URA.png){.framed-photo}
 
 :::info 
 <span style="color:white">1 - 2 - 3 - 4 - 5 -> reprezintă vitezele trenului, porniți de pe loc cu treapta 1 și o creșteți treptat. Vitezele trenului se schimbă folosind tastele <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">W</span> pentru a schimba într-o viteză sperioară și <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">S</span> pentru a schimba într-o viteză inferioară.</span>
@@ -46,7 +46,7 @@ title: Vatman
 :::
 
 :::details Oprire în stație
-![](https://i.imgur.com/PPYGiWx.gif)
+![](https://i.imgur.com/PPYGiWx.gif){.framed-gif}
 :::
 :::tip SFAT!
 - Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).

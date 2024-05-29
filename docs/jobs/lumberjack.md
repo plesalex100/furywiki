@@ -26,7 +26,7 @@ Este recomandată folosirea unei genți, care poate fi achiziționată de la [ma
 :::
 
 :::details NPC Intrare
-![](https://i.imgur.com/NKpPLO8.png)
+![](https://i.imgur.com/NKpPLO8.png){.framed-photo}
 :::
 
 :::info
@@ -39,10 +39,10 @@ Este recomandată folosirea unei genți, care poate fi achiziționată de la [ma
 ### <span class="header-font">Tăierea copacilor până când aceștia cad</span>
 :::info
 <span style="color:white">-> după câteva lovituri, acesta va cădea, iar trunchiul va trebui să fie tăiat in bucăți mai mici</span>
-![](https://i.imgur.com/CZM94vF.gif)
+![](https://i.imgur.com/CZM94vF.gif){.framed-gif}
 ### <span class="header-font">Porționarea trunchiului</span>
 <span style="color:white">-> vă apropiați de checkpoint-urile marcate pe trunchi și începeți să loviți cu toporul până caracterul va lua în mână o bucată de lemn, care va fi pusă în remorcă</span>
-![](https://i.imgur.com/JyyIhRR.gif)
+![](https://i.imgur.com/JyyIhRR.gif){.framed-gif}
 :::
 :::warning Atenție!
 Lângă bara de viață și armură va apărea încă o bară galbenă care reprezintă **stamina**. Aceasta scade progresiv cu fiecare lovitură pe care o dați copacului. Dacă aceasta ajunge la 0, veți fi nevoiți să așteptați până se va umple din nou pentru a putea continua să tăiați copacul.
@@ -52,19 +52,19 @@ Lângă bara de viață și armură va apărea încă o bară galbenă care repr
 - <span style="color:white">După ce remorca se va umple, trebuie să mergeți înapoi la Lumber Yard și să mergeți în partea de pe deal a zonei, la topogan pentru a descărca lemnul și a-l transofrma în scânduri.</span>
 :::
 :::details Finish
-![](https://i.imgur.com/cd5Lrxk.png)
+![](https://i.imgur.com/cd5Lrxk.png){.framed-photo}
 
-![](https://i.imgur.com/KrOUHJT.png)
+![](https://i.imgur.com/KrOUHJT.png){.framed-photo}
 :::
 :::details Transformare lemn în scânduri
-![](https://i.imgur.com/6c9zaze.gif)
+![](https://i.imgur.com/6c9zaze.gif){.framed-gif}
 :::
 
 :::info
 - <span style="color:white">Scândurile pot fi vândute la NPC ul de lângă topoganul de descărcare, iar plata va fi făcută per scândură.</span>
 :::
 
-![](https://i.imgur.com/Q4Xr88c.png)
+![](https://i.imgur.com/Q4Xr88c.png){.framed-photo}
 :::tip SFAT!
 - Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::

@@ -24,10 +24,10 @@ title: Electrician
 :::
 
 :::details Locație
-![](https://i.imgur.com/NTdD3s3.png)
+![](https://i.imgur.com/NTdD3s3.png){.framed-photo}
 
 
-![](https://i.imgur.com/lzhQctb.png)
+![](https://i.imgur.com/lzhQctb.png){.framed-photo}
 :::
 
 :::info
@@ -39,7 +39,7 @@ title: Electrician
 :::
 
 :::details Minigame Electrician
-![](https://i.imgur.com/oEJ6Jqp.gif)
+![](https://i.imgur.com/oEJ6Jqp.gif){.framed-gif}
 :::
 
 :::info

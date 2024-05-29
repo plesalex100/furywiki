@@ -46,5 +46,5 @@ Exemplu:
 - Prețul unul revive fără asigurare este de $500.
 :::
 
-![](https://i.imgur.com/bEjJz6U.png)
+![](https://i.imgur.com/bEjJz6U.png){.framed-photo}
 

@@ -49,7 +49,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::details Minigame Pescar
-![](https://i.imgur.com/NKfwaF0.gif)
+![](https://i.imgur.com/NKfwaF0.gif){.framed-gif}
 :::
 
 :::info

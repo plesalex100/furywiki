@@ -9,9 +9,9 @@ title: Școala de șoferi
 
 - Puteți localiza școala de șoferi folosind comanda [/gps](/informatii/comenzi.html#gps), în interiorul locației aveți un NPC care vă va ajuta să porniți testul practic pentru obținerea permisului de conducere.
 
-![pozaDMV1](https://i.imgur.com/SU128n2.png)
+![pozaDMV1](https://i.imgur.com/SU128n2.png){.framed-photo}
 <br/>
-![pozaDMV2](https://i.imgur.com/L80wrCM.png)
+![pozaDMV2](https://i.imgur.com/L80wrCM.png){.framed-photo}
 
 ## <span class="header-font">De unde iau permisul pentru a-l avea fizic la mine?</span>
 

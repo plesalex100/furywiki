@@ -14,7 +14,7 @@ title: Smurd
 :::
 :::tip Apelare medic responsabil de cazul dvs
 - Dacă doriți să apelați medicul care v-a preluat cazul, folosiți butonul predestinat pe pagina de formare a unui număr.
-![](https://i.imgur.com/mV3y7Ct.png)
+![](https://i.imgur.com/mV3y7Ct.png){.framed-photo}
 :::
 
 ## <span class="header-font">Structură</span>

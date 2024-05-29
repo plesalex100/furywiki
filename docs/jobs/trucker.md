@@ -36,7 +36,7 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 - <span style="color:white">Începi prin a merge la un garaj industrial (marcat cu un blips la fel ca și cel de la garajul normal, dar galben) și scoateți tirul.</span>
 :::
 :::details Garaj industrial
-![](https://i.imgur.com/ZC1aSuC.png)
+![](https://i.imgur.com/ZC1aSuC.png){.framed-photo}
 :::
 
 :::info
@@ -44,7 +44,7 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::details Meniu job
-![](https://i.imgur.com/uNa9esJ.png)
+![](https://i.imgur.com/uNa9esJ.png){.framed-photo}
 :::
 
 :::info
@@ -52,8 +52,8 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::details Selectare cursă
-![](https://i.imgur.com/rShOHes.png)
-![](https://i.imgur.com/L9r0pt0.png)
+![](https://i.imgur.com/rShOHes.png){.framed-photo}
+![](https://i.imgur.com/L9r0pt0.png){.framed-photo}
 :::
 
 :::info
@@ -62,7 +62,7 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::details Cursă
-![](https://i.imgur.com/gmoRJ04.gif)
+![](https://i.imgur.com/gmoRJ04.gif){.framed-gif}
 :::
 
 :::tip SFAT!

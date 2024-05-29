@@ -12,9 +12,9 @@ title: Depozit
 
 - Depozitul poate fi găsit în Paleto Bay, pe strada principală la codul poștal 62. Acesta poate fi văzut pe hartă cu un cufăr galben. Accesul se face prin spatele clădirii.
 
-![](https://i.imgur.com/6kIW512.png)
-![](https://i.imgur.com/zw4oA2v.png)
-![](https://i.imgur.com/KqOdace.png)
+![](https://i.imgur.com/6kIW512.png){.framed-photo}
+![](https://i.imgur.com/zw4oA2v.png){.framed-photo}
+![](https://i.imgur.com/KqOdace.png){.framed-photo}
 
 ## <span class="header-font">Ce este depozitul?</span>
 
@@ -28,4 +28,4 @@ title: Depozit
 
 - Pentru a accesa depozitul, intrați în interiorul clădirii și în dreptul primului raft din partea dreaptă puteți stoca obiectele apăsând tasta <KeyIcon keyType="e"/>.
 
-![](https://i.imgur.com/PW7S7dr.png)
+![](https://i.imgur.com/PW7S7dr.png){.framed-photo}

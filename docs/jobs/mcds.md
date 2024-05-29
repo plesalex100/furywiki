@@ -16,13 +16,13 @@ title: Mc Donalds
 - <span style="color:white">Începi prin a merge la [locația jobului](locatii) și a interacționa cu NPC-ul din biroul restaurantului pentru a începe tura.</span>
 :::
 :::details NPC
-![](https://i.imgur.com/Ic4Ppnn.png)
+![](https://i.imgur.com/Ic4Ppnn.png){.framed-photo}
 :::
 
 :::info
 - <span style="color:white">Odată ce ați început tura, mergeți la mesele de lucru pentru a începe să primiți comenzi, după ce le primiți începeți să le efectuați și să le predați. Comenzile vor fi primite într-un mod aleatoriu, unele vor fi mai ușoare iar altele mai grele, iar acestea se repetă până când vă decideți să ieșiți din tură. Mai jos aveți un exemplu cu interfața jobului, cum se desfășoară o comandă, iar in colțul din dreapta sus dacă apăsați pe icon-ul cu o carte veți putea vizualiza toate rețetele pentru fiecare aliment:</span>
 
-![](https://i.imgur.com/DyzcHHx.gif)
+![](https://i.imgur.com/DyzcHHx.gif){.framed-gif}
 :::
 
 :::danger Atenție!
@@ -32,7 +32,7 @@ title: Mc Donalds
 :::info
 - <span style="color:white">După ce ați preparat mai multe comenzi puteți ieși de la masa de lucru și să începeți să faceți ordine în restaurant adică să stergeți mesele și pe jos.</span>
 
-![](https://i.imgur.com/o6StZZQ.gif)
+![](https://i.imgur.com/o6StZZQ.gif){.framed-gif}
 
 - <span style="color:white">Plata va fi făcută după fiecare comandă finalizată / zonă curățată.</span>
 :::

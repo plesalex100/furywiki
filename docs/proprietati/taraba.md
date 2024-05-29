@@ -13,7 +13,7 @@ title: Taraba la portbagaj
 - Puteți face asta apăsând tasta <KeyIcon keyType="k"/> *-> Meniu Vehicul -> Deschide Taraba* în apropierea dubei. În momentul acela ușile din spatele dubei se vor deschide, iar în spatele dubei va apărea o masă.
 
 :::details Deschide Taraba
-![](https://i.imgur.com/JmaZRQh.png)
+![](https://i.imgur.com/JmaZRQh.png){.framed-photo}
 :::
 
 - În continuare, pentru a deschide taraba, apropiați-vă de masă și apăsați tasta <KeyIcon keyType="e"/>, urmând să vi se deschidă meniul tarabei, unde puteți adăuga produsele pe care vreți să le vindeți la prețul dorit. Același proces îl va face și potențialul client, doar că el va putea cumpăra produsele.
@@ -21,8 +21,8 @@ title: Taraba la portbagaj
 :::tip Atenție!
 - Dacă încă aveți produse pe masă și închideți taraba, produsele vor rămâne pe masă până la următoarea deschidere a tarabei. Dacă vreți să le scoateți de pe masă, trebuie doar să le trageți înapoi în inventar.
 :::
-![](https://i.imgur.com/pJCE1cd.png)
-![](https://i.imgur.com/38HF3KP.png)
+![](https://i.imgur.com/pJCE1cd.png){.framed-photo}
+![](https://i.imgur.com/38HF3KP.png){.framed-photo}
 
 ## <span class="header-font">Ce avantaje am dacă deschid acest tip de magazin?</span>
 

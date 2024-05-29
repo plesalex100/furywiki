@@ -28,7 +28,7 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 - <span style="color:white">Începi prin a merge la un garaj industrial (marcat cu un blips la fel ca și cel de la garajul normal, dar galben) și scoateți tirul.</span>
 :::
 :::details Garaj industrial
-![](https://i.imgur.com/ZC1aSuC.png)
+![](https://i.imgur.com/ZC1aSuC.png){.framed-photo}
 :::
 
 :::info
@@ -36,7 +36,7 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::details Meniu job
-![](https://i.imgur.com/uNa9esJ.png)
+![](https://i.imgur.com/uNa9esJ.png){.framed-photo}
 :::
 
 :::info
@@ -44,9 +44,9 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::details Meniu cisternă
-![](https://i.imgur.com/vgFfOlU.png)
+![](https://i.imgur.com/vgFfOlU.png){.framed-photo}
 
-![](https://i.imgur.com/Jajjzk3.png)
+![](https://i.imgur.com/Jajjzk3.png){.framed-photo}
 :::
 :::tip
 Din câte observați, aveți posibilitatea de a avea 3 cisterne. Trebuie să vă cumpărați o cisternă pentru a putea practica acest job.
@@ -57,7 +57,7 @@ Din câte observați, aveți posibilitatea de a avea 3 cisterne. Trebuie să vă
 :::
 
 :::details Opțiuni cisternă
-![](https://i.imgur.com/uUtD8oV.png)
+![](https://i.imgur.com/uUtD8oV.png){.framed-photo}
 :::
 
 :::info
@@ -65,7 +65,7 @@ Din câte observați, aveți posibilitatea de a avea 3 cisterne. Trebuie să vă
 
 - <span style="color:white">Odată ajunși la pompa de petrol, mergeți la pompă și apăsați tasta <KeyIcon keyType="e"/> pentru a începe să lucrați la aceasta. Aici aveți un minigame care constă în menținerea celor 3 benzi deasupra măsurii evidențiate până când progresul va ajunge la 100%. După ce ați finalizat minigame-ul, mergeți la cisternă și țineți apăsat <KeyIcon keyType="e"/> pentru a începe să umpleți cisterna. Aceasta se umple cu 10% pentru fiecare alimentare.</span>
 
-![](https://i.imgur.com/qrCY6cN.gif)
+![](https://i.imgur.com/qrCY6cN.gif){.framed-gif}
 
 - <span style="color:white">După ce ați umplut toată cisterna, trebuie să mergeți la rafinărie (marcat cu un blips cu o picătură gri) pentru a rafina combustibilul.</span>
 
