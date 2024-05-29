@@ -54,7 +54,7 @@ title: Telefon
 
 :::tip Notă! 
 Vă puteți pune o imagine de fundal custom încărcând poza dorită pe Imgur sau alt site care permite să uploadați poze, apoi copiați link-ul imaginii și îl puneți în chenarul care vă apare în aplcație.
-:::details <span style="color:red">Fundal Custom
+:::details <span style="color:red">Fundal Custom</span>
 ![](https://i.imgur.com/EWN8lGU.png){.framed-photo}
 :::
 
