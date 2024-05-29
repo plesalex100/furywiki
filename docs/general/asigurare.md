@@ -38,8 +38,8 @@ Exemplu:
 ## <span class="header-font">De ce este important să fim asigurați medical?</span>
 
 :::info
-- <span style="color:white">Principalul motiv este că, în cazul în care suntem răniți, putem apela la serviciile medicale fără a plăti o sumă de bani.</span>
-- <span style="color:white">În cazul în care nu suntem asigurați, veți taxat cu o sumă de bani.</span>
+- Principalul motiv este că, în cazul în care suntem răniți, putem apela la serviciile medicale fără a plăti o sumă de bani.
+- În cazul în care nu suntem asigurați, veți taxat cu o sumă de bani.
 :::
 
 :::tip TIP!

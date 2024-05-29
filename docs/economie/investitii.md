@@ -8,20 +8,20 @@ title: Investiții
 ## <span class="header-font">Ce sunt investițiile și cum funcționează?</span>
 
 :::info
-- <span style="color:white">Investițiile reprezintă un venit pasiv care îți oferă o sumă de bani în funcție de activitatea pe server.</span>
+- Investițiile reprezintă un venit pasiv care îți oferă o sumă de bani în funcție de activitatea pe server.
 
-- <span style="color:white">Acestea pot fi accesate din [telefon](/general/telefon), mai exact din aplicația "Investiții".</span>
+- Acestea pot fi accesate din [telefon](/general/telefon), mai exact din aplicația "Investiții".
 
-- <span style="color:white">Investițiile sunt de 2 tipuri:</span>
+- Investițiile sunt de 2 tipuri:>
 :::
 
 ### <span class="header-font">Short term</span>
 :::info
-<span style="color:white">-> reprezintă numărul de ore jucate pe care le-ai ales să le petreci pe server în ziua respectivă</span>
+-> reprezintă numărul de ore jucate pe care le-ai ales să le petreci pe server în ziua respectivă
 
-<span style="color:white">-> chiar dacă te deconectezi, orele jucate se vor păstra</span>
+-> chiar dacă te deconectezi, orele jucate se vor păstra
 
-<span style="color:white">-> reward-urile sunt stabilite astfel:</span>
+-> reward-urile sunt stabilite astfel:
 :::
 
 :::warning Atenție!
@@ -49,11 +49,11 @@ De exemplu, dacă am făcut o investiție de 5 ore, dar am jucat doar 4 ore, nu 
 
  ### <span class="header-font">Long term </span>
  :::info
- <span style="color:white">-> se investesc atât ore, cât și sume de bani</span>
+ -> se investesc atât ore, cât și sume de bani
 
- <span style="color:white">-> pot fi făcute la rând, după fiecare investiție finalizată</span>
+ -> pot fi făcute la rând, după fiecare investiție finalizată
 
- <span style="color:white">-> reward-urile sunt stabilite astfel:</span>
+ -> reward-urile sunt stabilite astfel:
 :::
 
 |   Ore investite |   Sumă investită   |    Reward   |  Total (suma investită + reward) |
@@ -68,9 +68,9 @@ De exemplu, dacă am făcut o investiție de 5 ore, dar am jucat doar 4 ore, nu 
 |     400 ore     |       $800000      |    $440000  |  $1240000 |
 
 :::info Atenție!
-- <span style="color:white">Poți alege orice investiție indiferent de câte ore jucate actuale deții.</span>
-- <span style="color:white">Anularea investiției va duce la pierderea sumei investite și a progresului.</span>
-- <span style="color:white">Nu poți avea mai mult de o investiție long term activă.</span>
+- Poți alege orice investiție indiferent de câte ore jucate actuale deții.
+- Anularea investiției va duce la pierderea sumei investite și a progresului.
+- Nu poți avea mai mult de o investiție long term activă.
 :::
 
 :::tip Exemplu

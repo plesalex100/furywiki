@@ -11,9 +11,9 @@ title: Muncitor la Carieră
 ## <span class="title-font">Cerințe</span>
 
 :::info
-- <span style="color:white">Experiență de minim 550 ore.</span>
-- <span style="color:white">Deținerea unui permis de conducere categoria CE.</span>
-- <span style="color:white">Deținerea unei [licențe](/general/licente) de muncitor de carieră validă pentru a putea lucra legal. </span>
+- Experiență de minim 550 ore.
+- Deținerea unui permis de conducere categoria CE.
+- Deținerea unei [licențe](/general/licente) de muncitor de carieră validă pentru a putea lucra legal. 
 :::
 
 :::tip
@@ -23,9 +23,9 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 ## <span class="title-font">Cum practic acest job?</span>
 
 :::info
-<span style="color:white">Acest job constă în adunarea de minereuri, transportarea lor și stocarea în warehouse + prelucrarea lor la topitorie.</span>
+Acest job constă în adunarea de minereuri, transportarea lor și stocarea în warehouse + prelucrarea lor la topitorie.
 
-- <span style="color:white">Începi prin a merge la locația jobului și interacționați cu NPC-ul de la carieră.</span>
+- Începi prin a merge la locația jobului și interacționați cu NPC-ul de la carieră.
 :::
 
 :::details NPC Carieră
@@ -33,13 +33,13 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::info
-- <span style="color:white">Veți primii un buldozer de care aveți nevoie pentru a ridică minereurile de la checkpoint-urile de pe mapa.</span>
+- Veți primii un buldozer de care aveți nevoie pentru a ridică minereurile de la checkpoint-urile de pe mapa.
 
-- <span style="color:white">Pentru a ridică pietrele lăsăți bascula buldozerului jos (tasta <span class="title-font">CTRL/SHIFT</span>) și înaintați puțin în piatră după care trebuie să lăsăți piatră la următorul checkpoint.</span>
+- Pentru a ridică pietrele lăsăți bascula buldozerului jos (tasta <span class="title-font">CTRL/SHIFT</span>) și înaintați puțin în piatră după care trebuie să lăsăți piatră la următorul checkpoint.
 
 ![](https://i.imgur.com/gFmLfdZ.gif){.framed-gif}
 
-- <span style="color:white">Când se umple trenul/doriți să va duceți cu minereurile la topitorie trebuie să va dați demisia de la job-ul de carieră și să va duceți la următorul NPC pentru a lua trenul de marfă.</span>
+- Când se umple trenul/doriți să va duceți cu minereurile la topitorie trebuie să va dați demisia de la job-ul de carieră și să va duceți la următorul NPC pentru a lua trenul de marfă.
 :::
 
 :::details NPC Tren marfă
@@ -49,7 +49,7 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::info
-- <span style="color:white">După ce v-ați urcat în tren odată ajunși la stația de la warehouse Paleto, o să va teleporteze fix la checkpoint-ul de la warehouse unde aveți toate minereurile din tren.</span>
+- După ce v-ați urcat în tren odată ajunși la stația de la warehouse Paleto, o să va teleporteze fix la checkpoint-ul de la warehouse unde aveți toate minereurile din tren.
 :::
 
 :::tip Apasa pe textul alb pentru a afla cum se conduce trenul!
@@ -57,9 +57,9 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::info
-- <span style="color:white">Aveți nevoie de un vehicul de tip Rubble și puteți să apăsați pe butonul <span class="title-font">Transferă minereurile în Rubble</span>, după ce v-ați transferat toate materialele ( în limita portbagajului de la Rubble ) mergeți spre topitorie.</span>
+- Aveți nevoie de un vehicul de tip Rubble și puteți să apăsați pe butonul <span class="title-font">Transferă minereurile în Rubble</span>, după ce v-ați transferat toate materialele ( în limita portbagajului de la Rubble ) mergeți spre topitorie.
 
 ![](https://cdn.discordapp.com/attachments/1136285559573201011/1182808851804848138/image.png?ex=65860b95&is=65739695&hm=100645a241be676c3dc85ed4148e8f5f6d28468a13e59f9490205d9019f54665&){.framed-photo}
 
-- <span style="color:white">După prelucrare, puteți vinde lingourile/materialele la magazinul de bijuterii ( se află la cod poștal 642 )</span>
+- După prelucrare, puteți vinde lingourile/materialele la magazinul de bijuterii ( se află la cod poștal 642 )
 :::

@@ -11,9 +11,9 @@ title: Pescar Oceanic
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- <span style="color:white">Minim 400 ore experiență.</span>
-- <span style="color:white">Momeală specializată - pește obținut la pescarul de baltă.</span>
-- <span style="color:white">Deținerea unei [licențe](/general/licente) de pescar pentru a putea lucra legal.</span>
+- Minim 400 ore experiență.
+- Momeală specializată - pește obținut la pescarul de baltă.
+- Deținerea unei [licențe](/general/licente) de pescar pentru a putea lucra legal.
 :::
 
 :::tip
@@ -23,7 +23,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info
-- <span style="color:white">Pentru a practica acest job, trebuie să dețineți în primul rând o lansetă, fir de pescuit și o montură pe care le achiziționați de la Magazinul Pescarului</span>
+- Pentru a practica acest job, trebuie să dețineți în primul rând o lansetă, fir de pescuit și o montură pe care le achiziționați de la Magazinul Pescarului
 :::
 
 :::tip SFAT
@@ -33,11 +33,11 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::info
-- <span style="color:white">După ce ați achiziționat cele precizate, vă puteți asambla undița cu ajutorul meniului de crafting al inventarului. Aflați mai multe ->[aici](/general/inventar.html#crafting)<-</span>
+- După ce ați achiziționat cele precizate, vă puteți asambla undița cu ajutorul meniului de crafting al inventarului. Aflați mai multe ->[aici](/general/inventar.html#crafting)<-
 
-- <span style="color:white">Dacă v-ați pregătit undița, următorul pas este de a vă achiziționa o barcă de la Dealership-ul de Bărci pentru a avea unde să depozitați peștele deoarece este destul de greu (K - GPS - Dealership Bărci) SAU să vorbiți cu cineva care are barcă pentru a putea pescui alături de el.</span>
+- Dacă v-ați pregătit undița, următorul pas este de a vă achiziționa o barcă de la Dealership-ul de Bărci pentru a avea unde să depozitați peștele deoarece este destul de greu (K - GPS - Dealership Bărci) SAU să vorbiți cu cineva care are barcă pentru a putea pescui alături de el.
 
-- <span style="color:white">Odată ajunși pe barcă și ați mers în zona specială pentru pescuit oceanic (încercați să folosiți undița pentru a descoperi locația), puteți să folosiți undița pentru a începe să pescuiți.</span>
+- Odată ajunși pe barcă și ați mers în zona specială pentru pescuit oceanic (încercați să folosiți undița pentru a descoperi locația), puteți să folosiți undița pentru a începe să pescuiți.
 :::
 
 :::tip 
@@ -45,7 +45,7 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::info
-- <span style="color:white">La un moment dat, când ați prins un pește, trebuie să faceți același mini-game ca și la pescarul de baltă.</span>
+- La un moment dat, când ați prins un pește, trebuie să faceți același mini-game ca și la pescarul de baltă.
 :::
 
 :::details Minigame Pescar
@@ -53,9 +53,9 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::info
-- <span style="color:white">Puteți să pescuiți până când rămâneți fără momeală.</span>
+- Puteți să pescuiți până când rămâneți fără momeală.
 
-- <span style="color:white">Peștii se vând la Magazinul Pescarului, la secțiunea de "Vinde".</span>
+- Peștii se vând la Magazinul Pescarului, la secțiunea de "Vinde".
 :::
 
 :::danger ATENTIE

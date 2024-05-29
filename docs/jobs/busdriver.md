@@ -10,8 +10,8 @@ title: Șofer de autobuz
 ### <span class="header-font">Cerințe</span>
 
 :::info
-- <span style="color:white">Experiență de minim 10 ore.</span>
-- <span style="color:white">Deținerea unui [permis de conducere](/general/scoala) valabil.</span>
+- Experiență de minim 10 ore.
+- Deținerea unui [permis de conducere](/general/scoala) valabil.
 :::
 
 <hr style="transform: translateY(10px)"/>
@@ -19,21 +19,21 @@ title: Șofer de autobuz
 ### <span class="header-font">Cum practic acest job?</span>
 
 :::info
-<span style="color:white">Acest job constă în urmărirea rutei și preluarea călătorilor din stație.</span>
+Acest job constă în urmărirea rutei și preluarea călătorilor din stație.
 
-- <span style="color:white">Începi prin a vorbi cu directorul de la autogară pentru a primi uniforma, apoi poți începe tura.</span>
+- Începi prin a vorbi cu directorul de la autogară pentru a primi uniforma, apoi poți începe tura.
 :::details NPC
 ![](https://i.imgur.com/gGtErdP.png){.framed-photo}
 :::
 
 :::info
-- <span style="color:white">Odată ce începi tura, vei fi pus într-un autobuz cu care trebuie să mergi parcurgi toate stațiile, care sunt reprezentate de checkpoint-ul mov/altă culoare în funcție de ce cursă aveți.</span>
+- Odată ce începi tura, vei fi pus într-un autobuz cu care trebuie să mergi parcurgi toate stațiile, care sunt reprezentate de checkpoint-ul mov/altă culoare în funcție de ce cursă aveți.
 
-- <span style="color:white">Ajuns la checkpoint, va trebui să aștepți ca pasagerii să urce.</span>
+- Ajuns la checkpoint, va trebui să aștepți ca pasagerii să urce.
 
 ![gifBusDriver](https://i.imgur.com/2QEdutJ.gif){.framed-gif}
 
-- <span style="color:white">Plata va fi făcută la finalul cursei.</span>
+- Plata va fi făcută la finalul cursei.
 
 :::tip SFAT!
 - Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).

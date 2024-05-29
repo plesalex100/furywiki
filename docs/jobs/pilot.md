@@ -10,16 +10,16 @@ title: Pilot
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- <span style="color:white">Experiență de minim 200 ore.</span>
-- <span style="color:white">Deținerea unor cunoștințe medii despre pilotaj.</span>
+- Experiență de minim 200 ore.
+- Deținerea unor cunoștințe medii despre pilotaj.
 :::
 
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info
-<span style="color:white">Acest job constă în încărcarea unor cutii în avion și transportarea acestora la destinație.</span>
+Acest job constă în încărcarea unor cutii în avion și transportarea acestora la destinație.
 
-- <span style="color:white">Începi prin a merge la [locația jobului](locatii) și interacționați cu NPC-ul din hangar pentru a începe tura.</span>
+- Începi prin a merge la [locația jobului](locatii) și interacționați cu NPC-ul din hangar pentru a începe tura.
 :::
 
 :::details NPC
@@ -27,7 +27,7 @@ title: Pilot
 :::
 
 :::info
-- <span style="color:white">Odată ce ați început tura, mergeți la checkpoint-urile marcate cu alb pe hartă (sunt in dreapta ieșirii din hangar) pentru a lua și încărca cutiile cu tasta <KeyIcon keyType="e"/> în avion.</span>
+- Odată ce ați început tura, mergeți la checkpoint-urile marcate cu alb pe hartă (sunt in dreapta ieșirii din hangar) pentru a lua și încărca cutiile cu tasta <KeyIcon keyType="e"/> în avion.
 :::
 
 :::details Încărcare cutii
@@ -35,7 +35,7 @@ title: Pilot
 :::
 
 :::info
-- <span style="color:white">După ce ați terminat de încărcat cutiile, intrați în avion și urmăriți ruta marcată cu checkpoint-urile și inelele galbene.</span>
+- După ce ați terminat de încărcat cutiile, intrați în avion și urmăriți ruta marcată cu checkpoint-urile și inelele galbene.
 :::
 
 :::details Ruta
@@ -44,8 +44,8 @@ title: Pilot
 
 
 :::info
-- <span style="color:white">După ce ați ajuns la destinație, aterizați avionul pe pistă și mergeți la checkpoint-ul marcat cu galben pentru a descărca cutiile, apoi întoarceți-vă înapoi la aeroport și parcați avionul.</span>
-- <span style="color:white">Plata se face după ce parcați avionul pe aeroport.</span>
+- După ce ați ajuns la destinație, aterizați avionul pe pistă și mergeți la checkpoint-ul marcat cu galben pentru a descărca cutiile, apoi întoarceți-vă înapoi la aeroport și parcați avionul.
+- Plata se face după ce parcați avionul pe aeroport.
 :::
 
 :::warning Atenție!

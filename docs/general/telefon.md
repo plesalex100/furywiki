@@ -11,7 +11,7 @@ title: Telefon
 
 - Puteți cumpăra un telefon de la orice [magazin](/proprietati/magazine) care are stoc de telefoane.
 
-## <span class="header-font">Cum deschid telefonul?</span>
+## <span class="header-font">Cum deschid telefonul?
 
 - Pentru a deschide telefonul, apăsați tasta ["L"](/informatii/comenzi#tasta-l).
 
@@ -19,18 +19,18 @@ title: Telefon
 
 :::info Interfață
 
-#### <span style="color:white">Intefața telefonului:</span>
+#### Intefața telefonului:
 
 ![](https://i.imgur.com/wO0p0Wq.png){.framed-photo}
 
-- <span style="color:white">În partea de jos a telefonului, avem 4 aplicații care se presupun a fi utilizate cel mai des:</span>
+- În partea de jos a telefonului, avem 4 aplicații care se presupun a fi utilizate cel mai des:
 :::
 
 ### <span class="header-font">Aplicația "Telefon"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem suna la [poliție](/factions/politie) sau alt serviciu, la un număr de telefon, să-l introducem în lista de contacte, să ștergem un număr din lista de contacte, să vedem apelurile pierdute, apelurile primite și apelurile efectuate, toate acestea accesând shortcut-urile de la baza ecranului.</span>
-- <span style="color:white">De asemenea, dacă vrem să sunăm la Smurd/Taxi/Mecanic vom vedea doar angajații disponibili de la toate firmele, având posibilitatea să alegem pe cine dorim să sunăm în funcție de preț.</span>
+- Cu ajutorul acestei aplicații putem suna la [poliție](/factions/politie) sau alt serviciu, la un număr de telefon, să-l introducem în lista de contacte, să ștergem un număr din lista de contacte, să vedem apelurile pierdute, apelurile primite și apelurile efectuate, toate acestea accesând shortcut-urile de la baza ecranului.
+- De asemenea, dacă vrem să sunăm la Smurd/Taxi/Mecanic vom vedea doar angajații disponibili de la toate firmele, având posibilitatea să alegem pe cine dorim să sunăm în funcție de preț.
 
 ![](https://i.imgur.com/nYZrFao.png){.framed-photo}
 
@@ -40,7 +40,7 @@ title: Telefon
 ### <span class="header-font">Aplicația "WhatsApp"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem apela, scrie mesaje, să le trimitem poze sau locația curentă unui contact din telefon.</span>
+- Cu ajutorul acestei aplicații putem apela, scrie mesaje, să le trimitem poze sau locația curentă unui contact din telefon.
 
 ![](https://i.imgur.com/I0hmEju.png){.framed-photo}
 :::
@@ -48,20 +48,20 @@ title: Telefon
 ### <span class="header-font">Aplicația "Setări"</span>
 
 :::info 
-- <span style="color:white">Cu ajutorul acestei aplicații putem accesa câteva setări ale telefonului, cum ar fi schimbarea imaginii de fundal, vizualizarea numărului de telefon, etc.</span>
+- Cu ajutorul acestei aplicații putem accesa câteva setări ale telefonului, cum ar fi schimbarea imaginii de fundal, vizualizarea numărului de telefon, etc.
 
 ![](https://i.imgur.com/RmPqigw.png){.framed-photo}
 
 :::tip Notă! 
 Vă puteți pune o imagine de fundal custom încărcând poza dorită pe Imgur sau alt site care permite să uploadați poze, apoi copiați link-ul imaginii și îl puneți în chenarul care vă apare în aplcație.
-:::details <span style="color:red">Fundal Custom</span>
+:::details <span style="color:red">Fundal Custom
 ![](https://i.imgur.com/EWN8lGU.png){.framed-photo}
 :::
 
 ### <span class="header-font">Aplicația "Cameră foto"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații puteți realiza poze și le puteți salva în galeria telefonului.</span>
+- Cu ajutorul acestei aplicații puteți realiza poze și le puteți salva în galeria telefonului.
 
 :::tip Notă!
 - Puteți da zoom cu ajutorul scroll-ului de la mouse.
@@ -70,18 +70,18 @@ Vă puteți pune o imagine de fundal custom încărcând poza dorită pe Imgur s
 
 ##
 
-# <span style="color:white">În continuare, pe ecranul principal avem alte aplicații:</span>
+# În continuare, pe ecranul principal avem alte aplicații:
 
 ### <span class="header-font">Aplicația "Fury Bank"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să vedem balanța contului bancar, să realizăm un transfer nou și să vedem persoanele la care am făcut recent un transfer.</span>
+- Cu ajutorul acestei aplicații putem să vedem balanța contului bancar, să realizăm un transfer nou și să vedem persoanele la care am făcut recent un transfer.
 
 ![](https://i.imgur.com/0oPONuy.png){.framed-photo}
 
 ##
 
-- <span style="color:white">Pentru a realiza un transfer către altă persoană din aplicație, aveți nevoie de numărul de telefon al acesteia.</span>
+- Pentru a realiza un transfer către altă persoană din aplicație, aveți nevoie de numărul de telefon al acesteia.
 
 ![](https://i.imgur.com/VNiweco.png){.framed-photo}
 :::
@@ -94,7 +94,7 @@ Vă puteți pune o imagine de fundal custom încărcând poza dorită pe Imgur s
 ### <span class="header-font">Aplicația "Galerie"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să vedem sau să ștergem pozele realizate cu telefonul.</span>
+- Cu ajutorul acestei aplicații putem să vedem sau să ștergem pozele realizate cu telefonul.
 
 ![](https://i.imgur.com/AoyZRSr.png){.framed-photo}
 
@@ -107,15 +107,15 @@ Vă puteți pune o imagine de fundal custom încărcând poza dorită pe Imgur s
 ![](https://i.imgur.com/SXwJoGx.png){.framed-photo}
 :::
 
-<!-- ### <span class="header-font">Aplicația "Parcări"</span>
+<!-- ### <span class="header-font">Aplicația "Parcări"
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să vedem toate parcările din oraș, să vedem cât costă chiria pe o zi la fiecare parcare și o comandă rapidă pentru a afla locația fiecărei parcări.</span>
+- Cu ajutorul acestei aplicații putem să vedem toate parcările din oraș, să vedem cât costă chiria pe o zi la fiecare parcare și o comandă rapidă pentru a afla locația fiecărei parcări.
 ![](https://i.imgur.com/nMd40tW.png)
 
 ##
 
-- <span style="color:white">La finalul paginii, în cazul în care avem o [casă](/proprietati/case) putem să vedem ce mașini avem parcate în garajul casei.</span>
+- La finalul paginii, în cazul în care avem o [casă](/proprietati/case) putem să vedem ce mașini avem parcate în garajul casei.
 ![](https://i.imgur.com/huDCggs.png)
 :::
 
@@ -128,7 +128,7 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 ### <span class="header-font">Aplicația "Asigurare Medicală"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să cumpărăm o [asigurare medicală](/general/asigurare) dacă nu avem una, sau dacă deja deținem una putem să vedem data și ora de expirare a acestia. Mai multe detalii despre cum funcționează aceasta [aici](/general/asigurare).</span>
+- Cu ajutorul acestei aplicații putem să cumpărăm o [asigurare medicală](/general/asigurare) dacă nu avem una, sau dacă deja deținem una putem să vedem data și ora de expirare a acestia. Mai multe detalii despre cum funcționează aceasta [aici](/general/asigurare).
 
 ![](https://i.imgur.com/BHvCSJm.png){.framed-photo}
 
@@ -138,7 +138,7 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 ### <span class="header-font">Aplicația "Licitații"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să vedem toate licitațiile disponibile în oraș, fiecare având în partea stângă un logo specific cu ce anume se vinde, mai putem să vedem cât timp mai este până la expirarea licitației și o comandă rapidă pentru a deschide meniul licitației, care, totodată pune și un punct pe GPS către proprietate.</span>
+- Cu ajutorul acestei aplicații putem să vedem toate licitațiile disponibile în oraș, fiecare având în partea stângă un logo specific cu ce anume se vinde, mai putem să vedem cât timp mai este până la expirarea licitației și o comandă rapidă pentru a deschide meniul licitației, care, totodată pune și un punct pe GPS către proprietate.
 
 ![](https://i.imgur.com/ARp2M5N.gif){.framed-gif}
 :::
@@ -146,7 +146,7 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 ### <span class="header-font">Aplicația "eJobs"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să vedem toate job-urile disponibile în oraș. Selectând un job din listă putem vedea o scurtă descriere despre acesta, o funcție care ne plasează pe GPS o rută către acest job și o funcție de tip "Leaderboard" prin care putem vedea cine a practicat cel mai mult acest job săptămâna respectivă.</span>
+- Cu ajutorul acestei aplicații putem să vedem toate job-urile disponibile în oraș. Selectând un job din listă putem vedea o scurtă descriere despre acesta, o funcție care ne plasează pe GPS o rută către acest job și o funcție de tip "Leaderboard" prin care putem vedea cine a practicat cel mai mult acest job săptămâna respectivă.
 
 ![](https://i.imgur.com/ciAfq0f.png){.framed-photo}
 :::
@@ -157,7 +157,7 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 ### <span class="header-font">Aplicația "Benzinării"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să vedem toate benzinăriile din oraș, să vedem cât costă un litru de benzină la fiecare benzinărie și o comandă rapidă pentru a afla locația fiecărei benzinării.</span>
+- Cu ajutorul acestei aplicații putem să vedem toate benzinăriile din oraș, să vedem cât costă un litru de benzină la fiecare benzinărie și o comandă rapidă pentru a afla locația fiecărei benzinării.
 
 ![](https://i.imgur.com/YSgJU2T.png){.framed-photo}
 :::
@@ -165,7 +165,7 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 ### <span class="header-font">Aplicația "OLX"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să creem un anunț pentru a vinde un produs/serviciu, să vedem toate anunțurile disponibile în funcție de categorie și să vedem anunțurile postate de noi.</span>
+- Cu ajutorul acestei aplicații putem să creem un anunț pentru a vinde un produs/serviciu, să vedem toate anunțurile disponibile în funcție de categorie și să vedem anunțurile postate de noi.
 
 ![](https://i.imgur.com/AcUrYhN.png){.framed-photo}
 
@@ -180,54 +180,54 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 
 ### <span class="header-font">Aplicația "Achievements"</span>
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicație putem vedea toate achievement-urile și daily quest-urile disponibile. Mai multe detalii despre achivement-uri le puteți găsi la secțiunea ["Achievements"](/economie/achievements).</span>
+- Cu ajutorul acestei aplicație putem vedea toate achievement-urile și daily quest-urile disponibile. Mai multe detalii despre achivement-uri le puteți găsi la secțiunea ["Achievements"](/economie/achievements).
 :::
 
 ### <span class="header-font">Aplicația "Investiții"</span>
 :::info
-- <span style="color:white">Cu ajutorul acestei apicații putem realiza o investiție short-term sau long-term. Mai multe detalii despre investiții le puteți găsi la secțiunea ["Investiții"](/economie/investitii).</span>
+- Cu ajutorul acestei apicații putem realiza o investiție short-term sau long-term. Mai multe detalii despre investiții le puteți găsi la secțiunea ["Investiții"](/economie/investitii).
 :::
 
 ### <span class="header-font">Aplicația "YT Music"</span>
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să ne conectăm la o boxă, pe care o putem cumpăra de la orice magazin care are în stoc acest produs, pentru a asculta muzică sau a vizualiza un videoclip.</span>
+- Cu ajutorul acestei aplicații putem să ne conectăm la o boxă, pe care o putem cumpăra de la orice magazin care are în stoc acest produs, pentru a asculta muzică sau a vizualiza un videoclip.
 :::
 
 ### <span class="header-font">Aplicația "Daily Pics"</span>
 :::info
-<span style="color:white">Cu ajutorul acestei aplicații putem îndeplini un task zilnic (interval orar 00-00) ce presupune următorii pași pentru a primi o recompensă:</span>
-- <span style="color:white">Deschideți aplicația și vizualizați imaginea</span>
+Cu ajutorul acestei aplicații putem îndeplini un task zilnic (interval orar 00-00) ce presupune următorii pași pentru a primi o recompensă:
+- Deschideți aplicația și vizualizați imaginea
 
 ![](https://i.imgur.com/56FecUQ.png){.framed-photo}
-- <span style="color:white">După ce vizualizați imaginea, căutați locația din imagine</span>
-- <span style="color:white">Odată ajunși la locație, apăsați pe butonul "Check In" din aplicație pentru a primi recompensa</span>
+- După ce vizualizați imaginea, căutați locația din imagine
+- Odată ajunși la locație, apăsați pe butonul "Check In" din aplicație pentru a primi recompensa
 
 ![](https://i.imgur.com/Aejo9Dz.png){.framed-photo}
 
-- <span style="color:white">In functie de cate zile consecutive aveti in streak veti primii din ce in ce mai multi fire coins / bani. In zilele prime din streak veti primii fire coins.</span>
+- In functie de cate zile consecutive aveti in streak veti primii din ce in ce mai multi fire coins / bani. In zilele prime din streak veti primii fire coins.
 :::
 
 ### <span class="header-font">Aplicația "Fury Bet"</span>
 
 :::info
-- <span style="color:white">Cu ajutorul acestei aplicații putem să pariem pe diferite meciuri de fotbal din ziua respectivă.</span>
+- Cu ajutorul acestei aplicații putem să pariem pe diferite meciuri de fotbal din ziua respectivă.
 :::
 :::warning Exemplu: meciurile din 17/09/2023
 ![](https://i.imgur.com/VpJF3hj.png){.framed-photo}
 :::
 
 :::info
-- <span style="color:white">Pentru a plasa un pariu trebuie să selectați un meci, să selectați 1 / X / 2. 1 Reprezintă că echipa gazdă va câștiga, X înseamnă că o să fie scor egal, iar 2 înseamnă că va câștiga echipa în deplasare.</span> 
+- Pentru a plasa un pariu trebuie să selectați un meci, să selectați 1 / X / 2. 1 Reprezintă că echipa gazdă va câștiga, X înseamnă că o să fie scor egal, iar 2 înseamnă că va câștiga echipa în deplasare. 
 
-- <span style="color:white">În funcție de ce vreți să selectați dintre 1 / X / 2, vor apărea niște valori. Acele valori reprezintă cotele. </span>
-# <span style="color:red">Ce reprezintă cota?</span>
-- <span style="color:white">Cota reprezintă numărul cu care suma pariată se va înmulți, iar în cazul în care pariul este câștigător, veți primi suma pariată înmulțită cu cota respectivă.</span>
+- În funcție de ce vreți să selectați dintre 1 / X / 2, vor apărea niște valori. Acele valori reprezintă cotele. 
+# <span style="color:red">Ce reprezintă cota?
+- Cota reprezintă numărul cu care suma pariată se va înmulți, iar în cazul în care pariul este câștigător, veți primi suma pariată înmulțită cu cota respectivă.
 
 :::warning ex: meciul dintre Viitorul Constanța și FCSB are cotele 2.59 pentru 1, 2.99 pentru X și 2.06 pentru 2. Dacă voi paria $50.000 că va câștiga FCSB (cota 2.06), și FCSB va câștiga, voi primi $103.000.*
 ![](https://i.imgur.com/QAiLBsr.png){.framed-photo}
 :::
 :::info
-- <span style="color:white">După ce ați selectat un meci și ați ales pariul, trebuie să introduceți suma pe care doriți să o pariați și să apăsați pe butonul "Pariază".</span>
+- După ce ați selectat un meci și ați ales pariul, trebuie să introduceți suma pe care doriți să o pariați și să apăsați pe butonul "Pariază".
 :::
 :::danger Notă!
 - Puteți paria pe toate meciurile disponibile, dar dacă nu ghiciți toate pariurile, veți pierde suma pariată.
@@ -240,10 +240,10 @@ Putem vedea și în ce parcări avem mașinile lăsate și când expiră chiria 
 ### <span class="header-font">Aplicația "Business Activity"</span>
 
 :::info
-- <span style="color:white">Acest sistem vă creează posibilitatea de a interacâiona direct cu patronii firmelor de pe server.</span>
-- <span style="color:white">Va oferă șansa de a vă putea angaja mai rapid la firmele de mecannici/taxi.</span>
-- <span style="color:white">Va arată necesarul de combustibil al benzinariilor și locația lor și facilitează alimentarea lor mai rapidă.</span>
-- <span style="color:white">Magazinele, locația lor și necesarul de produse de care magazinul are nevoie.</span>
+- Acest sistem vă creează posibilitatea de a interacâiona direct cu patronii firmelor de pe server.
+- Va oferă șansa de a vă putea angaja mai rapid la firmele de mecannici/taxi.
+- Va arată necesarul de combustibil al benzinariilor și locația lor și facilitează alimentarea lor mai rapidă.
+- Magazinele, locația lor și necesarul de produse de care magazinul are nevoie.
 :::
 
 ![](https://cdn.discordapp.com/attachments/1020115777917042718/1192427319911010304/image.png?ex=65a9097b&is=6596947b&hm=f4dd4a06a2b702dfdab48eb80fdfa5e43de16f130a0462883ae226b8fc47a5c4&){.framed-photo}

@@ -19,7 +19,7 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 ## <span class="header-font">Echipa Administrativă</span>
 
 :::info
-- **<span style="color:white">Echipa noastră administrativă este alcătuită din oameni bine pregătiți pentru orice întrebare sau problemă puteți să aveți.</span>**
+- **Echipa noastră administrativă este alcătuită din oameni bine pregătiți pentru orice întrebare sau problemă puteți să aveți.**
 :::
 
 ### Cu ce se ocupă fiecare membru al echipei administrative?

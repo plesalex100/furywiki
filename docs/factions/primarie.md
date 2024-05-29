@@ -21,12 +21,12 @@ title: Primăria
 ## <span class="header-font">În ce scop putem contacta primăria?</span>
 
 :::info
-<span style="color:white">Puteți contacta primăria în următoarele situații:</span>
+Puteți contacta primăria în următoarele situații:
 
-- <span style="color:white">dacă aveți reclamații legate de angajații primăriei</span>
-- <span style="color:white">dacă aveți reclamații la nivel de infrastructură a orașului</span>
-- <span style="color:white">dacă vreți să organizați un eveniment și aveți nevoie de aprobare</span>
-- <span style="color:white">dacă sunteți interesați să oferiți servicii în colaborare cu primăria</span>
+- dacă aveți reclamații legate de angajații primăriei
+- dacă aveți reclamații la nivel de infrastructură a orașului
+- dacă vreți să organizați un eveniment și aveți nevoie de aprobare
+- dacă sunteți interesați să oferiți servicii în colaborare cu primăria
 :::
 
 ## <span class="header-font">Consilieri</span>
@@ -38,7 +38,7 @@ title: Primăria
 ## Judecători și avocați
 
 :::info
-- <span style="color:white">Judecătorii sunt persoanele care se ocupă cu judecarea cazurilor penale și civile. Aceștia pot fi contactați în cazul în care aveți nevoie de aprobare pentru a deschide un proces.</span>
+- Judecătorii sunt persoanele care se ocupă cu judecarea cazurilor penale și civile. Aceștia pot fi contactați în cazul în care aveți nevoie de aprobare pentru a deschide un proces.
 
-- <span style="color:white">Avocații sunt persoanele care se ocupă cu apărarea acuzatului în cazul unui proces. Aceștia pot fi contactați în cazul în care aveți nevoie de un avocat pentru a vă apăra într-un proces.</span>
+- Avocații sunt persoanele care se ocupă cu apărarea acuzatului în cazul unui proces. Aceștia pot fi contactați în cazul în care aveți nevoie de un avocat pentru a vă apăra într-un proces.
 :::

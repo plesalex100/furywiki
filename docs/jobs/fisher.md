@@ -11,9 +11,9 @@ title: Pescar
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- <span style="color:white">Nu este necesară experiență.</span>
-- <span style="color:white">Momeală mică - vierme (7$ / buc).</span>
-- <span style="color:white">Deținerea unei [licențe](/general/licente) de pescar pentru a putea lucra legal.</span>
+- Nu este necesară experiență.
+- Momeală mică - vierme (7$ / buc).
+- Deținerea unei [licențe](/general/licente) de pescar pentru a putea lucra legal.
 :::tip
 Puteți lucra și fără licență, dar la o razie din partea poliției veți fi sancționați.
 :::
@@ -21,11 +21,11 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info
-<span style="color:white">Acest job constă în prinderea peștilor și vânzarea acestora la o locație specială.</span>
+Acest job constă în prinderea peștilor și vânzarea acestora la o locație specială.
 
-- <span style="color:white">Înainte de a începe jobul propriu-zis aveți nevoie de momeală aceasta se poate lua de la o locație specială care este Magazinul Pescar, locație pe care o aflați de la NPC-ul jobului.</span>
+- Înainte de a începe jobul propriu-zis aveți nevoie de momeală aceasta se poate lua de la o locație specială care este Magazinul Pescar, locație pe care o aflați de la NPC-ul jobului.
 
-- <span style="color:white">Începi prin a merge la [locația jobului](locatii) și a interacționa cu NPC-ul ce se află pe malul lacului pentru a începe pescuitul.</span>
+- Începi prin a merge la [locația jobului](locatii) și a interacționa cu NPC-ul ce se află pe malul lacului pentru a începe pescuitul.
 :::details NPC
 ![](https://i.imgur.com/D5Cd4Je.png){.framed-photo}
 :::
@@ -37,13 +37,13 @@ Puteți lucra și fără licență, dar la o razie din partea poliției veți fi
 :::
 
 :::info
-- <span style="color:white">Odată ce ați început pescuitul, mergeți pe malul lacului și începeți să prindeți pește.</span>
+- Odată ce ați început pescuitul, mergeți pe malul lacului și începeți să prindeți pește.
 ![](https://i.imgur.com/Q0ciWkB.gif){.framed-gif}
 
-- <span style="color:white">După ce ați început să pescuiți la un moment dat undița voastră se va mișca și veți fi nevoiți să nimeriți apasând tasta <KeyIcon keyType="space"/> în locul indicat pentru a prinde peștele. Mai jos aveți un exemplu pentru acest mini-game:</span>
+- După ce ați început să pescuiți la un moment dat undița voastră se va mișca și veți fi nevoiți să nimeriți apasând tasta <KeyIcon keyType="space"/> în locul indicat pentru a prinde peștele. Mai jos aveți un exemplu pentru acest mini-game:
 ![](https://i.imgur.com/NKfwaF0.gif){.framed-gif}
 
-- <span style="color:white">După ce ați prins cantitatea de pește pe care o doriți, puteți să vă duceți să vindeți peștele la secțiunea specială din magazinul pescarului, în aceeași locație de unde vă puteți cumpăra și momeală.</span>
+- După ce ați prins cantitatea de pește pe care o doriți, puteți să vă duceți să vindeți peștele la secțiunea specială din magazinul pescarului, în aceeași locație de unde vă puteți cumpăra și momeală.
 
 :::tip SFAT!
 - Peștele de lac poate fi folosit ca momeală pentru ->[pescarul oceanic](/jobs/fisherv2)<-

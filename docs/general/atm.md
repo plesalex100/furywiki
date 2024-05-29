@@ -16,9 +16,9 @@ title: Bancomate
 ## <span class="header-font">Ce funcționalități are bancomatul?</span>
 
 :::info
-<span style="color:white">Bancomatul are 2 moduri în funcție de ce vreți să accesați:</span>
-- <span style="color:white">Client -> pentru contul personal</span>
-- <span style="color:white">Business -> pentru contul afacerii</span>
+Bancomatul are 2 moduri în funcție de ce vreți să accesați:
+- Client -> pentru contul personal
+- Business -> pentru contul afacerii
 ![](https://i.imgur.com/lHxqyiP.gif){.framed-gif}
 :::
 

@@ -16,7 +16,7 @@ title: Sala de forță
 
 ## <span class="header-font">Cum îmi crește forța?</span>
 
-- <span style="color:white">Pentru început, pentru a începe să lucrezi la sală va trebui să te schimbi în hainele de sală. Acestea pot fi luate de la NPC-ul aflat pe bancă de la intrarea în sală prin apăsarea tastei <KeyIcon keyType="e"/>.</span>
+- Pentru început, pentru a începe să lucrezi la sală va trebui să te schimbi în hainele de sală. Acestea pot fi luate de la NPC-ul aflat pe bancă de la intrarea în sală prin apăsarea tastei <KeyIcon keyType="e"/>.
 :::details Schimbarea în haine de sală
 ![haineSalaa](https://i.imgur.com/wPP4Vbp.gif){.framed-gif}
 :::

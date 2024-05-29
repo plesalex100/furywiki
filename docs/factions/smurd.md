@@ -8,9 +8,9 @@ title: Smurd
 
 ## <span class="header-font">Cu ce ne ocupăm?</span>
 :::info
-- <span style="color:white">Departamentul Medical al orașului se ocupă cu îngrijirea și salvarea vieților cetățenilor din Los Santos.</span>
+- Departamentul Medical al orașului se ocupă cu îngrijirea și salvarea vieților cetățenilor din Los Santos.
 
-- <span style="color:white">În caz că vă simțiți rău / din orice alt motiv aveți nevoie de un medic puteți face apel folosind [telefonul](/general/telefon.html).</span>
+- În caz că vă simțiți rău / din orice alt motiv aveți nevoie de un medic puteți face apel folosind [telefonul](/general/telefon.html).
 :::
 :::tip Apelare medic responsabil de cazul dvs
 - Dacă doriți să apelați medicul care v-a preluat cazul, folosiți butonul predestinat pe pagina de formare a unui număr.
@@ -44,6 +44,6 @@ title: Smurd
 
 ## <span class="header-font">MDT -> Baza de Date</span>
 :::info
-- <span style="color:white">MDT-ul este o bază de date unde se pot găsi informații toți cetățenii orașului precum și informații despre antecedentele medicale ale acestora.</span>
-- <span style="color:white">Această unealtă este folosită pentru a verifica istoricul medical al pacienților, a verifica dacă datele acestora sunt corecte și pentru a ajuta medicul să își facă treaba mai eficient și mai ușor.</span>
+- MDT-ul este o bază de date unde se pot găsi informații toți cetățenii orașului precum și informații despre antecedentele medicale ale acestora.
+- Această unealtă este folosită pentru a verifica istoricul medical al pacienților, a verifica dacă datele acestora sunt corecte și pentru a ajuta medicul să își facă treaba mai eficient și mai ușor.
 :::

@@ -13,12 +13,12 @@ title: ANAF
 ## <span class="header-font">Cu ce ne ocupăm?</span>
 
 :::info
-<span style="color:white">ANAF-ul (Agenția Națională de Administrare Fiscală) este o instituție responsabilă de administrarea și supravegherea sistemului fiscal al orașului Fury. ANAF are mai multe atribuții și responsabilități, printre care se numără:</span>
+ANAF-ul (Agenția Națională de Administrare Fiscală) este o instituție responsabilă de administrarea și supravegherea sistemului fiscal al orașului Fury. ANAF are mai multe atribuții și responsabilități, printre care se numără:
 
-- <span style="color:white">supravegherea conformității fiscale</span>
-- <span style="color:white">inspectarea și controlul fiscal</span>
-- <span style="color:white">combaterea evaziunii fiscale</span>
-- <span style="color:white">furnizarea de asistență și informații fiscale</span>
+- supravegherea conformității fiscale
+- inspectarea și controlul fiscal
+- combaterea evaziunii fiscale
+- furnizarea de asistență și informații fiscale
 :::
 
 ## <span class="header-font">Structură</span>

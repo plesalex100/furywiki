@@ -11,7 +11,7 @@ title: Inventar
 ## <span class="header-font">Cum accesez inventarul ?</span>
 
 :::info Keybind
-- <span style="color:white">Inventarul poate fi deschis sau închis apăsând tasta <KeyIcon keyType="i"/> , respectiv tot tasta <KeyIcon keyType="i"/> sau <KeyIcon keyType="esc"/> / <KeyIcon keyType="backspace"/>.</span>
+- Inventarul poate fi deschis sau închis apăsând tasta <KeyIcon keyType="i"/> , respectiv tot tasta <KeyIcon keyType="i"/> sau <KeyIcon keyType="esc"/> / <KeyIcon keyType="backspace"/>.
 :::
 :::details Apasă pentru a vedea interfața inventarului
 - Cam așa ar arăta interfața inventarului:
@@ -57,7 +57,7 @@ title: Inventar
 
 ## <span class="header-font">Forma fizică</span>
 :::info
-- <span style="color:white">Forma fizică se împarte pe 7 levele și cu cât procentul de progress crește, aspectul fizic și mușchii caracterului se vor defini, dar și mai important, numărul de slot-uri și kg de iteme în urma purtării [genții](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) va crește.</span>
+- Forma fizică se împarte pe 7 levele și cu cât procentul de progress crește, aspectul fizic și mușchii caracterului se vor defini, dar și mai important, numărul de slot-uri și kg de iteme în urma purtării [genții](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) va crește.
 :::
 
 ![pozaInventarForma](https://i.imgur.com/ZeqEQqA.png){.framed-photo}
@@ -68,7 +68,7 @@ title: Inventar
 ## <span class="header-font">Cum folosesc itemele din inventar?</span>
 
 :::info
-- <span style="color:white">Utilizarea itemelor din inventar se folosesc făcând un drag and drop pe butonul de <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Folosește</span> de la baza inventarului.</span>
+- Utilizarea itemelor din inventar se folosesc făcând un drag and drop pe butonul de <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Folosește</span> de la baza inventarului.
 :::
 :::details Exemplu utilizare item
 ![gifInventarUse](https://i.imgur.com/dfjtIXh.gif){.framed-gif}
@@ -77,7 +77,7 @@ title: Inventar
 ## <span class="header-font">Cum accesez cele 6 quick slot-uri?</span>
 
 :::info
-- <span style="color:white">Pentru a accesa itemele poziționate pe unul din cele 6 quick slot-uri, trebuie pur și simplu să apăsați pe tastele <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">1 -> 6</span>, și ca să vedeți ce iteme aveți pe fiecare slot apăsați tasta <KeyIcon keyType="tab"/>.</span>
+- Pentru a accesa itemele poziționate pe unul din cele 6 quick slot-uri, trebuie pur și simplu să apăsați pe tastele <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">1 -> 6</span>, și ca să vedeți ce iteme aveți pe fiecare slot apăsați tasta <KeyIcon keyType="tab"/>.
 :::
 :::details Exemplu utilizare quick slot
 ![gifInventarSlots](https://i.imgur.com/Tpb5fzy.gif){.framed-gif}
@@ -86,7 +86,7 @@ title: Inventar
 ## <span class="header-font">Numărul de kg de iteme care pot fi cărate</span>
 
 :::info
-- <span style="color:white">Indiferent de forma fizică, numărul de kg de iteme care pot fi cărate fără a folosi o [geantă](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) este de **10kg**.</span>
+- Indiferent de forma fizică, numărul de kg de iteme care pot fi cărate fără a folosi o [geantă](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) este de **10kg**.
 
 ![pozaInventarKg](https://i.imgur.com/FBTN8iR.png){.framed-photo}
 :::
@@ -94,11 +94,11 @@ title: Inventar
 ## <span class="header-font">Utilizarea genților pentru a mări numărul de slot-uri</span>
 
 :::info
-- <span style="color:white"> Gențile pot fi achiziționate de la orice [magazin](/proprietati/magazine) (în limita stocului disponibil) și ajută la creșterea numărului de slot-uri ale inventarului, dar și al numărului de kg de iteme care pot fi cărate. </span>
+-  Gențile pot fi achiziționate de la orice [magazin](/proprietati/magazine) (în limita stocului disponibil) și ajută la creșterea numărului de slot-uri ale inventarului, dar și al numărului de kg de iteme care pot fi cărate.
 
-- <span style="color:white">De reținut este că numărul de sloturi și kg pe care o geantă le adaugă variază în funcție de forma [fizică](#forma-fizica).</span>
+- De reținut este că numărul de sloturi și kg pe care o geantă le adaugă variază în funcție de forma [fizică](#forma-fizica).</span>
 
-<span style="color:white">Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **20kg**, iar cu *100%* este de **80kg**.</span>
+Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **20kg**, iar cu *100%* este de **80kg**.
 :::
 
 :::details Extindere inventar FORMA FIZICĂ 0
@@ -118,7 +118,7 @@ title: Inventar
 ## <span class="header-font">Crafting</span>
 
 :::info
-- <span style="color:white">De asemenea, puteți folosi butonul de lângă cel de dezechipare geantă pentru a crafta diferite obiecte cum ar fi bandaje, pentru a monta undițe cu diferite monturi, etc</span>
+- De asemenea, puteți folosi butonul de lângă cel de dezechipare geantă pentru a crafta diferite obiecte cum ar fi bandaje, pentru a monta undițe cu diferite monturi, etc
 
 ![](https://i.imgur.com/Pn6EhWx.png){.framed-photo}
 :::
@@ -142,7 +142,7 @@ Există 2 shortcut-uri care pot fi folosite:
 ## <span class="header-font">Accesarea portbagajului</span>
 
 :::info
-- <span style="color:white">Accesarea portbagajului se face prin poziționarea caracterului în fața portbagajului și apăsarea tastei <KeyIcon keyType="i"/> pentru a-l putea utiliza.</span>
-- <span style="color:white">Este recomandată folosirea shortcut-ului <span style="color:red">[shift + click](#shift-click)</span></span>
+- Accesarea portbagajului se face prin poziționarea caracterului în fața portbagajului și apăsarea tastei <KeyIcon keyType="i"/> pentru a-l putea utiliza.
+- Este recomandată folosirea shortcut-ului <span style="color:red">[shift + click](#shift-click)</span>
 ![gifPortbagaj](https://i.imgur.com/gjhDkxg.gif){.framed-gif}
 :::

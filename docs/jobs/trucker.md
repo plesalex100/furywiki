@@ -11,10 +11,10 @@ title: Tirist
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- <span style="color:white">Experiență de minim 50 ore.</span>
-- <span style="color:white">Deținerea unui [permis de conducere](/general/scoala) valabil.</span>
-- <span style="color:white">Deținerea unui TIR personal (poate fi achiziționat de la Dealership).</span>
-- <span style="color:white">Deținerea unei [licențe](/general/licente) de tirist pentru a putea lucra legal.</span>
+- Experiență de minim 50 ore.
+- Deținerea unui [permis de conducere](/general/scoala) valabil.
+- Deținerea unui TIR personal (poate fi achiziționat de la Dealership).
+- Deținerea unei [licențe](/general/licente) de tirist pentru a putea lucra legal.
 :::tip
 Puteți lucra și fără licență, dar la un traffic stop din partea poliției puteți fi sancționați.
 :::
@@ -22,25 +22,25 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 ## <span class="header-font">Skills</span>
 
 :::info
-- <span style="color:white">Skill 1 -> 1% boost la plată</span>
-- <span style="color:white">Skill 2 -> 1.03% boost la plată</span>
-- <span style="color:white">Skill 3 -> 1.06% boost la plată</span>
-- <span style="color:white">Skill 4 -> 1.12% boost la plată</span>
+- Skill 1 -> 1% boost la plată
+- Skill 2 -> 1.03% boost la plată
+- Skill 3 -> 1.06% boost la plată
+- Skill 4 -> 1.12% boost la plată
 :::
 
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info
-<span style="color:white">Acest job constă în transportarea remorcilor cu marfă de la un punct la altul.</span>
+Acest job constă în transportarea remorcilor cu marfă de la un punct la altul.
 
-- <span style="color:white">Începi prin a merge la un garaj industrial (marcat cu un blips la fel ca și cel de la garajul normal, dar galben) și scoateți tirul.</span>
+- Începi prin a merge la un garaj industrial (marcat cu un blips la fel ca și cel de la garajul normal, dar galben) și scoateți tirul.
 :::
 :::details Garaj industrial
 ![](https://i.imgur.com/ZC1aSuC.png){.framed-photo}
 :::
 
 :::info
-- <span style="color:white">Prin apăsarea tastei <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">J</span> deschideți meniul de job și selectați "Tirist".</span>
+- Prin apăsarea tastei <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">J</span> deschideți meniul de job și selectați "Tirist".
 :::
 
 :::details Meniu job
@@ -48,7 +48,7 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::info
-- <span style="color:white">Odată ce ați selectat "Tirist", pe hartă vă vor apărea mai multe checkpoint-uri galbene, mergeți la cel mai apropiat și selectați cursa dorită.</span>
+- Odată ce ați selectat "Tirist", pe hartă vă vor apărea mai multe checkpoint-uri galbene, mergeți la cel mai apropiat și selectați cursa dorită.
 :::
 
 :::details Selectare cursă
@@ -57,8 +57,8 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 :::
 
 :::info
-- <span style="color:white">După ce ați selectat cursa, atașați remorca de TIR și mergeți la locația marcată cu un checkpoint galben. Odată ajunși acolo, trebuie să parcați TIR-ul în zona marcată și să detașați remorca. De obicei, de la finalul fiecărei curse puteți lua o nouă cursă, fiecare locație având un punct de preluare a cursei.</span>
-- <span style="color:white">Plata se face după fiecare cursă finalizată.</span>
+- După ce ați selectat cursa, atașați remorca de TIR și mergeți la locația marcată cu un checkpoint galben. Odată ajunși acolo, trebuie să parcați TIR-ul în zona marcată și să detașați remorca. De obicei, de la finalul fiecărei curse puteți lua o nouă cursă, fiecare locație având un punct de preluare a cursei.
+- Plata se face după fiecare cursă finalizată.
 :::
 
 :::details Cursă

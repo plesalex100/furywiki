@@ -12,10 +12,10 @@ title: Case
 ## <span class="header-font">Cum pot achiziționa o casă?</span>
 
 :::info
-<span style="color:white">Metodele prin care casele pot fi achiziționate sunt:</span>
+Metodele prin care casele pot fi achiziționate sunt:
 
-- <span style="color:white">Prin intermediul [licitațiilor](auction) organizate de către primărie/alți deținători de case</span>
-- <span style="color:white">De la alți jucători</span>
+- Prin intermediul [licitațiilor](auction) organizate de către primărie/alți deținători de case
+- De la alți jucători
 :::
 
 ## <span class="header-font">Câte tipuri de case există?</span>
@@ -72,13 +72,13 @@ Există 4 tipuri de case:
 ## <span class="header-font">Cum pot vedea unde e casa mea personală/casa unde am chirie/casa de la care am o copie a cheii?</span>
 
 :::info
-- <span style="color:white">Pentru a vedea unde se află casa ta personală aveți pe hartă următorul blips:</span>
+- Pentru a vedea unde se află casa ta personală aveți pe hartă următorul blips:
 ![](https://i.imgur.com/x101KQM.png){.framed-photo}
 
-- <span style="color:white">Pentru a vedea unde se află casa unde ai chirie aveți pe hartă următorul blips:</span>
+- Pentru a vedea unde se află casa unde ai chirie aveți pe hartă următorul blips:
 ![](https://i.imgur.com/q490CkC.png){.framed-photo}
 
-- <span style="color:white">Pentru a vedea unde se află casa de la care aveți copie la cheie aveți pe hartă următorul blips:</span>
+- Pentru a vedea unde se află casa de la care aveți copie la cheie aveți pe hartă următorul blips:
 ![](https://i.imgur.com/W8BZwkZ.png){.framed-photo}
 :::
 
@@ -90,12 +90,12 @@ Există 4 tipuri de case:
 ## <span class="header-font">Cum se administrează o casă?</span>
 
 :::info
-- <span style="color:white">Pentru a deschide meniul de administrare al casei, trebuie să vă aflați în interiorul acesteia și să apăsați tasta <KeyIcon keyType="k"/> -> Meniu Casa.</span>
+- Pentru a deschide meniul de administrare al casei, trebuie să vă aflați în interiorul acesteia și să apăsați tasta <KeyIcon keyType="k"/> -> Meniu Casa.
 
 ![](https://i.imgur.com/IIg1K1P.png){.framed-photo}
 ![](https://i.imgur.com/WYDmIL4.png){.framed-photo}
 
-<span style="color:white">Meniul de administrare al casei are următoarele opțiuni:</span>
+Meniul de administrare al casei are următoarele opțiuni:
 :::
 
 ### <span class="header-font">Chei deținute</span>
@@ -129,9 +129,9 @@ Există 4 tipuri de case:
 ## <span class="header-font">Cum pot să-mi mobilez casa?</span>
 
 :::info
-- <span style="color:white">Pentru a mobila casa, deschideți meniul de administrare al casei și apăsați pe opțiunea [Mobilier](#mobilier).</span>
+- Pentru a mobila casa, deschideți meniul de administrare al casei și apăsați pe opțiunea [Mobilier](#mobilier).
 
-- <span style="color:white">De aici puteți alege ce mobilă doriți să cumpărați, fiecare tip de mobilier este plasat pe categorii și are preț diferit. După ce cumpărați un obiect, o să fiți puși în modul de editare a casei, unde puteți plasa obiectul cumpărat în orice loc doriți. Aveți pe ecran toate tastele care sunt folosite și funcționalitatea lor. Mai jos aveți un exemplu cu acest proces:</span>
+- De aici puteți alege ce mobilă doriți să cumpărați, fiecare tip de mobilier este plasat pe categorii și are preț diferit. După ce cumpărați un obiect, o să fiți puși în modul de editare a casei, unde puteți plasa obiectul cumpărat în orice loc doriți. Aveți pe ecran toate tastele care sunt folosite și funcționalitatea lor. Mai jos aveți un exemplu cu acest proces:
 
 ![](https://i.imgur.com/b3ccfmN.gif){.framed-gif}
 :::
@@ -143,7 +143,7 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 ## <span class="header-font">Cum pot invita oameni în casă și cum știu cine bate la usă?</span>
 
 :::info
-- <span style="color:white">Pentru a invita oameni în casă, aceștia trebuie să vină la casă și să bată la ușă. În când cineva bate la ușă, o să primiți o notificare pe telefon și puteți apăsa tasta <KeyIcon keyType="y"/> pentru a intra pe camera de la vizor și să vedeți cine bate la ușă. Puteți apăsa din nou tasta <KeyIcon keyType="y"/> pentru a deschide ușa (iar atunci cei care vor să intre apăsând tasta <KeyIcon keyType="e"/>) și <KeyIcon keyType="esc"/> pentru a ieși din camera de la vizor.</span>
+- Pentru a invita oameni în casă, aceștia trebuie să vină la casă și să bată la ușă. În când cineva bate la ușă, o să primiți o notificare pe telefon și puteți apăsa tasta <KeyIcon keyType="y"/> pentru a intra pe camera de la vizor și să vedeți cine bate la ușă. Puteți apăsa din nou tasta <KeyIcon keyType="y"/> pentru a deschide ușa (iar atunci cei care vor să intre apăsând tasta <KeyIcon keyType="e"/>) și <KeyIcon keyType="esc"/> pentru a ieși din camera de la vizor.
 
 ![](https://i.imgur.com/BqOHKxg.gif){.framed-gif}
 :::
@@ -151,7 +151,7 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 ## <span class="header-font">Cum pot să devin chiriaș într-o casă?</span> 
 
 :::info
-- <span style="color:white">Pentru a deveni chiriaș, trebuie să fiți invitați în casă de proprietar și să apăsați tasta <KeyIcon keyType="k"/> -> Meniu Casa și să selectați opțiunea "Cumpara Chirie" și să selectați numărul de zile de chirie. În dreapta o să aveți informații despre costul pe o zi de chirie, acesta fiind setat de proprietar.</span>
+- Pentru a deveni chiriaș, trebuie să fiți invitați în casă de proprietar și să apăsați tasta <KeyIcon keyType="k"/> -> Meniu Casa și să selectați opțiunea "Cumpara Chirie" și să selectați numărul de zile de chirie. În dreapta o să aveți informații despre costul pe o zi de chirie, acesta fiind setat de proprietar.
 :::
 
 :::warning Atentie!

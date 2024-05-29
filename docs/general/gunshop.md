@@ -11,8 +11,8 @@ title: "Gunshops"
 ## <span class="header-font">Ce pot cumpăra de la un magazin de arme?</span>
 
 :::info
-- <span style="color:white">De la magazinele de arme puteți cumpăra "arme" precum Topor, Rangă etc, care în mod normal ar trebui folosite ca și unelte, dar sunt considerate și arme albe. </span>
-- <span style="color:white">Folosirea acestor arme în alte scopuri în afara joburilor sau alte situații unde nu sunt puse viețile altor persoane în pericol pot atrage consecințe grave din punct de vedere legal.</span>
+- De la magazinele de arme puteți cumpăra "arme" precum Topor, Rangă etc, care în mod normal ar trebui folosite ca și unelte, dar sunt considerate și arme albe. 
+- Folosirea acestor arme în alte scopuri în afara joburilor sau alte situații unde nu sunt puse viețile altor persoane în pericol pot atrage consecințe grave din punct de vedere legal.
 
 :::tip 
 - Unele "arme" care se află în magazinul de arme sunt folosite la joburi.

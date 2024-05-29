@@ -33,11 +33,11 @@ title: Regulament General
 ### <span class="header-font">1.05 No Fear (NF) </span>
 - Reprezintă momentul în care un jucător **nu simulează frica** într-o situație Roleplay
 ::: info Exemple
-- <span style="color:white">Ex: Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.</span>
-- <span style="color:white">Ex: Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.</span>
-- <span style="color:white">Ex: Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.</span>
-- <span style="color:white">Ex: Se considera NF atunci cand observi ca se indreapta catre tine o masina si tu iei decizia sa o opresti iesind in fata ei</span>
-- <span style="color:white">Ex :Se considera NF atunci cand dupa un schimb de focuri sau atunci cand cineva a tras dupa tine , dar tu crezi ca s-a creat un Fail acolo, te intorci doar ca sa iei ID-uri sau sa ii " certi" ca de ce trag dupa tine etc.</span>
+- Ex: Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
+- Ex: Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
+- Ex: Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.
+- Ex: Se considera NF atunci cand observi ca se indreapta catre tine o masina si tu iei decizia sa o opresti iesind in fata ei
+- Ex :Se considera NF atunci cand dupa un schimb de focuri sau atunci cand cineva a tras dupa tine , dar tu crezi ca s-a creat un Fail acolo, te intorci doar ca sa iei ID-uri sau sa ii " certi" ca de ce trag dupa tine etc.
 :::
 
 ### <span class="header-font">1.06 COP-FEAR (CF)</span>
@@ -249,11 +249,11 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 :::
 
 :::danger FOARTE IMPORTANT
-- <span style="color:white">Jucatorii care vor fi prinși cu cod pentru prima dată vor fi sanctionați cu **Ban permanent cu drept de plată**, CK și interdicția de a intra în PD / Mafie pentru o perioadă de 60 de zile.</span>
-- <span style="color:white">Jucatorii care vor fi prinși pentru a doua oara cu cod vor fi sancționați cu **Ban permanent fără drept de plată**.</span>
+- Jucatorii care vor fi prinși cu cod pentru prima dată vor fi sanctionați cu **Ban permanent cu drept de plată**, CK și interdicția de a intra în PD / Mafie pentru o perioadă de 60 de zile.
+- Jucatorii care vor fi prinși pentru a doua oara cu cod vor fi sancționați cu **Ban permanent fără drept de plată**.
 
 <span style="color:orange">Toate persoanele care participa la actiuni de tip DM, mai ales cei ce apartin factiunilor ilegale sau LSPD sunt obligati sa filmeze toate actiunile, in cazul in care un jucator este suspectat de a folosi cheats, acesta trebuie sa prezinte filmare. Lipsa unei filmari in acest caz atrage sanctiunea de ban.</span>
-- <span style="color:white">Exemple modalitati pentru inregistrare gameplay care nu consuma multe resurse:</span> <span style="color:red">Medal.tv, Outplayed.tv, Shadowplay, OBS live pe youtube.</span>
+- Exemple modalitati pentru inregistrare gameplay care nu consuma multe resurse: <span style="color:red">Medal.tv, Outplayed.tv, Shadowplay, OBS live pe youtube.</span>
 :::
 
 ### <span class="header-font">1.32 ID Checking</span>
@@ -338,8 +338,8 @@ locațiilor unde se desfășoară joburi legale și a garajelor.
 - RP-urile repetate in care umiliti alti jucatori/membri ai altor factiuni sunt interzise. (ban 14-30d)
 
 :::info Exemple
-- <span style="color:white">Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal,fara vreun context IC bine definit    </span>
-- <span style="color:white">Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti</span>
+- Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal,fara vreun context IC bine definit
+- Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti
 :::
 
 ### <span class="header-font">1.45 Posthunt</span>

@@ -27,10 +27,10 @@ title: Taraba la portbagaj
 ## <span class="header-font">Ce avantaje am dacă deschid acest tip de magazin?</span>
 
 :::info
-<span style="color:white">Avantajele acestui tip de magazin sunt:</span>
-- <span style="color:white">Vânzare rapidă a produselor</span>
-- <span style="color:white">Posibilitatea de a vinde produsele la prețul dorit</span>
-- <span style="color:white">Posibilitatea de a vinde produsele în orice locație</span>
-- <span style="color:white">Posibilitatea de a gestiona propriul stock de produse</span>
-- <span style="color:white">etc</span>
+Avantajele acestui tip de magazin sunt:
+- Vânzare rapidă a produselor
+- Posibilitatea de a vinde produsele la prețul dorit
+- Posibilitatea de a vinde produsele în orice locație
+- Posibilitatea de a gestiona propriul stock de produse
+- etc
 :::

@@ -10,9 +10,9 @@ title: Poliția Fury
 ## <span class="header-font">Cu ce ne ocupăm?</span>
 
 :::info
-- <span style="color:white">Poliția orașului Fury se ocupă cu menținerea ordinii și siguranței în oraș, prin aplicarea legilor și pedepsirea celor care le încalcă, dar și cu investigarea și rezolvarea cazurilor de crimă, furt, viol, etc.</span>
+- Poliția orașului Fury se ocupă cu menținerea ordinii și siguranței în oraș, prin aplicarea legilor și pedepsirea celor care le încalcă, dar și cu investigarea și rezolvarea cazurilor de crimă, furt, viol, etc.
 
-- <span style="color:white">În caz că vă simțiți în pericol / din orice alt motiv aveți nevoie de un echipaj de poliție puteți face apel folosind [telefonul](/general/telefon.html).</span>
+- În caz că vă simțiți în pericol / din orice alt motiv aveți nevoie de un echipaj de poliție puteți face apel folosind [telefonul](/general/telefon.html).
 :::
 
 :::tip Apelare Agent responsabil de speța dvs
@@ -109,8 +109,8 @@ title: Poliția Fury
 ## <span class="header-font">MDT -> Baza de date a poliției</span>
 
 :::info
-- <span style="color:white">MDT-ul este o bază de date a poliției, unde se pot găsi informații toți cetățenii orașului, precum și informații despre vehiculele acestora, cazierul, etc.</span>
-- <span style="color:white">Această unealtă este folosită pentru a verifica dacă un anumit vehicul este furat, dacă un anumit cetățean are cazier, dacă un anumit cetățean are permis de conducere și pentru a ajuta polițistul să își facă treaba mai eficient și mai ușor.</span>
+- MDT-ul este o bază de date a poliției, unde se pot găsi informații toți cetățenii orașului, precum și informații despre vehiculele acestora, cazierul, etc.
+- Această unealtă este folosită pentru a verifica dacă un anumit vehicul este furat, dacă un anumit cetățean are cazier, dacă un anumit cetățean are permis de conducere și pentru a ajuta polițistul să își facă treaba mai eficient și mai ușor.
 :::
 
 :::tip Tip!

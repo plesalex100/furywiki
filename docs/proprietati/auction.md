@@ -12,16 +12,16 @@ title: Licitatii
 ### <span class="header-font">Casă</span>
 
 :::info
-- <span style="color:white">Trebuie să vă aflați în interiorul casei. Accesați meniul casei și selectați opțiunea "Licitează casa", apoi alegeți prețul de pornire al licitației.</span>
-- <span style="color:white">După ce ați creat licitația, toți jucătorii vor primi o notificare pe telefon pentru [aplicația "Licitații"](/general/telefon.html#aplicatia-licitatii).</span>
+- Trebuie să vă aflați în interiorul casei. Accesați meniul casei și selectați opțiunea "Licitează casa", apoi alegeți prețul de pornire al licitației.
+- După ce ați creat licitația, toți jucătorii vor primi o notificare pe telefon pentru [aplicația "Licitații"](/general/telefon.html#aplicatia-licitatii).
 
 ![](https://i.imgur.com/VCBmZue.gif){.framed-gif}
 :::
 ### <span class="header-font">Benzinărie</span>
 
 :::info
-- <span style="color:white">Trebuie să vă apropiați de locul unde deschideți meniul de administrare al benzinăriei, și selectați opțiunea "Licitează benzinăria".</span>
-- <span style="color:white">Sistemul funcționează identic cu cel de la case.</span>
+- Trebuie să vă apropiați de locul unde deschideți meniul de administrare al benzinăriei, și selectați opțiunea "Licitează benzinăria".
+- Sistemul funcționează identic cu cel de la case.
 
 ![](https://i.imgur.com/R5aEYyd.png){.framed-photo}
 :::
@@ -33,9 +33,9 @@ title: Licitatii
 ## <span class="header-font">Cum pot sa particip la o licitație?</span>
 
 :::info
-- <span style="color:white">Puteți participa la o licitație cu ajutorul aplicației "Licitații" de pe [telefon](/general/telefon.html#aplicatia-licitatii).</span>
+- Puteți participa la o licitație cu ajutorul aplicației "Licitații" de pe [telefon](/general/telefon.html#aplicatia-licitatii).
 
-- <span style="color:white">După ce ați început să urmăriți licitația, puteți să plasați o ofertă, să încetați să urmăriți licitația sau să opriți cursor-ul cu ajutorul funcțiilor din meniul licitației.</span>
+- După ce ați început să urmăriți licitația, puteți să plasați o ofertă, să încetați să urmăriți licitația sau să opriți cursor-ul cu ajutorul funcțiilor din meniul licitației.
 
 ![](https://i.imgur.com/VUTfE0t.gif){.framed-gif}
 :::

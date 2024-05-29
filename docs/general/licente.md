@@ -12,9 +12,9 @@ title: Biroul de licențe
 ## <span class="header-font">Ce sunt licențele?</span>
 
 :::info
-- <span style="color:white">Licențele sunt documente care atestă faptul că dețineți cunoștințele necesare pentru a practica un anumit job.</span>
+- Licențele sunt documente care atestă faptul că dețineți cunoștințele necesare pentru a practica un anumit job.
 
-- <span style="color:white">Licențele sunt necesare pentru a putea practica legal anumite joburi.</span>
+- Licențele sunt necesare pentru a putea practica legal anumite joburi.
 :::
 
 ## <span class="header-font">Cum îmi cumpăr o licență?</span>

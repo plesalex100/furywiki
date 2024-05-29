@@ -12,7 +12,7 @@ title: Rockstar Editor
 ## <span class="header-font">Cum pot accesa Rockstar Editor?</span>
 
 :::info
-- <span style="color:white">Aveți la dispoziție următoarele [comenzi](/informatii/comenzi.html):</span>
+- Aveți la dispoziție următoarele [comenzi](/informatii/comenzi.html):
 
 ### <span style="color:red">/startrecording</span>
 - Această comandă vă permite să începeți înregistrarea de clipuri video.
