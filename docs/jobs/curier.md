@@ -27,9 +27,7 @@ title: Curier
 - <span style="color:white">Odată ce ați început tura, mergeți la depozitul din Paleto pentru a încărca coletele în dubă.</span>
 - <span style="color:white">Când ați ajuns la depozit, parcați mașina în dreptul ușii acestuia sau undeva ușor accesibil și începeți să încărcați coletele.</span>
 
-<Videos video-source="https://i.imgur.com/ATM3hV0.gif" />
-
-![parcare masina](https://i.imgur.com/ATM3hV0.gif)
+![parcare masina](https://i.imgur.com/ATM3hV0.gif){:class="framed-gif"}
 
 ![coleteIncarcate](https://i.imgur.com/LiSTo1H.gif)
 
