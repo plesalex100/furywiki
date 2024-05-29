@@ -148,7 +148,7 @@
 }
 
 /**
- * Style: Frame for gifs
+ * Style: Frame for gifs/photos
  * -------------------------------------------------------------------------- */
 
  .framed-gif {
@@ -156,6 +156,15 @@
   max-width: 100%;
   height: auto;
   border: 3px solid #ff994d;
+  border-radius: 15px;
+  box-shadow: 2px 5px 10px #000000;
+  margin: 20px auto;
+}
+
+.framed-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
   border-radius: 15px;
   box-shadow: 2px 5px 10px #000000;
   margin: 20px auto;

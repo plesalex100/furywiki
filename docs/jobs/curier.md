@@ -20,7 +20,7 @@ title: Curier
 
 - <span style="color:white">Începi prin a vorbi cu șeful de tură de la sediu pentru a primi uniforma, apoi poți începe tura.</span>
 :::details NPC
-![](https://i.imgur.com/Y70TgIY.png){.framed-gif}
+![](https://i.imgur.com/Y70TgIY.png){.framed-photo}
 :::
 
 :::info
