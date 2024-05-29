@@ -29,11 +29,11 @@ title: Curier
 
 ![parcare masina](https://i.imgur.com/ATM3hV0.gif){.framed-gif}
 
-![coleteIncarcate](https://i.imgur.com/LiSTo1H.gif)
+![coleteIncarcate](https://i.imgur.com/LiSTo1H.gif){.framed-gif}
 
 - <span style="color:white">După ce ați umplut duba, GPS-ul dvs va fi actualizat cu toate locațiile unde trebuiesc livrate coletele.</span>
 
-![livrareColete](https://i.imgur.com/aHJeaJR.gif)
+![livrareColete](https://i.imgur.com/aHJeaJR.gif){.framed-gif}
 
 - <span style="color:white">După ce ați livrat toate coletele, puteți relua procesul.</span>
 - <span style="color:white">Dacă nu mai vreți să lucrați, folosiți comanda /quitjob sau îndepărtați-vă de dubă.</span>
