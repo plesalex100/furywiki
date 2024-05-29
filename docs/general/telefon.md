@@ -11,7 +11,7 @@ title: Telefon
 
 - Puteți cumpăra un telefon de la orice [magazin](/proprietati/magazine) care are stoc de telefoane.
 
-## <span class="header-font">Cum deschid telefonul?
+## <span class="header-font">Cum deschid telefonul?</span>
 
 - Pentru a deschide telefonul, apăsați tasta ["L"](/informatii/comenzi#tasta-l).
 
