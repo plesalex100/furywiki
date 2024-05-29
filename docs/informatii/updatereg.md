@@ -12,7 +12,7 @@ title: Update-uri Regulament
 
 ## UPDATE 29/05/2024
 
-### Modificare: [1.16  Roleplay Scarbos & Injosirea jucatorilor]()
+### Modificare: [1.16  Roleplay Scarbos & Injosirea jucatorilor](/informatii/regulament.html#_1-16-roleplay-scarbos-injosirea-jucatorilor)
 
 - Reprezinta Roleplay-urile ce descriu actiuni de tip Erotic Roleplay, Tortura dar si altele.
 - Este interzis ca playerii sa se implice in actiuni de tip eRP sau Tortura fara acordul celorlalte persoane.
