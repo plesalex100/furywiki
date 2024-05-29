@@ -136,8 +136,8 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-custom-block-tip-border: darkgreen;
-  --vp-custom-block-tip-text: lightgreen;
+  --vp-custom-block-tip-border: lightgreen;
+  --vp-custom-block-tip-text: darkgreen;
   --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
 }
 
