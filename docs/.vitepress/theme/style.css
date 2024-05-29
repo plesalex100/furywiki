@@ -155,11 +155,10 @@
   display: block;
   max-width: 100%;
   height: auto;
-  border: 5px solid #ff994d;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 3px solid #ff994d;
+  border-radius: 15px;
+  box-shadow: 2px 5px 10px #000000;
   margin: 20px auto;
-  padding: 10px;
 }
 
 /**
