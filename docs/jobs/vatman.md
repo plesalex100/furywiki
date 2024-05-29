@@ -8,7 +8,9 @@ title: Vatman
 # <span class="header-font"><center>Informații despre jobul de vatman</center></span>
 
 ## <span class="header-font">Cerințe</span>
-- Experiență de minim 25 ore.
+:::info
+- <span style="color:white">Experiență de minim 25 ore.</span>
+:::
 
 ## <span class="header-font">Cum practic acest job?</span>
 

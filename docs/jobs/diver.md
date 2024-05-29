@@ -11,8 +11,8 @@ title: Scafandru
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 300 ore.
-- Cunoștințe bune în domeniul scufundărilor.
+- <span style="color:white">Experiență de minim 300 ore.</span>
+- <span style="color:white">Cunoștințe bune în domeniul scufundărilor.</span>
 :::
 
 ## <span class="header-font">Cum practic acest job?</span>

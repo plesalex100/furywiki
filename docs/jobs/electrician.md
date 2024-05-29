@@ -11,8 +11,8 @@ title: Electrician
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 75 ore.
-- Deținerea unei [licențe](/general/licente.html) de electrician pentru a putea lucra legal.
+- <span style="color:white">Experiență de minim 75 ore.</span>
+- <span style="color:white">Deținerea unei [licențe](/general/licente.html) de electrician pentru a putea lucra legal.</span>
 :::
 
 ## <span class="header-font">Cum practic acest job?</span>
