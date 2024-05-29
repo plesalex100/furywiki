@@ -19,6 +19,5 @@ export default defineComponent({
 img.key-image {
     height: 30px;
     display: inline-block;
-    transform: translateY(10px);
 }
 </style>
