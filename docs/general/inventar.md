@@ -96,7 +96,7 @@ title: Inventar
 :::info
 -  Gențile pot fi achiziționate de la orice [magazin](/proprietati/magazine) (în limita stocului disponibil) și ajută la creșterea numărului de slot-uri ale inventarului, dar și al numărului de kg de iteme care pot fi cărate.
 
-- De reținut este că numărul de sloturi și kg pe care o geantă le adaugă variază în funcție de forma [fizică](#forma-fizica).</span>
+- De reținut este că numărul de sloturi și kg pe care o geantă le adaugă variază în funcție de forma [fizică](#forma-fizica).
 
 Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **20kg**, iar cu *100%* este de **80kg**.
 :::
