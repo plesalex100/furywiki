@@ -2,6 +2,10 @@
 title: Curier
 ---
 
+<script setup> 
+    import Videos from '../.vitepress/components//Videos.vue'
+</script>
+
 # <center> <span class="title-font"> Informații despre jobul de curier </span> </center>
 
 ## <span class="header-font"> Cerințe </span>
@@ -23,10 +27,7 @@ title: Curier
 - <span style="color:white">Odată ce ați început tura, mergeți la depozitul din Paleto pentru a încărca coletele în dubă.</span>
 - <span style="color:white">Când ați ajuns la depozit, parcați mașina în dreptul ușii acestuia sau undeva ușor accesibil și începeți să încărcați coletele.</span>
 
-
-<iframe>
-![parcare masina](https://i.imgur.com/ATM3hV0.gif)
-</iframe>
+<Videos video-source="https://i.imgur.com/ATM3hV0.gif" />
 
 ![parcare masina](https://i.imgur.com/ATM3hV0.gif)
 
