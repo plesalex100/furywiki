@@ -19,7 +19,7 @@ title: Update-uri Regulament
 - Este strict interzis sa porniti Roleplay-uri care descriu: canibalism, necrofilie, pedofilie, profanare de morminte, injosirea persoanelor lesinate/in coma prin diferite actiuni.
 - Membrii Mafiilor si Organizatiilor se pot tortura intre ei fara a cere acordul.
 
-### [1.47 Necooperare cu membrii staff]()
+### [1.47 Necooperare cu membrii staff](/informatii/regulament.html#_1-47-necooperare-cu-membrii-staff)
 
 - Va este interzis sa cereti sa vina alt admin la ticket sau sa nu cooperati cu adminul de la ticket. In cazul in care vi se face o nedreptate puteti accesa categoria <span style="color:red">#make-a-ticket</span> de pe discord. 
 :::danger ATENTIE!
