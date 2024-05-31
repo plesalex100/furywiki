@@ -215,6 +215,23 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Nu se considera scam in cazul in care incercati sa vindeti bunuri ce pot fi vandute prin sistemele serverului (K-> vine vehicul/vinde casa) si fentati taxele aferente acestui sistem prin a vinde bunul pe o suma infima ca dupa sa asteptati un transfer sau bani cash din partea celuilalt player.
 - Cumpararea de VIP sau Fire Coins trebuie mereu onorata sub orice forma a tranzactiilor (bunuri/bani/bani murdari), daca nu se respecta va fi BAN 30d.
 - Schimburile si schimburile cu diferenta trebuiesc onorate: Ex: Vand masina x pe 5.000.000$ + masina y, celalat jucator este obligat sa imi dea si masina y pe 1$, se aplica si la case.
+:::tip Exemple
+- EX1:
+
+Playerul Ion vede un anunt: Vand Corvette C8, se duce la playerul Marcel care vinde C8-ul si ii spune
+I: Salut, nu am cash la mine, dar iti fac transfer
+M: Ok
+Marcel ii dai masina pe 1$ si Ion fuge de langa el.
+
+In cazul acesta Marcel ar fi trebuit sa astepte ca Ion sa mearga la bancomat sa scoata banii si sa vanda din K->Vehicul->Vinde masina si sa completeze suma pe care o doreste.
+Ce poate Marcel sa faca? TICKET? NU, dar poate merge la POLITIE sa dea o declaratie, sa reclame datele, sau cu un bodycam persoana, numerele de inmatriculare, tipul de masina etc.
+EXTRA. Daca Marcel este membru dintr-o factiune ilegala isi poate rezolva problemele si altfel.
+
+- EX:
+Marius are un Ferarri si doreste 4.5 milioane pe el, Gigel ii spune ca ii da 5 milioane bani murdari pe el.
+Desigur Gigel este tepar si cand primeste masina, fuge.
+Ce face Marius in cazul asta? Exact ce a facut Marcel in EX1. 
+:::
 
 ### <span class="header-font">1.27 Roleplay-uri **SPECIALE/ Cu acțiuni Teroriste**</span>
 ::: warning Atenție!

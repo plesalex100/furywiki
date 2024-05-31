@@ -39,7 +39,7 @@ export default defineConfig({
         text: 'Updates',
         items: [
           { text: 'Updates Server', link: '/informatii/updatesv' },
-          { text: 'Update Regulament', link: '/informatii/updatereg' }
+          { text: 'Updates Regulament', link: '/informatii/updatereg' }
         ]
       },
       { text: 'Zone', link: '/informatii/map' },
