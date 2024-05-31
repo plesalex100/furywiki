@@ -363,6 +363,12 @@ a locurilor foarte retrase)
 - Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit.
 :::
 
+### <span class="header-font">1.47 Necooperare cu membrii staff</span>
+- Va este interzis sa cereti sa vina alt admin la ticket sau sa nu cooperati cu adminul de la ticket. In cazul in care vi se face o nedreptate puteti accesa categoria <span style="color:red">#make-a-ticket</span> de pe discord. 
+:::danger ATENTIE!
+- Necooperarea cu membrii staff atrage sanctiuni de forma Ban.
+:::
+
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
 ### <span class="header-font">2.0 **Răpirea / Ostatici**</span>
