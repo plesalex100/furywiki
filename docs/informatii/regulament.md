@@ -228,6 +228,7 @@ Ce poate Marcel sa faca? TICKET? NU, dar poate merge la POLITIE sa dea o declara
 EXTRA. Daca Marcel este membru dintr-o factiune ilegala isi poate rezolva problemele si altfel.
 
 - EX:
+
 Marius are un Ferarri si doreste 4.5 milioane pe el, Gigel ii spune ca ii da 5 milioane bani murdari pe el.
 Desigur Gigel este tepar si cand primeste masina, fuge.
 Ce face Marius in cazul asta? Exact ce a facut Marcel in EX1. 
