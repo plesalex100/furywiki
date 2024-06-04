@@ -31,3 +31,21 @@ title: Job - Șofer de Tir
 
 - 1 punct XP pe cursa quick
 - 1 punct xp pe cursa speciala
+
+alegi jobu in tir
+![](https://i.imgur.com/WC3Owtm.png)
+
+puncte pe harta de livrare
+![](https://i.imgur.com/6JhVsFs.png)
+
+licente
+![](https://i.imgur.com/41Tpdgm.png)
+
+quick
+![](https://i.imgur.com/3j8bXpw.png)
+
+curse speciale nu au poza
+![](https://i.imgur.com/7fCWSAj.png)
+
+skills tab
+![](https://i.imgur.com/I2NGRbF.png)
