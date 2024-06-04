@@ -23,17 +23,30 @@ title: Biroul de licențe
 
 ### Prețuri Licențe
 
-| Tip licență          | Preț achiziționare |
-| -------------------  | :-----------------:|
-| Pescar               |    $260            |
-| Electrician          |    $260            |
-| Miner                |    $15000          |
-| Tirist               |    $13000          |
-| Petrolist            |    $17000          |
-| Vânător              |    $16500          |
-| Pilot                |    $25000          |
-| Stivuitorist         |    $14500          |
-| Tăietor de lemne     |    $19500          |
+| Tip licență                | Preț achiziționare |
+| ------------------------   | :-----------------:|
+| Pescar                     |    $260            |
+| Electrician                |    $260            |
+| Proprietar Vending Machine |    $3000           |
+| Miner                      |    $15000          |
+| Tirist                     |    $13000          |
+| Petrolist                  |    $17000          |
+| Vânător                    |    $16500          |
+| Pilot                      |    $25000          |
+| Stivuitorist               |    $14500          |
+| Tăietor de lemne           |    $19500          |
+| Lucrător la carieră        |    $20000          |
+
+
+<!-- | Tip licență TIR speciale       | Preț achiziționare |
+| ------------------------       | :-----------------:|
+| ADR Explozibil                 |    $260            |
+| ADR Subst. Periculoase Diverse |    $260            |
+| ADR Subst. Inflamabile         |    $3000           |
+| ADR Subst. Corozive            |    $15000          |
+| ADR Subst. Infecțioase         |    $13000          |
+| ADR Subst. Radioactive         |    $17000          | -->
+
 
 :::warning Atenție!
 Valabilitatea unei licențe este de 7 zile din momentul achiziționării.
