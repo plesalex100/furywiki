@@ -7,19 +7,19 @@
     </DefaultTheme.Layout>
   </div>
 </template>
-  
-<script setup lang="ts">
-  import { useData } from 'vitepress'
-  import DefaultTheme from 'vitepress/theme'
-  import { nextTick, provide } from 'vue'
-  
-  const { isDark } = useData()
 
-  const enableTransitions = () =>
-    'startViewTransition' in document &&
+<script setup lang="ts">
+import { useData } from 'vitepress'
+import DefaultTheme from 'vitepress/theme'
+import { nextTick, provide } from 'vue'
+
+const { isDark } = useData()
+
+const enableTransitions = () =>
+  'startViewTransition' in document &&
   window.matchMedia('(prefers-reduced-motion: no-preference)').matches
-  
-  provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
+
+provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
   if (!enableTransitions()) {
     isDark.value = !isDark.value
     return
@@ -33,28 +33,37 @@
     )}px at ${x}px ${y}px)`
   ]
 
-  await document.startViewTransition(async () => {
-    isDark.value = !isDark.value
-    await nextTick()
-  }).ready
+  // Use type assertion to handle potential lack of startViewTransition support
+  const startViewTransition = (document as any).startViewTransition;
 
-  document.documentElement.animate(
-    { clipPath: isDark.value ? clipPath.reverse() : clipPath },
-    {
-      duration: 300,
-      easing: 'ease-in',
-      pseudoElement: `::view-transition-${isDark.value ? 'old' : 'new'}(root)`
-    }
-  )
+  if (startViewTransition) {
+    await startViewTransition(async () => {
+      isDark.value = !isDark.value
+      await nextTick()
+    }).ready
+
+    document.documentElement.animate(
+      { clipPath: isDark.value ? clipPath.reverse() : clipPath },
+      {
+        duration: 300,
+        easing: 'ease-in',
+        pseudoElement: `::view-transition-${isDark.value ? 'old' : 'new'}(root)`
+      }
+    )
+  } else {
+    isDark.value = !isDark.value
+  }
 })
-  // export default {
+
+// export default {
   //   components: {
   //     Layout
   //   }
   // }
-  </script>
-  
-  <style>
+
+</script>
+
+<style>
 ::view-transition-old(root),
 ::view-transition-new(root) {
   animation: none;
