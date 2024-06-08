@@ -16,7 +16,7 @@ watch(
 
 <template>
   <a
-    id="vuemastery-action"
+    id="furyclip-action"
     class="why-vue"
     @click="showWhyFury = true"
     href="javascript:;"
@@ -38,12 +38,12 @@ watch(
   <Teleport v-if="showWhyFury" to="body">
     <div
       @click="showWhyFury = false"
-      class="vuemastery-modal-mask"
+      class="furyclip-modal-mask"
     >
-      <div class="vuemastery-modal-wrapper">
-        <div class="vuemastery-modal-container">
-          <div class="vuemastery-modal-content">
-            <div class="vuemastery-video-space">
+      <div class="furyclip-modal-wrapper">
+        <div class="furyclip-modal-container">
+          <div class="furyclip-modal-content">
+            <div class="furyclip-video-space">
               <iframe
                 :src="VIDEO_SOURCE"
                 style="
@@ -63,8 +63,8 @@ watch(
             </div>
           </div>
 
-          <div class="vuemastery-modal-footer">
-            <p class="vuemastery-modal-footer-text">
+          <div class="furyclip-modal-footer">
+            <p class="furyclip-modal-footer-text">
               Video by
               <a
                 href="https://furyrp.ro"
@@ -83,7 +83,7 @@ watch(
 </template>
 
 <style scoped>
-#vuemastery-action {
+#furyclip-action {
   font-size: 16px;
   display: inline-block;
   border-radius: 8px;
@@ -96,16 +96,16 @@ watch(
   padding: 8px 1em 8px 3em;
 }
 
-.dark #vuemastery-action {
+.dark #furyclip-action {
   color: var(--vt-c-indigo);
 }
 
-#vuemastery-action:hover {
+#furyclip-action:hover {
   background-color: var(--vp-button-brand-border);
   transition-duration: 0.2s;
 }
 
-.dark #vuemastery-action:hover {
+.dark #furyclip-action:hover {
   background-color: var(--vp-button-brand-border);
 }
 
@@ -119,7 +119,7 @@ watch(
   width: 1.5em;
 }
 
-.vuemastery-modal-mask {
+.furyclip-modal-mask {
   position: fixed;
   top: 0;
   bottom: 0;
@@ -130,7 +130,7 @@ watch(
   transition: opacity 0.3s ease;
 }
 
-.vuemastery-modal-wrapper {
+.furyclip-modal-wrapper {
   display: block;
   box-sizing: border-box;
   border-radius: 8px;
@@ -146,20 +146,20 @@ watch(
   z-index: 40;
 }
 
-.dark .vuemastery-modal-wrapper {
+.dark .furyclip-modal-wrapper {
   background-color: var(--vt-c-bg-soft);
 }
 
-.vuemastery-modal-content {
+.furyclip-modal-content {
   margin-bottom: 10px;
 }
 
-.vuemastery-video-space {
+.furyclip-video-space {
   position: relative;
   padding: 56.25% 0 0 0;
 }
 
-.vuemastery-modal-footer-text {
+.furyclip-modal-footer-text {
   color: var(--vt-c-text-2);
   margin-bottom: 0.5em;
   text-align: center;
@@ -167,18 +167,18 @@ watch(
   font-size: 12px;
 }
 
-.vuemastery-modal-footer-text a {
+.furyclip-modal-footer-text a {
   color: #ff994d;
   font-weight: 600;
 }
 
-.dark .vuemastery-modal-footer-text {
+.dark .furyclip-modal-footer-text {
   color: var(--vt-c-text-2);
   font-weight: 600;
 }
 
 @media (max-width: 576px) {
-  #vuemastery-action {
+  #furyclip-action {
     display: block;
     margin: 0px auto;
     width: 150px;
