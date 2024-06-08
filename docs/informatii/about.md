@@ -62,7 +62,7 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 <hr style="transform: translateY(10px)"/>
 
 <div class="fury-mastery-link">
-  <a href="panel.furyrp.ro" target="_blank">
+  <a href="https://panel.furyrp.ro/#/" target="_blank">
     <div class="banner-wrapper">
       <img class="banner" alt="Fury banner" src="https://i.imgur.com/0AZFjtu.gif" />
     </div>
