@@ -2,7 +2,7 @@
   <div>
     <DefaultTheme.Layout>
       <slot />
-      <!-- Insert the rating system component at the bottom of the layout -->
+      <!-- rating system at the bottom -->
       <slot name="layout-bottom" />
     </DefaultTheme.Layout>
   </div>
