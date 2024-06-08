@@ -19,9 +19,9 @@ hero:
 
 <script setup>
 import { ref } from 'vue'
-import Home from './Home.vue'
-import SiteMap from './SiteMap.vue'
-import HomeClip from './HomeClip.vue'
+import Home from '.vitepress/components/Home.vue'
+import SiteMap from '.vitepress/components/SiteMap.vue'
+import HomeClip from '.vitepress/components/HomeClip.vue'
 
 const hero = ref({
   name: 'Fury Romania Advanced Roleplay',
