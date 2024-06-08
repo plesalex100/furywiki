@@ -147,7 +147,7 @@ watch(
 }
 
 .dark .furyclip-modal-wrapper {
-  background-color: black;
+  background-color: rgb(65, 65, 65);
 }
 
 .furyclip-modal-content {
