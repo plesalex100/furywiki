@@ -101,7 +101,7 @@ watch(
 }
 
 #vuemastery-action:hover {
-  background-color: var(--vt-c-green-dark);
+  background-color: orange;
   transition-duration: 0.2s;
 }
 
