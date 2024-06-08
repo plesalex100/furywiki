@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, watch } from 'vue'
 
-const VIDEO_SOURCE = 'https://player.vimeo.com/video/647441538?autoplay=1'
+const VIDEO_SOURCE = 'https://www.youtube.com/embed/PweH-zSu13Q?si=SiWbedGnxv5RP24R'
 const showWhyVue = ref(false)
 
 watch(
