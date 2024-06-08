@@ -168,7 +168,7 @@ watch(
 }
 
 .vuemastery-modal-footer-text a {
-  color: #42b983;
+  color: #ff994d;
   font-weight: 600;
 }
 
