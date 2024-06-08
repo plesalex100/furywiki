@@ -93,5 +93,6 @@ title: Regulament OOC Mafii/Organizații Ilegale
 ### 4. Aceeasi discutie si cu famiile mici, aveti voie sa fiti aliati in scopul desfasurarii activitatilor ilegale DOAR CU O alta familie mica in limita a 20 de oameni luati de la familia respectiva.
 ### 5. In cazul jafurilor (Pacific, Biju, Interceptari) vor fi respectate regulile deja in vigoare. (maxim: 20 oameni Pacific, 26 oameni Interceptari)
 ### 6. Daca o organizatie are beef cu o mafie poate sa ceara ajutor in bataie unei alte organizatii. Se aplica si in cazul razboaielor
+:::danger IMPORTANT !
 ### 7. Nu aveti voie cu aliante la graffiti
-
+:::
