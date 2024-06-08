@@ -101,12 +101,12 @@ watch(
 }
 
 #vuemastery-action:hover {
-  background-color: orange;
+  background-color: var(--vp-button-brand-border);
   transition-duration: 0.2s;
 }
 
 .dark #vuemastery-action:hover {
-  background-color: orange;
+  background-color: var(--vp-button-brand-border);
 }
 
 .icon-play {
