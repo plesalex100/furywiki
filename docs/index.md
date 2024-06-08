@@ -12,6 +12,7 @@ hero:
     - theme: brand
       text: Află mai multe ->
       link: /informatii/about
+      <HomeClip />
     - theme: alt
       text: 🎧 Alătură-te pe Discord
       link: https://discord.gg/furyro
@@ -22,8 +23,6 @@ hero:
     // import Rating from '/.vitepress/components/Rating.vue'
     import HomeClip from '.vitepress/components/HomeClip.vue'
 </script>
-
-<HomeClip />
 
 <Home />
 <SiteMap />
