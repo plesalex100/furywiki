@@ -18,7 +18,7 @@ watch(
   <a
     id="vuemastery-action"
     class="why-vue"
-    @click="showWhyFury, = true"
+    @click="showWhyFury = true"
     href="javascript:;"
   >
     <svg
@@ -35,9 +35,9 @@ watch(
     </svg>
     Why FuryRP
   </a>
-  <Teleport v-if="showWhyFury," to="body">
+  <Teleport v-if="showWhyFury" to="body">
     <div
-      @click="showWhyFury, = false"
+      @click="showWhyFury = false"
       class="vuemastery-modal-mask"
     >
       <div class="vuemastery-modal-wrapper">
