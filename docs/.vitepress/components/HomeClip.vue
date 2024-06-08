@@ -2,10 +2,10 @@
 import { ref, watch } from 'vue'
 
 const VIDEO_SOURCE = 'https://www.youtube.com/embed/hcU1bH1u0Ro?si=_qz9OThGdPdoXjzq'
-const showWhyVue = ref(false)
+const showWhyFury = ref(false)
 
 watch(
-  () => showWhyVue,
+  () => showWhyFury.value,
   (value) => {
     value
       ? (document.documentElement.style.overflow = 'hidden')
@@ -18,7 +18,7 @@ watch(
   <a
     id="vuemastery-action"
     class="why-vue"
-    @click="showWhyVue = true"
+    @click="showWhyFury.value, = true"
     href="javascript:;"
   >
     <svg
@@ -35,9 +35,9 @@ watch(
     </svg>
     Why FuryRP
   </a>
-  <Teleport v-if="showWhyVue" to="body">
+  <Teleport v-if="showWhyFury.value," to="body">
     <div
-      @click="showWhyVue = false"
+      @click="showWhyFury.value, = false"
       class="vuemastery-modal-mask"
     >
       <div class="vuemastery-modal-wrapper">
