@@ -77,4 +77,21 @@ Puteți face reclamație unui jucător, să raportați un bug sau să puneți o 
 
 ![menuTicket](https://i.imgur.com/xbsLv2a.png){.framed-photo}
 
+### <span class="header-font">În continuare..</span>
+
+<div class="vt-box-container next-steps">
+  <a class="vt-box" href="/informatii/regulament.html">
+    <p class="next-steps-link">Continue cu citirea Regulamentului general</p>
+    <p class="next-steps-caption">Regulamentul te va ajuta să înveți ce înseamnă roleplay-ul și regulile de bază ale acestuia.</p>
+  </a>
+  <a class="vt-box" href="/jobs/locatii.html">
+    <p class="next-steps-link">Află locația joburilor.</p>
+    <p class="next-steps-caption">Joburile sunt sursa principală de bani pentru jucătorii începători.</p>
+  </a>
+  <a class="vt-box" href="/informatii/comenzi.html">
+    <p class="next-steps-link">Află comenzile des folosite pe server.</p>
+    <p class="next-steps-caption">Poți afla majoritatea comenzilor des folosite accesând această pagină.</p>
+  </a>
+</div>
+
 <!-- <Rating /> -->
