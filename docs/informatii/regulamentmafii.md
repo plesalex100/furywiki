@@ -29,7 +29,7 @@ title: Regulament OOC Mafii/Organizații Ilegale
 - Toxicitatea OOC de orice fel care degenerează in IC este sancționata conform regulii de toxicitate din regulamentul serverului. Va este strict interzis sa amenințați/constrângeți OOC persoane din alte mafii/organizații/familii in vreun fel datorita unui context IC sau a unor probleme existente dinainte de a juca pe aceasta comunitate.(Ban 30d)
 
 ### <span class="header-font"> 3. Cheats/Bug-abuse </span>
-- Facțiunile ce vor fi găsite cu membri cu grad care se folosesc de diverse buguri/programe 3rd party/cheats cu care sa își ofere orice fel de avantaj vor primi Warn/Out in funcție de numărul de cheateri/bug-abuseri.
+- Cheats/Bug-abuse. Facțiunile ce vor fi găsite cu membri cu grad care se folosesc de diverse buguri/programe 3rd party/cheats cu care sa își ofere orice fel de avantaj vor primi Warn/Out in funcție de numărul de cheateri/bug-abuseri.
 
 ### <span class="header-font"> 4. Jefuit pe locație </span>
 - Aveți dreptul indiferent de ora sa jefuiți pe locația dumneavoastră, daca respectiva persoana refuza sa plătească taxa sau sa părăsească zona in cazul in care produce/livrează.
@@ -55,33 +55,26 @@ title: Regulament OOC Mafii/Organizații Ilegale
 - Membri mafiilor sunt obligati sa fie prezenti pe un canal de pe discord-ul de mafie la actiuni sau cand se joaca. (PE DEAFEN DESIGUR)
 
 ### <span class="header-font"> 11. Discord-ul mafiei </span>
-- Mafiile sunt obligate sa invite membrii Staff Admin 4+ si sa le ofere grad cu permisiuni de administrator pe serverul de discord al mafiilor.
+- Mafiile sunt obligate sa invite membrii Staff Admin 4+ și membrii Sindicat si sa le ofere grad cu permisiuni de administrator pe serverul de discord al mafiilor.
 
-### <span class="header-font"> 12. Alianțe IC </span>
-- In cazul aliantelor IC, aveti dreptul sa participati la actiuni, intr-un mix de membri doar in cazul in care sunt <span style="color:red">maxim 6 persoane dintr-o alta mafie</span>. 
-- Exclus cazul cand sunteti deja intr-o zona si incepe o actiune. 
-:::danger IMPORTANT!
-- Aliantele sunt interzise la graffiti
-:::
-
-### <span class="header-font"> 13. Structura IC </span>
-- Deoarece nu continuam cu conceptul de **sindicat**, va aparea alta <span style="color:red">structura IC</span>, care are strict <span style="color:red">scopul</span> sa tina <span style="color:red">licitatiile pentru zonele de productie/procesare, sa vanda anumite iteme</span> necesare ce momentan nu pot fi obtinute in alt mod. Totodata aceasta structura se va ocupa de <span style="color:red">task-uri sau alte evenimente</span> pentru mafii (transport, etc).
-
-### <span class="header-font"> 14. PK la Mafie Închisă </span>
+### <span class="header-font"> 12. PK la Mafie Închisă </span>
 - Membri mafiilor inchise sunt obligati sa roleze PK-ul.(14d ban fara drept)
 
-### <span class="header-font"> 15. Intrarea în sediul altor mafii/organizații/familii IC </span>
+### <span class="header-font"> 13. Intrarea în sediul altor mafii/organizații/familii IC </span>
 - Puteti sa intrati peste alte organizatii/mafii/familii ic in sediu doar cu acordul Admin 4+
 
-### <span class="header-font"> 16. Jaf în timpul transportului </span>
+### <span class="header-font"> 14. Jaf în timpul transportului </span>
 - Vă este interzis să dați jaf Pacific/Interceptare/Vangelico/etc în timpul unui transport. <span style="color:red">(FW)</span> 
 
-### <span class="header-font"> 17. Lider/Co-Lider </span>
+### <span class="header-font"> 15. Lider/Co-Lider </span>
 - Aveti dreptul la 1 singur grad de lider si 1 singur grad de co-lider d.p.d.v OOC, IC puteti sa va impartiti cum doriti. <span style="color:red">(FW)</span> 
 
-### <span class="header-font"> 18. Graffiti </span>
-- Dupa ce va bateti la graffiti va este interzis sa ridicati oameni/luati dupa ei daca nu sunt de la voi din factiune.. <span style="color:red">(FW)</span> 
+### <span class="header-font"> 16. Graffiti </span>
+- Dupa ce va bateti la graffiti va este interzis sa ridicati oameni/luati dupa ei daca nu sunt de la voi din factiune. <span style="color:red">(FW)</span> 
+- Nu aveti voie sa dati graffiti fara sa il terminati, doar pentru a face bait altor organizatii/mafii pe zona.
 
+### <span class="header-font"> 17. Mafii Închise</span>
+- Mafiile inactive sau care nu au destui membri o sa fie inchise in urma unei decizii intre high-staff si sindicat.
 
 :::danger IMPORTANT!
 - Ne rezervăm dreptul de a actualiza, modifica regulamentul.
@@ -89,3 +82,16 @@ title: Regulament OOC Mafii/Organizații Ilegale
 - In cazul reclamatiilor pe discord aveti nevoie de dovada, si reclamatia se poate face la maxim 48h.
 - Sectiunea de unban-request se refera la banurile fara drept de plata, nu la banurile provizorii sau cu drept.
 :::
+
+<hr style="transform: translateY(10px)"/>
+
+# <center> Regulament OOC Aliante Mafii/Organizatii/Familii IC </center>
+
+### 1. Ca organizatie aveti voie sa va aliati cu DOAR CU O alta organizatie/mafie in scopul desfasurarii activitatilor ilegale.
+### 2. In cazul batailor cu politia nu aveti voie sa chemati ajutor din alta mafie/organizatie in timpul bataii, puteti sa va bateti doar cei ce erau la inceputul actiunii.
+### 3. Mafiile NU au voie sa se alieze cu alte mafii, doar cu organizatiile.
+### 4. Aceeasi discutie si cu famiile mici, aveti voie sa fiti aliati in scopul desfasurarii activitatilor ilegale DOAR CU O alta familie mica in limita a 20 de oameni luati de la familia respectiva.
+### 5. In cazul jafurilor (Pacific, Biju, Interceptari) vor fi respectate regulile deja in vigoare. (maxim: 20 oameni Pacific, 26 oameni Interceptari)
+### 6. Daca o organizatie are beef cu o mafie poate sa ceara ajutor in bataie unei alte organizatii. Se aplica si in cazul razboaielor
+### 7. Nu aveti voie cu aliante la graffiti
+
