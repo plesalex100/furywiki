@@ -138,7 +138,7 @@ watch(
   width: 75%;
   height: auto;
   padding: 0.5em;
-  background-color: #f9f9f9;
+  background-color: #ff994d;
   box-shadow: 0 0 10px rgb(0 0 0 / 20%);
   top: 50%;
   left: 50%;
