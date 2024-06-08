@@ -12,10 +12,10 @@ hero:
     - theme: brand
       text: Află mai multe ->
       link: /informatii/about
-    - component: HomeClip
     - theme: alt
       text: 🎧 Alătură-te pe Discord
       link: https://discord.gg/furyro
+    - component: HomeClip
 ---
 <script setup> 
     import SiteMap from '/.vitepress/components/SiteMap.vue'
