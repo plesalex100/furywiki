@@ -2,9 +2,9 @@
 title: About us
 ---
 
-<!-- <script setup>
-    import Rating from '/.vitepress/components/Rating.vue'
-</script> -->
+<script setup>
+    import HomeClip from '.vitepress/components/HomeClip.vue'
+</script>
 
 # <center><span class="title-font">:fire:About us:fire:</span></center>
 
@@ -15,6 +15,10 @@ Suntem o comunitate de FiveM fondată în data de 28.04.2022 de către **Alex**,
 Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem la dispoziție un loc unde se află roleplay de calitate, sisteme și script-uri calitative, dar și un loc vă puteți relaxa și unde vă puteți distra alături de prieteni, proiectul fiind unul de termen lung.
 
 În cadrul acestei pagini de **Wiki** poți găsi toate informațiile de care ai nevoie pentru început, dacă totuși informația pe care o cauți nu o poți găsi aici accesați serverul nostru de [Discord](https://discord.com/invite/furyro) unde poți contacta un membru al [echipei administrative](#echipa-administrativa).
+
+<center>
+<HomeClip />
+</center>
 
 ## <span class="header-font">Echipa Administrativă</span>
 

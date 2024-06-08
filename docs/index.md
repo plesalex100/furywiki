@@ -15,13 +15,12 @@ hero:
     - theme: alt
       text: 🎧 Alătură-te pe Discord
       link: https://discord.gg/furyro
-    - component: HomeClip
 ---
 <script setup> 
     import SiteMap from '/.vitepress/components/SiteMap.vue'
     import Home from '/.vitepress/components/Home.vue'
     // import Rating from '/.vitepress/components/Rating.vue'
-    import HomeClip from '.vitepress/components/HomeClip.vue'
+    // import HomeClip from '.vitepress/components/HomeClip.vue'
 </script>
 
 <Home />
