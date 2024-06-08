@@ -3,7 +3,7 @@ title: About us
 ---
 
 <script setup>
-    import HomeClip from '.vitepress/components/HomeClip.vue'
+    import HomeClip from './components/HomeClip.vue'
 </script>
 
 # <center><span class="title-font">:fire:About us:fire:</span></center>
