@@ -90,7 +90,7 @@ watch(
   transition: background-color 0.5s, color 0.5s;
   position: relative;
   font-weight: 600;
-  background-color: #ff994d;
+  background-color: var(--vp-button-brand-bg);
   color: #fff;
   margin-right: 18px;
   padding: 8px 1em 8px 3em;
