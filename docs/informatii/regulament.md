@@ -328,7 +328,7 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția
 locațiilor unde se desfășoară joburi legale și a garajelor.
 :::info
-- Adaugare : (Doar de la 21:00 - la 04:00 cand incepe sa se intunece/sa se faca lumina ingame)
+- Adaugare : (Doar de la 21:00 - la 04:00 cand incepe sa se intunece/sa se faca lumina in-game)
 :::
 
 ### <span class="header-font">1.40 Folosirea de iteme in combat</span>

@@ -10,6 +10,16 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
+### UPDATE 08/06/2024
+
+### [1.39 Pana de curent](/informatii/regulament.html#_1-39-pana-de-curent)
+
+- În momentul în care electricitatea din oraș cade, regula de ilegalitate în zona publică este anulată, cu excepția
+locațiilor unde se desfășoară joburi legale și a garajelor. 
+:::info
+- Adaugare: Doar de la 21:00 - la 04:00 cand incepe sa se intunece/sa se faca lumina in-game
+:::
+
 ## UPDATE 29/05/2024
 
 ### Modificare: [1.16  Roleplay Scarbos & Injosirea jucatorilor](/informatii/regulament.html#_1-16-roleplay-scarbos-injosirea-jucatorilor)
