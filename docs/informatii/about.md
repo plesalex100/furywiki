@@ -59,8 +59,6 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 - <span style="color:#90EE90">reclamații la adresa altor jucători</span>
 :::
 
-<hr style="transform: translateY(10px)"/>
-
 <div class="fury-mastery-link">
   <a href="https://panel.furyrp.ro/#/" target="_blank">
     <div class="banner-wrapper">
