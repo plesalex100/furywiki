@@ -5,7 +5,7 @@ const VIDEO_SOURCE = 'https://www.youtube.com/embed/hcU1bH1u0Ro?si=_qz9OThGdPdoX
 const showWhyFury = ref(false)
 
 watch(
-  () => showWhyFury.value,
+  () => showWhyFury,
   (value) => {
     value
       ? (document.documentElement.style.overflow = 'hidden')
