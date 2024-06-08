@@ -12,16 +12,26 @@ hero:
     - theme: brand
       text: Află mai multe ->
       link: /informatii/about
-    - component: HomeClip
     - theme: alt
       text: 🎧 Alătură-te pe Discord
       link: https://discord.gg/furyro
 ---
-<script setup> 
-    import SiteMap from '/.vitepress/components/SiteMap.vue'
-    import Home from '/.vitepress/components/Home.vue'
-    // import Rating from '/.vitepress/components/Rating.vue'
-    import HomeClip from '.vitepress/components/HomeClip.vue'
+
+<script setup>
+import { ref } from 'vue'
+import Home from './Home.vue'
+import SiteMap from './SiteMap.vue'
+import HomeClip from './HomeClip.vue'
+
+const hero = ref({
+  name: 'Fury Romania Advanced Roleplay',
+  text: 'Official Wiki',
+  tagline: 'Află informațiile updatate la zi despre toate sistemele prezente pe serverul nostru.',
+  actions: [
+    { theme: 'brand', text: 'Află mai multe ->', link: '/informatii/about' },
+    { theme: 'alt', text: '🎧 Alătură-te pe Discord', link: 'https://discord.gg/furyro' }
+  ]
+})
 </script>
 
 <template>
@@ -31,9 +41,9 @@ hero:
     <p>{{ hero.text }}</p>
     <p>{{ hero.tagline }}</p>
     <div class="actions">
-      <a class="get-started" :href="hero.actions[0].link">{{ hero.actions[0].text }}</a>
+      <a :href="hero.actions[0].link" class="btn btn-brand">{{ hero.actions[0].text }}</a>
       <HomeClip />
-      <a class="setup" :href="hero.actions[1].link">{{ hero.actions[1].text }}</a>
+      <a :href="hero.actions[1].link" class="btn btn-alt">{{ hero.actions[1].text }}</a>
     </div>
   </div>
   <SiteMap />
@@ -66,11 +76,11 @@ hero:
   border-radius: 8px;
   transition: background-color 0.5s, color 0.5s;
 }
-.actions .get-started {
+.actions .btn-brand {
   background-color: var(--vp-button-brand-bg);
   color: #fff;
 }
-.actions .setup {
+.actions .btn-alt {
   background-color: var(--vp-button-alt-bg);
   color: #fff;
 }
