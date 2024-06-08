@@ -138,7 +138,7 @@ watch(
   width: 75%;
   height: auto;
   padding: 0.5em;
-  background-color: #ff994d;
+  background-color: #f9f9f9;
   box-shadow: 0 0 10px rgb(0 0 0 / 20%);
   top: 50%;
   left: 50%;
@@ -147,7 +147,7 @@ watch(
 }
 
 .dark .furyclip-modal-wrapper {
-  background-color: #ff994d;
+  background-color: var(--vt-c-bg-soft);
 }
 
 .furyclip-modal-content {
