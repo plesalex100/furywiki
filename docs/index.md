@@ -12,7 +12,7 @@ hero:
     - theme: brand
       text: Află mai multe ->
       link: /informatii/about
-      <HomeClip />
+    - component: HomeClip
     - theme: alt
       text: 🎧 Alătură-te pe Discord
       link: https://discord.gg/furyro
