@@ -81,7 +81,7 @@ Puteți face reclamație unui jucător, să raportați un bug sau să puneți o 
 
 <div class="vt-box-container next-steps">
   <a class="vt-box" href="/informatii/regulament.html">
-    <p class="next-steps-link">Continue cu citirea Regulamentului general</p>
+    <p class="next-steps-link">Continuă cu citirea **Regulamentului General**</p>
     <p class="next-steps-caption">Regulamentul te va ajuta să înveți ce înseamnă roleplay-ul și regulile de bază ale acestuia.</p>
   </a>
   <a class="vt-box" href="/jobs/locatii.html">
