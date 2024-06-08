@@ -369,7 +369,7 @@
 }
 
 .next-steps .vt-box:hover {
-  border-color: var(--vt-c-green-light);
+  border-color: #fa7e2c;
   transition: border-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
@@ -379,7 +379,7 @@
   letter-spacing: -0.02em;
   margin-bottom: 0.75em;
   display: block;
-  color: var(--vt-c-green);
+  color: #fa7e2c;
 }
 
 .next-steps-caption {
