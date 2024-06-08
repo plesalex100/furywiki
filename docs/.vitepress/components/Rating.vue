@@ -2,7 +2,7 @@
     <div class="rating-system">
       <transition name="fade">
         <div v-if="!rated">
-          <span class="header-font" style="font-size: 18px;">Rate this WIKI</span>
+          <span class="header-font" style="font-size: 18px;">Acordă o notă pentru Fury WIKI</span>
           <div class="stars">
             <span v-for="star in 5" :key="star" @click="rate(star)">
               <i :class="star <= rating ? 'fas fa-star' : 'far fa-star'"></i>
@@ -11,7 +11,7 @@
         </div>
       </transition>
       <transition name="fade">
-        <span style="font-family:'Conthrax'; padding-bottom: 30px; font-size: 18px;" v-show="rated">Thank you for your feedback!</span>
+        <span style="font-family:'Conthrax'; padding-bottom: 30px; font-size: 18px;" v-show="rated">Mulțumim pentru feedback!</span>
       </transition>
     </div>
   </template>
