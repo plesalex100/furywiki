@@ -20,7 +20,7 @@ hero:
     import SiteMap from '/.vitepress/components/SiteMap.vue'
     import Home from '/.vitepress/components/Home.vue'
     // import Rating from '/.vitepress/components/Rating.vue'
-    import HomeClip from './HomeClip.vue'
+    import HomeClip from '.vitepress/components/HomeClip.vue'
 </script>
 
 <HomeClip />
