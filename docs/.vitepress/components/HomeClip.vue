@@ -36,51 +36,49 @@ watch(
     Why FuryRP
   </a>
   <Teleport v-if="showWhyFury" to="body">
-    <transition name="modal">
-      <div
-        @click="showWhyFury = false"
-        class="furyclip-modal-mask"
-      >
-        <div class="furyclip-modal-wrapper">
-          <div class="furyclip-modal-container">
-            <div class="furyclip-modal-content">
-              <div class="furyclip-video-space">
-                <iframe
-                  :src="VIDEO_SOURCE"
-                  style="
-                    height: 100%;
-                    left: 0;
-                    position: absolute;
-                    top: 0;
-                    width: 100%;
-                    border-radius: 6px;
-                  "
-                  frameborder="0"
-                  webkitallowfullscreen
-                  mozallowfullscreen
-                  allowfullscreen
-                  allow="autoplay"
-                ></iframe>
-              </div>
+    <div
+      @click="showWhyFury = false"
+      class="furyclip-modal-mask"
+    >
+      <div class="furyclip-modal-wrapper">
+        <div class="furyclip-modal-container">
+          <div class="furyclip-modal-content">
+            <div class="furyclip-video-space">
+              <iframe
+                :src="VIDEO_SOURCE"
+                style="
+                  height: 100%;
+                  left: 0;
+                  position: absolute;
+                  top: 0;
+                  width: 100%;
+                  border-radius: 6px;
+                "
+                frameborder="0"
+                webkitallowfullscreen
+                mozallowfullscreen
+                allowfullscreen
+                allow="autoplay"
+              ></iframe>
             </div>
+          </div>
 
-            <div class="furyclip-modal-footer">
-              <p class="furyclip-modal-footer-text">
-                Video by
-                <a
-                  href="https://furyrp.ro"
-                  target="_blank"
-                  rel="sponsored noopener"
-                  title="FuryRP Romania"
-                >
-                FuryRP.</a
-                >
-              </p>
-            </div>
+          <div class="furyclip-modal-footer">
+            <p class="furyclip-modal-footer-text">
+              Video by
+              <a
+                href="https://furyrp.ro"
+                target="_blank"
+                rel="sponsored noopener"
+                title="FuryRP Romania"
+              >
+              FuryRP.</a
+              >
+            </p>
           </div>
         </div>
       </div>
-    </transition>
+    </div>
   </Teleport>
 </template>
 
@@ -185,13 +183,5 @@ watch(
     margin: 0px auto;
     width: 150px;
   }
-}
-
-/* Transition Styles */
-.modal-enter-active, .modal-leave-active {
-  transition: opacity 0.5s;
-}
-.modal-enter, .modal-leave-to /* .modal-leave-active in <2.1.8 */ {
-  opacity: 0;
 }
 </style>
