@@ -488,11 +488,11 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
     <p class="next-steps-caption">Regulamentul afacerilor te va ajuta să te încadrezi în toate cerințele noastre în momentul în care deții o afacere.</p>
   </a>
   <a class="vt-box" href="/informatii/regulamentmafii.html">
-    <p class="next-steps-link">Regulamentului OOC dedicat Mafiilor/Organizațiilor</p>
+    <p class="next-steps-link">Regulamentului OOC Mafii/Organizații.</p>
     <p class="next-steps-caption">Regulamentul OOC dedicat Mafiilor/Organizațiilor te va ajuta să te încadrezi în toate cerințele noastre în momentul în care ești membru/lider al unei Mafii/Organizații.</p>
   </a>
   <a class="vt-box" href="/informatii/map.html">
-    <p class="next-steps-link">Zonele pe server</p>
+    <p class="next-steps-link">Zonele pe server.</p>
     <p class="next-steps-caption">Poți afla unde sunt zonele rău famate/zone publice etc. din oraș.</p>
   </a>
 </div>
