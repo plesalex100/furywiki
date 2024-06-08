@@ -97,7 +97,7 @@ watch(
 }
 
 .dark #vuemastery-action {
-  color: orange;
+  color: var(--vt-c-indigo);
 }
 
 #vuemastery-action:hover {
@@ -106,7 +106,7 @@ watch(
 }
 
 .dark #vuemastery-action:hover {
-  background-color: var(--vt-c-green-light);
+  background-color: orange;
 }
 
 .icon-play {
