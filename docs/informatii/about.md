@@ -16,9 +16,7 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 
 În cadrul acestei pagini de **Wiki** poți găsi toate informațiile de care ai nevoie pentru început, dacă totuși informația pe care o cauți nu o poți găsi aici accesați serverul nostru de [Discord](https://discord.com/invite/furyro) unde poți contacta un membru al [echipei administrative](#echipa-administrativa).
 
-<center>
-    <HomeClip />
-</center>
+<center><HomeClip /></center>
 
 ## <span class="header-font">Echipa Administrativă</span>
 
