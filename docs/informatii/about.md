@@ -8,19 +8,19 @@ title: About us
 
 # <center><span class="title-font">:fire:About us:fire:</span></center>
 
-## <span class="header-font">Cine suntem noi?</span>
-
 <div class="fury-mastery-link">
   <a href="https://furyrp.ro" target="_blank">
     <div class="banner-wrapper">
-      <img class="banner" alt="Fury banner" width="96px" height="56px" src="https://i.imgur.com/zkLJr80.png" />
+      <img class="banner" alt="Fury banner" width="96px" height="56px" src="https://i.imgur.com/0AZFjtu.gif" />
     </div>
     <p class="description">Vă recomandăm să vă creați un cont pe <span>panel.furyrp.ro</span></p>
     <div class="logo-wrapper">
-        <img alt="Fury Logo" width="25px" src="https://i.imgur.com/N3np8eh.png" />
+        <img alt="Fury Logo" width="25px" src="https://i.imgur.com/jfZJFEV.png" />
     </div>
   </a>
 </div>
+
+## <span class="header-font">Cine suntem noi?</span>
 
 Suntem o comunitate de FiveM fondată în data de 28.04.2022 de către **Alex**, cunoscut sub nickname-ul de <span style="color:orange">**plesalex100**</span>, scripterul serverului, care a pus bazele comunității alături de alți membrii fondatori pentru a dezvolta un proiect unic din mai multe puncte de vedere.
 
