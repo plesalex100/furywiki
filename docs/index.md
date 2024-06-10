@@ -16,11 +16,11 @@ hero:
       text: 🎧 Alătură-te pe Discord
       link: https://discord.gg/furyro
 ---
+<!-- https://vitepress.dev/reference/default-theme-home-page -->
+
 <script setup> 
     import SiteMap from '/.vitepress/components/SiteMap.vue'
     import Home from '/.vitepress/components/Home.vue'
-    // import Rating from '/.vitepress/components/Rating.vue'
-    // import HomeClip from '.vitepress/components/HomeClip.vue'
 </script>
 
 <Home />

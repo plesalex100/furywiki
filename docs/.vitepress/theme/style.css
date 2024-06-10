@@ -289,7 +289,7 @@
  * -------------------------------------------------------------------------- */
 
  .fury-mastery-link {
-  background-color: var(--vt-c-bg-soft);
+  background-color: #ff994d;
   border-radius: 8px;
   padding: 8px 16px 8px 8px;
   transition: color 0.5s, background-color 0.5s;
