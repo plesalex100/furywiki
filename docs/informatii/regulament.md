@@ -131,6 +131,7 @@ Se va primi CK atunci:
 - Când un jucător acumulează 4 caziere.
 - Când un jucător își trădează organizația, gruparea din care face parte.
 - Când un jucător descoperă și/sau abuzează de un BUG ce îi oferă beneficii materiale.
+- Când ești ostatic și membrii din aceeași organizație nu respectă faptul că ești luat ostatic
 
 ***Pentru mafii: daca aveti situatie de ck: trebuie sa chemati un Admin 4+ ca sa decida daca contextul se va termina cu ck.
 :::
