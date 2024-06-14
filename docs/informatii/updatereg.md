@@ -20,6 +20,10 @@ title: Update-uri Regulament
 ### [1.05 No Fear (NF)](/informatii/regulament.html#_1-05-no-fear-nf)
 - Ex: Acel moment cand un membru din familia/organizatia ta este luat ca ostatic si tu sau oricare alt membru nu respecta faptul ca aveti un om luat ostatic.
 
+#### Reglementare:
+### [1.02 Fail Roleplay (FRP)](/informatii/regulament.html#_1-02-fail-roleplay-frp)
+- Ex: Situatia in care aveti un ostatic si chemati cel mai mare membru in grad disponibil sa negocieze pentru viata acestuia si cand acesta vine la negociere este luat cu armele pe sus. 
+
 ### UPDATE 08/06/2024
 
 ### [1.39 Pana de curent](/informatii/regulament.html#_1-39-pana-de-curent)

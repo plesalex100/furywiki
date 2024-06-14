@@ -16,7 +16,8 @@ title: Regulament General
 - Reprezintă **neadaptarea** la o situație roleplay.
 ::: info Exemplu
 - Un cetățean merge la secția de poliție pentru a raporta o răpire, iar polițistul din tură refuză să facă demersurile pentru soluționarea cazului.
-- Merg la CNN și dau anunț "Vand arme in paleto (politia nu vede)"
+- Merg la CNN și dau anunț "Vand arme in paleto (politia nu vede) sau "Vand droguri in fata spitalului (politia nu vede)" sau "Vand Jucarii mari/mici" sau "Vand faina/zapada fina" etc.
+- Situatia in care aveti un ostatic si chemati cel mai mare membru in grad disponibil sa negocieze pentru viata acestuia si cand acesta vine la negociere este luat cu armele pe sus. 
 :::
 
 ### <span class="header-font">1.03 In Character (IC)</span>
@@ -132,7 +133,6 @@ Se va primi CK atunci:
 - Când un jucător acumulează 4 caziere.
 - Când un jucător își trădează organizația, gruparea din care face parte.
 - Când un jucător descoperă și/sau abuzează de un BUG ce îi oferă beneficii materiale.
-- Când ești ostatic și membrii din aceeași organizație nu respectă faptul că ești luat ostatic
 
 ***Pentru mafii: daca aveti situatie de ck: trebuie sa chemati un Admin 4+ ca sa decida daca contextul se va termina cu ck.
 :::
