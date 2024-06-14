@@ -12,11 +12,11 @@ title: Update-uri Regulament
 
 ### UPDATE 15/06/2024
 
-### Regula anulata:
+#### Regula anulata:
 ### [1.15 Character Kill](/informatii/regulament.html#_1-15-character-kill)
 - Cand esti ostatic si membrii din aceeasi organizatie nu respecta faptul ca esti luat ostatic
 
-### Exemplu adaugat:
+#### Exemplu adaugat:
 ### [1.05 No Fear (NF)](/informatii/regulament.html#_1-05-no-fear-nf)
 - Ex: Acel moment cand un membru din familia/organizatia ta este luat ca ostatic si tu sau oricare alt membru nu respecta faptul ca aveti un om luat ostatic.
 
