@@ -24,6 +24,9 @@ title: Update-uri Regulament
 ### [1.02 Fail Roleplay (FRP)](/informatii/regulament.html#_1-02-fail-roleplay-frp)
 - Ex: Situatia in care aveti un ostatic si chemati cel mai mare membru in grad disponibil sa negocieze pentru viata acestuia si cand acesta vine la negociere este luat cu armele pe sus. 
 
+### [1.44 Low Effort Roleplay](/informatii/regulament.html#_1-44-low-effort-roleplay)
+- Ex: Intr-o situatie de ostatici, pui ostaticul sau spui tu pe statia lor sa vina toti membrii care sunt in oras in momentul respectiv
+
 ### UPDATE 08/06/2024
 
 ### [1.39 Pana de curent](/informatii/regulament.html#_1-39-pana-de-curent)

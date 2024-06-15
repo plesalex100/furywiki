@@ -363,6 +363,7 @@ locațiilor unde se desfășoară joburi legale și a garajelor.
 :::info Exemple
 - Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal,fara vreun context IC bine definit
 - Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti
+- Intr-o situatie de ostatici, pui ostaticul sau spui tu pe statia lor sa vina toti membrii care sunt in oras in momentul respectiv
 :::
 
 ### <span class="header-font">1.45 Posthunt</span>
