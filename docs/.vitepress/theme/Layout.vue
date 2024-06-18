@@ -2,11 +2,8 @@
   <div>
     <Layout>
       <transition name="fade" mode="out-in">
-        <!-- Replace router-view with component :is -->
         <component :is="currentPage.component"></component>
       </transition>
-      <!-- Preserve existing slot for layout-bottom -->
-      <slot name="layout-bottom" />
     </Layout>
   </div>
 </template>
@@ -35,5 +32,13 @@ export default defineComponent({
 </script>
 
 <style lang="css">
+/* Import the transition styles */
 @import './style.css';
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 0.5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active in <2.1.8 */ {
+  opacity: 0;
+}
 </style>
