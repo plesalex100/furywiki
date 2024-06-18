@@ -1,6 +1,6 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
-import { RouterView } from 'vue-router'
+// import { RouterView } from 'vue-router'
 import Theme from 'vitepress/theme'
 import RatingSystem from '../components/Rating.vue'
 import '@fortawesome/fontawesome-free/css/all.css'
