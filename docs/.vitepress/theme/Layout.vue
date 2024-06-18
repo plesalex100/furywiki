@@ -11,17 +11,18 @@
 </template>
 
 <script setup>
+import { onMounted } from 'vue';
 import Layout from 'vitepress/theme/default/Layout.vue';
 
-// Add JavaScript for page transition
+// Function to handle page transition
 const addPageTransition = () => {
   document.querySelectorAll('a').forEach(anchor => {
     anchor.addEventListener('click', function(event) {
       event.preventDefault();
       const href = this.getAttribute('href');
 
-      // Add the class for fade in effect
-      document.documentElement.classList.add('page-fade-enter');
+      // Add the class for fade out effect
+      document.documentElement.classList.add('page-fade-leave');
 
       // Wait for the transition to complete before navigating
       setTimeout(() => {
@@ -32,7 +33,6 @@ const addPageTransition = () => {
 }
 
 // Call the function when the component is mounted
-import { onMounted } from 'vue';
 onMounted(addPageTransition);
 </script>
 
@@ -45,5 +45,9 @@ export default {
 </script>
 
 <style scoped>
-/* Add scoped styles if needed */
+/* Define CSS transitions for page fade effect */
+.page-fade-leave {
+  opacity: 0;
+  transition: opacity 0.5s ease; /* Adjust timing and animation properties as needed */
+}
 </style>
