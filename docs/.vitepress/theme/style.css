@@ -397,16 +397,12 @@
 }
 
 /**
- * Slide Anims
+ * Anim
  * -------------------------------------------------------------------------- */
 
- .slide-enter-from,
- .slide-leave-to {
-   opacity: 0;
-   transform: translateX(-100%);
- }
- 
- .slide-enter-active,
- .slide-leave-active {
-   transition: 0.3s ease-out;
- }
+.page-fade-enter-active, .page-fade-leave-active {
+  transition: opacity 0.5s;
+}
+.page-fade-enter, .page-fade-leave-to {
+  opacity: 0;
+}
