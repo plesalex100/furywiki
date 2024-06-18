@@ -7,11 +7,10 @@ import './style.css'
 
 const CustomLayout = defineComponent({
   setup() {
-    return () => h('div', { class: 'custom-layout' }, [
-      h('transition', { name: 'slide' }, [
-        h(Theme.Layout)
-      ])
-    ])
+    return () => h(Theme.Layout, null, {
+      'layout-bottom': () => h(RatingSystem),
+      default: () => h('transition', { name: 'slide' }, { default: () => h('router-view') })
+    })
   }
 })
 
