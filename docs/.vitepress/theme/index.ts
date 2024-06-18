@@ -9,7 +9,7 @@ const CustomLayout = defineComponent({
   setup() {
     return () => h(Theme.Layout, null, {
       'layout-bottom': () => h(RatingSystem),
-      default: () => h('transition', { name: 'slide' }, { default: () => h('router-view') })
+      default: () => h('transition', { name: 'slide' }, () => h('RouterView'))
     })
   }
 })
