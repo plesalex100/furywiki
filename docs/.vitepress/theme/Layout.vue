@@ -1,12 +1,15 @@
 <template>
   <div>
-    <Layout>
-      <!-- Default slot for Vitepress content -->
-      <slot />
+    <!-- Use transition for fade effect -->
+    <transition name="page-fade" mode="out-in">
+      <div>
+        <!-- Default slot for Vitepress content -->
+        <slot />
 
-      <!-- Custom slot for additional content at the bottom -->
-      <slot name="layout-bottom" />
-    </Layout>
+        <!-- Custom slot for additional content at the bottom -->
+        <slot name="layout-bottom" />
+      </div>
+    </transition>
   </div>
 </template>
 
@@ -36,18 +39,12 @@ const addPageTransition = () => {
 onMounted(addPageTransition);
 </script>
 
-<script>
-export default {
-  components: {
-    Layout
-  }
-}
-</script>
-
 <style scoped>
 /* Define CSS transitions for page fade effect */
-.page-fade-leave {
-  opacity: 0;
+.page-fade-enter-active, .page-fade-leave-active {
   transition: opacity 0.5s ease; /* Adjust timing and animation properties as needed */
+}
+.page-fade-enter, .page-fade-leave-to {
+  opacity: 0;
 }
 </style>
