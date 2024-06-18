@@ -1,9 +1,8 @@
 <template>
   <div>
     <Layout>
-      <transition name="slide">
-        <router-view />
-      </transition>
+      <slot />
+      <!-- Insert the rating system component at the bottom of the layout -->
       <slot name="layout-bottom" />
     </Layout>
   </div>
@@ -17,4 +16,3 @@ export default {
     Layout
   }
 }
-</script>
