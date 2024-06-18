@@ -1,7 +1,9 @@
 <template>
   <div>
     <Layout>
-      <slot />
+      <transition name="slide">
+        <router-view />
+      </transition>
       <!-- Insert the rating system component at the bottom of the layout -->
       <slot name="layout-bottom" />
     </Layout>
