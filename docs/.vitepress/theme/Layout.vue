@@ -12,8 +12,8 @@
 </template>
 
 <script>
-import Layout from 'vitepress/theme/default/Layout.vue';
-import PageTransition from '../components/PageTransition.vue';
+import Layout from '/.vitepress/theme/Layout.vue';
+import PageTransition from '/.vitepress/components/PageTransition.vue';
 
 export default {
   components: {
