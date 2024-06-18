@@ -2,16 +2,15 @@
   <div>
     <Layout>
       <transition name="fade" mode="out-in">
-        <component :is="currentPage.component"></component>
+        <div v-html="currentPageContent" key="currentRoute"></div>
       </transition>
     </Layout>
   </div>
 </template>
 
 <script>
-import { defineComponent, ref } from 'vue';
-import Layout from 'vitepress/theme/default/Layout.vue';  // Adjust path as needed
-import config from './config.ts';
+import { defineComponent, ref, watch } from 'vue';
+import Layout from 'vitepress/theme/default/Layout.vue'; // Adjust path as needed
 
 export default defineComponent({
   name: 'CustomLayout',
@@ -19,22 +18,45 @@ export default defineComponent({
     Layout
   },
   setup() {
-    const currentPage = ref(null);
+    const currentPageContent = ref('');
+    
+    // Load initial page content
+    loadPageContent(window.location.pathname);
 
-    // Load initial page
-    currentPage.value = config.pages[0];
+    // Watch for route changes
+    watch(() => window.location.pathname, (newPath, oldPath) => {
+      if (newPath !== oldPath) {
+        loadPageContent(newPath);
+      }
+    });
+
+    function loadPageContent(path) {
+      // Assuming your Markdown files are located in a specific directory (e.g., docs)
+      const markdownFilePath = `./docs${path}.md`;
+
+      fetch(markdownFilePath)
+        .then(response => response.text())
+        .then(data => {
+          currentPageContent.value = data;
+        })
+        .catch(error => {
+          console.error(`Error loading Markdown content for ${path}:`, error);
+          currentPageContent.value = `<p>Page not found or failed to load.</p>`; // Handle error
+        });
+    }
 
     return {
-      currentPage
+      currentPageContent
     };
   }
 });
 </script>
 
 <style lang="css">
-/* Import the transition styles */
+/* Import your main styles */
 @import './style.css';
 
+/* Define fade transition styles */
 .fade-enter-active, .fade-leave-active {
   transition: opacity 0.5s;
 }
