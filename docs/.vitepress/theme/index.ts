@@ -1,4 +1,3 @@
-// https://vitepress.dev/guide/custom-theme
 import { h, defineComponent } from 'vue'
 import Theme from 'vitepress/theme'
 import RatingSystem from '../components/Rating.vue'
