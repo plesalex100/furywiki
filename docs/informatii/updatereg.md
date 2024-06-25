@@ -10,7 +10,65 @@ title: Update-uri Regulament
 
 # <center> Istoric Update Regulament </center>
 
-### UPDATE 15/06/2024
+### Update 23/06/2024
+
+Având în vedere ședința avută ieri, atât cu voi, jucătorii, cât și cu High Staff-ul, dorim să aducem următoarele precizări. Am dorit să încercăm să avem mai multă toleranță față de jucătorii cu probleme de cheating, dar tindem să credem că am încuraja folosirea cheat-urilor. Modificarea programului de jefuit, la cererea jucătorilor, a fost readusă între orele 19:00-7:00.
+
+#### Rollback [1.31 Bug-abuse / Cheating](/informatii/regulament.html#_1-31-bug-abuse-cheating)
+- Primul ban va fi permanent cu drept + ck, al doilea Ban va fi permanent fara drept.
+
+Am ajuns la aceasta concluzie deoarece am realizat ca schimbarea scrisa mai sus ar fi promovat cheating-ul, noi fiind intr-o lupta continua impotriva cheaterilor.
+
+#### Modificare [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
+- Aveți voie să jefuiți jucători doar în intervalul orar 19:00 - 07:00
+- <span style="color:red">3.09 Nu aveți voie să jefuiți aceeași persoană mai mult de o dată într-un interval de 2 ore.</span>
+
+<!-- ----------------------------------------- -->
+
+### Update 22/06/2024
+
+Pe baza formularului de feedback, am decis sa aducem regulamentului si sanctiunilor urmatoarele modificari:
+
+#### Modificare [1.15 CK](/informatii/regulament.html#_1-15-character-kill)
+- De acum situația Arma de foc vs melee va fi sancționată cu Non-Fear RP și nu cu CK.
+
+#### Modificare [1.16 Roleplay Scârbos & Înjosirea jucătorilor](/informatii/regulament.html#_1-16-roleplay-scarbos-injosirea-jucatorilor)
+- De acum RP-ul de tortură este permis.
+
+#### Modificare [1.26 SCAM](/informatii/regulament.html#_1-26-scam)
+- Orice schimb se respectă.
+- În momentul în care evitați sistemele serverului vă asumați problemele ulterioare.
+
+~~#### Modificare [1.31 Bug-abuse / Cheating](/informatii/regulament.html#_1-31-bug-abuse-cheating)~~
+~~- De acum, la primul ban de Cheats se va primi BAN 30 de zile fără interdicție. La a doua abatere se va primi ban permanent fără interdicție, iar la a 3-a abatere se va sancționa cu BAN Permanent, CK și interdicție Mafie/PD 30 de zile.~~
+
+#### Modificare [1.04 Out of Character (OOC)](/informatii/regulament.html#_1-04-out-of-character-ooc)
+- OOC mascat este acceptat în limita bunului simț.
+:::info Exemple
+“Chem pizza”, “fac bon/fac d’ăla”, "flexeaza muschiul K" etc.
+:::
+
+#### Modificare [1.06 COP-FEAR (CF)](/informatii/regulament.html#_1-06-cop-fear-cf)
+- Anulare: Se interzice să vă luați la bătaie/împușcături parte în parte cu membrii Poliției din departamentul S.I.A.S.. 
+- Excepție de la această regulă face situația în care ați dat jaf. 
+- De asemenea, excepție de la această regulă face situația în care vă aflați la una dintre locațiile de producție de armament, droguri, ilegale.
+
+#### Modificare [1.15 Character Kill](/informatii/regulament.html#_1-15-character-kill)
+- Anulat când un jucător acumulează 4 caziere.
+- Modificare: Dacă un jucător acumulează 5 caziere după 24h fără să le plătească, se va crea în MDT un mandat.
+
+#### Modificare [1.30 Acumularea sancțiunilor](/informatii/regulament.html#_1-30-acumularea-sanctiunilor)
+- Anulat: Acumularea a 3 warn-uri va duce la banarea automată de către sistem pe o perioadă de 14 zile cu drept de plată.
+- Modificare: Acumularea a 4 warn-uri va duce la banarea automată de către sistem pe o perioadă de 7 zile cu drept de plată.
+:::info
+- De acum, warn-urile vor putea fi plătite pe [store.furyrp.ro](https://store.furyrp.ro)
+:::
+
+~~#### Modificare [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)~~
+~~- Aveți voie să jefuiți jucători doar în intervalul orar 20:00 - 03:30.~~
+~~- <span style="color:red">3.09 Nu aveți voie să jefuiți aceeași persoană mai mult de o dată într-un interval de 2 ore.</span>~~
+
+<!-- ### UPDATE 15/06/2024
 
 #### Regula anulata:
 ### [1.15 Character Kill](/informatii/regulament.html#_1-15-character-kill)
@@ -128,4 +186,4 @@ locațiilor unde se desfășoară joburi legale și a garajelor.
 - Regulamentul a primit un update destul de mare asa ca am sa va rog pe toti sa il cititi din nou ca sa fiti informati.
 - Este de datoria playerilor comunitatii sa respecte regulamentul serverului.
 
--> [Regulament](/informatii/regulament) <-
+-> [Regulament](/informatii/regulament) <- -->

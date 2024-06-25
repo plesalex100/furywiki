@@ -27,9 +27,7 @@ title: Regulament General
 - Reprezintă momentul când ieșiți din ”pielea personajului” din joc, raportându-vă la viața reală.
 - Este permis doar când aveți aprobarea unui membru staff, la ticket.
 - Este strict interzis să folosiți informații aflate OOC pentru a obține un avantaj IC.
-:::danger ATENȚIE!
-- Este strict interzis să folosiți referințe OOC în IC: “Chem pizza”, “fac bon/fac d’ăla”, sau orice alt tip de mesaje ce face referire la OOC. 
-:::
+- OOC-ul mascat este acceptat în limita bunului simț: “Chem pizza”, “fac bon/fac d’ala”, “flexează mușchiul K”, etc.
 
 ### <span class="header-font">1.05 No Fear (NF) </span>
 - Reprezintă momentul în care un jucător **nu simulează frica** într-o situație Roleplay
@@ -46,7 +44,6 @@ title: Regulament General
 - Reprezintă **o subramură a No Fear-ului** ce are ca obiect simularea fricii față de **organele de poliție**.
 - Se interzice **luarea în derâdere** sub orice formă a polițiștilor. (sicanarea verbala, bataia de joc, comportament necorespunzator)
 - Se interzice **Cop-Bait-ul**, care reprezintă instigarea organelor de poliție în mod intenționat. (drifturi lângă un polițist, în fața secției de poliție, trecerea pe culoarea roșie a semaforului în mod intenționat atunci când un polițist este în preajmă)
-- Se interzice să vă luați la bătaie/împușcături parte în parte cu membrii Poliției din departamentul S.I.A.S.. Excepție de la această regulă face **situația în care ați dat jaf**. De asemenea, excepție de la această regulă face situația în care vă aflați la una dintre **locațiile de producție de armament, droguri, ilegale**.
 - Se interzice ca **odata ce ajungeti la celule**, chiar inainte sa fiti procesati, sa va tocmiti cu organele PD pentru a cere reducere la amenda/sentinta.
 
 ### <span class="header-font">1.07 Power Gaming (PG) </span>
@@ -128,9 +125,7 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 Se va primi CK atunci: 
 - Când un jucător se sinucide (/me moare, accidente intentionate).
 - La anumite situatii de no-fear
-- In momentul cand incerci sa ataci o persoana ce are arma de foc si tu ai o arma alba si mori
 - Cand esti ostatic si membrii din aceeasi organizatie nu respecta faptul ca esti luat ostatic
-- Când un jucător acumulează 4 caziere.
 - Când un jucător își trădează organizația, gruparea din care face parte.
 - Când un jucător descoperă și/sau abuzează de un BUG ce îi oferă beneficii materiale.
 
@@ -142,10 +137,8 @@ Se va primi CK atunci:
 :::
 
 ### <span class="header-font">1.16 Roleplay Scarbos & Injosirea jucatorilor</span>
-- Reprezinta Roleplay-urile ce descriu actiuni de tip Erotic Roleplay, Tortura dar si altele.
-- Este interzis ca playerii sa se implice in actiuni de tip eRP sau Tortura fara acordul celorlalte persoane.
+- Reprezinta Roleplay-urile ce descriu actiuni de tip Erotic Roleplay, dar si altele.
 - Este strict interzis sa porniti Roleplay-uri care descriu: canibalism, necrofilie, pedofilie, profanare de morminte, injosirea persoanelor lesinate/in coma prin diferite actiuni.
-- Membrii Mafiilor si Organizatiilor se pot tortura intre ei fara a cere acordul.
 - În cazul în care cineva începe un astfel de roleplay fără acordul dvs., aveți tot dreptul nu dați curs scenariului și să chemați un admin întrerupând astfel roleplay-ul. 
 :::danger ATENȚIE!
 - Este interzisă umilirea unui jucător sau forțarea acestuia să efectueze acțiuni pur și simplu în scopul amuzamentului personal [de exemplu, să-l forțezi să latre, să cânte sau să execute alte acțiuni similare].
@@ -217,24 +210,6 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Nu se considera scam in cazul in care incercati sa vindeti bunuri ce pot fi vandute prin sistemele serverului (K-> vine vehicul/vinde casa) si fentati taxele aferente acestui sistem prin a vinde bunul pe o suma infima ca dupa sa asteptati un transfer sau bani cash din partea celuilalt player.
 - Cumpararea de VIP sau Fire Coins trebuie mereu onorata sub orice forma a tranzactiilor (bunuri/bani/bani murdari), daca nu se respecta va fi BAN 30d.
 - Schimburile si schimburile cu diferenta trebuiesc onorate: Ex: Vand masina x pe 5.000.000$ + masina y, celalat jucator este obligat sa imi dea si masina y pe 1$, se aplica si la case.
-:::tip Exemple
-- EX1:
-
-Playerul Ion vede un anunt: Vand Corvette C8, se duce la playerul Marcel care vinde C8-ul si ii spune
-I: Salut, nu am cash la mine, dar iti fac transfer
-M: Ok
-Marcel ii dai masina pe 1$ si Ion fuge de langa el.
-
-In cazul acesta Marcel ar fi trebuit sa astepte ca Ion sa mearga la bancomat sa scoata banii si sa vanda din K->Vehicul->Vinde masina si sa completeze suma pe care o doreste.
-Ce poate Marcel sa faca? TICKET? NU, dar poate merge la POLITIE sa dea o declaratie, sa reclame datele, sau cu un bodycam persoana, numerele de inmatriculare, tipul de masina etc.
-EXTRA. Daca Marcel este membru dintr-o factiune ilegala isi poate rezolva problemele si altfel.
-
-- EX:
-
-Marius are un Ferarri si doreste 4.5 milioane pe el, Gigel ii spune ca ii da 5 milioane bani murdari pe el.
-Desigur Gigel este tepar si cand primeste masina, fuge.
-Ce face Marius in cazul asta? Exact ce a facut Marcel in EX1. 
-:::
 
 ### <span class="header-font">1.27 Roleplay-uri **SPECIALE/ Cu acțiuni Teroriste**</span>
 ::: warning Atenție!
@@ -259,7 +234,7 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - <span style="color:red">Se permite Tk-ul in RP, cu exceptia celor de Combat sau Rp-uri complexe cu mai multi participanti. In cazul in care se produce un fail aveti obligatia sa va retrageti intr-o zona mai retrasa si sa va spuneti punctul de vedere. ( Exceptie de la regula atunci cand fail-ul este Troll, RP scarbos, Cheats ) Neconformarea de la regula atrage sanctiuni.</span>
 
 ### <span class="header-font">1.30 Acumularea sancțiunilor</span>
-- Acumularea a 3 warn-uri va duce la banarea automată de către sistem pe o perioadă de 14 zile cu drept de plată.
+- Acumularea a 4 warn-uri va duce la banarea automată de către sistem pe o perioadă de 14 zile cu drept de plată. ( De acum, warn-urile vor putea fi plătite pe https://store.furyrp.ro/ )
 - În momentul în care un jucător va face același fail de 3 ori urmatoarea sancțiune de același tip va fi ban fără drept conform orelor.
 - Un jucător care are mai mult de 10 sancțiuni de ban pe punish-log va primi ban permanent cu drept de plată.
 - La 2 banuri permanente cu drept, al 3-lea va fi ban permanent fără drept 60 de zile.
@@ -426,7 +401,7 @@ a locurilor foarte retrase)
 - 3.06   Este interzis să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
 - 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
 - 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
-- 3.09  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 3 ore.
+- 3.09  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 2 ore.
 
 <hr style="transform: translateY(10px)"/>
 
