@@ -3,8 +3,6 @@
       <slot></slot>
     </transition>
   </template>
-  
-<!-- test -->
 
   <script>
   export default {
