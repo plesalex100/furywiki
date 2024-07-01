@@ -12,3 +12,5 @@ title: Afaceri cu Firecoins
 
 - **FireCoins achiziționate pe un ID nu se pot transfera/vinde.**
 :::
+
+<!-- test -->
