@@ -1,7 +1,12 @@
 {
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.74",
-    "vue": "^3.2.47"
+    "vite": ">=4.5.3",
+    "vue": "^3.2.47",
+    "url-parse": ">=1.5.9",
+    "async": ">=2.6.4",
+    "nth-check": ">=2.0.1",
+    "lodash": ">=4.17.21"
   },
   "scripts": {
     "dev": "vitepress dev docs --host 0.0.0.0 --port 5000",
