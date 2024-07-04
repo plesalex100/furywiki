@@ -11,8 +11,13 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
     "@vue/theme": "^2.2.5",
+    "vite": ">=4.5.3",
     "primevue": "^3.52.0",
     "sitemap-generator": "^8.5.1",
-    "vuex": "^4.0.2"
+    "vuex": "^4.0.2",
+    "url-parse": ">=1.5.9",
+    "async": ">=2.6.4",
+    "nth-check": ">=2.0.1",
+    "lodash": ">=4.17.21"
   }
 }
