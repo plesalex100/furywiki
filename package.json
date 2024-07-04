@@ -9,7 +9,10 @@
     "preview": "vitepress preview docs"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
     "@vue/theme": "^2.2.5",
-    "sitemap-generator": "^8.5.1"
+    "primevue": "^3.52.0",
+    "sitemap-generator": "^8.5.1",
+    "vuex": "^4.0.2"
   }
 }
