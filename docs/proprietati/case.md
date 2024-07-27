@@ -207,7 +207,6 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 - Zonă de relaxare
 
 ![loungeResidence](https://i.imgur.com/9oIMlZQ.png){.framed-photo}
-:::
 
 ## <span class="header-font">Cum pot achiziționa un apartament în Fury Residence?</span>
 
