@@ -166,6 +166,7 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 
 <hr style="transform: translateY(10px)"/>
 
+
 # <span class="title-font"><center>Fury Residence</center></span>
 
 ## <span class="header-font">Ce este Fury Residence?</span>
