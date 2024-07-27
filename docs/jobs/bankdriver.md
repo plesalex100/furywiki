@@ -34,10 +34,8 @@ Acest job constă în încărcarea servietelor cu bani în dubă și livrarea lo
 - Odată ce ați început tura, mergeți la depozitul dedicat servietelor cu bani pentru a încărca coletele în dubă.
 - Când ați ajuns la depozit, parcați mașina în dreptul ușii acestuia sau undeva ușor accesibil și începeți să încărcați servietele (acestea se încarcă pe partea dreaptă a mașinii, pe ușa ce oferă acces în portbagajul dubei).
 :::
-TODO
 ![parcare masina](https://i.imgur.com/rYblMB5.gif){.framed-gif}
 
-TODO
 ![coleteIncarcate](https://i.imgur.com/Ro6XTaO.gif){.framed-gif}
 
 :::info
