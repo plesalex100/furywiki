@@ -171,6 +171,7 @@ export default defineConfig({
         activeMatch: `^/informatii/`,
         items: [
           { text: "Spălarea Banilor", link: '/economie/spalare' },
+          { text: "Amanet de obiecte", link: '/economie/amanet' },
           { 
             text: "Business-uri"
             , collapsed: true,
