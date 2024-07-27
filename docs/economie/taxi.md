@@ -16,6 +16,9 @@ title: Firmă de taxi
 ![](https://i.imgur.com/lbGG8xm.png){.framed-photo}
 
 - În caz că aveți nevoie de servicii de taxi / din orice alt motiv aveți nevoie de un taxi puteți face apel folosind [telefonul](/general/telefon.html).
+
+:::tip UTIL!
+- Chiar dacă firma nu are niciun șofer activ dar deține o mașină Tesla de tip Self Taxi, puteți apela pentru a fi transportat de aceasta. Self Taxi-ul este un serviciu oferit de către firmele de taxi ce dețin mașini Tesla și este disponibil pentru toți jucătorii care doresc să fie transportați de un taxi futuristic, fără șofer, care vă va duce la destinație cu ajutorul inteligenței artificiale oferită de Fury OS.
 :::
 
 :::tip Apelare șofer responsabil de cursa dvs
