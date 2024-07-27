@@ -56,7 +56,7 @@ Acest job constă în transportarea remorcilor cu marfă de la un punct la altul
 ![skillsTab](https://i.imgur.com/I2NGRbF.png){.framed-photo}
 
 :::tip Skill Points
-- La 50 curse efectuate, primiți 1 punct pe care îl puteți atribui în meniul de skills.
+- La 50 (50xp points) curse efectuate, primiți 1 punct pe care îl puteți atribui în meniul de skills.
 :::
 
 :::warning Atenție!
