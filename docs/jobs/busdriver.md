@@ -10,7 +10,7 @@ title: Șofer de autobuz
 ### <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 10 ore.
+- Experiență de minim 25 ore.
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 :::
 

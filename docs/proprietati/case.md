@@ -163,3 +163,42 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 ## <span class="header-font">Am garaj la casă?</span>
 
 - Da, dispuneți și de un garaj la fiecare casă.
+
+<hr style="transform: translateY(10px)"/>
+
+# <span class="title-font"><center>Fury Residence</center></span>
+
+## <span class="header-font">Ce este Fury Residence?</span>
+
+![furyResidenceBuilding](){.framed-photo}
+
+- Fury Residence este un concept nou în ceea ce privește locuințele de pe server. Acestea sunt apartamente de lux care au fost create de către echipa de developeri Fury. 
+
+:::info
+Fury Residence pune la dispoziție locatarilor următoarele facilități:
+- Sală de fitness
+
+![gymResidence](){.framed-photo}
+
+- Zonă VIP
+
+![vipResidence](){.framed-photo}
+
+- Personal la recepție 24/7
+
+![receptionResidence](){.framed-photo}
+
+- Parcare privată
+
+![parkResidence](){.framed-photo}
+
+- Zonă de relaxare
+
+![loungeResidence](){.framed-photo}
+:::
+
+## <span class="header-font">Cum pot achiziționa un apartament în Fury Residence?</span>
+
+:::info
+- Apartamentele din Fury Residence au un număr limitat și sunt disponibile doar pentru achiziționare cu FireCoins.
+:::

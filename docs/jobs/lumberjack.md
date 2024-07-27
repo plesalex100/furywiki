@@ -8,7 +8,7 @@ title: Tăietor de lemne
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 125 ore.
+- Experiență de minim 75 ore.
 - Deținerea unui autoturism de tip Bison (poate fi achiziționat de la Dealership).
 - Deținerea unui topor (poate fi achiziționat de la [gunshop](/general/gunshop)).
 - Deținerea unui [permis de conducere](/general/scoala) valabil.

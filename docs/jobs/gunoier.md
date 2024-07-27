@@ -11,7 +11,7 @@ title: Gunoier
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 10 ore.
+- Nu este necesară experiență.
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 :::
 
