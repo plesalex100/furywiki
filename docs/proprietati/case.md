@@ -176,29 +176,41 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 
 :::info
 Fury Residence pune la dispoziție locatarilor următoarele facilități:
+- Fury Box
+
+![furyBoxResidence](https://i.imgur.com/GcVQYdh.png){.framed-photo}
+
+:::tip UTIL!
+- FuryBox este folosit pentru a transfera iteme din Depozitul din Paleto în Los Santos într-un timp mai scurt.
+:::
+
 - Sală de fitness
 
-![gymResidence](){.framed-photo}
+![gymResidence1](https://i.imgur.com/uwJR4JG.png){.framed-photo}
+
+![gymResidence2](https://i.imgur.com/ZeOKisW.png){.framed-photo}
 
 - Zonă VIP
 
-![vipResidence](){.framed-photo}
+![vipResidence1](https://i.imgur.com/S4fGrkk.png){.framed-photo}
+
+![vipResidence2](https://i.imgur.com/gXwKtj2.png){.framed-photo}
 
 - Personal la recepție 24/7
 
-![receptionResidence](){.framed-photo}
+![receptionResidence](https://i.imgur.com/zcya3dO.png){.framed-photo}
 
-- Parcare privată
+<!-- - Parcare privată
 
-![parkResidence](){.framed-photo}
+![parkResidence](){.framed-photo} -->
 
 - Zonă de relaxare
 
-![loungeResidence](){.framed-photo}
+![loungeResidence](https://i.imgur.com/9oIMlZQ.png){.framed-photo}
 :::
 
 ## <span class="header-font">Cum pot achiziționa un apartament în Fury Residence?</span>
 
 :::info
-- Apartamentele din Fury Residence au un număr limitat și sunt disponibile doar pentru achiziționare cu FireCoins.
+- Apartamentele din Fury Residence au un număr limitat și sunt disponibile doar pentru achiziționare cu FireCoins sau prin licitație.
 :::
