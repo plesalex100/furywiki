@@ -47,7 +47,7 @@ TODO
 ![livrareColete](https://i.imgur.com/ASosZSh.gif){.framed-gif}
 
 :::tip
-- Trebuie să deschideți portbagajul înainte de a descărca servietele din dubă! Folosiți tasta <KeyIcon keyType="z" /> pentru a deschide portbagajul.
+- Trebuie să deschideți portbagajul înainte de a descărca servietele din dubă! Folosiți tasta <span style="color:orange">J</span> pentru a deschide portbagajul.
 :::
 
 :::info

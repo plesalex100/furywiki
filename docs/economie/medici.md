@@ -20,7 +20,7 @@ title: Servicii Medicale Private
 
 ## Cum îmi pot administra afacerea?
 
-- Pentru a accesa meniul de administrare a afacerii, trebuie să intri în meniul principal (tasta <KeyIcon keyType="k"/> ) -> Business. Aici vă vor apărea mai multe opțiuni:
+- Pentru a accesa meniul de administrare a afacerii, trebuie să intri în meniul principal (tasta <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">K</span> ) -> Business. Aici vă vor apărea mai multe opțiuni:
 
 ![](https://i.imgur.com/zntNOiY.png){.framed-photo}
 

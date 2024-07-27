@@ -34,7 +34,7 @@ title: Service Auto
 ## <span class="header-font">Cum îmi pot administra afacerea?</span>
 
 :::info
-- Pentru a accesa meniul de administrare a afacerii, trebuie să intri în meniul principal (tasta <KeyIcon keyType="k"/> ) -> Business.
+- Pentru a accesa meniul de administrare a afacerii, trebuie să intri în meniul principal (tasta <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">K</span> ) -> Business.
 
 - Aici vă vor apărea mai multe opțiuni:
 

@@ -63,7 +63,7 @@ Acest job constă în transportarea remorcilor cu marfă de la un punct la altul
 
 <!-- Daca nu merg pozele in tabel, de scos comentariul de mai jos -->
 
-<!-- Fiecare logo din poza mai jos reprezintă o licență diferită:
+Fiecare logo din poza mai jos reprezintă o licență diferită:
 - ADR Explozibil
 - ADR Subst Periculoase Diverse
 - ADR Subst Inflamabile
@@ -72,12 +72,12 @@ Acest job constă în transportarea remorcilor cu marfă de la un punct la altul
 - ADR Subst Radioactive
 - Marfă de Valoare
 - Marfă Fragilă
-- Marfă Perisabilă -->
+- Marfă Perisabilă
 
 ![availableLicenses](https://i.imgur.com/Gtolix7.png){.framed-photo}
 :::
 
-| Logo                            | Licență                       |
+<!-- | Logo                            | Licență                       |
 | -------------------             | ----------------------------- |
 | https://i.imgur.com/WA8Bi0V.png | ADR Explozibil                |
 | https://i.imgur.com/PkBv0Ya.png | ADR Subst Periculoase Diverse |
@@ -89,7 +89,7 @@ Acest job constă în transportarea remorcilor cu marfă de la un punct la altul
 | https://i.imgur.com/RlyKxDp.png | Marfă Fragilă                 |
 | https://i.imgur.com/URVy3WU.png | Marfă Perisabilă              |
 
-![availableLicenses](https://i.imgur.com/Gtolix7.png){.framed-photo}
+![availableLicenses](https://i.imgur.com/Gtolix7.png){.framed-photo} -->
 
 :::info
 - După ce ați selectat cursa dorită, mergeți la locația marcată pe GPS și livrați marfa. Odată ajunși acolo, trebuie să parcați TIR-ul în zona marcată și să detașați remorca. De obicei, de la finalul fiecărei curse puteți lua o nouă cursă, fiecare locație având un punct de preluare a cursei.

@@ -28,7 +28,7 @@ P.S. FIRECOINS ACHIZIȚIONATE PE UN ID NU SE POT TRANSFERA/VINDE!
 :::info
 - Pentru a da un anunț, trebuie să intri în interiorul clădirii și să te apropii de birou pentru a plasa un anunț.
 
-- După ce ați completat detaliile, acesta va apărea pe ecran, oferind celorlalți jucători să vă ia numărul de telefon apăsând tasta <KeyIcon keyType="y"/>.
+- După ce ați completat detaliile, acesta va apărea pe ecran, oferind celorlalți jucători să vă ia numărul de telefon apăsând tasta <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Y</span>.
 
 ![](https://i.imgur.com/KnOtwRT.gif){.framed-gif}
 :::
