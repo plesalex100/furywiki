@@ -99,6 +99,10 @@ Fiecare logo din poza mai jos reprezintă o licență diferită:
 
 :::tip Terminarea cursei
 - Plata se face la finalul fiecărei curse.
-- Primiți 1 punct XP pe cursă quick.
+- Primiți 1 punct XP pe cursă quick. 
 - Primiți 1 punct xp per cursă specială.
+:::
+
+:::tip Skill Points
+- La 50 curse efectuate, primiți 1 punct pe care îl puteți atribui în meniul de skills.
 :::
