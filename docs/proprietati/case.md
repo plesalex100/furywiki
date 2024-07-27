@@ -170,12 +170,11 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 
 ## <span class="header-font">Ce este Fury Residence?</span>
 
-![furyResidenceBuilding](https://i.imgur.com/vouLxDT.png){.framed-photo}
-
 - Fury Residence este un concept nou în ceea ce privește locuințele de pe server. Acestea sunt apartamente de lux care au fost create de către echipa de developeri Fury. 
 
-:::info
-Fury Residence pune la dispoziție locatarilor următoarele facilități:
+![furyResidenceBuilding](https://i.imgur.com/vouLxDT.png){.framed-photo}
+
+### Fury Residence pune la dispoziție locatarilor următoarele facilități:
 - Fury Box
 
 ![furyBoxResidence](https://i.imgur.com/GcVQYdh.png){.framed-photo}
