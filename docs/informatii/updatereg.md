@@ -8,7 +8,7 @@ title: Update-uri Regulament
 
 ##
 
-# <center> Istoric Update Regulament </center>
+# <span class="title-font"><center> Istoric Update Regulament </center></span>
 
 ### Update 23/06/2024
 
