@@ -20,6 +20,22 @@ title: Job - Șofer de Tir
 - Puteți lucra și fără licență, dar la un control din partea poliției puteți fi sancționați.
 :::
 
+## <span class="header-font">Explicație ADR, bonusuri, skill points și plăți</span>
+
+- Plata de început se face pe distanță parcursă: <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">350$/KM</span>, după care pe greutatea transportată: <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">150$/TONĂ</span>.
+
+| Tip ADR                       | Bonus       |
+| ---------------------------   | ----------- |
+| ADR Explozibil                |     30%     |
+| ADR Subst Periculoase Diverse |     40%     |
+| ADR Subst Inflamabile         |     60%     |
+| ADR Subst Corozive            |     80%     |
+| ADR Subst Infectioase         |     90%     |
+| ADR Subst Radioactive         |     130%    |
+| Marfă de Valoare              |     50%     |
+| Marfă Fragilă                 |     40%     |
+| Marfă Perisabilă              |     30%     |
+
 ## <span class="header-font">Skills</span>
 
 :::info Skill-uri de bază
