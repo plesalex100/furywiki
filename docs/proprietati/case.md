@@ -176,6 +176,15 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 ![furyResidenceBuilding](https://i.imgur.com/vouLxDT.png){.framed-photo}
 
 ### Fury Residence pune la dispoziție locatarilor următoarele facilități:
+
+:::tip UTIL!
+- Pentru a accesa etajele superioare / parcarea / parterul (etajul principal), trebuie să folosiți liftul din interiorul clădirii.
+
+![elevatorResidence1](https://i.imgur.com/z6NNdGV.png)
+![elevatorResidence2](https://i.imgur.com/yqH7oOA.png)
+
+:::
+
 - Fury Box
 
 ![furyBoxResidence](https://i.imgur.com/GcVQYdh.png){.framed-photo}
