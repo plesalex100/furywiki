@@ -24,6 +24,9 @@ title: Job - Șofer de Tir
 
 - Plata de început se face pe distanță parcursă: <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">350$/KM</span>, după care pe greutatea transportată: <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">150$/TONĂ</span>.
 
+### <span class="header-font">ADR bonus</span>
+- La această plată se adaugă bonusul de mai jos, în funcție de licența ADR deținută și, bineînțeles, de tipul de cursă selectată.
+
 | Tip ADR                       | Bonus       |
 | ---------------------------   | ----------- |
 | ADR Explozibil                |     30%     |
@@ -36,14 +39,29 @@ title: Job - Șofer de Tir
 | Marfă Fragilă                 |     40%     |
 | Marfă Perisabilă              |     30%     |
 
-## <span class="header-font">Skills</span>
+### <span class="header-font">Skills Bonus</span>
 
-:::info Skill-uri de bază
-- Skill 1 -> plată de bază
-- Skill 2 -> 3% boost la plată
-- Skill 3 -> 6% boost la plată
-- Skill 4 -> 12% boost la plată
+- În meniul job-ului, avem tab-ul "Skills" unde putem aloca punctele de skill pentru a crește bonusul de plată. Avem 5 nivele de skill, fiecare nivel oferind un bonus din ce în ce mai mare. Tipurile de cursă care pot fi mărite cu puncte de skill sunt: 
+    - Transport Rapid
+    - Agabaritic
+    - Marfă Valoroasă
+    - Distanță Lungă
+    - Marfă Fragilă
+    - Marfă Perisabilă
+
+::tip UTIL!
+- La tipurile de cursă unde putem investi skill points nu este necesară o licență pentru a primi cursă de acel tip.
 :::
+
+#### <span class="title-font">Bonus Skill Transport Rapid</span>
+| Nivel Skill Transport Rapid   | Bonus       |
+| ---------------------------   | ----------- |
+| Nivel 1                       |     5%      |
+| Nivel 2                       |     10%     |
+| Nivel 3                       |     15%     |
+| Nivel 4                       |     30%     |
+| Nivel 5                       |     40%     |
+
 
 ## <span class="header-font">Cum practic acest job?</span>
 
