@@ -181,6 +181,7 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 - Pentru a accesa etajele superioare / parcarea / parterul (etajul principal), trebuie să folosiți liftul din interiorul clădirii.
 
 ![elevatorResidence1](https://i.imgur.com/z6NNdGV.png)
+
 ![elevatorResidence2](https://i.imgur.com/yqH7oOA.png)
 
 :::
