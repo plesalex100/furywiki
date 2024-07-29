@@ -8,7 +8,7 @@ title: Update-uri Server
 
 ##
 
-# <center> Istoric Update Server </center>
+# <span class="title-font"><center> Istoric Update Server </center></span>
 
 ## BUG-FIXES V3.0
 
