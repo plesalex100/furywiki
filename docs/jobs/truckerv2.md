@@ -55,6 +55,7 @@ title: Job - Șofer de Tir
 :::
 
 #### <span class="title-font">Bonus Skill Transport Rapid</span>
+
 | Nivel Skill Transport Rapid   | Bonus       |
 | ---------------------------   | ----------- |
 | Nivel 1                       |     5%      |
@@ -63,6 +64,19 @@ title: Job - Șofer de Tir
 | Nivel 4                       |     30%     |
 | Nivel 5                       |     40%     |
 
+#### <span class="title-font">Bonus Skill Agabaritic</span>
+
+:::warning ATENȚIE!
+- Maximul de greutate pe care o poți transporta FĂRĂ A AVEA NICIUN PUNCT PUS ÎN SKILL-UL DE TRANSPORT AGABARITIC este de 6 TONE. Cu cât sunt investite mai multe puncte în acest skill, cu atât crește limita de greutate pe care o poți transporta.
+:::
+
+| Nivel Skill Transport Agabaritic   | Limită Greutate |
+| ---------------------------        | -----------     |
+| Nivel 1                            |     8T          |
+| Nivel 2                            |     13T         |
+| Nivel 3                            |     16T         |
+| Nivel 4                            |     22T         |
+| Nivel 5                            |     fără limită |
 
 ## <span class="header-font">Cum practic acest job?</span>
 
