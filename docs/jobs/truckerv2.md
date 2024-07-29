@@ -49,8 +49,8 @@ title: Job - Șofer de Tir
 - În meniul job-ului, avem tab-ul "Skills" unde putem aloca punctele de skill pentru a crește bonusul de plată. Avem 5 nivele de skill, fiecare nivel oferind un bonus din ce în ce mai mare. Tipurile de cursă care pot fi mărite cu puncte de skill sunt: 
     - Transport Rapid
     - Agabaritic
-    - Marfă Valoroasă
     - Distanță Lungă
+    - Marfă Valoroasă
     - Marfă Fragilă
     - Marfă Perisabilă
 
@@ -75,7 +75,7 @@ title: Job - Șofer de Tir
 
 :::warning ATENȚIE!
 - Maximul de greutate pe care o poți transporta FĂRĂ A AVEA NICIUN PUNCT PUS ÎN SKILL-UL DE TRANSPORT AGABARITIC este de 6 TONE. 
-- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul de greutate pe care o poți transporta.
+- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește limita de greutate pe care o poți transporta.
 :::
 
 | Nivel Skill Transport Agabaritic   | Greutate Maximă Marfă  |
@@ -95,16 +95,15 @@ title: Job - Șofer de Tir
 #### <span class="title-font">Bonus Skill Distanță Lungă</span>
 
 :::warning ATENȚIE!
-- Maximul de lungime pe care o poți avea într-o cursă FĂRĂ A AVEA NICIUN PUNCT PUS ÎN SKILL-UL DE TRANSPORT AGABARITIC este de 6 TONE. 
-- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul de greutate pe care o poți transporta.
+- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește maximul de distanță pe care o poți parcurge într-o cursă.
 :::
 
-| Nivel Skill Transport Distanță Lungă   | Limită Distanță Maximă  |
+| Nivel Skill Transport Distanță Lungă   | Limită Distanță Maximă |
 | ---------------------------            | ------------------     |
-| Nivel 1                                |     8T                 |
-| Nivel 2                                |     13T                |
-| Nivel 3                                |     16T                |
-| Nivel 4                                |     22T                |
+| Nivel 1                                |     +2km               |
+| Nivel 2                                |     +5km               |
+| Nivel 3                                |     +7km               |
+| Nivel 4                                |     +10km              |
 | Nivel 5                                |     fără limită        |
 
 :::danger FOARTE IMPORTANT!
@@ -122,6 +121,42 @@ title: Job - Șofer de Tir
 ![valuableCargo]()
 
 | Nivel Skill Transport Marfă Valoroasă   | Bonus       |
+| ---------------------------             | ----------- |
+| Nivel 1                                 |     10%     |
+| Nivel 2                                 |     20%     |
+| Nivel 3                                 |     30%     |
+| Nivel 4                                 |     40%     |
+| Nivel 5                                 |     50%     |
+
+<hr style="transform: translateY(10px)"/>
+
+#### <span class="title-font">Bonus Skill Marfă Fragilă</span>
+
+:::warning ATENȚIE!
+- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
+:::
+
+![fragileCargo]()
+
+| Nivel Skill Transport Marfă Fragilă     | Bonus       |
+| ---------------------------             | ----------- |
+| Nivel 1                                 |     10%     |
+| Nivel 2                                 |     20%     |
+| Nivel 3                                 |     30%     |
+| Nivel 4                                 |     40%     |
+| Nivel 5                                 |     50%     |
+
+<hr style="transform: translateY(10px)"/>
+
+#### <span class="title-font">Bonus Skill Marfă Perisabilă</span>
+
+:::warning ATENȚIE!
+- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
+:::
+
+![perishableCargo]()
+
+| Nivel Skill Transport Marfă Perisabilă  | Bonus       |
 | ---------------------------             | ----------- |
 | Nivel 1                                 |     10%     |
 | Nivel 2                                 |     20%     |
