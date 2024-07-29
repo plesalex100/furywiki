@@ -49,7 +49,7 @@ title: Job - Șofer de Tir
     - Marfă Fragilă
     - Marfă Perisabilă
 
-::tip UTIL!
+:::tip UTIL!
 - La tipurile de cursă unde putem investi skill points nu este necesară o licență pentru a primi cursă de acel tip.
 :::
 
