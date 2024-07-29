@@ -64,6 +64,8 @@ title: Job - Șofer de Tir
 | Nivel 4                       |     30%     |
 | Nivel 5                       |     40%     |
 
+<hr style="transform: translateY(10px)"/>
+
 #### <span class="title-font">Bonus Skill Agabaritic</span>
 
 :::warning ATENȚIE!
