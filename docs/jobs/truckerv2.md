@@ -51,7 +51,7 @@ title: Job - Șofer de Tir
 
 :::tip UTIL!
 - La tipurile de cursă unde putem investi skill points nu este necesară o licență pentru a primi cursă de acel tip. 
-- De exemplu, pentru a primi o cursă cu marfă fragilă nu este necesară o licență de acest tip. Pentru a primi o cursă agabaritică nu este necesară o licență de acest tip, investirea skill point-ului în această categorie doar mărește limita greutății pe care o poți transporta, același lucru se aplică și pentru Transport Rapid / Distanță Lungă, etc
+- <span style="color:red">De exemplu, pentru a primi o cursă cu marfă fragilă nu este necesară o licență de acest tip. Pentru a primi o cursă agabaritică nu este necesară o licență de acest tip, investirea skill point-ului în această categorie doar mărește limita greutății pe care o poți transporta, același lucru se aplică și pentru Transport Rapid / Distanță Lungă, etc</span>
 :::
 
 #### <span class="title-font">Bonus Skill Transport Rapid</span>
