@@ -200,9 +200,9 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 
 ![receptionResidence](https://i.imgur.com/zcya3dO.png){.framed-photo}
 
-<!-- - Parcare privată
+- Parcare privată
 
-![parkResidence](){.framed-photo} -->
+![parkResidence](https://i.imgur.com/8i9YwNY.png){.framed-photo}
 
 - Zonă de relaxare
 
