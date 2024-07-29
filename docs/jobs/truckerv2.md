@@ -39,6 +39,11 @@ title: Job - Șofer de Tir
 | Marfă Fragilă                 |     40%     |
 | Marfă Perisabilă              |     30%     |
 
+:::danger FOARTE IMPORTANT!
+- Dacă nu aveți nicio licență din cele de mai sus, nu veți primi nicio cursă de acele tipuri. 
+- De exemplu, dacă aveți licență de ADR Explozibil o să începeți să primiți curse de tipul ADR Explozibil, dar nu o să primiți curse de tipul ADR Subst Periculoase Diverse, ADR Subst Inflamabile, etc.
+:::
+
 ### <span class="header-font">Skills Bonus</span>
 
 - În meniul job-ului, avem tab-ul "Skills" unde putem aloca punctele de skill pentru a crește bonusul de plată. Avem 5 nivele de skill, fiecare nivel oferind un bonus din ce în ce mai mare. Tipurile de cursă care pot fi mărite cu puncte de skill sunt: 
@@ -69,16 +74,60 @@ title: Job - Șofer de Tir
 #### <span class="title-font">Bonus Skill Agabaritic</span>
 
 :::warning ATENȚIE!
-- Maximul de greutate pe care o poți transporta FĂRĂ A AVEA NICIUN PUNCT PUS ÎN SKILL-UL DE TRANSPORT AGABARITIC este de 6 TONE. Cu cât sunt investite mai multe puncte în acest skill, cu atât crește limita de greutate pe care o poți transporta.
+- Maximul de greutate pe care o poți transporta FĂRĂ A AVEA NICIUN PUNCT PUS ÎN SKILL-UL DE TRANSPORT AGABARITIC este de 6 TONE. 
+- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul de greutate pe care o poți transporta.
 :::
 
-| Nivel Skill Transport Agabaritic   | Limită Greutate |
-| ---------------------------        | -----------     |
-| Nivel 1                            |     8T          |
-| Nivel 2                            |     13T         |
-| Nivel 3                            |     16T         |
-| Nivel 4                            |     22T         |
-| Nivel 5                            |     fără limită |
+| Nivel Skill Transport Agabaritic   | Greutate Maximă Marfă  |
+| ---------------------------        | ------------------     |
+| Nivel 1                            |     8T                 |
+| Nivel 2                            |     13T                |
+| Nivel 3                            |     16T                |
+| Nivel 4                            |     22T                |
+| Nivel 5                            |     fără limită        |
+
+:::danger FOARTE IMPORTANT!
+- Dacă nu aveți niciun punct investit în skill-ul de Agabaritic nu veți primi nicio cursă de acest tip.
+:::
+
+<hr style="transform: translateY(10px)"/>
+
+#### <span class="title-font">Bonus Skill Distanță Lungă</span>
+
+:::warning ATENȚIE!
+- Maximul de lungime pe care o poți avea într-o cursă FĂRĂ A AVEA NICIUN PUNCT PUS ÎN SKILL-UL DE TRANSPORT AGABARITIC este de 6 TONE. 
+- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul de greutate pe care o poți transporta.
+:::
+
+| Nivel Skill Transport Distanță Lungă   | Limită Distanță Maximă  |
+| ---------------------------            | ------------------     |
+| Nivel 1                                |     8T                 |
+| Nivel 2                                |     13T                |
+| Nivel 3                                |     16T                |
+| Nivel 4                                |     22T                |
+| Nivel 5                                |     fără limită        |
+
+:::danger FOARTE IMPORTANT!
+- Dacă nu aveți niciun punct investit în skill-ul de Distanță Lungă nu veți primi nicio cursă de acest tip.
+:::
+
+<hr style="transform: translateY(10px)"/>
+
+#### <span class="title-font">Bonus Skill Marfă Valoroasă</span>
+
+:::warning ATENȚIE!
+- Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
+:::
+
+![valuableCargo]()
+
+| Nivel Skill Transport Marfă Valoroasă   | Bonus       |
+| ---------------------------             | ----------- |
+| Nivel 1                                 |     10%     |
+| Nivel 2                                 |     20%     |
+| Nivel 3                                 |     30%     |
+| Nivel 4                                 |     40%     |
+| Nivel 5                                 |     50%     |
 
 ## <span class="header-font">Cum practic acest job?</span>
 
