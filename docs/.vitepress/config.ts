@@ -193,6 +193,7 @@ export default defineConfig({
           { text: "Cum licitez o proprietate?", link: '/proprietati/auction' },
           { text: "Case", link: '/proprietati/case' },
           { text: "Magazine", link: '/proprietati/magazine' },
+          { text: "Fury Electronics", link: '/proprietati/electronics' },
           { text: "Benzinarii", link: '/proprietati/benzinarii' },
           { text: "Tarabă la portbagajul dubei", link: '/proprietati/taraba' },
         ]
