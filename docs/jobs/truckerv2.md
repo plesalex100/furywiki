@@ -29,15 +29,12 @@ title: Job - Șofer de Tir
 
 |     Imagine     | Tip ADR                       | Bonus       |
 |  -------------  | ---------------------------   | ----------- |
-|  <img src="https://i.imgur.com/TIi0aMJ.png" height="48px" width="48px"/>               | ADR Explozibil                |     30%     |
-|                 | ADR Subst Periculoase Diverse |     40%     |
-|                 | ADR Subst Inflamabile         |     60%     |
-|                 | ADR Subst Corozive            |     80%     |
-|                 | ADR Subst Infectioase         |     90%     |
-|                 | ADR Subst Radioactive         |     130%    |
-|                 | Marfă de Valoare              |     50%     |
-|                 | Marfă Fragilă                 |     40%     |
-|                 | Marfă Perisabilă              |     30%     |
+| <img src="https://i.imgur.com/TIi0aMJ.png" height="48px" width="48px"/> | ADR Explozibil                |     30%     |
+| <img src="https://i.imgur.com/dCJ8eXb.png" height="48px" width="48px"/> | ADR Subst Periculoase Diverse |     40%     |
+| <img src="https://i.imgur.com/ysu3bHf.png" height="48px" width="48px"/> | ADR Subst Inflamabile         |     60%     |
+| <img src="https://i.imgur.com/bfW71sx.png" height="48px" width="48px"/> | ADR Subst Corozive            |     80%     |
+| <img src="https://i.imgur.com/9hFRkPV.png" height="48px" width="48px"/> | ADR Subst Infectioase         |     90%     |
+| <img src="https://i.imgur.com/HKEYtzT.png" height="48px" width="48px"/> | ADR Subst Radioactive         |     130%    |
 
 :::danger FOARTE IMPORTANT!
 - Dacă nu aveți nicio licență din cele de mai sus, nu veți primi nicio cursă de acele tipuri. 
