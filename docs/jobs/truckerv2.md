@@ -67,7 +67,9 @@ title: Job - Șofer de Tir
 | Nivel 5                       |     40%     |
 
 :::warning ATENȚIE!
-- Pentru a primi bonusul de Transport Rapid va trebui să livrezi marfa într-un timp de 40 secunde/
+- Pentru a primi bonusul de Transport Rapid va trebui să livrezi marfa într-un timp de 40 secunde/km. Totodată, veți primi și o notificare la începutul cursei care vă oferă timpul în care trebuie să vă încadrați pentru a beneficia de bonus.
+
+![timeLimit](https://i.imgur.com/1GgDnqX.png)
 
 <hr style="transform: translateY(10px)"/>
 
@@ -157,6 +159,28 @@ title: Job - Șofer de Tir
 | Nivel 3                                 |     30%     |
 | Nivel 4                                 |     40%     |
 | Nivel 5                                 |     50%     |
+
+<hr style="transform: translateY(10px)"/>
+
+## <span class="header-font">Exemple de curse speciale explicate</span>
+
+:::details Exemplul 1
+![specialJob1](https://i.imgur.com/a4tr7A0.png)
+
+- Cursa specială de mai sus este o cursă cu bonus de 200% (inclus în prețul afișat) pentru ADR Explozibil, cu un tonaj de 17.95T (necesar skill 4/5 la Agabaritic, limita la skill 4 fiind de 22T) și o distanță de parcurs până la preluarea remorcii de 7.34km, iar după preluarea remorcii o distanță de 7.34km până la destinație de la punctul de preluare al remorcii. Timpul măsurat care oferă bonusul de Transport Rapid începe de când ați preluat remorca.
+:::
+
+:::details Exemplul 2
+![specialJob2](https://i.imgur.com/LMhrCFa.png)
+
+- Cursa specială de mai sus este o cursă fără ADR, cu un tonaj de 14.40T (necesar skill 3/5 la Agabaritic, limita la skill 3 fiind de 16T) și o distanță de parcurs de 7.28km până la preluarea remorcii și 7.16km până la destinație de la punctul de preluare al remorcii. Timpul măsurat care oferă bonusul de Transport Rapid începe de când ați preluat remorca.
+:::
+
+:::details Exemplul 3
+![specialJob3](https://i.imgur.com/Zawcoje.png)
+
+- Cursa specială de mai sus este o cursă cu bonus de 80% (pentru skill maxim, 5/5, la Marfă Valoroasă) pentru cursă cu Marfă Valoroasă, cu un tonaj de 6.91T (necesar skill 1/5 la Agabaritic, limita la skill 4 fiind de 8T), o distanță de parcurs de 7.52km până la preluarea remorcii și 7.72km până la destinație de la punctul de preluare al remorcii. Timpul măsurat care oferă bonusul de Transport Rapid începe de când ați preluat remorca.
+:::
 
 ## <span class="header-font">Cum practic acest job?</span>
 
