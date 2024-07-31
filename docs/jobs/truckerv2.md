@@ -81,7 +81,7 @@ title: Job - Șofer de Tir
 | Nivel 2                            |     13T                |
 | Nivel 3                            |     16T                |
 | Nivel 4                            |     22T                |
-| Nivel 5                            |     fără limită        |
+| Nivel 5                            |     ∞        |
 
 :::danger FOARTE IMPORTANT!
 - Dacă nu aveți niciun punct investit în skill-ul de Agabaritic nu veți primi nicio cursă de acest tip.
@@ -101,7 +101,7 @@ title: Job - Șofer de Tir
 | Nivel 2                                |     +5km               |
 | Nivel 3                                |     +7km               |
 | Nivel 4                                |     +10km              |
-| Nivel 5                                |     fără limită        |
+| Nivel 5                                |     ∞        |
 
 :::danger FOARTE IMPORTANT!
 - Dacă nu aveți niciun punct investit în skill-ul de Distanță Lungă nu veți primi nicio cursă de acest tip.
@@ -184,6 +184,14 @@ Acest job constă în transportarea remorcilor cu marfă de la un punct la altul
 ![quickJobs](https://i.imgur.com/3j8bXpw.png){.framed-photo}
 
 ![specialJobs](https://i.imgur.com/Ec6MK5K.png){.framed-photo}
+
+:::danger GENERAREA DE CURSE SPECIALE!
+- Odată la 5 minute este generată o nouă cursă specială GLOBALĂ (PENTRU TOȚI OAMENII DE PE SERVER). Dacă sunteți eligibil pentru această cursă nouă, aceasta va fi afișată în meniul vostru de curse speciale. 
+- De ce GLOBALĂ? Pentru că toți oamenii de pe server primesc aceleași curse speciale, acestea sunt într-un loc comun, nu sunt diferite pentru fiecare jucător în parte. 
+- Asta înseamnă că în momentul în care cineva va prelua o cursă din listă, va dispărea din listă pentru toată lumea.
+- LIMITA DE CURSE SPECIALE GENERATE SUNT DE 70. Dacă această limită este atinsă, nu se vor mai genera curse speciale până când una dintre ele este terminată. Acest lucru înseamnă că trebuie să aveți puțin noroc sau să fiți pe fază pentru a prinde o cursă foarte bună / cu ADR.
+- Tipurile de curse generate (o cursă normală, fără ADR și o cursă cu una din cele 6 ADR uri + marfă valoroasă, fragilă sau perisabilă) au șanse de generare egale, adică este la întâmplare ce cursă va fi generată, nu există o șansă mai mare pentru o cursă normală să fie generată decât cea cu ADR sau alte caracteristici ce vă pot mări plata la final.
+:::
 
 ![skillsTab](https://i.imgur.com/I2NGRbF.png){.framed-photo}
 
