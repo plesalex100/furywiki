@@ -201,6 +201,10 @@ Folosiți tasta <KeyIcon keyType="x"/> pentru a plasa obiectul la nivel cu podea
 
 ![restaurantResidence](https://i.imgur.com/gXwKtj2.png){.framed-photo}
 
+![restaurantResidence2](https://i.imgur.com/eCzninJ.png){.framed-photo}
+
+![restaurantResidence3](https://i.imgur.com/OgfXqoQ.png){.framed-photo}
+
 :::tip UTIL!
 - Mancarea este mai rezistentă decat cea din magazin, în funcție de preț (hunger-ul scade mai greu). Rezidenții au reducere la mancare de 100%.
 :::
