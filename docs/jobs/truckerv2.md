@@ -29,7 +29,7 @@ title: Job - Șofer de Tir
 
 |     Imagine     | Tip ADR                       | Bonus       |
 |  -------------  | ---------------------------   | ----------- |
-|  <img src="https://i.imgur.com/TIi0aMJ.png" />               | ADR Explozibil                |     30%     |
+|  <img src="https://i.imgur.com/TIi0aMJ.png" height="48px" width="48px"/>               | ADR Explozibil                |     30%     |
 |                 | ADR Subst Periculoase Diverse |     40%     |
 |                 | ADR Subst Inflamabile         |     60%     |
 |                 | ADR Subst Corozive            |     80%     |
