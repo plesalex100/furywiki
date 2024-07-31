@@ -188,7 +188,7 @@ Acest job constă în transportarea remorcilor cu marfă de la un punct la altul
 
 ![specialJobs](https://i.imgur.com/AgJYoyS.png){.framed-photo}
 
-- <span style="color:red">În secțiunea de plată, la cursele cu ADR, bonusul de la ADR este inclus în prețul afișat. În schimb, la cursele cu Marfă Valoroasă, Marfă Fragilă, Marfă Perisabilă, bonusul de la skill-urile de mai sus nu este inclus în prețul afișat și va fi acordat la finalizarea cursei.</span>
+- <span style="color:orange">În secțiunea de plată, la cursele cu ADR, bonusul de la ADR este inclus în prețul afișat. În schimb, la cursele cu Marfă Valoroasă, Marfă Fragilă, Marfă Perisabilă, bonusul de la skill-urile de mai sus nu este inclus în prețul afișat și va fi acordat la finalizarea cursei.</span>
 
 :::danger GENERAREA DE CURSE SPECIALE!
 - Odată la 5 minute este generată o nouă cursă specială GLOBALĂ (PENTRU TOȚI OAMENII DE PE SERVER). Dacă sunteți eligibil pentru această cursă nouă, aceasta va fi afișată în meniul vostru de curse speciale. 
