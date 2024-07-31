@@ -216,20 +216,6 @@ Fiecare logo din poza mai jos reprezintă o licență diferită:
 ![availableLicenses](https://i.imgur.com/Gtolix7.png){.framed-photo}
 :::
 
-<!-- | Logo                            | Licență                       |
-| -------------------             | ----------------------------- |
-| https://i.imgur.com/WA8Bi0V.png | ADR Explozibil                |
-| https://i.imgur.com/PkBv0Ya.png | ADR Subst Periculoase Diverse |
-| https://i.imgur.com/sgMPibd.png | ADR Subst Inflamabile         |
-| https://i.imgur.com/HNLflF1.png | ADR Subst Corozive            |
-| https://i.imgur.com/f82p0kr.png | ADR Subst Infectioase         |
-| https://i.imgur.com/y1ha0Ia.png | ADR Subst Radioactive         |
-| https://i.imgur.com/fXUuzhV.png | Marfă de Valoare              |
-| https://i.imgur.com/RlyKxDp.png | Marfă Fragilă                 |
-| https://i.imgur.com/URVy3WU.png | Marfă Perisabilă              |
-
-![availableLicenses](https://i.imgur.com/Gtolix7.png){.framed-photo} -->
-
 :::info
 - După ce ați selectat cursa dorită, mergeți la locația marcată pe GPS și livrați marfa. Odată ajunși acolo, trebuie să parcați TIR-ul în zona marcată și să detașați remorca. De obicei, de la finalul fiecărei curse puteți lua o nouă cursă, fiecare locație având un punct de preluare a cursei.
 
