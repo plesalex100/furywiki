@@ -27,17 +27,17 @@ title: Job - Șofer de Tir
 ### <span class="header-font">ADR bonus</span>
 - La această plată se adaugă bonusul de mai jos, în funcție de licența ADR deținută și, bineînțeles, de tipul de cursă selectată.
 
-| Tip ADR                       | Bonus       |
-| ---------------------------   | ----------- |
-| ADR Explozibil                |     30%     |
-| ADR Subst Periculoase Diverse |     40%     |
-| ADR Subst Inflamabile         |     60%     |
-| ADR Subst Corozive            |     80%     |
-| ADR Subst Infectioase         |     90%     |
-| ADR Subst Radioactive         |     130%    |
-| Marfă de Valoare              |     50%     |
-| Marfă Fragilă                 |     40%     |
-| Marfă Perisabilă              |     30%     |
+|     Imagine     | Tip ADR                       | Bonus       |
+|  -------------  | ---------------------------   | ----------- |
+|  <Image src="https://i.imgur.com/TIi0aMJ.png" />               | ADR Explozibil                |     30%     |
+|                 | ADR Subst Periculoase Diverse |     40%     |
+|                 | ADR Subst Inflamabile         |     60%     |
+|                 | ADR Subst Corozive            |     80%     |
+|                 | ADR Subst Infectioase         |     90%     |
+|                 | ADR Subst Radioactive         |     130%    |
+|                 | Marfă de Valoare              |     50%     |
+|                 | Marfă Fragilă                 |     40%     |
+|                 | Marfă Perisabilă              |     30%     |
 
 :::danger FOARTE IMPORTANT!
 - Dacă nu aveți nicio licență din cele de mai sus, nu veți primi nicio cursă de acele tipuri. 
