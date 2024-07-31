@@ -115,7 +115,7 @@ title: Job - Șofer de Tir
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
 :::
 
-![valuableCargo]()
+<img src="https://i.imgur.com/DuEDqVJ.png" alt="valuableCargo"/>
 
 | Nivel Skill Transport Marfă Valoroasă   | Bonus       |
 | ---------------------------             | ----------- |
@@ -133,7 +133,7 @@ title: Job - Șofer de Tir
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
 :::
 
-![fragileCargo]()
+<img src="https://i.imgur.com/ddSa2np.png" alt="fragileCargo"/>
 
 | Nivel Skill Transport Marfă Fragilă     | Bonus       |
 | ---------------------------             | ----------- |
@@ -151,7 +151,7 @@ title: Job - Șofer de Tir
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
 :::
 
-![perishableCargo]()
+<img src="https://i.imgur.com/kbQ3rqc.png" alt="perishableCargo"/>
 
 | Nivel Skill Transport Marfă Perisabilă  | Bonus       |
 | ---------------------------             | ----------- |
