@@ -223,7 +223,7 @@ Fiecare logo din poza mai jos reprezintă o licență diferită:
 :::
 
 :::tip Terminarea cursei
-- Plata se face la finalul fiecărei curse.
+- Plata se face la finalul fiecărei curse, iar pentru cursele de tip Marfă Valoroasă, Marfă Fragilă și Marfă Perisabilă, bonusul va fi acordat la finalizarea cursei, la cursele ADR bonusul este inclus în plata afișată.
 - Primiți 1 punct XP pe cursă quick. 
 - Primiți 1 punct xp per cursă specială.
 :::
