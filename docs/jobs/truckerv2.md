@@ -112,7 +112,7 @@ title: Job - Șofer de Tir
 
 <hr style="transform: translateY(10px)"/>
 
-#### <span class="title-font">Bonus Skill Marfă Valoroasă</span> <img src="https://i.imgur.com/DuEDqVJ.png" alt="valuableCargo" width="48px" height="48px"/>
+#### <img src="https://i.imgur.com/DuEDqVJ.png" alt="valuableCargo" width="35px" height="35px"/><span class="title-font">Bonus Skill Marfă Valoroasă</span>
 
 :::warning ATENȚIE!
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
@@ -128,7 +128,7 @@ title: Job - Șofer de Tir
 
 <hr style="transform: translateY(10px)"/>
 
-#### <span class="title-font">Bonus Skill Marfă Fragilă</span> <img src="https://i.imgur.com/ddSa2np.png" alt="fragileCargo" width="48px" height="48px"/>
+#### <img src="https://i.imgur.com/ddSa2np.png" alt="fragileCargo" width="35px" height="35px"/><span class="title-font">Bonus Skill Marfă Fragilă</span> 
 
 :::warning ATENȚIE!
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
@@ -144,7 +144,7 @@ title: Job - Șofer de Tir
 
 <hr style="transform: translateY(10px)"/>
 
-#### <span class="title-font">Bonus Skill Marfă Perisabilă</span> <img src="https://i.imgur.com/kbQ3rqc.png" alt="perishableCargo" width="48px" height="48px"/>
+#### <img src="https://i.imgur.com/kbQ3rqc.png" alt="perishableCargo" width="35px" height="35px"/><span class="title-font">Bonus Skill Marfă Perisabilă</span>
 
 :::warning ATENȚIE!
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
