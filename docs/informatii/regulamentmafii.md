@@ -37,7 +37,7 @@ title: Regulament OOC Mafii/Organizații Ilegale
 ### <span class="header-font"> 5. Promisiuni de grade/beneficii în schimbul muncii </span>
 - Va este interzis sa mințiți civilii ca le dați grade de mafie sau orice fel de beneficii in schimbul muncii lor ( la mina, livrat sau orice altceva). Daca le spuneți ca o sa primească ceva si nu va țineți de cuvânt o sa fiți sancționați conform regulii de scam.
 
-### <span class="header-font"> 6. Bobardier </span>
+### <span class="header-font"> 6. Bombardier </span>
 -  Va este interzis sa aveți un comportament de „bombardier” cu restul playerilor, doar pentru ca voi aveți un grad de facțiune câștigat in urma unor taskuri. 
 - Limbajul si comportamentul trebuie adaptat in funcție de situația in care va aflați, mai ales ca unele facțiuni roleaza membrii de ganguri/huligani etc. 
 - Asta nu va sustrage de la aceasta regula si ar trebui sa țineți un comportament decent si sa va îndepărtați de persoanele problematici/civili „turmentați”
