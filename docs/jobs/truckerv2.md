@@ -70,6 +70,7 @@ title: Job - Șofer de Tir
 - Pentru a primi bonusul de Transport Rapid va trebui să livrezi marfa într-un timp de 40 secunde/km. Totodată, veți primi și o notificare la începutul cursei care vă oferă timpul în care trebuie să vă încadrați pentru a beneficia de bonus.
 
 ![timeLimit](https://i.imgur.com/1GgDnqX.png)
+:::
 
 <hr style="transform: translateY(10px)"/>
 
