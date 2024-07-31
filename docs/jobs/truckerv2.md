@@ -95,12 +95,12 @@ title: Job - Șofer de Tir
 
 :::warning ATENȚIE!
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește maximul de distanță pe care o poți parcurge într-o cursă.
-- Maximul de distanță pentru o cursă fără a avea un punct de skill investit este de 1km.
+- Maximul de distanță pentru o cursă fără a avea un punct de skill investit este de 2km.
 :::
 
 | Nivel Skill Transport Distanță Lungă   | Limită Distanță Maximă |
 | ---------------------------            | ------------------     |
-| Nivel 1                                |     +2km               |
+| Nivel 1                                |     +3km               |
 | Nivel 2                                |     +5km               |
 | Nivel 3                                |     +7km               |
 | Nivel 4                                |     +10km              |
