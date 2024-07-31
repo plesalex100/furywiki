@@ -73,12 +73,9 @@ Există 4 tipuri de case:
 
 :::info
 - Pentru a vedea unde se află casa ta personală aveți pe hartă următorul blips:
-![](https://i.imgur.com/x101KQM.png){.framed-photo}
-
-- Pentru a vedea unde se află casa unde ai chirie aveți pe hartă următorul blips:
 ![](https://i.imgur.com/q490CkC.png){.framed-photo}
 
-- Pentru a vedea unde se află casa de la care aveți copie la cheie aveți pe hartă următorul blips:
+- Pentru a vedea unde se află casa unde ai chirie sau copie la cheie aveți pe hartă următorul blips:
 ![](https://i.imgur.com/W8BZwkZ.png){.framed-photo}
 :::
 
