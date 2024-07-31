@@ -212,9 +212,6 @@ Fiecare logo din poza mai jos reprezintă o licență diferită:
 - ADR Subst Corozive
 - ADR Subst Infectioase
 - ADR Subst Radioactive
-- Marfă de Valoare
-- Marfă Fragilă
-- Marfă Perisabilă
 
 ![availableLicenses](https://i.imgur.com/Gtolix7.png){.framed-photo}
 :::
