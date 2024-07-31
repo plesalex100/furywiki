@@ -112,7 +112,7 @@ title: Job - Șofer de Tir
 
 <hr style="transform: translateY(10px)"/>
 
-#### <img src="https://i.imgur.com/DuEDqVJ.png" alt="valuableCargo" width="20px" height="20px"/><span class="title-font">Bonus Skill Marfă Valoroasă</span>
+#### <img src="https://i.imgur.com/DuEDqVJ.png" alt="valuableCargo" width="35px" height="35px"/><span class="title-font">Bonus Skill Marfă Valoroasă</span>
 
 :::warning ATENȚIE!
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
