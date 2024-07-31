@@ -27,14 +27,14 @@ title: Job - Șofer de Tir
 ### <span class="header-font">ADR bonus</span>
 - La această plată se adaugă bonusul de mai jos, în funcție de licența ADR deținută și, bineînțeles, de tipul de cursă selectată.
 
-|     Imagine     | Tip ADR                       | Bonus       |
-|  -------------  | ---------------------------   | ----------- |
-| <img src="https://i.imgur.com/TIi0aMJ.png" height="48px" width="48px"/> | ADR Explozibil                |     30%     |
-| <img src="https://i.imgur.com/dCJ8eXb.png" height="48px" width="48px"/> | ADR Subst Periculoase Diverse |     40%     |
-| <img src="https://i.imgur.com/ysu3bHf.png" height="48px" width="48px"/> | ADR Subst Inflamabile         |     60%     |
-| <img src="https://i.imgur.com/bfW71sx.png" height="48px" width="48px"/> | ADR Subst Corozive            |     80%     |
-| <img src="https://i.imgur.com/9hFRkPV.png" height="48px" width="48px"/> | ADR Subst Infectioase         |     90%     |
-| <img src="https://i.imgur.com/HKEYtzT.png" height="48px" width="48px"/> | ADR Subst Radioactive         |     130%    |
+|     Imagine                                                             | Tip ADR                       | Bonus        |
+|  ---------------------------------------------------------------------- | ---------------------------   | -----------  |
+| <img src="https://i.imgur.com/TIi0aMJ.png" height="48px" width="48px"/> | ADR Explozibil                |     200%     |
+| <img src="https://i.imgur.com/dCJ8eXb.png" height="48px" width="48px"/> | ADR Subst Periculoase Diverse |     220%     |
+| <img src="https://i.imgur.com/ysu3bHf.png" height="48px" width="48px"/> | ADR Subst Inflamabile         |     240%     |
+| <img src="https://i.imgur.com/bfW71sx.png" height="48px" width="48px"/> | ADR Subst Corozive            |     260%     |
+| <img src="https://i.imgur.com/9hFRkPV.png" height="48px" width="48px"/> | ADR Subst Infectioase         |     280%     |
+| <img src="https://i.imgur.com/HKEYtzT.png" height="48px" width="48px"/> | ADR Subst Radioactive         |     350%     |
 
 :::danger FOARTE IMPORTANT!
 - Dacă nu aveți nicio licență din cele de mai sus, nu veți primi nicio cursă de acele tipuri. 
@@ -112,13 +112,11 @@ title: Job - Șofer de Tir
 
 <hr style="transform: translateY(10px)"/>
 
-#### <span class="title-font">Bonus Skill Marfă Valoroasă</span>
+#### <span class="title-font">Bonus Skill Marfă Valoroasă</span> <img src="https://i.imgur.com/DuEDqVJ.png" alt="valuableCargo" width="48px" height="48px"/>
 
 :::warning ATENȚIE!
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
 :::
-
-<img src="https://i.imgur.com/DuEDqVJ.png" alt="valuableCargo"/>
 
 | Nivel Skill Transport Marfă Valoroasă   | Bonus       |
 | ---------------------------             | ----------- |
@@ -130,13 +128,11 @@ title: Job - Șofer de Tir
 
 <hr style="transform: translateY(10px)"/>
 
-#### <span class="title-font">Bonus Skill Marfă Fragilă</span>
+#### <span class="title-font">Bonus Skill Marfă Fragilă</span> <img src="https://i.imgur.com/ddSa2np.png" alt="fragileCargo" width="48px" height="48px"/>
 
 :::warning ATENȚIE!
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
 :::
-
-<img src="https://i.imgur.com/ddSa2np.png" alt="fragileCargo"/>
 
 | Nivel Skill Transport Marfă Fragilă     | Bonus       |
 | ---------------------------             | ----------- |
@@ -148,13 +144,11 @@ title: Job - Șofer de Tir
 
 <hr style="transform: translateY(10px)"/>
 
-#### <span class="title-font">Bonus Skill Marfă Perisabilă</span>
+#### <span class="title-font">Bonus Skill Marfă Perisabilă</span> <img src="https://i.imgur.com/kbQ3rqc.png" alt="perishableCargo" width="48px" height="48px"/>
 
 :::warning ATENȚIE!
 - Cu cât sunt investite mai multe puncte în acest skill, cu atât crește bonusul la acest tip de cursă.
 :::
-
-<img src="https://i.imgur.com/kbQ3rqc.png" alt="perishableCargo"/>
 
 | Nivel Skill Transport Marfă Perisabilă  | Bonus       |
 | ---------------------------             | ----------- |
