@@ -87,11 +87,7 @@ title: Job - Șofer de Tir
 | Nivel 2                            |     13T                |
 | Nivel 3                            |     16T                |
 | Nivel 4                            |     22T                |
-| Nivel 5                            |     ∞        |
-
-:::danger FOARTE IMPORTANT!
-- Dacă nu aveți niciun punct investit în skill-ul de Agabaritic nu veți primi nicio cursă de acest tip.
-:::
+| Nivel 5                            |     ∞                  |
 
 <hr style="transform: translateY(10px)"/>
 
