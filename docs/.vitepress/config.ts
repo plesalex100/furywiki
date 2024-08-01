@@ -168,9 +168,9 @@ export default defineConfig({
             items: [ 
               // in ordinea numarului de ore necesare - low to high
               { text: "Droguri", link: '/jobs/ilegale/drugs' },               
-              { text: "Arme", link: '/jobs/ilegale/weapons' },             
-              { text: "Furt de mașini", link: '/jobs/ilegale/lockpick' },               
-              { text: "Hacker", link: '/jobs/ilegale/hacker' },  
+              { text: "Arme", link: '/jobs/ilegale/weapons' },
+              { text: "Hacker", link: '/jobs/ilegale/hacker' },            
+              { text: "Furt de mașini", link: '/jobs/ilegale/lockpick' }                
               // { text: "", link: '/jobs/' },             
               // { text: "", link: '/jobs/' },     
               // { text: "", link: '/jobs/' },              
