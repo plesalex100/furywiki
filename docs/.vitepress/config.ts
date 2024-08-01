@@ -163,7 +163,7 @@ export default defineConfig({
             ]
           },
           {
-            text: "Joburi ilegale",
+            text: "Joburi ilegale", link: '/jobs/ilegale',
             collapsed: true,
             items: [ 
               // in ordinea numarului de ore necesare - low to high
