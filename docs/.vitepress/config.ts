@@ -162,7 +162,21 @@ export default defineConfig({
               { text:"Muncitor la Carieră", link: '/jobs/minerv2' }   // 550h
             ]
           },
-          { text: 'Activități ilegale', link: '/jobs/ilegale' },
+          {
+            text: "Joburi ilegale",
+            collapsed: true,
+            items: [ 
+              // in ordinea numarului de ore necesare - low to high
+              { text: "Droguri", link: '/jobs/ilegale/drugs' },               
+              { text: "Arme", link: '/jobs/ilegale/weapons' },             
+              { text: "Furt de mașini", link: '/jobs/ilegale/lockpick' },               
+              { text: "Hacker", link: '/jobs/ilegale/hacker' },  
+              // { text: "", link: '/jobs/' },             
+              // { text: "", link: '/jobs/' },     
+              // { text: "", link: '/jobs/' },              
+              
+            ]
+          },
         ]
       },
 
