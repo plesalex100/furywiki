@@ -10,6 +10,60 @@ title: Update-uri Regulament
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
+### Update 01/08/2024
+
+#### [8.0 Regulament Jafuri / Banca Pacific / Transport](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific-transport)
+Jaf Pacific:
+- maximul de persoane ce pot participa la actiunea de Jaf la Banca Pacific este 22
+- se considera foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viata in pericol a cetatenilor, LSPD va intra folosind forta letala
+
+Jaf Interceptare:
+- maximul de persoane ce pot participa la actiune de Interceptare este 26
+- nu se considera foc deschis, iar LSPD doar va mentine zona sigura si va crea un perimetru in care trecatorii vor fi perchezitionati, iar in cazul nerespectarii ordinelor imobilizati
+- in cazul in care trecatorii sunt vizibili inarmati vor fi somati, iar mai apoi doborati
+- in cazul in care trecatorii incearca sa patrunda intr-un perimetru restrans al valizei, membrii LSPD pot deschide focul, avand in vedere cauza probabila ca acesta sa fie un membru al jafului
+
+Transport:
+- numarul maxim de persoane ce pot participa la actiunea de Transport este 25
+- se considera foc deschis doar din momentul in care cei care ataca transportul, deschid focul
+- LSPD are dreptul sa opreasca si sa imobilizeze prin orice mijloace cei ce nu respecta semnalele de urgenta si prioritatea convoiului
+
+Fleeca:
+- actiunea de tip Jaf la Banca Fleeca va fi efectuata cu un numar de minim 4 persoane, maxim 7 persoane, avand in vedere dimensiunile bancii
+- pentru acest jaf este obligatorie luarea de ostatici
+- in schimbul sigurantei ostaticului/ostaticilor se va cere calea libera, iar un tip de unitate specializata sa nu participe la urmarire de la inceput(HS, Moto, Heli, acestea se pot alatura urmaririi in timp, dar nu au voie sa va urmareasca la inceput)
+- nu se considera foc deschis, la acest jaf se negociaza
+- armele vor trebui indreptate strict catre ostatic/ostatici, daca exista arme indreptate asupra unitatilor LSPD acestia va pot soma sa nu ii mai amenintati sau vor deschide focul, viata lor fiind pusa in pericol de arma ce ii ameninta.
+
+Vangelico:
+- actiunea de tip Jaf la magazinul de bijuterii Vangelico va fi efectuat cu un numar minim de 4 persoane, maxim 12 persoane.
+- nu este foc deschis la acest jaf, se respecta regula de a imobiliza/de a soma un jefuitor
+- se pot lua ostatici si la Jaf Vangelico, iar conditiile de negociere se respecte ca la Fleeca
+
+#### [1.02 Fail Roleplay](/informatii/regulament.html#_1-02-fail-roleplay-frp)
+- Se considera FailRP din partea membrilor LSPD, care incep ei primii focul (Exceptand Regulament jafuri) fara a fi un cod 0 efectiv in zona. In momentul in care membrii LSPD deschid focul doar ca sa captureze pe cineva ce nu le-a pus viata in pericol cu o arma alba/arma de foc se considera FailRP deoarece misiunea membrilor LSPD in Los Santos este de a proteja cetatenii si a imobiliza infractorii cu un nivel de forta adecvat.Nu este considerat FailRP momentul in care in urma unui ordin al unui Superior din cadrul LSPD se va deschide focul la roti pentru imobilizarea suspectului/suspectilor.
+
+#### [1.31 Cheating/Bug-Abuse](/informatii/regulament.html#_1-31-bug-abuse-cheating)
+
+- Asocierea cu un cheater/grup de cheateri/comunitate de cheateri poate atrage sanctiuni asupra playerilor care nu folosesc ei individual cheats sau nu abuzeaza de bugguri dar au de castigat de pe urma celor care le folosesc in scopul castigului unui anumit grup de persoane. In aceste cazuri toate persoanele ce au participat la actiunile cu persoana ce folosea cheats vor primi un ban de 14d-30d dupa gravitate, vor avea eventual anumite iteme confiscate, iar in cazuri grave CK. (Decizie luata impreuna cu un Admin 4+)
+
+#### [1.18 Toxicitatea](/informatii/regulament.html#_1-18-toxicitatea)
+- “Plansul fara motiv”, prin aceasta regula ne referim la playerii care uneori din cauza supararilor IC incep sa aiba un comportament de “plangacios” pe canalele OOC fata de staff-ul comunitatii. Acest comportament este considerat unul toxic, iar noi promovam o comunitate cat mai libera, fara toxicitate. (Decizie luata impreuna cu un Admin 5+)
+
+- Acuzatiile de favoritisme fara dovezi aferente vor fi considerate toxicitate, deoarece acuzatiile fara dovezi nu pot fi luate in calcul, dar acuzatiile de favoritisme implica si denigrarea unui membru staff si a impartialitatii acestuia de a rezolva un ticket/problema. (Decizie luata impreuna cu un Admin 5+)
+
+- Orice metoda de a submina activitatea pe care: Scripterii/Designerii/Membrii staff care lucreaza la updateuri/Quality of Life/Hotfixuri va fi considerata toxicitate si va atrage ban fara drept in functie de caz. (Decizie luata impreuna cu un Admin 5+)
+
+Ex: Normal ca nu mai vine update-ul, daca se sta pe riftul invocatorului.
+
+#### [Regulament OOC Mafii/Organizatii](/informatii/regulamentmafii.html)
+18. Bait poliție
+- Bait-ul politistilor sau inceperea unei actiuni de tip DM cu membrii LSPD pe zona voastra sau o pe o zona rau famata fara un motiv bine intemeiat atrage sanctiunea de Low Effort RP persoanelor prezente la actiune si FW mafiei(La decizia Sindicat+HighStaff)
+
+19. Jefuitul 
+- Este strict interzis ca Mafie sau Organizatie sa efectuati actiuni de tip "jefuit" fara un motiv bine intemeiat, va este strict interzis sa jefuiti o persoana daca nu stiti sigur cine este acea persoana si daca apartine unei familii/mafii/organizatii. Un motiv bine intemeiat poate fi considerat o cearta intre mafii, care a fost declarata mai departe membrilor Sindicat in mod IC. Confiscarea de arme in urma unor reguli IC pe zonele detinute de mafii/organizatii nu se considera jefuit.
+
+
 ### Update 23/06/2024
 
 Având în vedere ședința avută ieri, atât cu voi, jucătorii, cât și cu High Staff-ul, dorim să aducem următoarele precizări. Am dorit să încercăm să avem mai multă toleranță față de jucătorii cu probleme de cheating, dar tindem să credem că am încuraja folosirea cheat-urilor. Modificarea programului de jefuit, la cererea jucătorilor, a fost readusă între orele 19:00-7:00.
