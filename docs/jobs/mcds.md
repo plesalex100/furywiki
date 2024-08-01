@@ -7,7 +7,7 @@ title: Mc Donalds
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 50 ore.
+- Experiență de minim 25 ore.
 :::
 
 ## <span class="header-font">Cum practic acest job?</span>

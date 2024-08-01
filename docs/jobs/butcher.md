@@ -7,7 +7,7 @@ title: Măcelar
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 25 ore.
+- Experiență de minim 50 ore.
 - Deținerea unui [permis de conducere](/general/scoala) valabil (opțional).
 :::
 

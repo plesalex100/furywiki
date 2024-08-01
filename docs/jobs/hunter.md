@@ -10,7 +10,7 @@ title: Vanator
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 150 ore.
+- Experiență de minim 300 ore.
 - Deținerea unui tip de armă specială -> Musket (poate fi achiziționată de la NPC-ul jobului).
 - Deținerea unei [licențe](/general/licente) de vânător pentru a putea lucra legal.
 :::
