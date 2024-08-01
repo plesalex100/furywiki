@@ -18,4 +18,4 @@ title: Activități Ilegale
 
 - Singurele informații de care puteți beneficia sunt numărul de ore necesare pentru a putea practica activitatea respectivă. Acestea pot fi văzute în cadrul acestei categorii.
 
-![ilegaleCategory](https://i.imgur.com/a4apiCV.png){ .framed-photo}
+![ilegaleCategory](https://i.imgur.com/qgqVoQt.gif){ .framed-gif}
