@@ -49,7 +49,7 @@ title: Regulament OOC Mafii/Organizații Ilegale
 - Nu aveți voie sa va aliați cu alte facțiuni/civili pentru a va bate cu politia. Singura abstracție de la aceasta regula este când Politia intervine peste voi si sunteți in același loc/același vehicul.
 
 ### <span class="header-font"> 9. Minimul de ore pentru grad </span>
-- <span style="color:red">Minimul de ore pentru un membru de mafie este 250h.</span>
+- <span style="color:red">Minimul de ore pentru un membru de mafie/organizație este 250h.</span>
 
 ### <span class="header-font"> 10. Discord </span>
 - Membri mafiilor sunt obligati sa fie prezenti pe un canal de pe discord-ul de mafie la actiuni sau cand se joaca. (PE DEAFEN DESIGUR)
