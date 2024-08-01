@@ -132,10 +132,6 @@ Se va primi CK atunci:
 ***Pentru mafii: daca aveti situatie de ck: trebuie sa chemati un Admin 4+ ca sa decida daca contextul se va termina cu ck.
 :::
 
-:::danger EXPLICAȚIE ARMA ALBĂ VS ARMĂ DE FOC
-- De multe ori playerii aleg sa atace, desi vizibil sau la o distanta considerabila un alt jucator cu un cutit/briceag, deoarece aceste arme albe au o animatie care nu poate fi evitata si da 1-shot. Se creeaza situatii unde jucatorii inarmati cu cutite alearga inspre o persoana cu pistol/automata sperând sa intre in animatia de 1shot. Acest lucru e considerat Nofear, deoarece stii clar ca poti fi picat, dar totusi tu alegi sa faci asta. Fiind un lucru asumat, de aici rezulta si CK-ul.
-:::
-
 ### <span class="header-font">1.16 Roleplay Scarbos & Injosirea jucatorilor</span>
 - Reprezinta Roleplay-urile ce descriu actiuni de tip Erotic Roleplay, dar si altele.
 - Este strict interzis sa porniti Roleplay-uri care descriu: canibalism, necrofilie, pedofilie, profanare de morminte, injosirea persoanelor lesinate/in coma prin diferite actiuni.
