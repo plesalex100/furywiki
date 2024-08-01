@@ -10,6 +10,18 @@ title: Update-uri Server
 
 # <span class="title-font"><center> Istoric Update Server </center></span>
 
+## UPDATE V3.01
+
+- A fost adaugata poza pentru Piele Animal
+- A fost adaugata poza penntru Power Supply.
+- A fost rezolvata problema legata Car Theft.
+- A fost adaugata aplicatia Crypto App in Fury Electronics.
+- Au fost adaugate 5 ATM-uri Crypto.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1268604140762697738/image.png?ex=66ad072c&is=66abb5ac&hm=618d7204f61a490a0aad1a35fa731b812bc20e0c37043750029208533004ccad&)
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1268604141073072159/image.png?ex=66ad072c&is=66abb5ac&hm=9958ef00b5f1c6e9a5355abb695d9ba7f331a67d84adb6fd6ea51dd89c1df700&)
+
 ## BUG-FIXES V3.0
 
 - A fost fixata problema caselor suprapuse.
