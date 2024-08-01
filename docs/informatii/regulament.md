@@ -473,20 +473,11 @@ Jaf la Vangelico:
 - Nu este foc deschis la acest jaf, se respectă regula de a imobiliza/de a soma un jefuitor.
 - Se pot lua ostatici și la Vangelico, iar condițiile de negociere sunt aceleași ca la Fleeca.
 
-- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 22 (Membri cu grad si membri din familia mica).
-- Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 25 (doar cu grad).
-- Numarul maxim de membri care pot participa la o interceptare este de 26.
-- Numarul minim de oameni la jaful de la Vangelico este de 4 oameni inauntrul locatiei.
-- In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.
 :::info
 - **La jafuri nu se respecta regula de maxim 6, se pot face mixuri in numarul maxim scris mai sus**
-:::
-- La Transportul bancar, este foc deschis din ambele parti (politie si mafie)!
-:::warning
-- De asemenea, nici POLITIA NU va deschide focul, nefiind Cod 0 sau Jaf Armat, avand dreptul sa folosească doar Taser-ul din dotare dacă viața nu le este pusă în pericol.
+- **In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.**
 :::
 
--> [Regulament always Up-To-Date](https://docs.google.com/document/d/1fgmPW-FbFEceWwPIgRsUG3jA0jd4w3ILSjCEjmB5Ycs/edit) <-
 :::danger IMPORTANT!
 - **Este recomandat să verificați regulamentul periodic în cazul în care apar schimbări.**
 - **Necunoașterea regulamentului nu vă scutește de sancțiune.**

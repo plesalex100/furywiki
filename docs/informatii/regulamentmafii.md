@@ -83,6 +83,9 @@ title: Regulament OOC Mafii/Organizații Ilegale
 - Sectiunea de unban-request se refera la banurile fara drept de plata, nu la banurile provizorii sau cu drept.
 :::
 
+### <span class="header-font"> 18. Bait poliție </span>
+- 
+
 <hr style="transform: translateY(10px)"/>
 
 # <center> Regulament OOC Aliante Mafii/Organizatii/Familii IC </center>
