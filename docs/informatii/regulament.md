@@ -14,10 +14,11 @@ title: Regulament General
 
 ### <span class="header-font">1.02 Fail Roleplay (FRP)</span>
 - Reprezintă **neadaptarea** la o situație roleplay.
+- <span style="color:red">Se consideră FailRP din partea membrilor LSPD, care încep ei primii focul (Exceptând Regulament Jafuri) fără a fi un cod 0 efectiv în zonă. În momentul în care membrii LSPD deschid focul doar ca să captureze pe cineva ce nu le-a pus viața în pericol cu o armă albă/armă de foc se consideră FailRP deoarece misiunea membrilor LSPD în Los Santos este de a proteja cetățenii și de a imobiliza infractorii cu un nivel de forță adecvat. Nu este considerat FailRP momentul în care în urma unui ordin al unui Superior din cadrul LSPD se va deschide focul la roți pentru imobilizarea suspectului/suspecților.</span>
 ::: info Exemplu
 - Un cetățean merge la secția de poliție pentru a raporta o răpire, iar polițistul din tură refuză să facă demersurile pentru soluționarea cazului.
 - Merg la CNN și dau anunț "Vand arme in paleto (politia nu vede) sau "Vand droguri in fata spitalului (politia nu vede)" sau "Vand Jucarii mari/mici" sau "Vand faina/zapada fina" etc.
-- Situatia in care aveti un ostatic si chemati cel mai mare membru in grad disponibil sa negocieze pentru viata acestuia si cand acesta vine la negociere este luat cu armele pe sus. 
+- Situatia in care aveti un ostatic si chemati cel mai mare membru in grad disponibil sa negocieze pentru viata acestuia si cand acesta vine la negociere este luat cu armele pe sus.
 :::
 
 ### <span class="header-font">1.03 In Character (IC)</span>
@@ -147,11 +148,17 @@ Se va primi CK atunci:
 - Din dorința de a forma o comunitate primitoare pentru toți jucătorii ne vom rezerva dreptul de a elimina persoanele problematice cele ce nu au intenția de a face un roleplay calitativ, frumos, ci au ca unică intenție deranjarea persoanelor din jur, fără un motiv bine întemeiat, doar pentru propriul amuzament.
 - Injuriile IC duse la extrem si injuriile IC adresate altui jucator fara un context IC in prealabil atrag sanctiuni. (BAN)
 - Este interzis sa fiti misogini sau sa dati dovada de bombardierism in preajma fetelor ( Regula se aplica persoanelor pe care nu le cunoasteti ). Totodata este interzis sa folositi apelative jignitoare cu fetele/femeile pe care nu le cunoasteti si cu care nu ati avut nici o interactiune care sa va determine sa folositi apelative jignitoare. (fa/zdreanta/etc)
+- “Plansul fara motiv”, prin aceasta regula ne referim la playerii care uneori din cauza supararilor IC incep sa aiba un comportament de “plangacios” pe canalele OOC fata de staff-ul comunitatii. Acest comportament este considerat unul toxic, iar noi promovam o comunitate cat mai libera, fara toxicitate. <span style="color:red">(Decizie luata impreuna cu un Admin 5+) </span>
+-  Acuzatiile de favoritisme fara dovezi aferente vor fi considerate toxicitate, deoarece acuzatiile fara dovezi nu pot fi luate in calcul, dar acuzatiile de favoritisme implica si denigrarea unui membru staff si a impartialitatii acestuia de a rezolva un ticket/problema. <span style="color:red">(Decizie luata impreuna cu un Admin 5+)</span>
+- Orice metoda de a submina activitatea pe care: Scripterii/Designerii/Membrii staff care lucreaza la updateuri/Quality of Life/Hotfixuri va fi considerata toxicitate si va atrage ban fara drept in functie de caz. <span style="color:red">(Decizie luata impreuna cu un Admin 5+)</span>
+:::info Ex
+- Ex: Normal ca nu mai vine update-ul, daca se sta pe riftul invocatorului.
+:::
+
 
 ::: danger ATENȚIE!
 - **Se interzic suferințele OOC sub orice formă, este interzis ca în urma unui roleplay să mergeți și să înjurați o persoană în privat, pe live, pe instagram, etc.**
 :::
-
 ::: info Exemplu
 Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și începi să o înjuri, umilești, injosesti, fără nici un motiv.
 :::
@@ -238,6 +245,7 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 ### <span class="header-font">1.31 Bug-abuse / Cheating</span>
 - Este interzis să abuzați de anumite vulnerabilități ale serverului, în momentul în care descoperiți un BUG aveți obligația de a îl raporta, persoanele care sunt surprinse că au abuzat de anumite bug-uri pentru a își crea unu avantaj vor fi sancționate cu BAN + CK.
 - Folosirea de cheat-uri de orice tip este strict interzisă și aduce după sine Banarea Permanentă.
+- <span style="color:red">Asocierea cu un cheater/grup de cheateri/comunitate de cheateri poate atrage sanctiuni asupra playerilor care nu folosesc ei individual cheats sau nu abuzeaza de bugguri dar au de castigat de pe urma celor care le folosesc in scopul castigului unui anumit grup de persoane. In aceste cazuri toate persoanele ce au participat la actiunile cu persoana ce folosea cheats vor primi un ban de 14d-30d dupa gravitate, vor avea eventual anumite iteme confiscate, iar in cazuri grave CK. (Decizie luata impreuna cu un Admin 4+) </span>
 :::tip
 - Toti jucatorii care au fost sanctionati cu ban pentru Cheats sunt obligati sa porneasca filmarea cand intra pe server. Cei care vor fi prinsi fara filmare vor fi sanctionati indiferent daca au avut sau nu au avut interactiune cu alti jucatori pentru Cheats.
 :::
@@ -437,7 +445,35 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 
 ### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific / Transport</span>
 
-- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 20 (Membri cu grad si membri din familia mica).
+Jaf Pacific:
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de 22.
+- Se consideră foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
+
+Jaf Interceptare:
+
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Interceptare este de 26.
+- Nu se consideră foc deschis, iar LSPD va menține zona sigură și va crea un perimetru în care trecătorii vor fi percheziționați, iar în cazul nerespectării ordinelor, vor fi imobilizați.
+- În cazul în care trecătorii sunt vizibili înarmați vor fi somați, iar mai apoi doborâți.
+- În cazul în care trecătorii vor să pătrundă într-un perimetru restrâns al valizei, membrii LSPD pot deschide focul, având în vedere cauza probabilă ca acesta să fie un membru al jafului.
+
+Transport Bancar:
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Transport Bancar este de 25.
+- Se consideră foc deschis doar din momentul în care cei care atacă transportul deschid focul.
+- LSPD are dreptul să oprească și să imobilizeze prin orice mijloace pe cei ce nu respectă semnalele de urgență și prioritatea convoiului.
+
+Jaf la Flecca:
+- Acțiunea de tip Jaf la Banca Flecca va fi efectuată de un număr de minim 4 persoane, maxim 7 persoane, având în vedere dimensiunile băncii.
+- Pentru acest jaf este obligatorie luarea de ostatici.
+- În schimbul siguranței ostaticului/ostaticilor se va cere cale liberă, iar un tip de unitate specializată să nu participe la urmărire de la început (HS, Moto, Heli, acestea se pot alătura urmăririi în timp, dar nu au voie să vă urmărească de la început).
+- Nu se consideră foc deschis, la acest jaf se NEGOCIAZĂ !
+- Armele vor trebui îndreptate strict către ostatic/ostatici, dacă există arme îndreptate asupra unităților LSPD aceștia vă pot soma să nu îi mai amenințați sau vor deschide focul, viața lor fiind pusă în pericol de arma ce îi amenință.
+
+Jaf la Vangelico:
+- Acțiunea de tip Jaf la Vangelico va fi efectuată de un număr de minim 4 persoane, maxim 12 persoane.
+- Nu este foc deschis la acest jaf, se respectă regula de a imobiliza/de a soma un jefuitor.
+- Se pot lua ostatici și la Vangelico, iar condițiile de negociere sunt aceleași ca la Fleeca.
+
+- Numarul maxim de membri care pot participa la un jaf de Banca Pacific este de 22 (Membri cu grad si membri din familia mica).
 - Numarul maxim de membri care pot participa la un jaful unui Transport bancar este de 25 (doar cu grad).
 - Numarul maxim de membri care pot participa la o interceptare este de 26.
 - Numarul minim de oameni la jaful de la Vangelico este de 4 oameni inauntrul locatiei.
