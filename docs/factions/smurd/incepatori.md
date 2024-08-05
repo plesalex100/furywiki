@@ -6,7 +6,7 @@ title: Instructaj începători
 
 ### <span class="header-font">Garderobă</span>
 
-![wardrobePhoto](https://i.imgur.com/HevcoB2.png)
+![wardrobePhoto](https://i.imgur.com/HevcoB2.png) {.framed-photo}
 
 :::info
 - Aceasta este este camera de unde vă puteți schimba garderoba.
@@ -14,7 +14,7 @@ title: Instructaj începători
 
 <hr style="transform: translateY(10px)"/>
 
-![scurtaBaieti](https://i.imgur.com/lyMfB2f.png)
+![scurtaBaieti](https://i.imgur.com/lyMfB2f.png){.framed-photo}
 
 #### Băieți - Mânecă Scurtă
 |  Articol Vestimentar  |    Cod   |  Textură |
@@ -34,7 +34,7 @@ title: Instructaj începători
 |     Pantaloni         |    278   |     0    |
 |     Încălțăminte      |    25    |     0    |
 
-![scurtaFete](https://i.imgur.com/Oh8Uexv.png)
+![scurtaFete](https://i.imgur.com/Oh8Uexv.png){.framed-photo}
 
 #### Fete - Mânecă Scurtă
 |  Articol Vestimentar  |    Cod   |  Textură |
@@ -58,7 +58,7 @@ title: Instructaj începători
 
 - Aceasta este camera de unde vă puteți porni / opri pontajul și puteți să intrați într-o pauză, anunțând pe tableta MDT.
 
-![pontajRoom](https://i.imgur.com/McUkcWG.png)
+![pontajRoom](https://i.imgur.com/McUkcWG.png){.framed-photo}
 
 :::info NPC
 - De la NPC se pornește / oprește pontajul
@@ -66,11 +66,11 @@ title: Instructaj începători
 
 - Te poți ponta și din Sandy Shores ->
 
-![pontajRoom2](https://i.imgur.com/m6CAhUL.png)
+![pontajRoom2](https://i.imgur.com/m6CAhUL.png){.framed-photo}
 
 ### <span class="header-font">Sala de internare</span>
 
-![internareRoom](https://i.imgur.com/gAKTE0A.png)
+![internareRoom](https://i.imgur.com/gAKTE0A.png){.framed-photo}
 
 :::warning ATENȚIE!
 - Nu aveți voie să acordați trusă în fața spitalului, trebuie să aduceți persoana în această sală. Aici mai sunt tratate și cazurile neurgente.
@@ -104,9 +104,9 @@ title: Instructaj începători
 - Meniul pentru echipamentul SMURD (genți, bandaje, stații, truse) se poate deschide de la cerculețul roșu apăsând tasta F.
 :::
 
-![echipamentCp](https://i.imgur.com/vEiJZsJ.png)
+![echipamentCp](https://i.imgur.com/vEiJZsJ.png){.framed-photo}
 
-![echipamentCp2](https://i.imgur.com/IGMdBdk.png)
+![echipamentCp2](https://i.imgur.com/IGMdBdk.png){.framed-photo}
 
 :::info 
 - Meniul are 4 obiecte și un buton de dezechipare. Bandajele sau trusele se i-au în pachete de câte 10 și se apasă butonul de bifă în funcție de cât puteți căra.
@@ -127,10 +127,10 @@ title: Instructaj începători
 :::details Lift Spital
 - Pentru a ajunge pe HELIPAD trebuie să folosești liftul amplasat în camera din holul principal al spitalului.
 
-![elevatorSmurd](https://i.imgur.com/JDus7cb.png)
+![elevatorSmurd](https://i.imgur.com/JDus7cb.png){.framed-photo}
 :::
 
-![structuraOrg](https://i.imgur.com/7x4fJ6M.png)
+![structuraOrg](https://i.imgur.com/7x4fJ6M.png){.framed-photo}
 
 ## <span class="header-font">Stație</span>
 
@@ -143,31 +143,31 @@ title: Instructaj începători
 - Când preluați un apel trebuie să anunțați obligatoriu pe stație (ex: A-345 10-1). De asemenea, dacă vă duceți la un cod anunțat de poliție, anunțați pe stație. (ex: A-345 10-76 bk2 ETA 2 min). *ETA = estimated time of arrival = timpul estimat până a ajunge*
 :::
 
-![statieSmurd](https://i.imgur.com/DGaRhsK.png)
+![statieSmurd](https://i.imgur.com/DGaRhsK.png){.framed-photo}
 
 :::details Coduri Smurd
 - Comanda /codurism este folosită pentru a afișa codurile utilizate pentru a comunica pe stație pe ecran.
 
-![coduriSmurd](https://i.imgur.com/1fWUGWs.png)
+![coduriSmurd](https://i.imgur.com/1fWUGWs.png){.framed-photo}
 :::
 
 ## <span class="header-font">Tableta MDT</span>
 
 ### 1. Pagina Principală
 
-![mdt1](https://i.imgur.com/lvZAZqA.png)
+![mdt1](https://i.imgur.com/lvZAZqA.png){.framed-photo}
 
 ### Coduri BK
 
 - Un medic sau un polițist poate să trimită un BK2 prin care să anunțe că are nevoie de întăriri. Acesta trebuie preluat IMEDIAT apăsând pe notificarea roșie.
 
-![mdt2](https://i.imgur.com/imwPqje.png)
+![mdt2](https://i.imgur.com/imwPqje.png){.framed-photo}
 
-![mdt3](https://i.imgur.com/CmHeafx.png)
+![mdt3](https://i.imgur.com/CmHeafx.png){.framed-photo}
 
 ### 2. Incidente
 
-![mdt4](https://i.imgur.com/9raEAQ5.png)
+![mdt4](https://i.imgur.com/9raEAQ5.png){.framed-photo}
 
 :::danger Important!
 - Aceasta este cea mai importantă secțiune din cadrul tabletei MDT. Aici se află incidentele create de către medici în urma unei operații, a unui apel sau a unei intervenții generale. Acest incident trebuie să conțină următoarele date: data apelului, locul apelului, codul poștal al apelului, numele și cnp-ul pacientului, topic-ul incidentului (leșin, accident rutier, înec, luxație, etc.) și numele și call-sign-ul medicului.
@@ -180,11 +180,11 @@ title: Instructaj începători
 
 ### 3. Facturi (nefolosite)
 
-![mdt5](https://i.imgur.com/5Uu0Eqa.png)
+![mdt5](https://i.imgur.com/5Uu0Eqa.png){.framed-photo}
 
 ### 4. Coduri
 
-![mdt6](https://i.imgur.com/4zDt83h.png)
+![mdt6](https://i.imgur.com/4zDt83h.png){.framed-photo}
 
 :::info Info!
 - Codurile sunt utilizate pentru a comunica pe stație cât mai rapid și cât mai eficient posibil, pentru a minimiza riscul ca o victimă să moară.
@@ -192,7 +192,7 @@ title: Instructaj începători
 
 ### 5. Doctori
 
-![mdt7](https://i.imgur.com/Fbf3gAu.png)
+![mdt7](https://i.imgur.com/Fbf3gAu.png){.framed-photo}
 
 :::info Info!
 - Aici se află toți medicii din departamentul SMURD, atât On-Duty cât și Off-Duty. Când în fața numelui medicului este iconița verde, medicul este pe truă, iar dacă este roșu, nu este pe tură. Sub numele medicului se află gradul lui și certificatele deținute (excluzând MDT și ALS), dar și locația lui (strada unde se află).
@@ -200,23 +200,23 @@ title: Instructaj începători
 
 ### 6. Apeluri
 
-![mdt8](https://i.imgur.com/fojf32u.png)
+![mdt8](https://i.imgur.com/fojf32u.png){.framed-photo}
 
 :::info Info!
 - Odată ce o persoană face un apel prin intermediul serviciului 112 vei primi notificare în partea de dreapta jos a ecranului.
 
-![mdt9](https://i.imgur.com/wRhMCw6.png)
+![mdt9](https://i.imgur.com/wRhMCw6.png){.framed-photo}
 :::
 
 :::warning Important!
 - Pentru a prelua apelul trebuie să intri pe tabletă la secțiunea ”Apeluri” și să apeși pe iconița de locație, iar apoi pe ”Confirmă”.
 
-![mdt10](https://i.imgur.com/xw1m8aC.png)
+![mdt10](https://i.imgur.com/xw1m8aC.png){.framed-photo}
 :::
 
 ### 7. Evidența Persoanelor
 
-![mdt11](https://i.imgur.com/iBBcYVw.png)
+![mdt11](https://i.imgur.com/iBBcYVw.png){.framed-photo}
 
 :::info Info!
 - În această secțiune a tabletei, poți căuta diferite persoane în funcție de NUME, CNP sau Număr de Telefon, pentru a le vedea diferitele incidente făcute de doctori.
@@ -224,7 +224,7 @@ title: Instructaj începători
 
 ### 8. Config
 
-![mdt12](https://i.imgur.com/rBjzsdU.png)
+![mdt12](https://i.imgur.com/rBjzsdU.png){.framed-photo}
 
 :::info Info!
 - Din această secțiune a tabletei poți seta culorile textului, a fundalului și a diferiților factori.
@@ -232,13 +232,13 @@ title: Instructaj începători
 
 ## <span class="header-font">Targa</span>
 
-![targaSmurd](https://i.imgur.com/19omSTj.png)
+![targaSmurd](https://i.imgur.com/19omSTj.png){.framed-photo}
 
 :::info Info!
 - Acesta este meniul pentru targă, pe care îl puteți accesa din spatele ambulanței cu ușile deschise, folosind tasta Z. Targa se plasează în locul dorit folosind tasta X.
 :::
 
-![targaSmurd2](https://i.imgur.com/H18IgEP.png)
+![targaSmurd2](https://i.imgur.com/H18IgEP.png){.framed-photo}
 
 ## <span class="header-font">Certificate</span>
 
@@ -265,7 +265,7 @@ title: Instructaj începători
 ### <span class="title-font">BK2</span>
 - Un polițist sau un medic poate solicita întăriri **(BK2)** folosind comanda **”/bk2”**, care va alerta Departamentul Medical, printr-o notificare roșie.
 
-![bk2Smurd](https://i.imgur.com/1fWUGWs.png)
+![bk2Smurd](https://i.imgur.com/1fWUGWs.png){.framed-photo}
 
 - După ce un polițist a dat un **BK2**, neapărat anunțați pe dispecer **(/d)** conform următorului exemplu: 
 :::tip Exemplu
@@ -280,4 +280,4 @@ title: Instructaj începători
 - Ca să puteți să oferiți o trusă unui suspect trebuie să aveți în preajmă un polițist, iar victima să aibă cătușele puse. Bandajele se vor oferi la final de intervenție dacă mai au nevoie. Nu cereți CNP-urile!
 - Pentru o comunicare mai bună, anunțați și pe stație ceilalți medici de informațiile primite.
 
-![](https://i.imgur.com/F3FSOTD.png)
+![](https://i.imgur.com/F3FSOTD.png){.framed-photo}

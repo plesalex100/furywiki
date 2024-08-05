@@ -4,7 +4,7 @@ title: GHID MDT - Incidente
 
 # <span class="title-font">GHID MDT - Incidente</span>
 
-![MDT1](https://i.imgur.com/my9TIyU.png)
+![MDT1](https://i.imgur.com/my9TIyU.png){.framed-photo}
 
 - Un incident / raport MDT întotdeauna trebuie să fie cât mai detaliat și să fie de minim 5 rânduri. 
 - Dacă nu deții certificatul MDT nu poți creea incidente.
@@ -29,7 +29,7 @@ title: GHID MDT - Incidente
 
 ## <span class="header-font">Cum creezi un incident?</span>
 
-![MDT2](https://i.imgur.com/470OddP.png)
+![MDT2](https://i.imgur.com/470OddP.png){.framed-photo}
 
 :::info Explicație
 Incident name*: Aici veți scrie topicul incidentului / ce a pătit victima. ex: Nehidratare, lipsă calciu, pierdere cunostință, fractură picior, etc.
@@ -47,8 +47,8 @@ Imaginile: Sunt opționale și se fac la locul incidentului.
 
 ## <span class="header-font">Alte Exemple</span>
 
-![MDT3](https://i.imgur.com/RCaqdm6.png)
+![MDT3](https://i.imgur.com/RCaqdm6.png){.framed-photo}
 
-![MDT4](https://i.imgur.com/gQRlnXf.png)
+![MDT4](https://i.imgur.com/gQRlnXf.png){.framed-photo}
 
-![MDT5](https://i.imgur.com/IJg8Bdb.png)
+![MDT5](https://i.imgur.com/IJg8Bdb.png){.framed-photo}
