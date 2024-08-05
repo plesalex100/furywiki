@@ -2,9 +2,9 @@
 title: Instructaj începători
 ---
 
-# <span class="title-font"><center>Camerele Spitalului</center></span>
+## <span class="title-font"><center>Camerele Spitalului</center></span>
 
-## <span class="header-font">Garderobă</span>
+### <span class="header-font">Garderobă</span>
 
 ![wardrobePhoto](https://i.imgur.com/HevcoB2.png)
 
@@ -16,7 +16,7 @@ title: Instructaj începători
 
 ![scurtaBaieti](https://i.imgur.com/lyMfB2f.png)
 
-### Mânecă Scurtă
+#### Băieți - Mânecă Scurtă
 |  Articol Vestimentar  |    Cod   |  Textură |
 | :-----------:         |   :-----:|  :-----: |
 |     Jachete           |    615   |     3    |
@@ -25,7 +25,7 @@ title: Instructaj începători
 |     Pantaloni         |    278   |     0    |
 |     Încălțăminte      |    25    |     0    |
 
-### Mânecă Lungă
+#### Băieți - Mânecă Lungă
 |  Articol Vestimentar  |    Cod   |  Textură |
 | :-----------:         |   :-----:|  :-----: |
 |     Jachete           |    619   |     1    |
@@ -36,7 +36,7 @@ title: Instructaj începători
 
 ![scurtaFete](https://i.imgur.com/Oh8Uexv.png)
 
-### <span class="title-font">Mânecă Scurtă</span>
+#### Fete - Mânecă Scurtă
 |  Articol Vestimentar  |    Cod   |  Textură |
 | :-----------:         |   :-----:|  :-----: |
 |     Jachete           |    641   |     2    |
@@ -45,7 +45,7 @@ title: Instructaj începători
 |     Pantaloni         |    196   |     0    |
 |     Încălțăminte      |    25    |     0    |
 
-### <span class="title-font">Mânecă Lungă</span>
+#### Fete - Mânecă Lungă
 |  Articol Vestimentar  |    Cod   |  Textură |
 | :-----------:         |   :-----:|  :-----: |
 |     Jachete           |    644   |     0    |
@@ -54,7 +54,7 @@ title: Instructaj începători
 |     Pantaloni         |    196   |     0    |
 |     Încălțăminte      |    25    |     0    |
 
-## <span class="header-font">Camera de pontaj</span>
+### <span class="header-font">Camera de pontaj</span>
 
 - Aceasta este camera de unde vă puteți porni / opri pontajul și puteți să intrați într-o pauză, anunțând pe tableta MDT.
 
@@ -68,7 +68,7 @@ title: Instructaj începători
 
 ![pontajRoom2](https://i.imgur.com/m6CAhUL.png)
 
-## <span class="header-font">Sala de internare</span>
+### <span class="header-font">Sala de internare</span>
 
 ![internareRoom](https://i.imgur.com/gAKTE0A.png)
 
@@ -76,7 +76,7 @@ title: Instructaj începători
 - Nu aveți voie să acordați trusă în fața spitalului, trebuie să aduceți persoana în această sală. Aici mai sunt tratate și cazurile neurgente.
 :::
 
-# <span class="header-font">Garaj</span>
+## <span class="header-font">Garaj</span>
 
 - Garajul este folosit pentru a scoate autospeciale (SMURD / ISU) sau motociclete.
 
@@ -89,7 +89,7 @@ title: Instructaj începători
 - Nu aveți voie sa aduceți modificari vizuale sau de performanță autospecialelor facțiunii.
 :::
 
-## <span class="title-font">Autospeciale Permise</span>
+### <span class="title-font">Autospeciale Permise</span>
 
 |  Autospecială                                                                 |    Detalii   
 | :-----------:                                                                 |   :-----:|
@@ -98,7 +98,7 @@ title: Instructaj începători
 |     <img src="https://i.imgur.com/UMYfpZR.png" height="120px" width="150px"/>   |    Bronco; Asistent Debutant+; SAJ OFF-ROAD<br>Poate fii folosită doar pe Sandy / Paleto   |
 |     <img src="https://i.imgur.com/lq936vX.png" height="120px" width="150px"/>   |    Elicopter; Asistent Generalist+; ALL DEPART.<br>Ai nevoie de certificatul PILOT ! Doar pe propria răspundere dacă nu sunt piloți online !   |
 
-# <span class="header-font">Echipament</span>
+## <span class="header-font">Echipament</span>
 
 :::info
 - Meniul pentru echipamentul SMURD (genți, bandaje, stații, truse) se poate deschide de la cerculețul roșu apăsând tasta F.
@@ -116,7 +116,7 @@ title: Instructaj începători
 - Butonul de dezechipare va scoate toate gențile, bandajele, stațiile și trusele din inventar!
 :::
 
-# <span class="header-font">Organizare</span>
+## <span class="header-font">Organizare</span>
 
 :::warning Util
 - Organizările vor fi anunțate pe chat-ul departamentului (/f), unde trebuie să vă prezentați cu 5 minute mai devreme și să nu mai preluați apeluri. 
@@ -132,7 +132,7 @@ title: Instructaj începători
 
 ![structuraOrg](https://i.imgur.com/7x4fJ6M.png)
 
-# <span class="header-font">Stație</span>
+## <span class="header-font">Stație</span>
 
 :::info Frecvență
 - Frecvența departamentului medical este 004 **(/setfreq 4)**.
@@ -151,13 +151,13 @@ title: Instructaj începători
 ![coduriSmurd](https://i.imgur.com/1fWUGWs.png)
 :::
 
-# <span class="header-font">Tableta MDT</span>
+## <span class="header-font">Tableta MDT</span>
 
-## 1. Pagina Principală
+### 1. Pagina Principală
 
 ![mdt1](https://i.imgur.com/lvZAZqA.png)
 
-## Coduri BK
+### Coduri BK
 
 - Un medic sau un polițist poate să trimită un BK2 prin care să anunțe că are nevoie de întăriri. Acesta trebuie preluat IMEDIAT apăsând pe notificarea roșie.
 
@@ -165,7 +165,7 @@ title: Instructaj începători
 
 ![mdt3](https://i.imgur.com/CmHeafx.png)
 
-## 2. Incidente
+### 2. Incidente
 
 ![mdt4](https://i.imgur.com/9raEAQ5.png)
 
@@ -178,11 +178,11 @@ title: Instructaj începători
 - La un apel se cere CNP-ul victimei în urma reanimării la viață. Incidentele nu sunt create pentru BK-uri sau pentru un simplu bandaj!
 :::
 
-## 3. Facturi (nefolosite)
+### 3. Facturi (nefolosite)
 
 ![mdt5](https://i.imgur.com/5Uu0Eqa.png)
 
-## 4. Coduri
+### 4. Coduri
 
 ![mdt6](https://i.imgur.com/4zDt83h.png)
 
@@ -190,7 +190,7 @@ title: Instructaj începători
 - Codurile sunt utilizate pentru a comunica pe stație cât mai rapid și cât mai eficient posibil, pentru a minimiza riscul ca o victimă să moară.
 :::
 
-## 5. Doctori
+### 5. Doctori
 
 ![mdt7](https://i.imgur.com/Fbf3gAu.png)
 
@@ -198,7 +198,7 @@ title: Instructaj începători
 - Aici se află toți medicii din departamentul SMURD, atât On-Duty cât și Off-Duty. Când în fața numelui medicului este iconița verde, medicul este pe truă, iar dacă este roșu, nu este pe tură. Sub numele medicului se află gradul lui și certificatele deținute (excluzând MDT și ALS), dar și locația lui (strada unde se află).
 :::
 
-## 6. Apeluri
+### 6. Apeluri
 
 ![mdt8](https://i.imgur.com/fojf32u.png)
 
@@ -214,7 +214,7 @@ title: Instructaj începători
 ![mdt10](https://i.imgur.com/xw1m8aC.png)
 :::
 
-## 7. Evidența Persoanelor
+### 7. Evidența Persoanelor
 
 ![mdt11](https://i.imgur.com/iBBcYVw.png)
 
@@ -222,7 +222,7 @@ title: Instructaj începători
 - În această secțiune a tabletei, poți căuta diferite persoane în funcție de NUME, CNP sau Număr de Telefon, pentru a le vedea diferitele incidente făcute de doctori.
 :::
 
-## 8. Config
+### 8. Config
 
 ![mdt12](https://i.imgur.com/rBjzsdU.png)
 
@@ -230,7 +230,7 @@ title: Instructaj începători
 - Din această secțiune a tabletei poți seta culorile textului, a fundalului și a diferiților factori.
 :::
 
-# <span class="header-font">Targa</span>
+## <span class="header-font">Targa</span>
 
 ![targaSmurd](https://i.imgur.com/19omSTj.png)
 
@@ -240,6 +240,8 @@ title: Instructaj începători
 
 ![targaSmurd2](https://i.imgur.com/H18IgEP.png)
 
-# 1. Certficatul MDT
+## <span class="header-font">Certificate</span>
+
+### 1. Certficatul MDT
 - Certificatul MDT este necesar pentru a avansa de la gradul Asistent Debutant la Asistent Generalist și îți permite să creezi incidente pe [tableta MDT]().
 
