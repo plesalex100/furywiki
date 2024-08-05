@@ -52,6 +52,7 @@ Obiectivul fundamental al activității desfășurate de I.S.U. vizează eficien
 :::warning Atenție!
 - Căpitanul echipei de intervenție este responsabil de fiecare proces verbal și de intervenția promtă a echipei sale într-o intervenție.
 - Dacă toți membrii au refuzat să întocmească raportul, vor fii sancționați.
+:::
 
 ## 5.00 Avize I.S.U.
 1. Avizele I.S.U. pentru închirierea locațiilor (cluburi, magazine, parcări, etc.) pot fii oferite de către un Maior+ (rank 2)
