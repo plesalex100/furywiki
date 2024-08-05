@@ -97,3 +97,21 @@ title: Instructaj începători
 |     <img src="https://i.imgur.com/RT80OSx.png" height="120px" width="150px"/>   |    Logan; Asistent Generalist+; SAJ<br>Poate fii condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe timpul zilei doar cu aprobare (pe distanțe foarte mari) |
 |     <img src="https://i.imgur.com/UMYfpZR.png" height="120px" width="150px"/>   |    Bronco; Asistent Debutant+; SAJ OFF-ROAD<br>Poate fii folosită doar pe Sandy / Paleto   |
 |     <img src="https://i.imgur.com/lq936vX.png" height="120px" width="150px"/>   |    Elicopter; Asistent Generalist+; ALL DEPART.<br>Ai nevoie de certificatul PILOT ! Doar pe propria răspundere dacă nu sunt piloți online !   |
+
+# <span class="header-font">Echipament</span>
+
+:::info
+- Meniul pentru echipamentul SMURD (genți, bandaje, stații, truse) se poate deschide de la cerculețul roșu apăsând tasta F.
+:::
+
+![echipamentCp](https://i.imgur.com/vEiJZsJ.png)
+
+![echipamentCp2](https://i.imgur.com/IGMdBdk.png)
+
+:::info 
+- Meniul are 4 obiecte și un buton de dezechipare. Bandajele sau trusele se i-au în pachete de câte 10 și se apasă butonul de bifă în funcție de cât puteți căra.
+:::
+
+:::danger ATENȚIE!
+- Butonul de dezechipare va scoate toate gențile, bandajele, stațiile și trusele din inventar!
+:::
