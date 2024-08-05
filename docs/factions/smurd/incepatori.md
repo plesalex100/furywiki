@@ -153,7 +153,7 @@ title: Instructaj începători
 
 # <span class="header-font">Tableta MDT</span>
 
-# 1. Pagina Principală
+## 1. Pagina Principală
 
 ![mdt1](https://i.imgur.com/lvZAZqA.png)
 
@@ -240,4 +240,6 @@ title: Instructaj începători
 
 ![targaSmurd2](https://i.imgur.com/H18IgEP.png)
 
-# 
+# 1. Certficatul MDT
+- Certificatul MDT este necesar pentru a avansa de la gradul Asistent Debutant la Asistent Generalist și îți permite să creezi incidente pe [tableta MDT]().
+
