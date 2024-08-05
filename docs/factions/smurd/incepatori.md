@@ -8,7 +8,9 @@ title: Instructaj începători
 
 ![wardrobePhoto](https://i.imgur.com/HevcoB2.png)
 
+:::info
 - Aceasta este este camera de unde vă puteți schimba garderoba.
+:::
 
 <hr style="transform: translateY(10px)"/>
 
