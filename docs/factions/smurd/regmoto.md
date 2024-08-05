@@ -2,7 +2,7 @@
 title: SMURD - Regulament Moto
 ---
 
-![](https://i.imgur.com/LvfaJB2.png)
+![](https://i.imgur.com/tD8Dkij.png)
 
 # <span class="title-font">Regulament Moto</span>
 
