@@ -174,7 +174,7 @@ title: Instructaj începători
 :::
 
 :::warning 
-- Un incident trebuie să aibă minimum 5 rânduri și trebuie să fie făcut de un medic care deține [certificatul MDT]().
+- Un incident trebuie să aibă minimum 5 rânduri și trebuie să fie făcut de un medic care deține [certificatul MDT](/factions/smurd/incepatori.html#_1-certficatul-mdt).
 - La un apel se cere CNP-ul victimei în urma reanimării la viață. Incidentele nu sunt create pentru BK-uri sau pentru un simplu bandaj!
 :::
 
@@ -243,5 +243,41 @@ title: Instructaj începători
 ## <span class="header-font">Certificate</span>
 
 ### 1. Certficatul MDT
-- Certificatul MDT este necesar pentru a avansa de la gradul Asistent Debutant la Asistent Generalist și îți permite să creezi incidente pe [tableta MDT]().
+- Certificatul MDT este necesar pentru a avansa de la gradul Asistent Debutant la Asistent Generalist și îți permite să creezi incidente pe [tableta MDT](/factions/smurd/incepatori.html#tableta-mdt).
 
+### 2. Certificatul RADIO
+- Certificatul RADIO este necesar pentru a avansa de la gradul Asistent Generalis la Asistent Șef. El verifică cunoștințele în legătură cu folosirea stației On-Duty / Off-Duty.
+
+### 3. Certificatul ALS
+- Certificatul ALS este necesar pentru a avansa de la gradul Asistent Șef la Medic Rezident. El reprezintă rezidențiatul în care ar trebui să înveți cum să operezi o persoană în sala de operație a spitalului.
+
+### 4. Certificatul PILOT
+- Certificatul PILOT este opțional și îți permite să folosești elicopterul din dotarea spitalului pentru o intervenție, fără a cere permisiune.
+
+### 5. Certificatul MOTO
+- Certificatul MOTO este opțional și îți permite să folosești motocicleta din dotarea spitalului pentru intervenții.
+
+### 6. Certificatul ISU
+- Certificatul ISU este opțional și îți permite să intri în departamentului ISU pentru a participa la diferite intervenții ca pompier.
+
+## <span class="header-font">Acțiuni cu poliția</span>
+
+### <span class="title-font">BK2</span>
+- Un polițist sau un medic poate solicita întăriri **(BK2)** folosind comanda **”/bk2”**, care va alerta Departamentul Medical, printr-o notificare roșie.
+
+![bk2Smurd](https://i.imgur.com/1fWUGWs.png)
+
+- După ce un polițist a dat un **BK2**, neapărat anunțați pe dispecer **(/d)** conform următorului exemplu: 
+:::tip Exemplu
+”A-216 10-76 ETA 2 min zonă liberă?”
+::: 
+- Dacă Poliția nu răspunde, NU INTERVENIȚI! Anunțați și pe stație folosind următorul exemplu: 
+:::tip Exemplu
+”A-216 10-76 bk2 ETA 2 min”.
+:::
+
+- Când ajungeți la BK2, prima dată întrebați dacă sunt polițiști căzuți!
+- Ca să puteți să oferiți o trusă unui suspect trebuie să aveți în preajmă un polițist, iar victima să aibă cătușele puse. Bandajele se vor oferi la final de intervenție dacă mai au nevoie. Nu cereți CNP-urile!
+- Pentru o comunicare mai bună, anunțați și pe stație ceilalți medici de informațiile primite.
+
+![](https://i.imgur.com/F3FSOTD.png)
