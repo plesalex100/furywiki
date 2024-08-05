@@ -32,14 +32,14 @@ title: Investiții
 
 |  Ore jucate  |    Reward   |
 | :-----------:|   :-----:   |
-|     o oră    |    $1000    |
-|     2 ore    |    $2200    |
-|     3 ore    |    $3600    |
-|     5 ore    |    $7500    |
-|     7 ore    |    $11900   |
-|     9 ore    |    $17100   |
-|     11 ore   |    $24200   |
-|     15 ore   |    $45000   |
+|     o oră    |    $2200    |
+|     2 ore    |    $4840    |
+|     3 ore    |    $9680    |
+|     5 ore    |    $16720   |
+|     7 ore    |    $25960   |
+|     9 ore    |    $39160   |
+|     11 ore   |    $53680   |
+|     15 ore   |    $77000   |
 
 ::: tip Recomandare!
 - Este recomandat să vă stabiliți dinainte orele pe care le veți juca în ziua respectivă, astfel încât să nu pierdeți niciun reward.

@@ -154,6 +154,7 @@ export default defineConfig({
               { text: "Tăietor de lemne", link: '/jobs/lumberjack' }, // 75h
               { text: "Petrolist", link: '/jobs/petrolist' },         // 75h
               { text: "Miner", link: '/jobs/miner' },                 // 100h
+              { text: "Farmacist", link: '/jobs/farmacist' },         // 100h
               { text: "Tirist", link: '/jobs/truckerv2' },            // 150h
               { text: "Pilot Cargo", link: '/jobs/pilot' },           // 200h
               { text: "Vânător", link: '/jobs/hunter' },              // 300h
