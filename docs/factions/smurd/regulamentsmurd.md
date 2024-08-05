@@ -2,6 +2,8 @@
 title: SMURD - Regulament Departament Medical
 ---
 
+![](https://i.imgur.com/iYvOOY9.png)
+
 # <span class="title-font">Regulament Departament Medical</span>
 
 ## 1.00. Misiunea noastră

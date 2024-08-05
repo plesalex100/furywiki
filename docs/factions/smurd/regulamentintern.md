@@ -2,6 +2,8 @@
 title: SMURD - Regulament Intern
 ---
 
+![](https://i.imgur.com/iYvOOY9.png)
+
 # <span class="title-font">Regulament Intern</span>
 
 1. Trusele nu se dau în fața spitalului sau în holul acestuia, ele se dau în sala de internări.
