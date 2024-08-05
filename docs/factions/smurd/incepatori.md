@@ -94,7 +94,6 @@ title: Instructaj începători
 |  Autospecială                                                                 |    Detalii   
 | :-----------:                                                                 |   :-----:|
 |     <img src="https://i.imgur.com/Uwz4wrA.png" height="90px" width="120px"/>   |   Ambulanța; Asistent Debutant+ ; SAJ<br> Singura autospecială de unde poți scoate targa	 |
-
 |     <img src="https://i.imgur.com/RT80OSx.png" height="90px" width="120px"/>   |    Logan; Asistent Generalist+; SAJ<br>Poate fii condusă și de debutanți după ora 19:00 pentru apeluri și bkuri, pe timpul zilei doar cu aprobare (pe distanțe foarte mari) |
 |     <img src="https://i.imgur.com/UMYfpZR.png" height="90px" width="120px"/>   |    Bronco; Asistent Debutant+; SAJ OFF-ROAD<br>Poate fii folosită doar pe Sandy / Paleto   |
 |     <img src="https://i.imgur.com/lq936vX.png" height="90px" width="120px"/>   |    Elicopter; Asistent Generalist+; ALL DEPART.<br>Ai nevoie de certificatul PILOT !
