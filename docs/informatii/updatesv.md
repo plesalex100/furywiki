@@ -10,6 +10,49 @@ title: Update-uri Server
 
 # <span class="title-font"><center> Istoric Update Server </center></span>
 
+## UPDATE V3.05
+
+- Blips-urile politiei nu mai sunt active decat in momentul in care Poltisitul este On-Duty.
+- A fost adaugat un nou atelier auto langa Jobul de Stivuitorist.
+- ITP-urile vor putea efectuate doar in incinta garajelor de mecanici sau in incinta sediilor de business mecanici.
+- A fost adaugat Amanet Fury in K - > GPS
+
+### STARTER PACK
+
+- Starter Pack-ul este connfigurabil de catre jucator si este accesibil jucatorilor sub 150h.
+- Puteti alege intre 3 masini, 3 beneficii de bani si 3 pachete VIP.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1271066193226235904/starter-pack.png?ex=66b5fc23&is=66b4aaa3&hm=9095bc3399e1dd5a3befdd9572cd39711f7c87c2ee8f81bd9a6801a93aacb116&=&format=webp&quality=lossless&width=810&height=810)
+
+## UPDATE V3.04
+
+### CCTV Camera System
+
+- Au fost adaugate mai multe camere fixe in oras cu diferite controale cum ar fi : night vision, control 360, zoom.
+- A fost adaugat acces la camere direct din MDT. -> connect CCTV
+- Daca camera este lovita cu un glont, pe ecran va aparea "No Signal".
+
+- Au fost facute modificari pe panel 
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1270685321515892798/image.png?ex=66b5eaec&is=66b4996c&hm=4128e3386bd01d93284709b6dd2d1ac06b96f843b08a5aee8e50f03fec996c83&=&format=webp&quality=lossless&width=810&height=168)
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1270685321897447477/image.png?ex=66b5eaec&is=66b4996c&hm=9d7dd27485c975f58d7c53ada4f07113344c6e9d73d34b704c11cfffb219254e&=&format=webp&quality=lossless&width=810&height=566)
+
+## UPDATE V3.03
+
+- Problemele legate de Fleeca Heist au fost rezolvate. Inttre jafuri Fleeca exista un cooldown de 1 ora (in cazul in care va fi prea putin, acesta va fi marit).
+- Rata de drop a carbunelui pentru Miner 100h a fost marita. Acum dintr-un Ore de carbune ofera 6 bucati in loc de 4.
+- Ordonarea firmelor de taxi/mecanici a fost revizuita.
+- Item-ul RF transmitter are de acum 10 utilizari (doar cele noi craftate).
+- Item-ul Bormasina are de acum 5 utilizari (doar cele noi cumparate)
+- Au fost facute alte Bug-Fixuri
+
+## UPDATE V3.02
+
+- Problema legată de comandarea taxiurilor a fost remediată.
+- Vehiculului de la transportul bancar i-a fost adăugat sunet.
+- [Investițiile](/economie/investitii.html) au fost recalculate și au primit un boost.
+
 ## UPDATE V3.01
 
 - A fost adaugata poza pentru Piele Animal
