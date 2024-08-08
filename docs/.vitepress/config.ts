@@ -34,7 +34,7 @@ export default defineConfig({
           { text: 'Regulament OOC Mafii/Organizații Ilegale', link: '/informatii/regulamentmafii'}
         ]
       },
-      { text: 'Updates Server', link: '/informatii/updatesv' },
+      // { text: 'Updates Server', link: '/informatii/updatesv' },
       // { text: 'Zone', link: '/informatii/map' },
       { text: 'Locații jobs', link: '/jobs/locatii' },
       // { text: 'Ilegale', link: '/jobs/ilegale' },
