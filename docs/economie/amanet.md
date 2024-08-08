@@ -13,3 +13,14 @@ title: Amanet
 ![amanetBuilding](https://i.imgur.com/LSIXjAs.png)
 
 ![amanetBuilding2](https://i.imgur.com/ubYCtDD.png)
+
+## <span class="header-font">Obiecte care pot fi amanetate</span>
+
+| Item                                    | Preț Vânzare    | Preț fix/variabil         |
+| ---------------------------             | -----------     | ------------------------  |
+| Telefon                                 |     $400        |     Fix                   |
+| Stație                                  |     $600        |     Fix                   |
+| Laptop                                  |     $100.000    |     Fix                   |
+| Receptor RF                             |     $20.000     |     Fix                   |
+| Roată de mașină                         |     $2000-3000  |     Variabil la 12 ore    |
+| Ușă de mașină                           |     $4000-5000  |     Variabil la 12 ore    |
