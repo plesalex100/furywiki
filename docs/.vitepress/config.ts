@@ -34,16 +34,10 @@ export default defineConfig({
           { text: 'Regulament OOC Mafii/Organizații Ilegale', link: '/informatii/regulamentmafii'}
         ]
       },
-      {
-        text: 'Updates',
-        items: [
-          { text: 'Updates Server', link: '/informatii/updatesv' },
-          // { text: 'Updates Regulament', link: '/informatii/updatereg' }
-        ]
-      },
+      { text: 'Updates Server', link: '/informatii/updatesv' },
       // { text: 'Zone', link: '/informatii/map' },
       { text: 'Locații jobs', link: '/jobs/locatii' },
-      { text: 'Ilegale', link: '/jobs/ilegale' },
+      // { text: 'Ilegale', link: '/jobs/ilegale' },
       { text: 'Ghid înființare mafie', link: '/informatii/ghidmafie' }
     ], 
 
