@@ -38,10 +38,10 @@ export default defineConfig({
         text: 'Updates',
         items: [
           { text: 'Updates Server', link: '/informatii/updatesv' },
-          { text: 'Updates Regulament', link: '/informatii/updatereg' }
+          // { text: 'Updates Regulament', link: '/informatii/updatereg' }
         ]
       },
-      { text: 'Zone', link: '/informatii/map' },
+      // { text: 'Zone', link: '/informatii/map' },
       { text: 'Locații jobs', link: '/jobs/locatii' },
       { text: 'Ilegale', link: '/jobs/ilegale' },
       { text: 'Ghid înființare mafie', link: '/informatii/ghidmafie' }
