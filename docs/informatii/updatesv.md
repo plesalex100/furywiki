@@ -6,9 +6,41 @@ title: Update-uri Server
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
-##
+## UPDATE V3.07
+
+- Au fost rezolvate mai multe erori.
+- A fost adaugat merch-ul Fury si pe joc.
+- A fost rescris integral tot jaful Pacific si este 100% functional inclusiv cu posibilitatea de furt a aurului de pe masa.
+
+## Hotfix arme
+
+- PKM: Rebalansat reculul la forma dorita
+
+- Beryl: Rebalansat recul + spread 
+
+## Hotfix Arme
+Au aparut urmatoarele modificari/hotfixuri:
+
+- Revolver: +4 damage | + ~10% firerate
+
+- PKM: balansat pattern-ul de recoil
+
+- Mossberg: Fixat o problema care ar fi putut genera "desync"
+
+## UPDATE V3.06
+
+- Honda S2000 are un sunet nou.
+- Mitsubishi Lancer EVO X are un nou livery.
+- Mitsubishi Lancer EVO X are NOS-ul fixat.
+- Banana Lancer din evenimentul de 1 aprilie are acum 4 locuri, tuning vizual și NOS.
+- Air filtering: face ca mașina să aibă NOS-ul activ. Bifați opțiunea "4 din 5" din secțiunea "Air Filters" din meniul de tuning.
+
+- Au fost rezolvate mai multe bug-uri.
+- FuryOS a inceput sa fie pregatit pentru urmatoarea aplicatie.
 
 # <span class="title-font"><center> Istoric Update Server </center></span>
+
+## 
 
 ## UPDATE V3.05
 

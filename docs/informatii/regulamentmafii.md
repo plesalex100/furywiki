@@ -89,16 +89,18 @@ title: Regulament OOC Mafii/Organizații Ilegale
 ### <span class="header-font"> 19. Jefuitul </span>
 - Este strict interzis ca Mafie sau Organizație să efectuați actiuni de tip "jefuit" fără un motiv bine intemeiat, vă este strict interzis să jefuiți o persoană daca nu știți sigur cine este acea persoană și dacă aparține unei familii/mafii/organizații. Un motiv bine intemeiat poate fi considerat o ceartă între mafii, care a fost declarată mai departe membrilor Sindicat în mod IC. Confiscarea de arme in urma unor reguli IC pe zonele deținute de mafii/organizatii nu se consideră jefuit.
 
+:::danger ATENȚIE!
+- Pe insula Cayo Perico această regulă nu se respectă.
+:::
+
 <hr style="transform: translateY(10px)"/>
 
 # <center> Regulament OOC Aliante Mafii/Organizatii/Familii IC </center>
 
-### 1. Ca organizatie aveti voie sa va aliati cu DOAR CU O alta organizatie/mafie in scopul desfasurarii activitatilor ilegale.
-### 2. In cazul batailor cu politia nu aveti voie sa chemati ajutor din alta mafie/organizatie in timpul bataii, puteti sa va bateti doar cei ce erau la inceputul actiunii.
-### 3. Mafiile NU au voie sa se alieze cu alte mafii, doar cu organizatiile.
-### 4. Aceeasi discutie si cu famiile mici, aveti voie sa fiti aliati in scopul desfasurarii activitatilor ilegale DOAR CU O alta familie mica in limita a 20 de oameni luati de la familia respectiva.
-### 5. In cazul jafurilor (Pacific, Biju, Interceptari) vor fi respectate regulile deja in vigoare. (maxim: 20 oameni Pacific, 26 oameni Interceptari)
-### 6. Daca o organizatie are beef cu o mafie poate sa ceara ajutor in bataie unei alte organizatii. Se aplica si in cazul razboaielor
+### 1. In cazul batailor cu politia nu aveti voie sa chemati ajutor din alta mafie/organizatie in timpul bataii, puteti sa va bateti doar cei ce erau la inceputul actiunii.
+### 2. Aceeasi discutie si cu famiile mici, aveti voie sa fiti aliati in scopul desfasurarii activitatilor ilegale DOAR CU O alta familie mica in limita a 20 de oameni luati de la familia respectiva.
+### 3. In cazul jafurilor (Pacific, Biju, Interceptari) vor fi respectate regulile deja in vigoare. (maxim: 20 oameni Pacific, 26 oameni Interceptari)
+### 4. Daca o organizatie are beef cu o mafie poate sa ceara ajutor in bataie unei alte organizatii. Se aplica si in cazul razboaielor
 :::danger IMPORTANT !
-### 7. Nu aveti voie cu aliante la graffiti
+### 5. Nu aveti voie cu aliante la graffiti
 :::
