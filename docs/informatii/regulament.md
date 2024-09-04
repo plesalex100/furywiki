@@ -314,6 +314,11 @@ locațiilor unde se desfășoară joburi legale și a garajelor.
 
 ### <span class="header-font">1.40 Folosirea de iteme in combat</span>
 - In timpul combat-ului aveti dreptul sa folositi armuri/adrenaline/bandaje.
+:::danger ATENTIE!
+Desi aveti voie sa va dati armuri/adrenaline/bandaje in timp ce va bateti
+
+VA ESTE STRICT INTERZIS SA TRAGETI IN TIMP CE CARACTERUL VOSTRU ESTE IN ANIMATIA DE ARMURA/SERINGA/BANDAJ
+:::
 
 ### <span class="header-font">1.41 REGULA LOCUINTE</span>
 

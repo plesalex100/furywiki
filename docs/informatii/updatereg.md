@@ -10,6 +10,15 @@ title: Update-uri Regulament
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
+### Update 03/09/2024
+
+#### [1.40 Folosirea de iteme în combat](/informatii/regulament.html#_1-40-folosirea-de-iteme-in-combat)
+:::danger ATENTIE!
+Desi aveti voie sa va dati armuri/adrenaline/bandaje in timp ce va bateti
+
+VA ESTE STRICT INTERZIS SA TRAGETI IN TIMP CE CARACTERUL VOSTRU ESTE IN ANIMATIA DE ARMURA/SERINGA/BANDAJ
+:::
+
 ### Update 01/08/2024
 
 #### [8.0 Regulament Jafuri / Banca Pacific / Transport](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific-transport)
