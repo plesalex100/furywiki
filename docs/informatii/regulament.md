@@ -451,11 +451,11 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 ### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific / Transport</span>
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Pacific:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de 22.
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de 24.
 - Se consideră foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Interceptare:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Interceptare este de 26.
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Interceptare este de 24.
 - Nu se consideră foc deschis, iar LSPD va menține zona sigură și va crea un perimetru în care trecătorii vor fi percheziționați, iar în cazul nerespectării ordinelor, vor fi imobilizați.
 - În cazul în care trecătorii sunt vizibili înarmați vor fi somați, iar mai apoi doborâți.
 - În cazul în care trecătorii vor să pătrundă într-un perimetru restrâns al valizei, membrii LSPD pot deschide focul, având în vedere cauza probabilă ca acesta să fie un membru al jafului.
