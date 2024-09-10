@@ -10,6 +10,16 @@ title: Update-uri Regulament
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
+### Update 07/09/2024
+
+#### [Jaf Pacific](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific-transport)
+
+- Numarul maxim de persoane permis la Pacific este 24
+
+#### [Jaf Interceptare](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific-transport)
+
+- Numarul maxim de persoane permis la Interceptare este 24
+
 ### Update 03/09/2024
 
 #### [1.40 Folosirea de iteme în combat](/informatii/regulament.html#_1-40-folosirea-de-iteme-in-combat)
