@@ -86,13 +86,6 @@ title: Regulament OOC Mafii/Organizații Ilegale
 ### <span class="header-font"> 18. Bait poliție </span>
 - Bait-ul polițiștilor sau începerea unei acțiuni de tip DM cu membrii LSPD pe zona voastră sau o pe o zonă rău famată fără un motiv bine întemeiat atrage sancțiunea de Low Effort RP persoanelor prezente la acțiune și FW mafiei <span style="color:red">(La decizia Sindicat + HighStaff)</span>
 
-### <span class="header-font"> 19. Jefuitul </span>
-- Este strict interzis ca Mafie sau Organizație să efectuați actiuni de tip "jefuit" fără un motiv bine intemeiat, vă este strict interzis să jefuiți o persoană daca nu știți sigur cine este acea persoană și dacă aparține unei familii/mafii/organizații. Un motiv bine intemeiat poate fi considerat o ceartă între mafii, care a fost declarată mai departe membrilor Sindicat în mod IC. Confiscarea de arme in urma unor reguli IC pe zonele deținute de mafii/organizatii nu se consideră jefuit.
-
-:::danger ATENȚIE!
-- Pe insula Cayo Perico această regulă nu se respectă.
-:::
-
 <hr style="transform: translateY(10px)"/>
 
 # <center> Regulament OOC Aliante Mafii/Organizatii/Familii IC </center>

@@ -10,6 +10,47 @@ title: Update-uri Regulament
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
+### Update 24/09/2024
+
+Avand in vederea adaugarea Pipebomb-ului si Molotovului :
+
+#### [4.0 Folosirea armelor albe, armelor de foc si a explozivilor](/informatii/regulament.html#_4-0-folosirea-armelor-albe-armelor-de-foc)
+
+- 4.05 Se interzice folosirea pipebomb-ului in interioare(interiorul bancii, interiorul casei arse, interiorul altor sedii, cladiri, etc), pe trotuare si langa cladiri.
+
+- 4.06 Se interzice folosirea molotvului in interioare si pe trotuare.
+
+- 4.07 Folosirea explozivilor in mod abuziv poate atrage sanctiune, acestia au fost introdusi pentru a va putea crea un avantaj in situatiile in care n-aveti alta sansa, incercati sa limitati folosirea lor daca situatia nu o cere sau nu ar fi necesar, veti fi SANCTIONATI.
+
+- 4.08 Nu veti folosi pipebomb sau molotov in zone publice, decat in cazul jafurilor, iar asta se va intampla strict in perimetrul bancii nu la distanta mare de aceasta si in cazul Razboaielor intre Factiuni.
+
+- 4.09 La jafuri se pot folosi maxim 2 pipebomb-uri.
+
+- 4.10 Explozivii pot fi folositi in orice fel si se sustrag de la orice regula pe Insula Cayo Perico
+
+### Update 23/09/2024
+
+**Regulament OOC Mafii**
+
+#### [~~19. Jefuitul~~](/informatii/regulamentmafii.html)
+- ~~Este strict interzis ca Mafie sau Organizație să efectuați actiuni de tip "jefuit" fără un motiv bine intemeiat, vă este strict interzis să jefuiți o persoană daca nu știți sigur cine este acea persoană și dacă aparține unei familii/mafii/organizații. Un motiv bine intemeiat poate fi considerat o ceartă între mafii, care a fost declarată mai departe membrilor Sindicat în mod IC. Confiscarea de arme in urma unor reguli IC pe zonele deținute de mafii/organizatii nu se consideră jefuit.~~
+:::danger ~~ATENȚIE!~~
+- ~~Pe insula Cayo Perico această regulă nu se respectă.~~
+:::
+
+#### [1.44 Low Effort RP](/informatii/regulament.html#_1-44-low-effort-roleplay)
+
+Se considera Low Effort, roleplay-urile de ex:
+- Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal,fara vreun context IC bine definit
+- Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti
+- Intr-o situatie de ostatici, pui ostaticul sau spui tu pe statia lor sa vina toti membrii care sunt in oras in momentul respectiv
+- Este considerat Low Effort sa jefuiesti un bancomat doar ca sa te bati cu Politia. Fiind considerat un jaf mic, pentru playerii cu putine ore, nu te-ai risca sa mori/sa fii prins de Politie si arestat pentru o suma atat de mica.
+
+**Totodata Low effort va fi si considerat un motiv care nu este bine intemeiat pentru a face anumite actiuni**
+**Nu mai este considerat low effort umilirea/rp scarbos intre factiunile de tip mafie/organizatie si chiar familiile IC/jefuitori**
+
+***ATENTIE, IN RP-URI CU FETELE INCERCATI CHIAR DACA AVETI UN MOTIV BUN, SA VA ABTINETI DE LA COMENTARII MISOGINE SAU SA LE INJURATI DOAR PENTRU CA SUNT FEMEI SE INCADREAZA LA REGULA DE TOXICITATE**
+
 ### Update 07/09/2024
 
 #### [Jaf Pacific](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific-transport)

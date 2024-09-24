@@ -348,7 +348,13 @@ VA ESTE STRICT INTERZIS SA TRAGETI IN TIMP CE CARACTERUL VOSTRU ESTE IN ANIMATIA
 - Sa pui un player sa faca sunete/sa repete dupa tine anumite fraze strict pentru amuzamentul personal,fara vreun context IC bine definit
 - Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti
 - Intr-o situatie de ostatici, pui ostaticul sau spui tu pe statia lor sa vina toti membrii care sunt in oras in momentul respectiv
+- Este considerat Low Effort sa jefuiesti un bancomat doar ca sa te bati cu Politia. Fiind considerat un jaf mic, pentru playerii cu putine ore, nu te-ai risca sa mori/sa fii prins de Politie si arestat pentru o suma atat de mica.
 :::
+
+**Totodata Low effort va fi si considerat un motiv care nu este bine intemeiat pentru a face anumite actiuni**
+**Nu mai este considerat low effort umilirea/rp scarbos intre factiunile de tip mafie/organizatie si chiar familiile IC/jefuitori**
+
+***ATENTIE, IN RP-URI CU FETELE INCERCATI CHIAR DACA AVETI UN MOTIV BUN, SA VA ABTINETI DE LA COMENTARII MISOGINE SAU SA LE INJURATI DOAR PENTRU CA SUNT FEMEI SE INCADREAZA LA REGULA DE TOXICITATE**
 
 ### <span class="header-font">1.45 Posthunt</span>
 - Este interzis sa faceti Posthunt. Posthunt-ul se defineste prin gasirea de motive/fail-uri in Roleplay-urile altor persoane, doar cu scopul de a fi sanctionate pentru bunul plac personal, sau deoarece exista anumite implicatii(beef-uri/certuri) IC care derapeaza in OOC.
@@ -419,6 +425,12 @@ a locurilor foarte retrase)
 - 4.02 Se interzice deschiderea focului asupra poliției într-o zonă publică. 
 - 4.03 Se permite deschiderea focului asupra poliției indiferent de zonă, doar în cazul în care poliția a deschis focul asupra voastră.
 - 4.04 **Se interzice folosirea Musketei de la jobul de Vânător pentru a comite o ilegalitate**.
+- 4.05 Se interzice folosirea pipebomb-ului in interioare(interiorul bancii, interiorul casei arse, interiorul altor sedii, cladiri, etc), pe trotuare si langa cladiri.
+- 4.06 Se interzice folosirea molotvului in interioare si pe trotuare.
+- 4.07 Folosirea explozivilor in mod abuziv poate atrage sanctiune, acestia au fost introdusi pentru a va putea crea un avantaj in situatiile in care n-aveti alta sansa, incercati sa limitati folosirea lor daca situatia nu o cere sau nu ar fi necesar, veti fi SANCTIONATI.
+- 4.08 Nu veti folosi pipebomb sau molotov in zone publice, decat in cazul jafurilor, iar asta se va intampla strict in perimetrul bancii nu la distanta mare de aceasta si in cazul Razboaielor intre Factiuni.
+- 4.09 La jafuri se pot folosi maxim 2 pipebomb-uri.
+- 4.10 Explozivii pot fi folositi in orice fel si se sustrag de la orice regula pe Insula Cayo Perico
 
 <hr style="transform: translateY(10px)"/>
 
