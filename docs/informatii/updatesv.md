@@ -6,6 +6,144 @@ title: Update-uri Server
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+## UPDATE V3.15
+
+### NEW VEHS + RESTOCK 28.09.2024
+- Lista de restock va fi postata la noapte, iar masinile vor putea fi testate de maine dimineata.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1289216305618227301/new_vehs.png?ex=66fca0ff&is=66fb4f7f&hm=0a88f869c7ccb4cddf087e4ac7a63fa6e305ab2e9c2f22d9c9776c7ac7f588ce&)
+
+## UPDATE V3.14
+
+- Au fost adăugate două obiecte noi: Molotov și Pipe Bomb. Acestea nu pot fi craftate.
+- A fost rezolvată problema furtunului de la ISU, care se transforma în minigun.
+- Sistemul de parcare al mașinilor de la medici a fost revizuit și a primit câteva îmbunătățiri, astfel încât mașinile să nu mai fie scoase defecte.
+- A fost rezolvată problema legitimației medicilor.
+- Problema resetării raportului din MDT-ul medicilor și polițiștilor a fost remediată.
+- A fost creată o nouă monedă: Moneda Antică, care va intra în circulație începând de săptămâna aceasta, prin diferite metode noi.
+
+## REWORK Rau-Famate
+
+- In urma mai multor discutii si a unei dorinte de a atrage si strange jucatorii pe anumite zone, am decis eliminarea a 2 zone rau famate din sistemul de livrari si graffiti. Mai jos puteti citi modificarile.
+
+### VINEWOOD
+- Nu mai este considerata zona rau famata deloc
+- Nu se mai dau graffiti pe aceasta zona
+- Nu se mai poate livra pe aceasta zona
+
+### FAVELA
+- Ramane zona rau famata, dar detaliile vor fi aflate IC
+- Nu se mai dau graffiti pe aceasta zona
+- Nu se mai poate livra pe aceasta zona
+
+## UPDATE V3.13
+
+### FACTIVITY 
+- Au fost adăugate scripturi pentru Tenis, Tenis de masă, Biliard și Darts.
+- Acestea au fost plasate strategic pentru a încuraja utilizarea lor în anumite zone.
+
+- Tenisul de masă are un sistem de pariuri, în care jucătorii din meci pot stabili miza pentru câștigători, promovând astfel competiția.
+- Tenisul de masă poate fi jucat doar în zonele Grove și Vespucci.
+- Darts-ul poate fi jucat în baruri.
+- Biliardul poate fi amplasat și în casele personale.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1287468141374341214/UPDATE.png?ex=66fcdc64&is=66fb8ae4&hm=b3663a9b4632a6edfd9f517ba80ea1909c55404470470253f77d4bad2e51309b&)
+
+## UPDATE V3.12
+
+- Sistemul de tracțiune adaptivă a fost refăcut pe categorii de vehicule. Mașinile sedan, coupe, sport, hypercar și motocicletele de viteză se vor împotmoli mult mai ușor decât vehiculele off-road.
+- Problema legată de conectarea mașinii la aplicația YouTube a fost rezolvată.
+- Jobul de măcelar a fost recalculat.
+- Jobul de vatman a primit un boost și a fost ajustat conform economiei.
+- Drop-ul de carduri Blanc de la jobul de Bank Driver a fost mărit considerabil.
+- Au fost adăugate sisteme de închidere a ușilor pentru toate sediile de mafie.
+- Craft-ul de armuri a fost mutat pentru a eficientiza utilizarea spațiului.
+- A fost adăugat un nou item, "Clește", pentru a putea tăia cătușele.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1286681440305680537/newitem.png?ex=66fca2b8&is=66fb5138&hm=bb7434639b90abf5a565ed523f2428c1ca2bd9ba4a56fea789c877e803d8c9d2&=&format=webp&quality=lossless&width=350&height=350)
+
+## UPDATE V3.11
+
+### BUG-FIXES
+
+- De acum, puteți încărca arma folosind tasta "R", atâta timp cât aveți gloanțele în inventar.
+- Bug-ul intitulat "Primul glonț" a fost reparat.
+- Anumite plăți care nu funcționau în cazul întreruperilor de curent au primit bypass, cum ar fi facturile pentru mecanici, amenzile, etc.
+- De acum, poți scoate și mașina personală din garaj, chiar dacă ai deja o mașină de mafie scoasă.
+- Adrenalina și bandajul nu mai oferă revive din comă dacă au fost folosite anterior și nu mai setează HP-ul la 50 după folosirea trusei medicale.
+- După ce ai primit PK, testul GSR nu mai detectează praful de pușcă.
+- Alerta pentru poliție privind folosirea canistrei a primit o nouă verificare.
+- Au fost adăugate toate armele de pe server în config-ul jafului de la Biju, pentru a putea sparge vitrinele.
+
+## UPDATE V3.10
+
+### Jaf Interceptare
+- Jaful a fost rescris complet și îmbunătățit.
+- De acum este necesară achiziționarea unui stick de date de la un NPC, care va fi utilizat în FuryOS pentru găsirea containerului ce conține detalii despre  servieta.
+- A fost adăugat un hack în sistemul FuryOS, care va fi utilizat după rularea stick-ului USB.
+- Au fost adăugate noi locații în care poate apărea containerul roșu.
+
+### Updates & Bug-Fixes
+- Animația de schimbare a armelor a fost modificată, fiind acum cu 50% mai rapidă.
+- A fost adăugat un ATM funcțional în secția de poliție.
+- Capacitatea de transport a mărfurilor la magazine a fost dublată.
+- Au fost adăugate blip-uri comune între ped și medici.
+- „Ținta roșie” a fost eliminată. De acum, chiar dacă un jucător este țintit, ținta rămâne albă.
+- Aplicatia YouTube din telefon a fost reparata.
+
+### Custom Crosshair Generator
+- A fost adăugată comanda /getcursor.
+- Se activează sau se dezactivează cu comanda cl_customCrosshair.
+- Au fost adăugate comenzi suplimentare:
+
+```bash
+cl_crosshairdot
+cl_crosshairsize
+cl_crosshairstyle
+cl_crosshairthickness
+cl_crosshairgap
+cl_crosshair_drawoutline
+cl_crosshair_outlinethickness
+cl_crosshaircolor
+cl_crosshaircolor_r
+cl_crosshaircolor_g
+cl_crosshaircolor_b
+cl_crosshairalpha
+cl_crosshair_dynamic_splitdist
+cl_crosshair_dynamic_splitalpha_innermod
+cl_crosshair_dynamic_maxdist_splitratio
+```
+
+- Ex config tinta:
+```bash
+cl_customCrosshair true;cl_crosshairdot true;cl_crosshairsize 3.000000;cl_crosshairstyle 2;cl_crosshairthickness 1.000000;cl_crosshairgap 1.000000;cl_crosshair_drawoutline true;cl_crosshair_outlinethickness 1.000000;cl_crosshaircolor 5;cl_crosshaircolor_r 255;cl_crosshaircolor_g 255;cl_crosshaircolor_b 255;cl_crosshairalpha 255;cl_crosshair_dynamic_splitdist 7.000000;cl_crosshair_dynamic_splitalpha_innermod 3.000000;cl_crosshair_dynamic_maxdist_splitratio 1.000000;
+```
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1283641766393679933/Crosshair.png?ex=66fcc88e&is=66fb770e&hm=b10fb5ddfbd22b3dd79a56d014d86de08f491bbc5ad2670d68cba95087d4a5b2&=&format=webp&quality=lossless&width=671&height=671)
+
+### Car Audio System
+- A fost creat un nou item "Sistem Audio" disponibil in magazine.
+- Sistemul se monteaza de catre mecanici in locurile destinate acestei activitati.
+- Folosind aplicatia YouTube din telefon te poti conecta la masina.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1283641766813106206/caraudio.png?ex=66fcc88e&is=66fb770e&hm=53c33618be6b364b834d95928d57b605d5310368ca79a2c882d7e911bfacf160&=&format=webp&quality=lossless&width=671&height=671)
+
+## UPDATE V3.09
+
+- Salariile factiunilor legale PD si Smurd au fost marite conform economiei actuale.
+- Respawn timer-ul a fost micsorat la 300 secunde (5minute)
+- Dropul de laptop la pilot cargo a primit un nerf
+- Redus cooldown-ul la bandaje si adrenaline 15s
+- Redus numarul de Politisti pentru a da pacific la 25 si modificat la Intercepetare la 25
+- Diverse fixuri si adjustari la arme
+- Mici fixuri si optimizari
+
+## UPDATE V3.08
+
+- Problema legata de scoaterea din masina dupa shot de Navy a fost rezolvata.
+- Cooldown-ul de echipare a armurii a fost scazut de la 45s la 15s.
+- Casca 39 nu mai necesita echiparea armurii pentru a functiona.
+
 ## UPDATE V3.07
 
 - Au fost rezolvate mai multe erori.
