@@ -19,13 +19,13 @@ title: Comenzi Utile
 
 - Deschide un meniu cu opțiuni pentru a trimite o întrebare/ticket/bug către membri staff.
 
-### /th
+<!-- ### /th
 
 - Această comandă este folosită în anumite situații roleplay și constă în luarea unui ostatic cu arma la cap.
 :::warning ATENȚIE!
 - Comanda trebuie folosită în situații roleplay și nu pentru a face trolling.
 - Ai nevoie de un pistol pentru a putea folosi această comandă.
-:::
+::: -->
 
 ### /carry
 
@@ -68,7 +68,7 @@ title: Comenzi Utile
 - Afișează informații despre un jucător.
 - Folosirea comenzii fără a intruduce un id va afișa informații despre caracterul tău.
 
-### /stats
+### /stats | /ore
 
 - Afișează statistici despre caracterul tău.
 - Echivalentul comenzii /id.
@@ -101,9 +101,9 @@ title: Comenzi Utile
 
 - Îți curăță caracterul de sânge.
 
-### /barbut
+<!-- ### /barbut
 
-- Cu ajutorul unor zaruri cumpărate de la [magazin](/proprietati/magazine), poți juca barbut pe o sumă de bani cu alt jucător.
+- Cu ajutorul unor zaruri cumpărate de la [magazin](/proprietati/magazine), poți juca barbut pe o sumă de bani cu alt jucător. -->
 
 ### /houses
 
@@ -113,7 +113,7 @@ title: Comenzi Utile
 
 - Setează locația către casa cu numărul selectat
 
-### /startrecording 
+<!-- ### /startrecording 
 
 - Începe înregistrarea de clipuri video.
 
@@ -123,7 +123,7 @@ title: Comenzi Utile
 
 ### /rockstareditor
 
-- Accesează Rockstar Editor.
+- Accesează Rockstar Editor. -->
 
 ### /fpsboost
 
