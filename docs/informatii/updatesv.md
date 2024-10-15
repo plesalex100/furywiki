@@ -6,6 +6,56 @@ title: Update-uri Server
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+## 
+
+## Small Update - Disable Announces
+
+- De acum puteți opri afișarea anunțurilor de tip OLX / CNN cu ajutorul comenzii:
+
+``/disableannounces``
+
+## Update v3.17
+
+- Au fost adăugate 3 prop-uri noi la poliție care sunt de ajutor mai mult pe timp de noapte la filtre rutiere dar și alte acțiuni.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1293448757622472735/image.png?ex=670f5286&is=670e0106&hm=59b099e83a8d1946a5af1fda6ddb49c776576a262742578879b01586d6809273&)
+
+- A fost adăugată comanda ``/bag``, care vă permite să vă scoateți doar VIZUAL geanta de pe caracter. Odată cu introducerea acestei comenzi ținem să vă precizăm că dacă vreți să folosiți o armă de calibru mare (AK, Combat MG, etc) trebuie să aveți o geantă vizibilă pe caracter, la fel și în momentul în care sunteți percheziționați de poliție și dețineți ceva care în mod normal necesită o geantă, pentru a evita "abuzurile". Scopul acestei comenzi este strict de a avea un caracter mai estetic, dar nu trebuie folosită pentru a afecta nivelul de roleplay.
+
+## Update v3.16 - Emotes 
+
+Au fost adăugate emote-urile:
+- ``propose``
+- ``moneyphone``
+- ``handinpocket`` => aveti grija cum folositi aceasta animatie fara a incalca regulamentul
+- ``handsinpockets`` => aveti grija cum folositi aceasta animatie fara a incalca regulamentul
+- ``spreadmoney`` => de la 2 la 5 (spreadmoney2, etc)
+- ``gangpose`` => de la 2 la 12 (gangpose2, etc)
+- ``crips`` => de la 2 la 3 (crips2, etc)
+- ``blood`` => de la 2 la 3 (blood2, etc)
+- ``gangtaunt``
+
+Au fost adăugate emote-urile cu obiecte:
+- ``bball2`` -> cu minge de baschet
+- ``beer2`` -> cu sticla de bere
+
+Au fost adăugate dansurile:
+- ``armswirl``
+- ``armwave``
+- ``femaledance`` => de la 2 la 6 (femaledance2, etc)
+- ``twerk2``
+- ``twerk3``
+- dansuri de tip Baile Custom -> le vedeti in meniul de dansuri, foarte multe variatii
+- ``renegade`` - VIP
+- ``sayso`` - VIP
+- ``electroshuffle`` - VIP
+- ``hitit`` - VIP
+- ``gangnamstyle`` - VIP
+- ``macarena`` - VIP
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1291677777753407518/Screenshot_747.png?ex=670ecfec&is=670d7e6c&hm=3a8b9debadc435bf22b5f556909a6ebb32b19b0e6115dc85069146029f0f8e21&)
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1291677778688868373/Screenshot_739.png?ex=670ecfec&is=670d7e6c&hm=2898c93dfbc0c9c5912c8ce9b9a04fb4cbe2e708c361bb52d597df0cae5ec730&)
+
 ## UPDATE V3.15
 
 ### NEW VEHS + RESTOCK 28.09.2024

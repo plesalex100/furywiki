@@ -417,6 +417,7 @@ a locurilor foarte retrase)
 - 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
 - 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
 - 3.09  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 2 ore.
+- 3.10  Pe Cayo Perico se poate jefui la orice oră.
 
 <hr style="transform: translateY(10px)"/>
 

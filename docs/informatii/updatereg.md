@@ -10,6 +10,11 @@ title: Update-uri Regulament
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
+### Update 14/10/2024
+
+####[3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
+- Pe Cayo Perico se poate jefui la orice oră.
+
 ### Update 24/09/2024
 
 Avand in vederea adaugarea Pipebomb-ului si Molotovului :
