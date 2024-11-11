@@ -23,7 +23,7 @@ Deoarece ne dorim ca experienta de roleplay sa fie placuta si continua pentru to
 
 ### Update 14/10/2024
 
-####[3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
+#### [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
 - Pe Cayo Perico se poate jefui la orice oră.
 
 ### Update 24/09/2024
