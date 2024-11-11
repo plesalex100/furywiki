@@ -8,6 +8,56 @@ title: Update-uri Server
 
 ## 
 
+### Update v3.19
+
+- A fost reparată problema garajelor de la mafia Hells Angels.
+- Polițiștii pot scoate atât elicopterul, cât și mașina de poliție concomitent.
+- Elicopterul de la Fury News are instalată cameră.
+- A fost adăugată comanda /news, care activează HUD-ul pentru Fury News.
+- Hack-ul de la ATM necesită acum să fiți în jurul ATM-ului și, la final, să recuperați RF Transmitterul.
+- A fost adăugată o notificare la jaful de la Pacific, care vă instiintează când mai aveți 10 secunde la masca de gaz.
+- A fost adăugat un Midday Boost la joburi de 5%, între orele 12:00 și 14:00 (Luni-Vineri).
+- A fost mărit Evening Boost între orele 17:00-19:00 cu 10% și 19:00-20:00 cu 5% (Luni-Vineri).
+- Au fost adăugate veste noi pentru Poliție (BCCO).
+- Celulele de la primărie sunt funcționale și pot fi închise de Primărie / Polițiști.
+- Zonele de livrare au o cerere ușor crescută seara, pe baza feedback-ului de la ședințele săptămânale cu liderii.
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1305383635104432129/image.png?ex=6732d4bf&is=6731833f&hm=3a9aac7f2847e7bb752c45a310f7f7a761371731a363401f306f56049ec76f18&=&format=webp&quality=lossless&width=1191&height=670)
+
+### 🎃 Update v3.18 🎃 
+
+#### Statuile Blestemate 
+- Aceste statui vă oferă posibilitatea de a crea iteme pe care le puteți folosi pe parcursul evenimentului.
+
+#### Sperietoare 
+- Această sperietoare vă oferă zilnic premii, în funcție de nivelul său. Sperietoarea trebuie construită și plasată de voi.
+
+#### Animale Posedate 
+- Pe întreaga hartă puteți găsi anumite animale care vă oferă iteme necesare pentru eveniment.
+
+#### Statuia de Aur 
+- Primiți câte una pe zi la prima conectare și puteți cumpăra altele cu Firecoins.
+
+#### Roadmap 
+- Parcurge fiecare misiune și câștigă premiile afișate. Se accesează din meniul "K."
+
+#### Trick or Treat 
+- Colindă casele și vinde bomboanele pentru a câștiga bani. Vinde aceste bomboane în Legion Square.
+
+#### Decor Halloween 
+- Anumite părți din oraș au fost decorate pentru Halloween.
+
+#### PUG Arena
+- Castiga bomboane si acumuleaza puncte pentru a putea castiga urmatoarele premii.
+
+🥇 Locul 1 RAZER BlackWidow V4 - Tastatura
+🥈 Locul 2 RAZER Kraken V4 X - Casti
+🥉 Locul 3 Razer Viper V3 - Mouse
+
+🎃 Restul evenimentului il descoperiti direct pe server🎃 
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1301238788483449025/event.png?ex=6732e9cf&is=6731984f&hm=a3afbc8ab65c3370ae7b4ee6e2d00e1638c663745d4f237f1a2f62301f4ee763&)
+
 ## Small Update - Disable Announces
 
 - De acum puteți opri afișarea anunțurilor de tip OLX / CNN cu ajutorul comenzii:

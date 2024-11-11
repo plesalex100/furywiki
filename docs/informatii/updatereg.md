@@ -10,6 +10,17 @@ title: Update-uri Regulament
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
+### Sanctiune modificata
+
+Deoarece ne dorim ca experienta de roleplay sa fie placuta si continua pentru toti jucatorii trebuie sa facem urmatoarea modificare in sanctiuni:
+
+:::info
+- Disconnectul in roleplay - 7 zile fara drept
+- Disconnectul in roleplay cu PD - 14 zile fara drept
+:::
+
+- Consideram ca desi se mai pot intampla greseli in timpul unui roleplay, disconnectul nu este niciodata o greseala. Cu atat mai mult este un factor ce contribuie la frustrarile membrilor comunitatii care "stiu sa piarda" si nu isi dau disconnect doar ca sa nu piarda.
+
 ### Update 14/10/2024
 
 ####[3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
