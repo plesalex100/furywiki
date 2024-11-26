@@ -10,6 +10,28 @@ title: Update-uri Regulament
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
+### Setari OBS
+- Va este strict interzis sa va faceti setari astfel incat pe OBS(sau orice alt program de inregistrare):
+
+1. Sa nu va auziti deloc sa se auda doar restul.
+- Explicatie: Tu probabil vorbesti si pe discord cu prietenii "metagardieni" si iti dai mute sau schimbi setarea pe alta sursa ca sa nu fii auzit.
+
+2. Sa nu aveti sonor la TOT pc-ul activat in OBS
+- Explicatie: Exista modalitati prin care se poate face routing ca discordul sa se auda pe o sursa, iar jocul pe alta.
+
+- Sanctiunile: 
+Caz A. Faceti o reclamatie/sunteti gasit random cu setari de genul => warn de metagaming
+
+Caz B. Esti acuzat direct de metagaming => nu se mai discuta nimic se da sanctiunea de ban cu drept.
+
+### Zapada
+
+Pe perioada iernii o sa mai fie pusa zapada iar asta implica anumite limitari
+- nu aveti voie cu motoare sport, chopper, cruiser, doar cu cele de offroad
+- masinile trebuiesc echipate cu cauciucuri offroad 
+- trebuie sa va imbracati corespunzator vremii de pe server
+- e recomandat sa nu innotati perioade lungi din cauza temperaturii apei care in mod normal ar duce la hipotermie si ar rezulta in membre amputate/moarte
+
 ### Sanctiune modificata
 
 Deoarece ne dorim ca experienta de roleplay sa fie placuta si continua pentru toti jucatorii trebuie sa facem urmatoarea modificare in sanctiuni:

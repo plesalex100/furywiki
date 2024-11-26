@@ -258,6 +258,22 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 - Exemple modalitati pentru inregistrare gameplay care nu consuma multe resurse: <span style="color:red">Medal.tv, Outplayed.tv, Shadowplay, OBS live pe youtube.</span>
 :::
 
+#### Setari OBS
+:::warning Setari OBS
+- Va este strict interzis sa va faceti setari astfel incat pe OBS(sau orice alt program de inregistrare):
+
+1. Sa nu va auziti deloc sa se auda doar restul.
+- Explicatie: Tu probabil vorbesti si pe discord cu prietenii "metagardieni" si iti dai mute sau schimbi setarea pe alta sursa ca sa nu fii auzit.
+
+2. Sa nu aveti sonor la TOT pc-ul activat in OBS
+- Explicatie: Exista modalitati prin care se poate face routing ca discordul sa se auda pe o sursa, iar jocul pe alta.
+
+- Sanctiunile: 
+Caz A. Faceti o reclamatie/sunteti gasit random cu setari de genul => warn de metagaming
+
+Caz B. Esti acuzat direct de metagaming => nu se mai discuta nimic se da sanctiunea de ban cu drept.
+:::
+
 ### <span class="header-font">1.32 ID Checking</span>
 	
 - Nu aveți voie sa va uitati la ID-urile altor jucători fără un motiv bine întemeiat. 
