@@ -20,6 +20,22 @@ title: Petrolist
 Puteți lucra și fără licență, dar la un traffic stop din partea poliției puteți fi sancționat.
 :::
 
+## <span class="header-font">Skills</span>
+
+- Durata pentru a transfera combustibilul din pompă în cisternă este redusă în funcție de skill-ul deținut.
+
+| Skill                | Reducere timp                    |
+| -------------------  | ---------------                  |
+| 1                    | -                                |
+| 2                    | -10% din timpul de așteptare     |
+| 3                    | -15% din timpul de așteptare     |
+| 4                    | -25% din timpul de așteptare     |
+| 5                    | -50% din timpul de așteptare     |
+
+:::tip Exemplu reducere timp de așteptare
+- Dacă la skill 1 timpul de așteptare este de 120 secunde, la skill 2 va fi de 108 secunde.
+:::
+
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info
