@@ -20,6 +20,19 @@ title: Muncitor la Carieră
 Puteți lucra și fără licență, dar la un traffic stop din partea poliției puteți fi sancționați.
 :::
 
+## <span class="header-font">Skills</span>
+
+- Trenul are mai mult spațiu pentru minereuri în funcție de skill-ul deținut.
+- Bulldozer-ul este acum mai rapid și are o tracțiune mai bună în funcție de skill-ul deținut.
+
+| Skill                | Spațiu în tren     |
+| -------------------  | -------------------|
+| 1                    | 300 slots, 500kg   |
+| 2                    | 350 slots, 600kg   |
+| 3                    | 400 slots, 700kg   |
+| 4                    | 450 slots, 800kg   |
+| 5                    | 500 slots, 900kg   |
+
 ## <span class="title-font">Cum practic acest job?</span>
 
 :::info

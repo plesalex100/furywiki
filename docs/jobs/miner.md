@@ -19,6 +19,18 @@ title: Miner
 - Lucratul la mină vă îmbunătățește [forma fizică](/general/inventar.html#forma-fizica)
 :::
 
+## <span class="header-font">Skills</span>
+
+- În funcție de skill, veți avea șansa de a obține mai multe minereuri la fiecare piatră spartă.
+
+| Skill                | Șansă drop 2 minereuri   | Șansă drop 3 minereuri |
+| -------------------  | -------------------      | ---------------        |
+| 1                    | 0%                       | 0%                     |
+| 2                    | 30%                      | 0%                     |
+| 3                    | 40%                      | 0%                     |
+| 4                    | 50%                      | 5%                     |
+| 5                    | 100%                     | 30%                    |
+
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info

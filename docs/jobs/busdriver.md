@@ -18,6 +18,8 @@ title: Șofer de autobuz
 
 ### <span class="header-font">Skills</span>
 
+- În funcție de skill, veți avea un bonus la plata cursei și posibilitatea de a face curse externe.
+
 | Skill                | Nr. Curse            | Bonus               |
 | -------------------  | -------------------  | ---------------     |
 | 1                    | 0                    | -                   |
@@ -25,6 +27,8 @@ title: Șofer de autobuz
 | 3                    | 30+                  | plată mărită cu 30% + posibilitatea de a face curse externe |
 | 4                    | 45+                  | plată mărită cu 45% + posibilitatea de a face curse externe |
 | 5                    | 75+                  | plată mărită cu 60% + posibilitatea de a face curse externe |
+
+<hr style="transform: translateY(10px)"/>
 
 ### <span class="header-font">Cum practic acest job?</span>
 

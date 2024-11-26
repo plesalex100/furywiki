@@ -10,6 +10,18 @@ title: Mc Donalds
 - Experiență de minim 25 ore.
 :::
 
+## <span class="header-font">Skills</span>
+
+- În funcție de skill, veți avea un bonus la plata jobului.
+
+| Skill                | Bonus Plată              |
+| -------------------  | -------------------      |
+| 1                    | -                        |
+| 2                    | plată mărită cu 15%      |
+| 3                    | plată mărită cu 30%      |
+| 4                    | plată mărită cu 45%      |
+| 5                    | plată mărită cu 60%      |
+
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info

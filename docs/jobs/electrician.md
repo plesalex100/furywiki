@@ -15,6 +15,19 @@ title: Electrician
 - Deținerea unei [licențe](/general/licente.html) de electrician pentru a putea lucra legal.
 :::
 
+## <span class="header-font">Skills</span>
+
+- În funcție de skill, veți avea un bonus la plata jobului.
+- Șansa de drop al itemelor speciale la acest job este influențată de skill-ul pe care îl dețineți.
+
+| Skill                | Bonus Plată              | Șansă drop iteme speciale |
+| -------------------  | -------------------      | ---------------           |
+| 1                    | -                        | -                         |
+| 2                    | plată mărită cu 15%      | +7%                       |
+| 3                    | plată mărită cu 30%      | +10%                      |
+| 4                    | plată mărită cu 45%      | +20%                      |
+| 5                    | plată mărită cu 60%      | +40%                      |
+
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info

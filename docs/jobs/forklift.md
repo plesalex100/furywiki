@@ -17,6 +17,19 @@ title: Stivuitorist
 Puteți lucra și fără licență, dar la o razie din partea poliției veți fi sancționați.
 :::
 
+## <span class="header-font">Skills</span>
+
+- În funcție de skill, veți avea un bonus la plată.
+- Șansa de drop al itemelor speciale la acest job este influențată de skill-ul pe care îl deții.
+
+| Skill                | Bonus Plată              | Șansă drop iteme speciale |
+| -------------------  | -------------------      | ---------------           |
+| 1                    | -                        | -                         |
+| 2                    | plată mărită cu 15%      | +7%                       |
+| 3                    | plată mărită cu 30%      | +10%                      |
+| 4                    | plată mărită cu 45%      | +20%                      |
+| 5                    | plată mărită cu 60%      | +40%                      |
+
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info

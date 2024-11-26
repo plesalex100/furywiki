@@ -18,6 +18,18 @@ title: Job - Șofer Bancar
 - Puteți lucra și fără licență, dar la un control din partea poliției puteți fi sancționați.
 :::
 
+## <span class="header-font">Skills</span>
+
+- În funcție de skill, veți avea un bonus la plata jobului.
+
+| Skill                | Bonus Plată              |
+| -------------------  | -------------------      |
+| 1                    | -                        |
+| 2                    | plată mărită cu 15%      |
+| 3                    | plată mărită cu 30%      |
+| 4                    | plată mărită cu 45%      |
+| 5                    | plată mărită cu 60%      |
+
 ## <span class="header-font"> Cum practic acest job? </span>
 :::info
 Acest job constă în încărcarea servietelor cu bani în dubă și livrarea lor la destinație.

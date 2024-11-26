@@ -18,6 +18,24 @@ title: Pescar
 Puteți lucra și fără licență, dar la o razie din partea poliției veți fi sancționați.
 :::
 
+## <span class="header-font">Skills</span>
+
+- În funcție de skill, veți avea un bonus procentual la tot ce vindeți.
+- Timpul în care prindeți peștii este redus în funcție de skill-ul deținut.
+- Prețul peștilor de la [pescar oceanic](/jobs/fisherv2.html) va fi afectat tot de acest skill.
+
+| Skill                | Bonus Plată              | Reducere timp                                |
+| -------------------  | -------------------      | ---------------                              |
+| 1                    | -                        | -                                            |
+| 2                    | plată mărită cu 15%      | -10% din timpul minim/maxim de așteptare     |
+| 3                    | plată mărită cu 30%      | -15% din timpul minim/maxim de așteptare     |
+| 4                    | plată mărită cu 45%      | -25% din timpul minim/maxim de așteptare     |
+| 5                    | plată mărită cu 60%      | -50% din timpul minim/maxim de așteptare     |
+
+:::tip Exemplu reducere timp de așteptare
+- Dacă la skill 1 timpul minim de așteptare este de 60 secunde, la skill 2 va fi de 54 secunde.
+:::
+
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info

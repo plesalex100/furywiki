@@ -14,6 +14,20 @@ title: Pilot
 - Deținerea unor cunoștințe medii despre pilotaj.
 :::
 
+## <span class="header-font">Skills</span>
+
+- În funcție de skill, veți avea un bonus la plata jobului.
+- Șansa de drop al itemelor speciale la acest job este influențată de skill-ul pe care îl dețineți.
+- Fiecare skill îți oferă un avion mai rapid.
+
+| Skill                | Bonus                                                                 | Șansă drop iteme speciale |
+| -------------------  | -------------------                                                   | ---------------           |
+| 1                    | -                                                                     | -                         |
+| 2                    | plată mărită cu 15% + destinația Grapeseed                            | +7%                       |
+| 3                    | plată mărită cu 30% + destinația Grapeseed + destinația Cayo Perico   | +10%                      |
+| 4                    | plată mărită cu 45% + destinația Grapeseed + destinația Cayo Perico   | +20%                      |
+| 5                    | plată mărită cu 60% + destinația Grapeseed + destinația Cayo Perico   | +40%                      |
+
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info
