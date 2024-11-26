@@ -10,7 +10,7 @@ title: Update-uri Regulament
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
-### Setari OBS
+### [Setari OBS](/informatii/regulament.html#setari-obs)
 - Va este strict interzis sa va faceti setari astfel incat pe OBS(sau orice alt program de inregistrare):
 
 1. Sa nu va auziti deloc sa se auda doar restul.
