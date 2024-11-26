@@ -8,6 +8,81 @@ title: Update-uri Server
 
 ## 
 
+## Update v3.23
+
+### Job Skills Overhaul
+- În acest update s-a implementat sistemul pe care îl avem deja de skill-uri pe aproape toate joburile de pe server.
+- Fiecare job de care ne-am atins acum are 5 niveluri de skill și beneficii în funcție de skill-ul pe care îl deții.
+
+#### Șofer Autobuz
+- De acum cursele externe se vor face de la skill 3.
+- Fiecare skill îți oferă un bonus de bani.
+
+#### Miner
+- La fiecare skill ai o șansă în plus ca în Rubble să fie depozitate mai mult de un minereu/piatră dusă la roabă.
+- De exemplu, la Skill 5 șansa ca să primești 2 minereuri este de 100%, iar șansa să primești 3 minereuri este de 30%.
+
+#### Vânător
+- La fiecare skill aveți un bonus procentual la tot ce vindeți.
+
+#### Stivuitorist
+- Fiecare skill îți oferă un bonus de bani.
+- Șansa de drop al itemelor speciale la acest job este influențată de skill-ul pe care îl deții.
+
+#### Electrician
+- Fiecare skill îți oferă un bonus de bani.
+- Șansa de drop al itemelor speciale la acest job este influențată de skill-ul pe care îl deții.
+
+#### Pescar
+- La fiecare skill aveți un bonus procentual la tot ce vindeți.
+- Timpul în care prindeți peștii este redus în funcție de skill-ul deținut.
+- Prețul peștilor de la Pescar Oceanic va fi afectat tot de acest skill.
+
+#### Gunoier
+- Fiecare skill îți oferă un bonus de bani.
+- Șansa de drop al itemelor speciale la acest job este influențată de skill-ul pe care îl deții.
+
+#### Pilot Cargo
+- Fiecare skill îți oferă un bonus de bani.
+- Șansa de drop al itemelor speciale la acest job este influențată de skill-ul pe care îl deții.
+- Fiecare skill îți oferă un avion mai rapid.
+- Pentru destinația Cayo Perico veți avea nevoie de Skill 3.
+- A fost adăugată și destinația Grapeseed, deblocată la Skill 2.
+
+#### Măcelar
+- Fiecare skill îți oferă un bonus de bani.
+
+#### McDonald's
+- Fiecare skill îți oferă un bonus de bani.
+
+#### Petrolist
+- Durata pentru a transfera combustibilul din pompă în cisternă este redusă în funcție de skill-ul deținut.
+
+##### Vatman
+- Fiecare skill îți oferă un bonus de bani.
+
+#### Pescar Oceanic
+- Timpul în care prindeți peștii este redus în funcție de skill-ul deținut.
+- Prețul peștilor este afectat de skill-ul de la jobul de Pescar.
+
+#### Muncitor La Carieră
+- Trenul are mai mult spațiu pentru minereuri în funcție de skill-ul deținut.
+- Bulldozer-ul este acum mai rapid și are o tracțiune mai bună în funcție de skill-ul deținut.
+- Hot fix: Bulldozer-ul nu se mai împotmolește.
+
+#### Fan Curier
+- Fiecare skill îți oferă un bonus de bani.
+- Șansa de drop al itemelor speciale la acest job este influențată de skill-ul pe care îl deții.
+
+#### Șofer Bancar
+- Fiecare skill îți oferă un bonus de bani.
+
+- Valorile punctelor pentru un anumit skill nu sunt 100% finale, acestea riscă să fie modificate în următoarele zile după multiple calcule și simulări.
+
+Joburi care vor primi un rework zilele următoare pentru a le implementa skill-uri:
+- Tăietor de lemne
+- Scafandru
+
 ### Update v3.22
 
 - Hacker: ATM

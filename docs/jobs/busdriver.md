@@ -16,6 +16,16 @@ title: Șofer de autobuz
 
 <hr style="transform: translateY(10px)"/>
 
+### <span class="header-font">Skills</span>
+
+| Skill                | Nr. Curse            | Bonus               |
+| -------------------  | -------------------  | ---------------     |
+| 1                    | 0                    | -                   |
+| 2                    | 15+                  | plată mărită cu 15% |
+| 3                    | 30+                  | plată mărită cu 30% + posibilitatea de a face curse externe |
+| 4                    | 45+                  | plată mărită cu 45% + posibilitatea de a face curse externe |
+| 5                    | 75+                  | plată mărită cu 60% + posibilitatea de a face curse externe |
+
 ### <span class="header-font">Cum practic acest job?</span>
 
 :::info
