@@ -8,6 +8,47 @@ title: Update-uri Server
 
 ## 
 
+### Update v3.22
+
+- Hacker: ATM 
+-> adaugat 25% sansa sa se alerteze Politia cand se incepe procesul de hack la bancomat
+
+
+- Telefon: Ejobs
+-> fixat skill sa arate valoarea corecta pe fiecare pagina de job la ejobs
+-> marit reward-ul la Angajatul saptamanii (30,20,10 firecoins)
+-> fixat top-ul la Angajatul saptamanii
+
+
+- Livrari ilegale
+-> de acum ca sa puteti livra, trebuie sa aveti jumatate din numarul orelor necesare procesarii anumitor ilegale care se livreaza
+EX: Cocaina -> procesare 400h ; livrarea va fi la 200h
+
+
+- Altele:
+-> fixat o problema prin care unii jucatori isi pierdeau progresul la sala
+-> fixat o problema la butonul de respawn
+
+### Update v3.21
+
+- A fost implementată noua interfață a garajelor. Aceasta vă oferă posibilitatea de a selecta vehiculele favorite pentru a le putea accesa mai ușor. 
+- Totodată, puteți vizualiza capacitatea mașinii, starea motorului, precum și starea ITP-ului. Noua interfață funcționează pentru Garajele Personale. 
+- Puteți naviga în interfață folosind atât tastele, cât și mouse-ul, pentru a facilita un control rapid și ușor. 
+- Odată ce mașina este spawnata, va apărea un pin de locație care setează un waypoint către locația mașinii.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1306508315286704199/image.png?ex=6746be30&is=67456cb0&hm=0b3eb34e60152b7035595564a624cd3be9093dc4737acc50c04cf365ad9b944c&)
+
+### Update v3.20
+
+- A fost adăugată o serie pe pistolul de la permisul de port armă.
+- În Rapoarte/Mandate din MDT va funcționa alineatul nou.
+- Pozele din Dovezi/Mașini și Mugshot vor fi funcționale de acum înainte.
+- Problema legată de pozele din telefon a fost remediată.
+- Polițiștii și medicii nu mai au opțiunea din K -> Jefuiește atunci când sunt On-Duty.
+- Confiscarea itemelor ilegale de către polițiști din mașini/inventar a fost rezolvată, iar acum polițiștii primesc un item nou, tip dosar, numit "Probe" în inventar. Acest item va putea fi folosit în MDT pentru întocmirea unui raport.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1305740996864245780/image.png?ex=67469691&is=67454511&hm=da293bfdaf906bb1a0a6470c7009e728b31794fca5fa9e316eadebfab500fe3c&)
+
 ### Update v3.19
 
 - A fost reparată problema garajelor de la mafia Hells Angels.
