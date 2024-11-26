@@ -10,23 +10,30 @@ title: Update-uri Server
 
 ### Update v3.22
 
-- Hacker: ATM 
+- Hacker: ATM
+
 -> adaugat 25% sansa sa se alerteze Politia cand se incepe procesul de hack la bancomat
 
-
 - Telefon: Ejobs
+
 -> fixat skill sa arate valoarea corecta pe fiecare pagina de job la ejobs
+
 -> marit reward-ul la Angajatul saptamanii (30,20,10 firecoins)
+
 -> fixat top-ul la Angajatul saptamanii
 
 
 - Livrari ilegale
+
 -> de acum ca sa puteti livra, trebuie sa aveti jumatate din numarul orelor necesare procesarii anumitor ilegale care se livreaza
+
 EX: Cocaina -> procesare 400h ; livrarea va fi la 200h
 
 
 - Altele:
+
 -> fixat o problema prin care unii jucatori isi pierdeau progresul la sala
+
 -> fixat o problema la butonul de respawn
 
 ### Update v3.21
