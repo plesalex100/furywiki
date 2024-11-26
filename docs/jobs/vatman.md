@@ -12,7 +12,7 @@ title: Vatman
 - Experiență de minim 50 ore.
 :::
 
-## ## <span class="header-font">Skills</span>
+## <span class="header-font">Skills</span>
 
 - În funcție de skill, veți avea un bonus la plata jobului.
 
