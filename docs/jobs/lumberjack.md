@@ -9,7 +9,6 @@ title: Tăietor de lemne
 
 :::info
 - Experiență de minim 75 ore.
-- Deținerea unui autoturism de tip Bison (poate fi achiziționat de la Dealership).
 - Deținerea unui topor (poate fi achiziționat de la [gunshop](/general/gunshop)).
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 :::
@@ -20,7 +19,7 @@ Este recomandată folosirea unei genți, care poate fi achiziționată de la [ma
 ## <span class="header-font">Cum practic acest job?</span>
 
 :::info
-Acest job constă în tăierea copacilor din pădure, transportarea lemnelor cu ajutorul unui autoturism de tip Bison la Lumber Yard, unde acestea vor fi transformate în scânduri și vândute.
+Acest job constă în tăierea copacilor din pădure, transportarea lemnelor cu ajutorul unui autoturism la Lumber Yard, unde acestea vor fi transformate în scânduri și vândute sau folosite în alte scopuri (topirea minereurilor, prelucrare în cărbune etc.)
 
 - Trebuie să mergeți la Lumber Yard ([află aici unde este](locatii)) cu mașina Bison și să vorbiți cu NPC-ul de la intrare.
 :::
@@ -45,7 +44,7 @@ Acest job constă în tăierea copacilor din pădure, transportarea lemnelor cu 
 ![](https://i.imgur.com/JyyIhRR.gif){.framed-gif}
 :::
 :::warning Atenție!
-Lângă bara de viață și armură va apărea încă o bară galbenă care reprezintă **stamina**. Aceasta scade progresiv cu fiecare lovitură pe care o dați copacului. Dacă aceasta ajunge la 0, veți fi nevoiți să așteptați până se va umple din nou pentru a putea continua să tăiați copacul.
+- Copacii se respawnează la interval de 10 minute.
 :::
 
 :::info

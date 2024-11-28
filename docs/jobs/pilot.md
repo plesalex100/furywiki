@@ -12,6 +12,7 @@ title: Pilot
 :::info
 - Experiență de minim 200 ore.
 - Deținerea unor cunoștințe medii despre pilotaj.
+- Deținerea unei stații pe care **sunteți obligați** să fiți conectați pe frecvența 017.
 :::
 
 ## <span class="header-font">Skills</span>

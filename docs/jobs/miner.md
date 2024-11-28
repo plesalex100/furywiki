@@ -78,6 +78,10 @@ Acest job constă în adunarea de minereuri, prelucrarea lor la topitorie și v�
 - Când ați umplut remorca sau nu mai vreți să continuați, aveți opțiunea de a merge la topitorie(marcată cu un blips cu foc pe hartă) pentru a prelucra minereul în lingouri/materiale. Pentru a face acest lucru, interacționați cu NPC-ul din interior pentru a deschide meniul și apăsați pe butonul de craft pentru a începe prelucrarea.
 :::
 
+:::tip Sfat!
+- Aveți nevoie de scânduri pentru a topi minereurile și a le transforma în materie primă.
+:::
+
 :::details Topitorie
 ![](https://i.imgur.com/u5LrOAT.gif){.framed-gif}
 :::
