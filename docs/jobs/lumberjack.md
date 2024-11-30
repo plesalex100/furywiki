@@ -61,6 +61,9 @@ Acest job constă în tăierea copacilor din pădure, transportarea lemnelor cu 
 
 :::info
 - Scândurile pot fi vândute la NPC ul de lângă topoganul de descărcare, iar plata va fi făcută per scândură.
+- Tot la acelasi NPC puteți accesa locul unde se depoziteaza scândurile.
+
+![](https://i.imgur.com/6yZHQhE.png){.framed-photo}
 :::
 
 ![](https://i.imgur.com/Q4Xr88c.png){.framed-photo}
