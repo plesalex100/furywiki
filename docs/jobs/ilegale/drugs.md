@@ -8,10 +8,10 @@ title: Ilegal - Droguri
 
 | Drog  | Ore Necesare Livrare        | Ore Necesare Procesare |
 | ----- | --------------------------- | ---------------------- |
-| Tutun     |      50                 |     100                |
-| Marijuana |      100                |     200                |
+| Tutun     |      75                 |     100                |
+| Marijuana |      125                |     200                |
 | Cocaină   |      200                |     400                |
-| Mefedronă |      600                |     600                |
+| Mefedronă |      300                |     600                |
 | LSA       |      350                |     700                |
 | Spice     |      500                |     1000               |
 
