@@ -396,6 +396,13 @@ a locurilor foarte retrase)
 - Necooperarea cu membrii staff atrage sanctiuni de forma Ban.
 :::
 
+### <span class="header-font">1.48 Reguli pe timp de iarna (când este zăpadă pe jos)</span>
+#### Pe perioada iernii o sa mai fie pusa zapada iar asta implica anumite limitari
+- Nu aveti voie cu motoare sport, chopper, cruiser, doar cu cele de offroad
+- Masinile trebuiesc echipate cu cauciucuri offroad 
+- Trebuie sa va imbracati corespunzator vremii de pe server
+- E recomandat sa nu innotati perioade lungi din cauza temperaturii apei care in mod normal ar duce la hipotermie si ar rezulta in membre amputate/moarte
+
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
 ### <span class="header-font">2.0 **Răpirea / Ostatici**</span>
