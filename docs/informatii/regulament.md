@@ -82,6 +82,10 @@ title: Regulament General
 - Se permite manevra de pit stop in urmariri de pana la 250kmh.
 - Datorita scriptului de impotmolire  se permite accesul pe orice drum ( OFF-Road, Extreme OFF-Road ) cu orice clasa de masina.
 
+:::tip Exemplu
+- Pilotarea aparatelor de zbor la altitudini joase (altitudine joasa = sub nivelul cladirilor, sub ~150m)
+:::
+
 :::info
 Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste proceduri noi.
 :::
