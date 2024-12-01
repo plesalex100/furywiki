@@ -489,10 +489,10 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 - În cazul în care trecătorii sunt vizibili înarmați vor fi somați, iar mai apoi doborâți.
 - În cazul în care trecătorii vor să pătrundă într-un perimetru restrâns al valizei, membrii LSPD pot deschide focul, având în vedere cauza probabilă ca acesta să fie un membru al jafului.
 
-<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Transport Bancar:</span>
+<!-- <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Transport Bancar:</span>
 - Maximul de persoane ce pot participa la acțiunea de Jaf la Transport Bancar este de 25.
 - Se consideră foc deschis doar din momentul în care cei care atacă transportul deschid focul.
-- LSPD are dreptul să oprească și să imobilizeze prin orice mijloace pe cei ce nu respectă semnalele de urgență și prioritatea convoiului.
+- LSPD are dreptul să oprească și să imobilizeze prin orice mijloace pe cei ce nu respectă semnalele de urgență și prioritatea convoiului. -->
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Flecca:</span>
 - Acțiunea de tip Jaf la Banca Flecca va fi efectuată de un număr de minim 4 persoane, maxim 7 persoane, având în vedere dimensiunile băncii.
