@@ -387,11 +387,11 @@ VA ESTE STRICT INTERZIS SA TRAGETI IN TIMP CE CARACTERUL VOSTRU ESTE IN ANIMATIA
 Restaurante, Secțiile de poliție, Spitale, Dealership, Casino, Primărie, Frizerii, Tuning,  Los Santos (cu excepția zonelor rău famate,           
 a locurilor foarte retrase)
 - **Zone Retrase**: Munți, Insule, în afara orașului Los Santos, cu excepțiile precizate mai sus.
-- **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard, Vinewood
+- **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard
 :::
-:::warning map.furyrp.ro
+<!-- :::warning map.furyrp.ro
 - Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit.
-:::
+::: -->
 
 ### <span class="header-font">1.47 Necooperare cu membrii staff</span>
 - Va este interzis sa cereti sa vina alt admin la ticket sau sa nu cooperati cu adminul de la ticket. In cazul in care vi se face o nedreptate puteti accesa categoria <span style="color:red">#make-a-ticket</span> de pe discord. 
