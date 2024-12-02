@@ -386,7 +386,7 @@ VA ESTE STRICT INTERZIS SA TRAGETI IN TIMP CE CARACTERUL VOSTRU ESTE IN ANIMATIA
 - **Zone Publice**: Autostrăzi, Aeroporturi, Sediile joburilor legale, Magazinele de haine, Bancomate, Bănci, Magazine alimentare,
 Restaurante, Secțiile de poliție, Spitale, Dealership, Casino, Primărie, Frizerii, Tuning,  Los Santos (cu excepția zonelor rău famate,           
 a locurilor foarte retrase)
-- **Zone Retrase**: Munți, Insule, în afara orașului Los Santos, cu excepțiile precizate mai sus.
+- **Zone Retrase**: Munți, Insule, în afara orașului Los Santos, cu excepțiile precizate mai sus, Vinewood
 - **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard
 :::
 <!-- :::warning map.furyrp.ro
