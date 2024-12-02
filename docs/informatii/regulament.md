@@ -405,7 +405,7 @@ a locurilor foarte retrase)
 - Masinile trebuiesc echipate cu cauciucuri offroad 
 - Trebuie sa va imbracati corespunzator vremii de pe server
 - E recomandat sa nu innotati perioade lungi din cauza temperaturii apei care in mod normal ar duce la hipotermie si ar rezulta in membre amputate/moarte
-
+<!-- ### <span style="color:red">1.49 Este interzis prin regulament sa fii ratat -->
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
 ### <span class="header-font">2.0 **Răpirea / Ostatici**</span>
