@@ -396,7 +396,7 @@ a locurilor foarte retrase)
 ### <span class="header-font">1.47 Necooperare cu membrii staff</span>
 - Va este interzis sa cereti sa vina alt admin la ticket sau sa nu cooperati cu adminul de la ticket. In cazul in care vi se face o nedreptate puteti accesa categoria <span style="color:red">#make-a-ticket</span> de pe discord. 
 :::danger ATENTIE!
-- Necooperarea cu membrii staff atrage sanctiuni de forma Ban.
+- Necooperarea cu membrii staff atrage sanctiuni de forma <span style=color:red> Ban.</span>
 :::
 
 ### <span class="header-font">1.48 Reguli pe timp de iarna (când este zăpadă pe jos)</span>
