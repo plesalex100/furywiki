@@ -8,6 +8,78 @@ title: Update-uri Server
 
 ## 
 
+## Update v3.26
+
+![](https://media.discordapp.net/attachments/1020115777917042718/1315885234780110869/update26.png?ex=6759091f&is=6757b79f&hm=ee329898cc7877276d79e5fedd9b997ba52b97b67a3a47b96fdca9f410c9db8c&=&format=webp&quality=lossless&width=1193&height=671)
+
+### 🛤️ 1. New Mappings
+- A fost adăugat noul pod Sandy - Paleto.
+- A fost adaugat un tunel care leagă cartierul Vinewood de Sandy.
+- Zona din jurul Tăietorului de Lemne a fost remodelată pentru a facilita condusul în acea regiune.
+- A fost adaugat mapping-ul pentru campania electorala.
+
+### 🚙 2. Modificări la jobul de Tăietor de Lemne
+- Mașina utilizată la acest job a fost modificată pentru a rezolva problema legată de crash-uri.
+- De acum, în momentul folosirii tastei SHIFT la pornirea de pe loc, puteți mări accelerația utilizând rotita mouse-ului.
+
+## Update v3.25
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1315519757507756052/update25.png?ex=6759063f&is=6757b4bf&hm=1c8ffa6a1c242b883e65da4435512b3230678d8d0c620b938b281596efdca891&)
+
+### 🛠️ Modificări și actualizări recente
+#### 🚙  1. Car Control
+- Ținând apăsat SHIFT în timp ce accelerați, mașina va porni mai lin.
+- Frâna de mână este mult mai eficientă, iar spatele mașinii este considerabil mai „alunecos”.
+
+#### 🆕 2. Sisteme noi
+- Au fost adăugate două sisteme noi, fiecare necesitând utilizarea unui item pentru a funcționa:
+- Tractarea mașinilor de către o altă mașină (Item necesar: Chinga de tractare)
+- Ancorarea mașinilor de un obiect solid (Item necesar: Troliu de remorcare)
+
+- Fiecare item menționat are 10 utilizări și poate fi cumpărat de la mecanici.
+- În meniul K -> Business -> Facturează, au fost adăugate opțiunile de vânzare a acestor iteme.
+- În dashboard-ul firmei de mecanici, s-a introdus posibilitatea de setare a prețurilor.
+
+#### 💰 3. Modificări economice
+- Prețul minim pentru tractarea automată a mașinilor la garaj a fost crescut la 500$.
+- Prețul de bază al tractării a primit o majorare de 20%, în funcție de tipul mașinii.
+- Plata pentru tractarea mașinilor de către mecanici, în cazul amenzilor de parcare, a fost mărită de la 1000$ la 3000$.
+- Numărul de iteme necesare pentru craftarea armelor a fost redus cu 20%.
+
+#### 🔄 4. Alte actualizări
+- Droguri: În intervalul 19:00 - 23:00, prețul drogurilor va fi la valoarea maximă.
+- Vehiculul de la taietorul de lemne este acum echipat cu roți off-road pentru o aderență mai bună.
+- Hack-ul de la ATM: S-a adăugat un delay de 30 de secunde între hack-uri.
+- Topitorie: A fost introdusă opțiunea de a topi itemele dropate la joburi, acestea fiind transformate în plăcuțe de aur, care ulterior pot fi convertite în aur.
+- A fost scos podul de la padurar, temporar pentru a verifica sursa crash-ului.
+
+## Update v3.24
+
+### 💎 REWORK MINER / MUNCITOR CARIERĂ💎
+- Minereul de cărbune a fost scos.
+- Drop-urile pentru restul minereurilor au fost crescute în funcție de nivelul de skill.
+- Craft-ul de la topitorie a fost modificat: acum este necesar să aveți scânduri de lemn pentru a putea topi.
+
+### 🪵 REWORK TĂIETOR DE LEMNE 🪵
+- Nu mai este nevoie de Bison pentru a practica jobul.
+- A fost adăugat un nou chenar în meniul NPC-ului de la job, de unde puteți prelua scândura produsă.
+- Puteți vinde scândura produsă din același meniu al NPC-ului.
+- Spawn-ul copacilor a fost revizuit și reparat.
+- Copacii se respawnează acum o dată la 10 minute, față de 60 de minute cum era anterior.
+
+### 💵 AMANET💵
+- Prețul pentru Smarald, Rubin și Aur a fost mărit.
+- Prețul laptopului va varia între 25.000$ și 35.000$, datorită noului sistem de skill care crește șansa de drop.
+- Au fost revizuite mai multe preturi
+
+### ✈️ PILOT CARGO ✈️
+- Pentru a începe jobul, este necesar să fiți conectat la stația radio pe frecvența 017.
+
+### 💡 CLARIFICĂRI 💡
+- În urma rework-ului joburilor de miner și tăietor de lemne, precum și a modificărilor formulelor de craft pentru cărbune și alte materiale, vă rugăm ca în următoarele 48 de ore să utilizați tot minereul de cărbune. Dacă nu, acesta va fi pierdut și nu va fi restituit (se aplică strict pentru minereu, nu pentru produsul finit).
+100.000$ v-au fost restituiți pentru vehiculul Bison de la jobul de tăietor de lemne.
+- Vehiculul Bison va fi șters pentru toți jucătorii în termen de 48 de ore, așa că vă rugăm să scoateți toate itemele din el. Itemele lăsate în Bison nu vor fi restituite.
+
 ## Update v3.23
 
 ### Job Skills Overhaul
