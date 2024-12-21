@@ -6,9 +6,16 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
-##
+## [8.0 Regulament Jafuri / Banca Pacific](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific-transport)
+### Jaf Pacific
+- Puteti da Jaf la Pacific in 32 de persoane din partea mafiilor
+
+### Interceptare
+- Puteti da Jaf Interceptare in 36 de persoane din partea mafiilor
 
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
+
+### 
 
 ### [Setari OBS](/informatii/regulament.html#setari-obs)
 - Va este strict interzis sa va faceti setari astfel incat pe OBS(sau orice alt program de inregistrare):

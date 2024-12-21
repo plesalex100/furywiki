@@ -8,6 +8,46 @@ title: Update-uri Server
 
 ## 
 
+## Update v3.27
+
+### 💻 Laptop la magazin
+- Prețul laptopului a fost redus la 130.000$ pentru a facilita accesul tuturor jucătorilor.
+
+### 🌿 Tutun
+- Curățare și împachetare: Acum poți împacheta 4 bucăți deodată.
+
+### 🍁 Marijuana
+- Curățare și împachetare: Acum poți împacheta 4 bucăți deodată.
+- Prețul de livrare a fost crescut.
+
+### ❄️ Cocaină
+- Timpul de prelucrare a butoiului a fost redus la jumătate, accelerând procesul de producție.
+- Prețul de livrare a fost crescut, oferind câștiguri mai bune.
+- Acum poți livra de 2 ori mai mult per cursă.
+
+### 🌱 Etnobotanice
+- Timpul de uscare a fost redus cu 30% (de la 10 minute la 7 minute).
+- Durata de producție a fost redusă cu peste 70%, îmbunătățind semnificativ eficiența.
+- Valoarea tutunului măcinat necesară a fost scăzută cu 20%.
+- Cantitatea de mitrigina necesară pentru LSA a fost redusă cu 33%.
+
+### 🏘️ Favela
+- Favela beneficiază acum de un boost la /collectmoney.
+- Au fost adăugate checkpointuri de livrare în Vinewood și Favela.
+ 
+### 🎨 Graffiti Wars
+- Sistemul este din nou activ, însă doar pe zonele Vespucci și Grove.
+- War-urile vor fi active între orele 19:00 - 23:00, în zilele de luni, miercuri și vineri. Odată ce o zonă este capturată, aceasta nu mai poate fi atacată în aceeași zi.
+- O organizație/mafie poate deține doar o singură zonă obținută prin war.
+- Au fost create si adaugate graff-uri pentru OCS  si Varrio Nuevo Estrada.
+
+### Zone Procesare / Craft
+- Zonele de plasare a butoaielor și a uscătoarelor pentru substanțele ilegale au fost mutate în poziții noi.
+- Zonele de craft au fost relocate în vecinătatea zonelor de plasare a butoaielor pentru a îmbunătăți eficiența.
+
+### 💸 Jaf Pacific
+- Câștigul a fost crescut cu +2.000.000$.
+
 ## Update v3.26
 
 ![](https://media.discordapp.net/attachments/1020115777917042718/1315885234780110869/update26.png?ex=6759091f&is=6757b79f&hm=ee329898cc7877276d79e5fedd9b997ba52b97b67a3a47b96fdca9f410c9db8c&=&format=webp&quality=lossless&width=1193&height=671)
