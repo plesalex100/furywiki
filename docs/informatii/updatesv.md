@@ -8,6 +8,63 @@ title: Update-uri Server
 
 ## 
 
+## Update v3.31
+
+
+- 🎉 Noile cutii de arme au fost adăugate!
+- 🔹 Cutiile conțin câte 20 de skin-uri cu rarități variate, fiecare cutie având un set unic de skin-uri.
+
+- 🎁 Beneficii pentru VIP-uri:
+🏆 VIP Fury: Primește 3 cutii la achiziționare.
+💎 VIP Diamond: Primește 2 cutii.
+🥇 VIP Gold: Primește 1 cutie.
+
+- 💰 Prețurile cutiilor în FireCoins au fost ajustate pentru a reflecta:
+- Raritatea crescută a skin-urilor.
+- O economie echilibrată pentru aceste iteme exclusive.
+
+## Update v3.30
+
+### 📡 Conectare la frecvențe radio
+- Interval disponibil: Frecvențele între 1 și 10.000 MHz.
+- Se acceptă maxim 2 zecimale (exemplu: frecvența 23.5256 MHz nu va mai fi disponibilă).
+
+### 🛠️ Modificări și rezolvări
+
+#### 🔫 Arme:
+- Au fost rezolvate și sunt exact ca înainte de actualizarea pentru skin-uri.
+
+#### 🎥 Camere video:
+- Au fost adăugate camere video noi în oraș pentru poliție.
+
+##### 🏢 Pontaje primărie:
+- Problema pontajelor la primărie a fost rezolvată.
+
+##### ⛑️ Stația medicilor:
+- Problemele de la stația medicilor au fost remediate.
+
+#### 📦 ANAF:
+- Membrii ANAF pot acum închide tarabele.
+##### 🛒 Plasarea tarabelor:
+- Nu puteți plasa o tarabă dacă nu aveți număr de înmatriculare.
+
+### 📻 Stații radio
+
+##### 📡 Detectare frecvențe:
+- Poliția dispune de un sistem nou care detectează utilizarea frecvențelor, inclusiv numărul utilizatorilor.
+
+##### 🔒 FuryOS - aplicația FIRC:
+- Acum include funcționalitatea de criptare a stațiilor în timpul schimbului de CFC-uri.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1323476681327120487/statie.png?ex=678e5c75&is=678d0af5&hm=1ab430891c63e0804d28a136f56cee1d02ab98305ee500b99f03b9af3970be86&)
+
+## Update v3.29
+
+- Sistemul de dispecer este de acum disponibil si pentru factiunea @┃  Smurd Los Santos . ( /nd )
+- A fost creata comanda /sit pentru mesele de operatie , CT , RMN din spital.
+- A fost creat un sub grad MDT, care are posibilitatea de a folosi ambele statii.
+- Au fost reparate bug-uri minore si au fost facute optimizari.
+
 ## Update v3.27
 
 ### 💻 Laptop la magazin
