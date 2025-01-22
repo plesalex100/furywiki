@@ -24,6 +24,10 @@
   src: url("/public/Conthrax.ttf") format("truetype");
 }
 
+.text {
+  font-size: 15px;
+}
+
 @font-face {
   font-family: Conthrax;
   src: url("/public/Conthrax.ttf") format("truetype");
