@@ -24,7 +24,12 @@
   src: url("/public/Conthrax.ttf") format("truetype");
 }
 
-.text {
+.text [data-v-fd2650d5] {
+  font-size: 10px;
+}
+
+.text [data-v-72cc4481]
+{
   font-size: 10px;
 }
 
