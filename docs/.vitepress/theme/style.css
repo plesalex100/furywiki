@@ -20,8 +20,8 @@
 /* ------------------------------------------------------------------------------ */
 
 .clip {
-  font-family: BraveEightyOne;
-	src: url('nui://hudAssets/fonts/BraveEightyOne.ttf') format('truetype');
+  font-family: furyLogo;
+	src: url('nui://hudAssets/fonts/furyLogo.ttf') format('truetype');
 }
 
 .text [data-v-fd2650d5] {
