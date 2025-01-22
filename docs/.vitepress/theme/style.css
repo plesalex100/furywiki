@@ -20,8 +20,8 @@
 /* ------------------------------------------------------------------------------ */
 
 .clip {
-  font-family: Conthrax;
-  src: url("/public/Conthrax.ttf") format("truetype");
+  font-family: BraveEightyOne;
+	src: url('nui://hudAssets/fonts/BraveEightyOne.ttf') format('truetype');
 }
 
 .text [data-v-fd2650d5] {
