@@ -19,20 +19,6 @@
 
 /* ------------------------------------------------------------------------------ */
 
-.clip [data-v-72cc4481] {
-  font-family: Sawah;
-	src: url('/public/Sawah.ttf') format('truetype');
-}
-
-.text [data-v-fd2650d5] {
-  font-size: 50px;
-}
-
-.text [data-v-72cc4481]
-{
-  font-size: 50px;
-}
-
 @font-face {
   font-family: Conthrax;
   src: url("/public/Conthrax.ttf") format("truetype");
