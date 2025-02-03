@@ -25,6 +25,7 @@ export default defineConfig({
     nav: [
       { text: 'About Us', link: '/informatii/about' },
       { text: 'Autentificare', link: '/informatii/auth' },
+      { text: 'Setări Grafică', link: '/informatii/settings' },
       { text: 'FAQ', link: '/informatii/intrebari' },
       {
         text: 'Regulament',
