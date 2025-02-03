@@ -1,0 +1,4 @@
+---
+title: Setări Grafică
+---
+
