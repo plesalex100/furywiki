@@ -72,6 +72,7 @@ export default defineConfig({
         items: [
           { text: "Despre noi", link: '/informatii/about' },
           { text: "Autentificare", link: '/informatii/auth' },
+          { text: 'Setări Grafică', link: '/informatii/settings' },
           { text: "Regulament General", link: '/informatii/regulament' },
           { text: "Regulament Business", link: '/informatii/regulamentbiz' },
           { text: "Ghid înființare mafie", link: '/informatii/ghidmafie' },
