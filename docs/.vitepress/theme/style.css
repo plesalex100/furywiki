@@ -20,8 +20,8 @@
 /* ------------------------------------------------------------------------------ */
 
 .clip {
-  font-family: furyLogo;
-	src: url('nui://hudAssets/fonts/furyLogo.ttf') format('truetype');
+  font-family: Sawah;
+	src: url('/public/Sawah.ttf') format('truetype');
 }
 
 .text [data-v-fd2650d5] {
