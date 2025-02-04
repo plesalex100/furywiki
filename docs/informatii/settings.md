@@ -25,7 +25,9 @@ title: Setări Grafică
 - FXAA este un filtru post-procesare care netezește marginile obiectelor/caracterelor după ce imaginea a fost randată. Oferă o imagine mai fluidă, dar poate face ca anumite detalii fine să pară puțin neclare.
 
 ### MSAA -> <span style="color:green">Off</span>
-- MSAA este un filtru post procesare la fel ca și FXAA dar care afectează mult mai mult performanța. Puteți să îl folosiți dacă aveți un PC foarte puternic.
+- MSAA este un filtru post procesare la fel ca și FXAA dar care afectează mult mai mult performanța. 
+- Spre deosebire de FXAA, MSAA acționează direct în procesul de randare, înainte ca imaginea să fie finalizată.
+- Puteți să îl folosiți dacă aveți un PC foarte puternic.
 
 ### VSync -> <span style="color:green">Off</span>
 - Această setare limitează FPS-urile la refresh rate-ul nativ al monitorului. 
