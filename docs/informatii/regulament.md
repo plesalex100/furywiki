@@ -440,7 +440,7 @@ a locurilor foarte retrase)
 - 3.04   Nu aveți voie să jefuiți Polițiștii și Medicii **ON-DUTY** (sunt îmbrăcați în uniformă). În cazul în care sunt OFF-DUTY, aveți voie să îi jefuiți.
 - 3.05   Este interzis să obligați o persoană să scoată banii din bancă pentru a o jefui.
 - 3.06   Este interzis să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
-- 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**.
+- 3.07   Este interzis să jefuiți obiectele provenite dintr-un job legal (toate job-urile din eJobs), **obiectele provenite de la un job legal aflate pe Cayo nu se mai considera obiecte legale**. EXCEPTIE: Itemele care au drop random de la electrician, stivuitorist, pilot cargo, etc si nu sunt un ITEM CARE PROVINE DIRECT DIN A FACE JOBUL (EX MINER/TAIETOR LEMNE/FARMACIST) pot fi jefuite, iar regula nu se aplica.
 - 3.08   Este interzis să provocați un accident pentru a jefui respectivă persoană.
 - 3.09  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 2 ore.
 - 3.10  Pe Cayo Perico se poate jefui la orice oră.
