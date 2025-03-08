@@ -490,11 +490,11 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 ### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific</span>
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Pacific:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de 32.
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 26 oameni înarmați.
 - Se consideră foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Interceptare:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Interceptare este de 36.
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Interceptare este de minim 20, maxim 30 oameni înarmați.
 - Nu se consideră foc deschis, iar LSPD va menține zona sigură și va crea un perimetru în care trecătorii vor fi percheziționați, iar în cazul nerespectării ordinelor, vor fi imobilizați.
 - În cazul în care trecătorii sunt vizibili înarmați vor fi somați, iar mai apoi doborâți.
 - În cazul în care trecătorii vor să pătrundă într-un perimetru restrâns al valizei, membrii LSPD pot deschide focul, având în vedere cauza probabilă ca acesta să fie un membru al jafului.
@@ -505,19 +505,18 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 - LSPD are dreptul să oprească și să imobilizeze prin orice mijloace pe cei ce nu respectă semnalele de urgență și prioritatea convoiului. -->
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Flecca:</span>
-- Acțiunea de tip Jaf la Banca Flecca va fi efectuată de un număr de minim 4 persoane, maxim 7 persoane, având în vedere dimensiunile băncii.
+- Acțiunea de tip Jaf la Banca Flecca va fi efectuată de un număr de minim 3 persoane, maxim 6 persoane înarmate, având în vedere dimensiunile băncii.
 - Pentru acest jaf este obligatorie luarea de ostatici.
 - În schimbul siguranței ostaticului/ostaticilor se va cere cale liberă, iar un tip de unitate specializată să nu participe la urmărire de la început (HS, Moto, Heli, acestea se pot alătura urmăririi în timp, dar nu au voie să vă urmărească de la început).
 - Nu se consideră foc deschis, la acest jaf se NEGOCIAZĂ !
 - Armele vor trebui îndreptate strict către ostatic/ostatici, dacă există arme îndreptate asupra unităților LSPD aceștia vă pot soma să nu îi mai amenințați sau vor deschide focul, viața lor fiind pusă în pericol de arma ce îi amenință.
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Vangelico:</span>
-- Acțiunea de tip Jaf la Vangelico va fi efectuată de un număr de minim 4 persoane, maxim 12 persoane.
+- Acțiunea de tip Jaf la Vangelico va fi efectuată de un număr de minim 4 persoane, maxim 8 persoane înarmate.
 - Nu este foc deschis la acest jaf, se respectă regula de a imobiliza/de a soma un jefuitor.
 - Se pot lua ostatici și la Vangelico, iar condițiile de negociere sunt aceleași ca la Fleeca.
 
 :::info
-- **La jafuri nu se respecta regula de maxim 6, se pot face mixuri in numarul maxim scris mai sus**
 - **In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.**
 :::
 
