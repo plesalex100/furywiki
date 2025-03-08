@@ -227,6 +227,11 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - **Este interzis să refuzați interacțiunea roleplay** cu ceilalți jucători. Se consideră **Refuz Roleplay** în momentul în care
 părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bară (AFK), refuzați orice fel de interacțiune.
 - In cazul care sunteti cu masina personala si sunteti intr-o urmarire cu PD, nu aveti voie sa rolati ca este portbagajul stricat sau alte scuze pentru nu-l deschide.
+- - Daca intr-un magazin/magazin de haine/benzinarie/spalatorie/tunning/frizerie/salon de tatuaje/orice locatie de afaceri exista un player care face un RP de mecanic/barman/vanzator/frizer/tatuator/escorte, iar voi ignorati interactiunea veti fi sanctionati cu Refuz RP.
+:::info Exemplu
+EX: Merg la Benny's sa repar masina, acolo este un mecanic care interactioneaza cu mine, dar eu ii spun ca ma grabesc si repar cu "express-ul" -> Refuz RP
+Merg la un magazin de haine iar un player interactioneaza ca si vanzator si incearca sa faca un RP in acest sens, iar eu il ignor, nu urmez cursul unui RP si nu ma adaptez (platesc la casa, /me uri ca iau hainele sau alte chestii) -> Refuz RP
+:::
 
 #### <span class="header-font"> **AFK în Roleplay**</span>
 - Nu este permis să vă puneți AFK în timpul unui roleplay. 

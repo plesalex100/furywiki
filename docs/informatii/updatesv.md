@@ -8,8 +8,78 @@ title: Update-uri Server
 
 ## 
 
-## Update v3.31
+## Server Update 3.35
 
+- Problema legata de interceptare a fost rezolvata si jaf-ul este 100% functional.
+- A fost adaugata comanda /legitimatie pentru Smurd, va puteti seta bind pe ce tasta doriti.
+- A fost adaugata in K -> Business optiunea de "Adauga manager" de acum acesta va avea acces sa angajeze mecanici/taximetristi.
+- Au fost fixate bug-uri la arme.
+
+## Server Update 3.34
+
+- De acum, injecția de adrenalină oferă mai multă stamină.
+- Problema legată de salvarea armurii la relog a fost remediată.
+- Microfoanele din sala de judecată a primăriei au fost făcute funcționale.
+- A fost mărit spațiul din vending machine.
+- Alimentele vândute în vending au acum o durată de valabilitate de peste 48 de ore.
+- În urma vânzării unor bunuri din tarabă, veți primi banii direct în bancă.
+- Medicii pot vedea în chat ce apel a fost preluat de cine, pentru o mai bună organizare.
+- A fost adăugat RO-Alert pentru medici.
+- Comanda /announce poate fi folosită acum de grade mai mari decât comisar, inclusiv de acesta.
+- A fost adăugat un nou grad de Inspector ITM în facțiunea Primăriei.
+- Harta de semnal pentru Self Taxi a fost revizuită și mărită.
+
+## Server Update 3.33
+
+#### Iteme Adăugate
+- Au fost adăugate 3 iteme noi: Injecție THC, Injecție LSA și Injecție COCS.
+- Locul de crafting îl găsiți singuri.
+
+#### Modificări și Adăugiri
+- A fost adăugată în meniul de craft al topitoriei posibilitatea de topire a sticlei.
+- Vesta mafioților a fost modificată de la 100 body armor la 150 body armor.
+
+( Se aplica doar pe itemele care vor fi generate de acum incolo)
+
+Drogurile de tip Marijuana, LSA și Cocaină pot fi acum utilizate. Acestea au animații și beneficii diferite:
+
+1️⃣ Utilizare Marijuana 🌿
+- Animație custom
+- Scădere procent apă cu 40%
+- Creșterea HP-ului cu 25 puncte
+
+2️⃣ Utilizare LSA 🌌
+- Animație custom
+- Scădere procent apă cu 15%
+- Scădere procent mâncare cu 15%
+- Creșterea HP-ului cu 40 puncte
+
+3️⃣ Utilizare Cocaină ❄️
+- Animație custom
+- Scădere procent mâncare cu 30%
+- Creșterea HP-ului cu 50 puncte
+
+( Injectia Cocs & Injectia LSA pot fi craftate doar de catre mafioti, dar pot fi utilizate si de catre organizatii.)
+
+💉 Injecții - Beneficii
+- Injecțiile menționate mai sus oferă proprietăți unice și sunt mai eficiente decât drogurile convenționale:
+- Drogurile oferă creșterea HP-ului pentru 10 minute.
+- Injecțiile oferă creșterea HP-ului pentru 15 minute.
+- ⏳ Cooldown între utilizări: 15 secunde.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1346697745809014804/update.png?ex=67cdbec3&is=67cc6d43&hm=0c7dc0e48eed54c3f672df71e06ed398e500a21a98dbad8afac80d9e78eaaf2f&)
+
+## Update 3.32
+
+- 1 shot-urile cauzate de DB/Navy – Sistemul de HP și armuri a fost modificat pentru un gameplay mai echilibrat.
+- SIAS Loadout – Membrii SIAS beneficiază acum de armuri de 200 în loc de 100.
+- Modificări Dispecerat  – Statiile SIAS nu mai sunt vizibile celor fara grad de SIAS.
+- Fix Bug Interceptare – Problemele raportate au fost rezolvate.
+- Aeriale active pentru mașini – Control mai bun în aer, exact ca pe GTA Online.
+
+⚠️ Coming soon: La următorul restart, mafioții și civilii vor putea folosi drogurile pentru a-si da increase la hp peste valoarea maxima de 100 si vor fi adaugate si schimbate anumite locatii de la Heist-ul Interceptare.
+
+## Update v3.31
 
 - 🎉 Noile cutii de arme au fost adăugate!
 - 🔹 Cutiile conțin câte 20 de skin-uri cu rarități variate, fiecare cutie având un set unic de skin-uri.
