@@ -9,14 +9,14 @@ title: Setări Grafică
 ### 🔧 1. Setează corect grafica din FiveM
 :::info
 Intră în Settings → Graphics și încearcă aceste setări:
-- Texture Quality: Medium / High (dacă ai VRAM suficient)
-- Shader Quality: Low
-- Reflection Quality: Off
-- MSAA: Off
-- Anisotropic Filtering: x2 sau Off
-- Shadow Quality: Very Low
-- Grass Quality: Off
-- Post FX: Low
+- <p style="color:green">Texture Quality: Medium / High</p> (dacă ai VRAM suficient)
+- <p style="color:green">Shader Quality: Low</p>
+- <p style="color:green">Reflection Quality: Off</p>
+- <p style="color:green">MSAA: Off</p>
+- <p style="color:green">Anisotropic Filtering: x2 sau Off</p>
+- <p style="color:green">Shadow Quality: Very Low</p>
+- <p style="color:green">Grass Quality: Off</p>
+- <p style="color:green">Post FX: Low</p>
 Acestea reduc consumul de resurse și îți oferă FPS mai bun.
 :::
 
@@ -24,15 +24,15 @@ Acestea reduc consumul de resurse și îți oferă FPS mai bun.
 :::info
 Dacă deschizi consola cu F8, poți introduce aceste comenzi:
 
-- profile_purge → Curăță memoria și poate îmbunătăți FPS-ul.
-- r_disableRendering 1 → Dezactivează randarea (doar pentru test FPS).
+- <p style="color:green">profile_purge</p> → Curăță memoria și poate îmbunătăți FPS-ul.
+- <p style="color:green">r_disableRendering 1</p> → Dezactivează randarea (doar pentru test FPS).
 :::
 
 ### 🚀 3. Optimizează Windows și driverele
 :::info
-- Setează Windows pe "High Performance Mode"
-- Actualizează driverele pentru placa video (NVIDIA/AMD)
-- Închide aplicațiile inutile care rulează în fundal
+- <p style="color:green">Setează Windows pe "High Performance Mode"</p>
+- <p style="color:green">Actualizează driverele pentru placa video (NVIDIA/AMD)</p>
+- <p style="color:green">Închide aplicațiile inutile care rulează în fundal</p>
 :::
 
 ## <span class="header-font">Ce înseamnă fiecare setare în parte? </span>
