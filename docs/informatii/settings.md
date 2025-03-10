@@ -4,6 +4,37 @@ title: Setări Grafică
 
 # <span class="title-font"> <center> Ghid setări pentru grafică </center> </span>
 
+## <span class="header-font">Cum poți obține mai mult FPS?</span>
+
+### 🔧 1. Setează corect grafica din FiveM
+:::info
+Intră în Settings → Graphics și încearcă aceste setări:
+- Texture Quality: Medium / High (dacă ai VRAM suficient)
+- Shader Quality: Low
+- Reflection Quality: Off
+- MSAA: Off
+- Anisotropic Filtering: x2 sau Off
+- Shadow Quality: Very Low
+- Grass Quality: Off
+- Post FX: Low
+Acestea reduc consumul de resurse și îți oferă FPS mai bun.
+:::
+
+### 💻 2. Folosește comenzi utile în FiveM
+:::info
+Dacă deschizi consola cu F8, poți introduce aceste comenzi:
+
+- profile_purge → Curăță memoria și poate îmbunătăți FPS-ul.
+- r_disableRendering 1 → Dezactivează randarea (doar pentru test FPS).
+:::
+
+### 🚀 3. Optimizează Windows și driverele
+:::info
+- Setează Windows pe "High Performance Mode"
+- Actualizează driverele pentru placa video (NVIDIA/AMD)
+- Închide aplicațiile inutile care rulează în fundal
+:::
+
 ## <span class="header-font">Ce înseamnă fiecare setare în parte? </span>
 
 ### Ignore Suggested Limits -> <span style="color:yellow">Irelevant</span>
