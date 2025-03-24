@@ -97,6 +97,7 @@ export default defineConfig({
           { text: "Școala de șoferi", link: '/general/scoala' },
           { text: "Depozit Paleto", link: '/general/depozit' },
           { text: "Biroul de Licențe", link: '/general/licente' },
+          { text:"Târg Auto", link: '/general/targauto' },
           { text: "CNN (Anunțuri)", link: '/general/cnn' },
           { text: "Sala de forță", link: '/general/sala' },
           // { text: "Spălătorii auto", link: '/general/spalatorii' }, -- not really necesarry

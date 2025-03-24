@@ -21,7 +21,7 @@ P.S. FIRECOINS ACHIZIȚIONATE PE UN ID NU SE POT TRANSFERA/VINDE!
 
 - CNN-ul este locația de unde orice jucător poate da un anunț contra unei sume de bani. Acest anunț va apărea pe ecran pentru o perioadă de timp.
 
-![](https://i.imgur.com/1uSa9B4.png){.framed-photo}
+![](https://i.imgur.com/YpisI2q.png){.framed-photo}
 
 ## <span class="header-font">Cum dau un anunț ?</span>
 
@@ -29,6 +29,11 @@ P.S. FIRECOINS ACHIZIȚIONATE PE UN ID NU SE POT TRANSFERA/VINDE!
 - Pentru a da un anunț, trebuie să intri în interiorul clădirii și să te apropii de birou pentru a plasa un anunț.
 
 - După ce ați completat detaliile, acesta va apărea pe ecran, oferind celorlalți jucători să vă ia numărul de telefon apăsând tasta <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Y</span>.
+:::
+![](https://i.imgur.com/VvKjre4.png){.framed-photo}
 
-![](https://i.imgur.com/KnOtwRT.gif){.framed-gif}
+![](https://i.imgur.com/q3eurk2.gif){.framed-gif}
+
+:::tip
+- Dacă doriți să opriți afișarea anunțurilor pe ecran, folosiți comanda **/disableannounces**.
 :::
