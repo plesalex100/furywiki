@@ -26,7 +26,7 @@ P.S. FIRECOINS ACHIZIȚIONATE PE UN ID NU SE POT TRANSFERA/VINDE!
 ## <span class="header-font">Cum dau un anunț ?</span>
 
 :::info
-- Pentru a da un anunț, trebuie să intri în interiorul clădirii și să te apropii de birou pentru a plasa un anunț.
+- Pentru a da un anunț, trebuie să te apropii de angajatul din spatele clădirii predestinata CNN-ului pentru a plasa un anunț.
 
 - După ce ați completat detaliile, acesta va apărea pe ecran, oferind celorlalți jucători să vă ia numărul de telefon apăsând tasta <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Y</span>.
 :::
