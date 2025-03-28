@@ -153,7 +153,7 @@ export default defineConfig({
               { text: "Petrolist", link: '/jobs/petrolist' },         // 75h
               { text: "Miner", link: '/jobs/miner' },                 // 100h
               { text: "Farmacist", link: '/jobs/farmacist' },         // 100h
-              { text: "Tirist", link: '/jobs/truckerv2' },            // 150h
+              { text: "Tirist", link: '/jobs/trucker' },            // 150h
               { text: "Pilot Cargo", link: '/jobs/pilot' },           // 200h
               { text: "Vânător", link: '/jobs/hunter' },              // 300h
               { text: "Scafandru", link: '/jobs/diver' },             // 300h
