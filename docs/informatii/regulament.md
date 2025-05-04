@@ -411,6 +411,14 @@ a locurilor foarte retrase)
 - Trebuie sa va imbracati corespunzator vremii de pe server
 - E recomandat sa nu innotati perioade lungi din cauza temperaturii apei care in mod normal ar duce la hipotermie si ar rezulta in membre amputate/moarte
 <!-- ### <span style="color:red">1.49 Este interzis prin regulament sa fii ratat -->
+
+### <span class="header-font">1.49 Acces pe insula Cayo Perico</span>
+- Accesul pe insula Cayo este permis doar jucătorilor care au minim 100 de ore pe caracter.
+
+:::danger ATENȚIE!
+- Incalcarea regulii atrage sanctiuni de warn/ban.
+:::
+
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
 ### <span class="header-font">2.0 **Răpirea / Ostatici**</span>
