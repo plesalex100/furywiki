@@ -6,6 +6,13 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+## [1.49 Acces pe insula Cayo Perico](/informatii/regulament.html#_1-49-acces-pe-insula-cayo-perico)
+- Accesul pe insula Cayo este permis doar jucătorilor care au minim 100 de ore pe caracter.
+
+:::danger ATENȚIE!
+- Incalcarea regulii atrage sanctiuni de warn/ban.
+:::
+
 ## [8.0 Regulament Jafuri / Banca Pacific](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific-transport)
 ### Jaf Pacific
 - Puteti da Jaf la Pacific in 32 de persoane din partea mafiilor
