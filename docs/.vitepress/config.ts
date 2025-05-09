@@ -37,7 +37,7 @@ export default defineConfig({
       },
       // { text: 'Updates Server', link: '/informatii/updatesv' },
       // { text: 'Zone', link: '/informatii/map' },
-      { text: 'Locații jobs', link: '/jobs/locatii' },
+      // { text: 'Locații jobs', link: '/jobs/locatii' },
       { text: 'Ilegale', link: '/jobs/ilegale' },
       { text: 'Ghid înființare mafie', link: '/informatii/ghidmafie' }
     ], 
