@@ -6,7 +6,7 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
-## 1.50 Bind-uri
+## [1.50 Bind-uri](/informatii/regulament.html#_1-50-bind-uri)
 - Vă este strict interzis să vă faceți bind-uri cu ``/me`` pentru accidente sau alte motive, vă este strict interzis să aveți bind pentru ``/th(/o)``.
 - Totodată vă este interzis să aveți binduri de animații pentru a da cancel la alte animații și a face bug-uri, iar animațiile sunt interzise în combat.
 
