@@ -77,7 +77,7 @@ export default defineConfig({
           { text: "Regulament Business", link: '/informatii/regulamentbiz' },
           { text: "Ghid înființare mafie", link: '/informatii/ghidmafie' },
           { text: "Regulament OOC Mafii/Organizații Ilegale", link: '/informatii/regulamentmafii'},
-          // { text: 'Zone Publice/Rău Famate/Retrase', link: '/informatii/map' },
+          { text: 'Zone Publice/Rău Famate/Retrase', link: '/informatii/map' },
           { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
           { text: "Comenzi des folosite", link: '/informatii/comenzi' },
           { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' },

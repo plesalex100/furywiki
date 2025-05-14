@@ -6,6 +6,10 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+## 1.50 Bind-uri
+- Vă este strict interzis să vă faceți bind-uri cu ``/me`` pentru accidente sau alte motive, vă este strict interzis să aveți bind pentru ``/th(/o)``.
+- Totodată vă este interzis să aveți binduri de animații pentru a da cancel la alte animații și a face bug-uri, iar animațiile sunt interzise în combat.
+
 ## [1.07 Powergaming](/informatii/regulament.html#_1-07-power-gaming-pg)
 - Se consideră powergaming când ești implicat într-un accident și nu rolezi pe /me conform situației și intensității accidentului. Indiferent că sunteți în urmărire sau doar circulati, faptul că sunteți implicat într-un accident chiar și singuri și nu rolați pe /me se sancționează cu PG.
 

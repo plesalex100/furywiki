@@ -398,9 +398,9 @@ a locurilor foarte retrase)
 - **Zone Retrase**: Munți, Insule, în afara orașului Los Santos, cu excepțiile precizate mai sus, Vinewood
 - **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard
 :::
-<!-- :::warning map.furyrp.ro
+:::warning map.furyrp.ro
 - Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit.
-::: -->
+:::
 
 ### <span class="header-font">1.47 Necooperare cu membrii staff</span>
 - Va este interzis sa cereti sa vina alt admin la ticket sau sa nu cooperati cu adminul de la ticket. In cazul in care vi se face o nedreptate puteti accesa categoria <span style="color:red">#make-a-ticket</span> de pe discord. 
@@ -422,6 +422,10 @@ a locurilor foarte retrase)
 :::danger ATENȚIE!
 - Incalcarea regulii atrage sanctiuni de warn/ban.
 :::
+
+### <span class="header-font">1.50 Bind-uri</span>
+- Vă este strict interzis să vă faceți bind-uri cu ``/me`` pentru accidente sau alte motive, vă este strict interzis să aveți bind pentru ``/th(/o)``.
+- Totodată vă este interzis să aveți binduri de animații pentru a da cancel la alte animații și a face bug-uri, iar animațiile sunt interzise în combat.
 
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
