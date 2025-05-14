@@ -49,17 +49,21 @@ title: Regulament General
 
 ### <span class="header-font">1.07 Power Gaming (PG) </span>
 - Reprezintă momentul în care **simulați** folosirea unor **puteri supranaturale**, cat si neoferirea de sanse egale in RP.
-
+- Se consideră powergaming când ești implicat într-un accident și nu rolezi pe /me conform situației și intensității accidentului. Indiferent că sunteți în urmărire sau doar circulati, faptul că sunteți implicat într-un accident chiar și singuri și nu rolați pe /me se sancționează cu PG.
 - Nu se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti tranzactii intr-o zona rau famata/retrasa cu obiecte/masini si inainte sa faceti tranzactia il jefuiti/rapiti.
 - Se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti o tranzactie de tipul : " Vand inel cu diamant/furi/aur" si il ademeniti intr-o zona rau famata/retrasa pentru a-l jefui/rapi. Incercam ca tranzactiile de tipul asta sa nu fie permise.
 - Se considera PG atunci cand de exemplu cineva vrea sa cumpere o masina , acesta va cere sa faca un test-drive cu ea si il fortati sa vina cu voi intr-o zona rau famata/retrasa. De ce? Pentru ca din script nu puteti sa sariti din masina decat la viteze foarte mici, astfel nu dati sansa la RP si celuilalt.
 - Nu se considera PG atunci cand intr-un RP blocati caile de acces. De ce? In functie de RP-ul pe care vreti sa-l faceti PD/Mafie fiecare isi creaza un avantaj blocand caile de acces. ( Mafiile blocheaza o locatie sa prinda jefuitori sau alta mafie, PD-ul blocheaza o zona sa nu iasa nimeni din ea la razie etc.)
 - Nu aveti voie ca intr-un RP, in cazul in care sunt sa zicem 4 persoane, ca toate sa fie legate la maini si cu punga pe cap. Aveti obligatia ca macar o persoana sa fie dezlagata la maini si una sa fie fara punga pe cap si totodata persoanele legate sau cele cu pungi pe cap trebuie sa aibe sansa sa poate comunica intre ei.  Aici permitem ca persoana care este legata sa poata rola /me rupe punga cu gura celui care este lasat doar cu punga pe cap.
 
+:::warning ATENȚIE!
+- ``/me isi revine usor`` -> ESTE CONSIDERAT <span style="color:red">LOW EFFORT</span> ȘI SE SANCȚIONEAZĂ CA ATARE/
+:::
+
 ::: info Exemple
 - Folosirea informațiilor auzite cât timp ați fost în comă.
-
 - Folosirea telefonul/stației radio atunci când ele au fost confiscate.
+- etc.
 :::
 
 ### <span class="header-font">1.08 Meta Gaming (MG)</span>
@@ -75,12 +79,12 @@ title: Regulament General
 :::
 
 ### <span class="header-font">1.09 Condusul Non Roleplay</span>
-- Va este permis sa faceti stunt-uri, in momentul in care are loc o urmarire.
+- Vă este permis să faceți stunturi, dar în cazul în care vă loviți/răsturnați trebuie să rolați.
 - Nu aveti voie sa circulati cu mai mult de 200 kph pe drumurile din interiorul Los Santos, Sandy Shores, Paleto, Dusty, Grapeseed, decat daca aveti un motiv IC bine intemeiat.
 - Nu aveti voie sa circulati pe contrasens pe autostrada sau pe artere circulate des fara un motiv IC bine intemeiat. (Iesire port garaj industrial, Centrul Los Santos, Zona Fleeca Centrala etc.)
 - Nu aveti voie sa ocoliti speedbump-urile decat cu un motiv IC bine intemeiat.
-- Se permite manevra de pit stop in urmariri de pana la 250kmh.
-- Datorita scriptului de impotmolire  se permite accesul pe orice drum ( OFF-Road, Extreme OFF-Road ) cu orice clasa de masina.
+- Se permite manevra de pit stop in urmariri de pana la 150kmh.
+- Nu aveți voie să circulați pe OFF-ROAD cu vehicule ce nu sunt destinate mersului pe offroad. (o să urmeze o lista cu modele specifice OFF-ROAD și OFF-ROAD extreme)
 
 :::info
 Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste proceduri noi.

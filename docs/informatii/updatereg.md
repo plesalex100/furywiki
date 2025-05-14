@@ -6,6 +6,18 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+## [1.07 Powergaming](/informatii/regulament.html#_1-07-power-gaming-pg)
+- Se consideră powergaming când ești implicat într-un accident și nu rolezi pe /me conform situației și intensității accidentului. Indiferent că sunteți în urmărire sau doar circulati, faptul că sunteți implicat într-un accident chiar și singuri și nu rolați pe /me se sancționează cu PG.
+
+:::warning ATENȚIE!
+
+- ``/me isi revine usor`` -> ESTE CONSIDERAT <span style="color:red">LOW EFFORT</span> ȘI SE SANCȚIONEAZĂ CA ATARE
+
+## [1.09 Condus Non-RP](/informatii/regulament.html#_1-09-condusul-non-roleplay)
+- Vă este permis să faceți stunturi în continuare, dar în cazul în care vă loviți/răsturnați trebuie să rolați.
+- Nu aveți voie să circulați pe OFF-ROAD cu vehicule ce nu sunt destinate mersului pe offroad. (o să urmeze o lista cu modele specifice OFF-ROAD și OFF-ROAD extreme)
+- Manevra PIT-STOP se permite la maxim 150 kph.
+
 ## [1.49 Acces pe insula Cayo Perico](/informatii/regulament.html#_1-49-acces-pe-insula-cayo-perico)
 - Accesul pe insula Cayo este permis doar jucătorilor care au minim 100 de ore pe caracter.
 
