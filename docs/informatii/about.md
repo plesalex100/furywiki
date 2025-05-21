@@ -33,7 +33,7 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 :::info <span style="color:#FF7F7F">Aceștia pot fi contactați pentru:</span>
 - <span style="color:#FF7F7F">probleme grave la nivel de comunitate</span>
 - <span style="color:#FF7F7F">propuneri de colaborări</span>
-- <span style="color:#FF7F7F">pentru probleme la donații</span>
+- <span style="color:#FF7F7F">pentru probleme la plățile de pe [Store](https://store.furyrp.ro)</span>
 :::
 
 <hr style="transform: translateY(10px)"/>
