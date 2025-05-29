@@ -6,6 +6,9 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+## [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
+- 3.11 Încălțămintea și bijuteriile pot fi jefuite.
+
 ## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific) 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Vangelico:</span>
 - Considerat de acum înainte jaf armat (adică se trage direct)
