@@ -55,7 +55,7 @@ AVETI GRIJA, MOTIV BUN NU ESTE: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI 
 - Se interzice ca **odata ce ajungeti la celule**, chiar inainte sa fiti procesati, sa va tocmiti cu organele PD pentru a cere reducere la amenda/sentinta.
 
 ### <span class="header-font">1.07 Power Gaming (PG) </span>
-- Reprezintă momentul în care **simulați** folosirea unor **puteri supranaturale**, cat si neoferirea de sanse egale in RP.
+- Reprezintă momentul în care **simulați folosirea unor puteri supranaturale**, cat si neoferirea de sanse egale in RP.
 - Se consideră powergaming când ești implicat într-un accident și nu rolezi pe /me conform situației și intensității accidentului. Indiferent că sunteți în urmărire sau doar circulati, faptul că sunteți implicat într-un accident chiar și singuri și nu rolați pe /me se sancționează cu PG.
 - Nu se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti tranzactii intr-o zona rau famata/retrasa cu obiecte/masini si inainte sa faceti tranzactia il jefuiti/rapiti.
 - Se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti o tranzactie de tipul : " Vand inel cu diamant/furi/aur" si il ademeniti intr-o zona rau famata/retrasa pentru a-l jefui/rapi. Incercam ca tranzactiile de tipul asta sa nu fie permise.
