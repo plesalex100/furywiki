@@ -6,6 +6,8 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+##
+
 # <span class="title-font"><center> Istoric Update Regulament </center></span>
 
 ### 
