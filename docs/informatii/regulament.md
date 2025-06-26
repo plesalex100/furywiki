@@ -47,10 +47,9 @@ title: Regulament General
 - Se interzice **luarea în derâdere** sub orice formă a polițiștilor. (sicanarea verbala, bataia de joc, comportament necorespunzator)
 - Se interzice **Cop-Bait-ul**, care reprezintă instigarea organelor de poliție în mod intenționat. (drifturi lângă un polițist, în fața secției de poliție, trecerea pe culoarea roșie a semaforului în mod intenționat atunci când un polițist este în preajmă)
 :::info Exemplu
-- <span style="color:red">Scoaterea placutelor de inmatriculare si folosirea vehiculului in zonele publice fara un motiv bine intemeiat sau un context RP favorabil se va considera Copbait si veti fi sanctionati daca stati fara numere de inmatriculare fara un motiv bun.
+- <span style="color:red">Scoaterea placutelor de inmatriculare si folosirea vehiculului in zonele publice fara un motiv bine intemeiat sau un context RP favorabil se va considera Copbait si veti fi sanctionati daca stati fara numere de inmatriculare fara un motiv bun.</span>
 
-AVETI GRIJA, MOTIV BUN NU ESTE: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI LA FLEECA!!!
-</span>
+<span style="color:red">AVETI GRIJA, MOTIV BUN NU ESTE: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI LA FLEECA!!!</span>
 :::
 - Se interzice ca **odata ce ajungeti la celule**, chiar inainte sa fiti procesati, sa va tocmiti cu organele PD pentru a cere reducere la amenda/sentinta.
 
