@@ -509,7 +509,7 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 ### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific</span>
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Pacific:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 16, maxim 18 oameni înarmați.
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
 - Se consideră foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Interceptare:</span>
