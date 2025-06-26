@@ -36,8 +36,8 @@ Jaf Pacific
 - Se consideră powergaming când ești implicat într-un accident și nu rolezi pe /me conform situației și intensității accidentului. Indiferent că sunteți în urmărire sau doar circulati, faptul că sunteți implicat într-un accident chiar și singuri și nu rolați pe /me se sancționează cu PG.
 
 :::warning ATENȚIE!
-
 - ``/me isi revine usor`` -> ESTE CONSIDERAT <span style="color:red">LOW EFFORT</span> ȘI SE SANCȚIONEAZĂ CA ATARE
+:::
 
 ## [1.09 Condus Non-RP](/informatii/regulament.html#_1-09-condusul-non-roleplay)
 - Vă este permis să faceți stunturi în continuare, dar în cazul în care vă loviți/răsturnați trebuie să rolați.
