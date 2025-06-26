@@ -6,6 +6,10 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+# <span class="title-font"><center> Istoric Update Regulament </center></span>
+
+### 
+
 ## [8.0 Regulament Jafuri / Banca Pacific](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific)
 Jaf Pacific
 - Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
@@ -53,10 +57,6 @@ Jaf Pacific
 
 ### Interceptare
 - Puteti da Jaf Interceptare in 36 de persoane din partea mafiilor
-
-# <span class="title-font"><center> Istoric Update Regulament </center></span>
-
-### 
 
 ### [Setari OBS](/informatii/regulament.html#setari-obs)
 - Va este strict interzis sa va faceti setari astfel incat pe OBS(sau orice alt program de inregistrare):
