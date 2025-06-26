@@ -33,6 +33,7 @@ title: Regulament General
 ### <span class="header-font">1.05 No Fear (NF) </span>
 - Reprezintă momentul în care un jucător **nu simulează frica** într-o situație Roleplay
 ::: info Exemple
+- <span style="color: red;">Ex: In situatiile in care mergeti la actiune intr-un mod mixt/combinat (oameni ce apartin de organizatii/mafii + civili, sau civili + civili), iar un civil ce apartine grupului vostru (sageata, prietenii ic, etc) este luat ostatic (/th /o), daca trageti asupra persoanei ce il are ostatic se va considera no-fear. Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierdere</span>
 - Ex: Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
 - Ex: Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
 - Ex: Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.
@@ -45,6 +46,12 @@ title: Regulament General
 - Reprezintă **o subramură a No Fear-ului** ce are ca obiect simularea fricii față de **organele de poliție**.
 - Se interzice **luarea în derâdere** sub orice formă a polițiștilor. (sicanarea verbala, bataia de joc, comportament necorespunzator)
 - Se interzice **Cop-Bait-ul**, care reprezintă instigarea organelor de poliție în mod intenționat. (drifturi lângă un polițist, în fața secției de poliție, trecerea pe culoarea roșie a semaforului în mod intenționat atunci când un polițist este în preajmă)
+:::info Exemplu
+- <span style="color:red">Scoaterea placutelor de inmatriculare si folosirea vehiculului in zonele publice fara un motiv bine intemeiat sau un context RP favorabil se va considera Copbait si veti fi sanctionati daca stati fara numere de inmatriculare fara un motiv bun.
+
+AVETI GRIJA, MOTIV BUN NU ESTE: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI LA FLEECA!!!
+</span>
+:::
 - Se interzice ca **odata ce ajungeti la celule**, chiar inainte sa fiti procesati, sa va tocmiti cu organele PD pentru a cere reducere la amenda/sentinta.
 
 ### <span class="header-font">1.07 Power Gaming (PG) </span>
@@ -374,6 +381,8 @@ VA ESTE STRICT INTERZIS SA TRAGETI IN TIMP CE CARACTERUL VOSTRU ESTE IN ANIMATIA
 - Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti
 - Intr-o situatie de ostatici, pui ostaticul sau spui tu pe statia lor sa vina toti membrii care sunt in oras in momentul respectiv
 - Este considerat Low Effort sa jefuiesti un bancomat doar ca sa te bati cu Politia. Fiind considerat un jaf mic, pentru playerii cu putine ore, nu te-ai risca sa mori/sa fii prins de Politie si arestat pentru o suma atat de mica.
+- <span style="color:red">Va este strict interzis sa va bateti in Puscarie, decizia vine dupa ce multi jucatori intrau la jail si incercau sa se bata si sa omoare alti jucatori strict pentru amuzamentul personal.</span>
+- <span style="color:red">Folosirea mastilor in zonele publice este interzisa, daca nu participati la actiune ilegala. Nu aveti niciun motiv plauzibil sa va acoperiti fata in public, decat in cazurile de jaf sau in care luati un ostatic intr-o actiune inceputa pe o zona rau famata (mafii)</span>
 :::
 
 **Totodata Low effort va fi si considerat un motiv care nu este bine intemeiat pentru a face anumite actiuni**
@@ -396,7 +405,7 @@ a locurilor foarte retrase)
 - **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard
 :::
 :::warning map.furyrp.ro
-- Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit.
+- Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit, iar dezicia in cazul zonelor este luata de catre Adminul de la ticket.
 :::
 
 ### <span class="header-font">1.47 Necooperare cu membrii staff</span>
