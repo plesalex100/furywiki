@@ -6,6 +6,10 @@ title: Update-uri Regulament
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+## [8.0 Regulament Jafuri / Banca Pacific](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific)
+Jaf Pacific
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
+
 ## [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
 - 3.11 Încălțămintea și bijuteriile pot fi jefuite.
 
