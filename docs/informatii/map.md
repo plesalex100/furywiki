@@ -9,7 +9,7 @@ title: Harta orașului
 ### - Putem vizualiza zonele publice ale orașului, zonele retrase și zonele rău famate ale orașului accesând următorul link:
 -> https://map.furyrp.ro
 
-<iframe src="https://map.furyrp.ro" width="100%" height="500px"></iframe>
+<!-- <iframe src="https://map.furyrp.ro" width="100%" height="500px"></iframe> -->
 
 :::info
 - Zonele publice sunt cele nemarcate pe hartă
