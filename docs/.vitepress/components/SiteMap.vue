@@ -35,6 +35,8 @@ const items = sidebar
   margin: auto;
   columns: 1;
   padding: 24px 32px;
+  border-radius: 15px;
+  box-shadow: 2px 5px 10px #000000;
 }
 
 @media (min-width: 768px) {
