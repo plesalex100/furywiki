@@ -376,6 +376,8 @@
 
 .next-steps .vt-box {
   border: 1px solid var(--vt-c-bg-soft);
+  border-radius: 15px;
+  box-shadow: 2px 5px 10px #000000;
 }
 
 .next-steps .vt-box:hover {
