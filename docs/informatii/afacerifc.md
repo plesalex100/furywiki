@@ -6,7 +6,7 @@ title: Afaceri cu Firecoins
 
 ### <span class="header-font">Achiziționarea de VIP-uri</span>
 
-- Conform [regulamentului](/informatii/regulament), afacerile **IC** cu Firecoins pentru achiziționarea de VIP pe alt ID se formuleaza doar cu "Inel Diamond/Gold/Silver".
+- Conform [regulamentului](/informatii/regulament), afacerile **IC** cu Firecoins pentru achiziționarea de VIP pe alt ID se formuleaza doar cu "Inel Diamant/Aur/Furios" sau "Bilet de tren".
 
 :::danger ATENȚIE!!!!
 
