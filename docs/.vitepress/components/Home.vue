@@ -180,6 +180,8 @@ html:not(.dark) .accent,
 #highlights .vt-box {
   background-color: transparent;
   margin-left: -10px;
+  border-radius: 15px;
+  box-shadow: 2px 5px 10px #000000;
 }
 
 #sponsors {
