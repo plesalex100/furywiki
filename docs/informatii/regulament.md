@@ -471,6 +471,7 @@ a locurilor foarte retrase)
 - 3.09  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 2 ore.
 - 3.10  Pe Cayo Perico se poate jefui la orice oră.
 - 3.11 Încălțămintea și bijuteriile pot fi jefuite.
+- 3.12  Este interzisă jefuirea genții, se permite doar jefuirea itemelor.
 
 <hr style="transform: translateY(10px)"/>
 

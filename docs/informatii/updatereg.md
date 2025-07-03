@@ -12,6 +12,9 @@ title: Update-uri Regulament
 
 ### 
 
+## [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
+- 3.12  Este interzisă jefuirea genții, se permite doar jefuirea itemelor, <span style="color:red">conform celorlalte reguli active</span>.
+
 ## [8.0 Regulament Jafuri / Banca Pacific](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific)
 Jaf Pacific
 - Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
