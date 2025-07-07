@@ -102,6 +102,7 @@ export default defineConfig({
           { text: "Sala de forță", link: '/general/sala' },
           // { text: "Spălătorii auto", link: '/general/spalatorii' }, -- not really necesarry
           { text: "Magazin de arme", link: '/general/gunshop' },
+          { text: "Fury Estates", link: '/general/estates' },
           // { text: "Rockstar Editor", link: '/general/rockstareditor' },
         ]
       },
