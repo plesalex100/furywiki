@@ -22,7 +22,6 @@ Locația clădirii se află la cod poștal 600 și este marcată pe hartă cu un
 :::details NPC Recepție
 ![](https://i.imgur.com/ONKf5ho.png){.framed-photo}
 :::
-:::
 
 ## <span class="header-font">Ce avantaje oferă apartamentele?</span>
 
