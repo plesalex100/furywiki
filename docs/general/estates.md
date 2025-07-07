@@ -32,6 +32,8 @@ Locația clădirii se află la cod poștal 600 și este marcată pe hartă cu un
 - Apartamentele din Fury Estates oferă acces la un barbut privat, care poate fi folosit doar de către proprietarii apartamentelor în interiorul acestora.
 - Înainte de a putea folosi barbutul, trebuie să fie depuși bani în contul de asigurări pentru barbut, suma minimă fiind de 100.000$, iar maxima de 500.000$ pentru cei fara VIP (pentru cei cu VIP limita crește). Această asigurare este în valoare de 100% din suma pe care dorește să o joace și poate fi făcută pe o perioadă de 7 sau 14 zile. Suma va fi returnată după expirarea termenului.Acest lucru poate fi făcut la NPC-ul aflat la parter, pe canapea, lângă recepție.
 
+![](https://i.imgur.com/s51HXAD.png){.framed-photo}
+
 ### <span class="title-font">FuryBox</span>
 - Aceast beneficiu oferă proprietarilor posibilitatea de a transporta obiecte din/către Warehouse Paleto către FuryBox-ul aflat la parterul clădirii. Acest lucru le permite să aibă acces rapid la obiectele stocate fără a fi nevoie să se deplaseze până la Paleto.
 
