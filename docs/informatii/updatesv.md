@@ -6,6 +6,12 @@ title: Update-uri Server
 - Ultimele update-uri ale serverului sunt anunțate prima dată pe -> [discord](https://discord.gg/furyro) <- , astfel pot apărea întârzieri în actualizarea acestei pagini.
 :::
 
+##
+
+# <span class="title-font"><center> Istoric Updates Server </center></span>
+
+### 
+
 ## Server update v3.55
 
 - Acum tarabele isi actualizeaza greutatea in functie de masina atunci cand o amplasati
