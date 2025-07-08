@@ -539,6 +539,14 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 - Nu se consideră foc deschis, la acest jaf se NEGOCIAZĂ !
 - Armele vor trebui îndreptate strict către ostatic/ostatici, dacă există arme îndreptate asupra unităților LSPD aceștia vă pot soma să nu îi mai amenințați sau vor deschide focul, viața lor fiind pusă în pericol de arma ce îi amenință.
 
+<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Magazin:</span>
+- Acesta este un jaf destinat exclusiv civililor. Participarea membrilor cu grad într-o organizație sau mafie este strict interzisă, indiferent de motiv.
+- Acțiunea de jaf la magazin se poate desfășura cu un număr minim de 1 persoană și un maxim de 4 persoane.
+:::warning Jafurile pot fi date cu sau fără ostatic:
+- Dacă există ostatic, se respectă regulile de negociere valabile la jaful Fleeca.
+- Dacă nu există ostatic, jaful este considerat foc deschis.
+:::
+
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Vangelico:</span>
 - Acțiunea de tip Jaf la Vangelico va fi efectuată de un număr de minim 7 persoane, maxim 12 persoane înarmate.
 - Foc deschis
