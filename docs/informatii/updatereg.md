@@ -12,7 +12,7 @@ title: Update-uri Regulament
 
 ### 
 
-## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific)
+## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri)
 
 ### Jaf Paleto Bay
 - Maximul de persoane ce pot participa la acțiunea de Jaf la Paleto Bay este de minim 15, maxim 18 oameni înarmați.
@@ -29,14 +29,14 @@ title: Update-uri Regulament
 ## [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
 - 3.12  Este interzisă jefuirea genții, se permite doar jefuirea itemelor, <span style="color:red">conform celorlalte reguli active</span>.
 
-## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific)
+## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri)
 Jaf Pacific
 - Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
 
 ## [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
 - 3.11 Încălțămintea și bijuteriile pot fi jefuite.
 
-## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific) 
+## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri) 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Vangelico:</span>
 - Considerat de acum înainte jaf armat (adică se trage direct)
 - Număr de oameni: minim 7 | max 12 

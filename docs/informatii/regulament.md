@@ -548,7 +548,7 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Vangelico:</span>
 - Acțiunea de tip Jaf la Vangelico va fi efectuată de un număr de minim 7 persoane, maxim 12 persoane înarmate.
-- Foc deschis
+- Se consideră foc deschis.
 
 :::info
 - **In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.**
