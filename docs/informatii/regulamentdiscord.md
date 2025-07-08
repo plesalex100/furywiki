@@ -2,7 +2,7 @@
 title: Regulament Discord
 --- 
 
-<span class="title-font">REGULAMENT GENERAL – FURY ROMÂNIA (DISCORD)</span>
+<span class="title-font"><center>REGULAMENT GENERAL – FURY ROMÂNIA (DISCORD)</center></span>
 
 :::danger ATENȚIE!
 - Acest regulament se aplică tuturor membrilor comunității Fury România. Scopul său este menținerea unui mediu civilizat, sigur și lipsit de conflicte inutile. Prin utilizarea acestui server, fiecare membru își asumă respectarea integrală a regulilor.
