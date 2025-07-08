@@ -182,8 +182,8 @@ html:not(.dark) .accent,
   margin-left: -10px;
   /* border-radius: 15px;
   box-shadow: 2px 5px 10px #000000; */
-  box-shadow: 0 0 15px 4px #ffca7a,0 0 50px 5px #000000,inset 0 0 9px #ffd92e,inset 0 0 9px #c07300;
-  border-radius: 8px;
+  box-shadow: 0 0 5px 2px #ffca7a,0 0 50px 5px #000000,inset 0 0 9px #ffd92e,inset 0 0 9px #c07300;
+  border-radius: 2px;
 }
 
 #sponsors {
