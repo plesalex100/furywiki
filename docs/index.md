@@ -5,7 +5,7 @@ hero:
   text: Official Wiki
   tagline: Află informațiile updatate la zi despre toate sistemele prezente pe serverul nostru.
   image:
-    src: /fury-logo.svg
+    src: https://i.imgur.com/eE5d9DY.png
     # src: https://i.imgur.com/5u7z38w.gif
     alt: Fury
   actions:
