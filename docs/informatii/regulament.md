@@ -515,11 +515,7 @@ Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad s
 Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1 membru cu grad 3 familie mica in ideea in care daca 1 membru cu grad cere intariri sa aveti motiv ca si civilii aflati in masinile celorlalti membri cu grad sa poata intervenii.
 :::
 
-### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific</span>
-
-<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Pacific:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
-- Se consideră foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
+### <span class="header-font">8.0 Regulament Jafuri</span>
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Interceptare:</span>
 - Maximul de persoane ce pot participa la acțiunea de Jaf la Interceptare este de minim 18, maxim 20 oameni înarmați.
@@ -527,10 +523,13 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 - În cazul în care trecătorii sunt vizibili înarmați vor fi somați, iar mai apoi doborâți.
 - În cazul în care trecătorii vor să pătrundă într-un perimetru restrâns al valizei, membrii LSPD pot deschide focul, având în vedere cauza probabilă ca acesta să fie un membru al jafului.
 
-<!-- <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Transport Bancar:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Transport Bancar este de 25.
-- Se consideră foc deschis doar din momentul în care cei care atacă transportul deschid focul.
-- LSPD are dreptul să oprească și să imobilizeze prin orice mijloace pe cei ce nu respectă semnalele de urgență și prioritatea convoiului. -->
+<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Pacific:</span>
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
+- Se consideră foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
+
+<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Paleto Bay:</span>
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Paleto Bay este de minim 15, maxim 18 oameni înarmați.
+- Se consideră foc deschis la Paleto Bay, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Flecca:</span>
 - Acțiunea de tip Jaf la Banca Flecca va fi efectuată de un număr de minim 3 persoane, maxim 6 persoane înarmate, având în vedere dimensiunile băncii.

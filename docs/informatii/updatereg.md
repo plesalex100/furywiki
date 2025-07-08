@@ -12,10 +12,24 @@ title: Update-uri Regulament
 
 ### 
 
+## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific)
+
+### Jaf Paleto Bay
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Paleto Bay este de minim 15, maxim 18 oameni înarmați.
+- Se consideră foc deschis la Paleto Bay, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
+
+### Jaf Magazin
+- Acesta este un jaf destinat exclusiv civililor. Participarea membrilor cu grad într-o organizație sau mafie este strict interzisă, indiferent de motiv.
+- Acțiunea de jaf la magazin se poate desfășura cu un număr minim de 1 persoană și un maxim de 4 persoane.
+:::warning Jafurile pot fi date cu sau fără ostatic:
+- Dacă există ostatic, se respectă regulile de negociere valabile la jaful Fleeca.
+- Dacă nu există ostatic, jaful este considerat foc deschis.
+:::
+
 ## [3.0 Jefuitul](/informatii/regulament.html#_3-0-jefuitul)
 - 3.12  Este interzisă jefuirea genții, se permite doar jefuirea itemelor, <span style="color:red">conform celorlalte reguli active</span>.
 
-## [8.0 Regulament Jafuri / Banca Pacific](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific)
+## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri-banca-pacific)
 Jaf Pacific
 - Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
 
