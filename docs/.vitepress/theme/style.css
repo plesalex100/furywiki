@@ -121,11 +121,11 @@
     #fa7e2c
   );
 
-  /* --vp-home-hero-image-background-image: linear-gradient(
-    -30deg,
+  --vp-home-hero-image-background-image: linear-gradient(
+    -10deg,
     #f0bb0c 50%,
     #f38b14 50%
-  ); */
+  );
   --vp-home-hero-image-filter: blur(10px);
 }
 
