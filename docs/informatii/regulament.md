@@ -442,7 +442,7 @@ a locurilor foarte retrase)
 :::warning Este RECOMANDAT să filmați:
 - Tranzacții de bunuri/servicii
 - Dăruiri de bani sau iteme (indiferent de valoare)
-::
+:::
 
 - Lipsa filmării într-o situație reclamabilă duce automat la închiderea ticketului.
 - Nu putem analiza corect o plângere fără context complet.
