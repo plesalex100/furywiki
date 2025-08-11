@@ -432,6 +432,21 @@ a locurilor foarte retrase)
 - Vă este strict interzis să vă faceți bind-uri cu ``/me`` pentru accidente sau alte motive, vă este strict interzis să aveți bind pentru ``/th(/o)``.
 - Totodată vă este interzis să aveți binduri de animații pentru a da cancel la alte animații și a face bug-uri, iar animațiile sunt interzise în combat.
 
+### <span class="header-font">1.51 Filmarea acțiunilor pe server</span>
+:::danger Este OBLIGATORIU să filmați acțiunile importante:
+- Jefuiri
+- Bătăi / conflicte
+- Situații de RP important (acțiuni planificate, intervenții importante, CK-uri etc.)
+:::
+
+:::warning Este RECOMANDAT să filmați:
+- Tranzacții de bunuri/servicii
+- Dăruiri de bani sau iteme (indiferent de valoare)
+::
+
+- Lipsa filmării într-o situație reclamabilă duce automat la închiderea ticketului.
+- Nu putem analiza corect o plângere fără context complet.
+
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
 ### <span class="header-font">2.0 **Răpirea / Ostatici**</span>

@@ -12,6 +12,29 @@ title: Update-uri Regulament
 
 ### 
 
+## [1.51 Filmarea acțiunilor pe server]() 
+
+Începând din acest moment, se aplică următoarea regulă legată de dovezile video:
+
+1. Este OBLIGATORIU să filmați acțiunile importante:
+   - Jefuiri
+   - Bătăi / conflicte
+   - Situații de RP important (acțiuni planificate, intervenții importante, CK-uri etc.)
+
+
+2. Este RECOMANDAT să filmați:
+   - Tranzacții de bunuri/servicii
+   - Dăruiri de bani sau iteme (indiferent de valoare)
+
+
+3. Lipsa filmării într-o situație reclamabilă duce automat la închiderea ticketului.
+   Nu putem analiza corect o plângere fără context complet.
+
+:::warning
+⚠️ Această regulă se aplică în special în cazul reclamațiilor făcute de un jucător împotriva altui jucător.
+Fără filmare, nu se pot aplica sancțiuni.
+:::
+
 ## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri)
 
 ### Jaf Paleto Bay
