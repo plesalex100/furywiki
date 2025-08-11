@@ -12,6 +12,35 @@ title: Update-uri Server
 
 ### 
 
+## Server Update - Mini Update
+
+- A fost adaugata functia de “share” la garderoba.
+- Au fost reparate bug-uri la garderoba.
+- Problema legata de respawn-ul la spital a fost rezolvata.
+
+## Server Update v3.71 - Bug Fixes & Optimizari
+
+### Paleto Bay Heist 🏦
+- Adaugat Cooldown Global- Jaful acum este conectat cu celelalte jafuri si cooldown-urile acestora
+- Fixata problema cu mesajul de cooldown - Acum va va aparea daca este cooldown la banca inainte de a cumpara codul cu CFC. (Nu va aparea daca NU sunt suficienti politisti, pentru a preveni posibilele metode de meta-gaming.)
+- Fixata problema cu numarul minim de politisti on-duty necesari pentru a porni jaful.
+- Alte fix-uri
+
+### 🏪 Store Heist
+- Optimizari la npc-uri
+- Optimizari la sistemul de interactiuni.
+
+### 🏎️ Modificari la vehicule
+- Annis Elegy 35 Valentines poate fi acum echipat cu sistem NoS
+
+### 🏢 Businesses
+- Fixata problema cu disparitia comenzilor din magazine
+- Fixata problema cu sediile mecanicilor
+- Fixata problema cu managerii firmelor de mecanici si angajatii
+
+### Jail 👮🏻
+- Fixata problema cu freeze-ul cand iesiti de la inchisoare.
+
 ## ✨ Server Update v3.70 — Targetting Paleto Bay 🗺️
 
 ### 🏦💰 JAF PALETO BAY — THE BIG SCORE! 💰🏦

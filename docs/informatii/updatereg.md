@@ -12,7 +12,7 @@ title: Update-uri Regulament
 
 ### 
 
-## [1.51 Filmarea acțiunilor pe server]() 
+## [1.51 Filmarea acțiunilor pe server](/informatii/regulament.html#_1-51-filmarea-actiunilor-pe-server) 
 
 Începând din acest moment, se aplică următoarea regulă legată de dovezile video:
 
