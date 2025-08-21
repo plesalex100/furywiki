@@ -12,6 +12,28 @@ title: Update-uri Server
 
 ### 
 
+## Server Update v3.72
+
+### 🚴 Job nou: Delivery de ziare pe bicicletă
+- Poți livra ziare la orice casă.
+- Pe o tură poți cumpăra maxim 250 de ziare.
+- Jobul este disponibil de la 100h jucate.
+- Timp de 2 săptămâni de la acest update, orice jucător care face skill maxim primește în garaj o bicicletă electrică.
+- Cu cât arunci ziarul de mai departe, cu atât primești bonus.
+- Cu fiecare skill bicicleta devine mai bună, iar primul skill necesită doar 50 de ziare, fără a pune prea multă presiune.
+
+### 💰 Sistemul de investiții
+- Sistemul de investiții a primit un update major.
+- A fost creată o nouă pagină pentru jucătorii vechi și activi.
+- De acum vă puteți activa investiții pe FireCoins, ca bonus pentru cei activi în comunitate.
+
+### 🎲 Barbut
+- Am înțeles că vă doriți ca barbutul să fie mai liber, așa că am adăugat o masă de barbut la CNN, unde vă puteți juca direct.
+- În rest, sistemul funcționează exact ca înainte.
+- De acum, orice casă personală suportă acest script.
+
+![](https://cdn.discordapp.com/attachments/1020115777917042718/1408117091482996797/udpate.png?ex=68a892bc&is=68a7413c&hm=175847d5562a62da359bc3bc1429eec5cb67ae7f69f724f22ac67b0c1eaec5df&)
+
 ## Server Update - Mini Update
 
 - A fost adaugata functia de “share” la garderoba.
