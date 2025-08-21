@@ -44,7 +44,7 @@ Acest job constă în achiziționarea ziarelor și livrarea acestora la casele d
 :::
 
 :::details Cumpărare ziare
-![](){.framed-gif}
+![](https://i.imgur.com/IrbDHpV.gif){.framed-gif}
 :::
 
 :::info
@@ -52,7 +52,9 @@ Acest job constă în achiziționarea ziarelor și livrarea acestora la casele d
 - Acest lucru este posibil prin a apăsa <span style="color:red">click dreapta</span> pentru a ținti și <span style="color:red">click stânga</span> pentru a arunca ziarul.
 :::
 
-![](){.framed-gif}
+![](https://i.imgur.com/gRC6gTJ.gif){.framed-gif}
+
+![](https://i.imgur.com/lhiJdX5.gif){.framed-gif}
 
 :::tip PRO TIPS!
 - Încercați să aruncați ziarele cât mai departe de ușa casei pentru a obține bonusuri mai mari.
