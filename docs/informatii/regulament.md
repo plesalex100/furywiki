@@ -447,6 +447,14 @@ a locurilor foarte retrase)
 - Lipsa filmării într-o situație reclamabilă duce automat la închiderea ticketului.
 - Nu putem analiza corect o plângere fără context complet.
 
+### <span class="header-font">1.52 Restricții BARBUT</span>
+:::danger
+- Este strict interzisă jucarea de barbut pe orice altceva decât pe suma de bani exact cum permite sistemul.
+- Nerespectarea acestei reguli va fi sancționată.
+- Este interzis orice tip de SCAM la barbut.
+- Orice tentativă de a încuraja încălcarea regulamentului va fi sancționată direct, indiferent dacă s-a produs sau nu un SCAM.
+:::
+
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
 ### <span class="header-font">2.0 **Răpirea / Ostatici**</span>
