@@ -12,6 +12,12 @@ title: Update-uri Regulament
 
 ### 
 
+## [1.52 Restricții BARBUT](/informatii/regulament.html#_1-52-restrictii-barbut)
+- Este strict interzisă jucarea de barbut pe orice altceva decât pe suma de bani exact cum permite sistemul.
+- Nerespectarea acestei reguli va fi sancționată.
+- Este interzis orice tip de SCAM la barbut.
+- Orice tentativă de a încuraja încălcarea regulamentului va fi sancționată direct, indiferent dacă s-a produs sau nu un SCAM.
+
 ## [1.51 Filmarea acțiunilor pe server](/informatii/regulament.html#_1-51-filmarea-actiunilor-pe-server) 
 
 Începând din acest moment, se aplică următoarea regulă legată de dovezile video:
