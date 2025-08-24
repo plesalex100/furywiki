@@ -2,6 +2,10 @@
 title: Dependența de substanțe
 ---
 
+<script setup> 
+    import KeyIcon from '../.vitepress/components/KeyIcon.vue'
+</script>
+
 # <span class="title-font"><center>Informații despre sistemul de dependență de substanțe</center></span>
 
 ## <span class="header-font">Ce este dependența de substanțe?</span>

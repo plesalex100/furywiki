@@ -2,6 +2,10 @@
 title: Livrare Ziare
 ---
 
+<script setup> 
+    import KeyIcon from '../.vitepress/components/KeyIcon.vue'
+</script>
+
 # <span class="title-font"><center>Informații despre jobul de livrator de ziare</center></span>
 
 ## <span class="header-font">Cerințe</span>
