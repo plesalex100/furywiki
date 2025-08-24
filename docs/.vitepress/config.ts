@@ -96,6 +96,7 @@ export default defineConfig({
           // { text: "Garaje & Parcări", link: '/general/garaje'}, -- removed for now
           { text: "Bancomate", link: '/general/atm'},
           { text: "Asigurare medicală", link: '/general/asigurare' },
+          { text: "Sistemul de dependență", link: '/general/addiction' },
           { text: "Școala de șoferi", link: '/general/scoala' },
           { text: "Depozit Paleto", link: '/general/depozit' },
           { text: "Biroul de Licențe", link: '/general/licente' },
