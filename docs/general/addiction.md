@@ -14,7 +14,7 @@ title: Dependența de substanțe
 - Aceasta se instaurează la folosirea pe termen lung a alcoolului, tuturor drogulilor, injecțiilor THC și injecțiilor cu COX.
 
 :::tip
-- Nivelul de dependență poate fi verificat apăsând tasta <KeyIcon keyType="m"/>.
+- Nivelul de dependență poate fi verificat apăsând tasta <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">M</span>.
 :::
 
 ## <span class="header-font">Cum se instalează dependența?</span>
