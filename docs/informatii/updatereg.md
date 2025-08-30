@@ -12,7 +12,7 @@ title: Update-uri Regulament
 
 ### 
 
-## [1.53 PC Check]()
+## [1.53 PC Check](/informatii/regulament.html#_1-53-pc-check)
 - Jucătorii care folosesc sisteme de operare custom (OS-uri personalizate) pot fi banați dacă serviciile importante sunt dezactivate sau imposibil de activat.
 - Jucătorii care vând, cumpără, dețin, folosesc sau distribuie bypass-uri sau cheat-uri pot fi banați.
 - Banurile în urma unui PC Check sunt gestionate doar de către Staff-ul Fury împreună cu echipa @PC Checker Fury.
