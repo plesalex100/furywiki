@@ -12,6 +12,58 @@ title: Update-uri Regulament
 
 ### 
 
+## [1.53 PC Check]()
+- Jucătorii care folosesc sisteme de operare custom (OS-uri personalizate) pot fi banați dacă serviciile importante sunt dezactivate sau imposibil de activat.
+- Jucătorii care vând, cumpără, dețin, folosesc sau distribuie bypass-uri sau cheat-uri pot fi banați.
+- Banurile în urma unui PC Check sunt gestionate doar de către Staff-ul Fury împreună cu echipa @PC Checker Fury.
+- Ștergerea fișierelor înainte de PC Check este strict interzisă și poate duce la ban.
+- Orice urmă lăsată in PC de cod, cleaner sau bypass poate duce la banul permanent, indiferent de data utilizării.
+- Asocierea cu comunitatile de Cheating este strict inerzisa si va recomandam sa parasiti toate serverele de Discord etc. de genul pentru a nu avea probleme in cazul unui eventual PC Check.
+- Întârzierea pe support/ Tragerea de timp la PC Check este strict interzisă și poate duce la ban.
+- Refuzarea unui PC Check duce la Ban Permanent (BLACKLIST)
+
+#### Servicii Dezactivate:
+- AppInfo
+- DPS
+- Dnscache
+- PcaSvc
+- SysMain
+- DiagTrack
+- EventLog
+- BAM
+- DusmSvc
+
+- Dezactivarea BAM Inheritance
+- Dezactivarea Activitiescache
+- Dezactivarea JumpLists
+- Oprirea Thread-urilor in servicii
+
+- Utilizarea software-urilor de optimizare este pe propriul risc.
+
+#### Tentantiva de Bypass:
+
+- Stergerea fisierelor inainte de PC Check
+- Reinitializarea serviciilor
+- Curatarea Jurnalului
+- Curatarea Registrilor
+- Curatarea Event Logs
+- Curatarea sau Modificarea Prefetchului
+- Folosirea aplicatiilor care sterg string-uri.
+- Distrugerea de fisiere
+- Curatarea shell:recent
+- Manipularea NvAPPTimestamps
+
+#### Tentativa de Bypass include si urmatoarele:
+
+- Orice interactiune inainte de FiveM cu urmatoarele:
+- CMD
+- Python
+- Powershell
+- Powershell ISE
+- System Informer / Process Hacker
+- Registry Editor
+
+
 ## [1.52 Restricții BARBUT](/informatii/regulament.html#_1-52-restrictii-barbut)
 - Este strict interzisă jucarea de barbut pe orice altceva decât pe suma de bani exact cum permite sistemul.
 - Nerespectarea acestei reguli va fi sancționată.
