@@ -11,49 +11,35 @@ title: Sala de forță
 
 - Locația sălii de forță poate fi găsită cu ajutorul comenzii [/gps](/informatii/comenzi) și este marcată pe hartă cu un simbol de ganteră.
 :::details Exteriorul sălii
-![pozaSala](https://i.imgur.com/bsvaZNc.png){.framed-photo}
+![pozaSala](https://i.imgur.com/CUJpJK7.png){.framed-photo}
 :::
 
 ## <span class="header-font">Cum îmi crește forța?</span>
 
 - Pentru început, pentru a începe să lucrezi la sală va trebui să te schimbi în hainele de sală. Acestea pot fi luate de la NPC-ul aflat pe bancă de la intrarea în sală prin apăsarea tastei <KeyIcon keyType="e"/>.
-:::details Schimbarea în haine de sală
-![haineSalaa](https://i.imgur.com/wPP4Vbp.gif){.framed-gif}
+:::details NPC schimbare în haine de sală
+![haineSalaa](https://i.imgur.com/3Tvqo2O.png){.framed-gif}
 :::
 - Forța (procentul din [Forma fizică](/general/inventar#forma-fizică)) poate fi crescută folosind diferite aparate din sală. Acestea sunt de mai multe tipuri și fiecare te ajută să lucrezi o grupă de mușchi diferită (toate cresc progresul, nu contează la care faceți). Pentru a începe să lucrați la un aparat, trebuie să vă apropiați de el și să apăsați tasta <KeyIcon keyType="e"/>.
     - **Împins la piept**
-    :::details Poze banca de împins la piept
-    ![pozaBanca1](https://i.imgur.com/vgeNPR3.png){.framed-photo}
-
-    ![pozaBanca2](https://i.imgur.com/nJ2830l.png){.framed-photo}
-
-    ![pozaBanca3](https://i.imgur.com/cuU9LEg.png){.framed-photo}
+    :::details Poză bancă de împins la piept
+    ![pozaBanca1](https://i.imgur.com/kxMrXbs.png){.framed-photo}
     :::
     - **Tracțiuni**
-    :::details Poze aparat de tracțiuni
-    ![pozaTractiuni1](https://i.imgur.com/IwMtICb.png){.framed-photo}
-
-    ![pozaTractiuni2](https://i.imgur.com/CEJwuES.png){.framed-photo}
-
-    ![pozaTractiuni3](https://i.imgur.com/730UcOG.png){.framed-photo}
+    :::details Poză aparat de tracțiuni
+    ![pozaTractiuni1](https://i.imgur.com/xqkqBuY.png){.framed-photo}
     :::
     - **Flexii cu bara Z la biceps**
-    :::details Poze aparat de tracțiuni
-    ![pozaBiceps1](https://i.imgur.com/zuCuUA0.png){.framed-photo}
-
-    ![pozaBiceps2](https://i.imgur.com/soCg18Z.png){.framed-photo}
+    :::details Poze aparat de flexii cu bara Z
+    ![pozaBiceps1](https://i.imgur.com/kxMrXbs.png){.framed-photo}
     :::
-    - **Flotări**
-    :::details Poză zonă pentru flotări
-    ![pozaFlotari1](https://i.imgur.com/0tRzS0r.png){.framed-photo}
+    - **Flotări, yoga și abdomene**
+    :::details Poză zonă pentru flotări, yoga și abdomene
+    ![pozaFlotari1](https://i.imgur.com/E6ffWe2.png){.framed-photo}
     :::
-    - **Abdomene**
-    :::details Poză zonă de abdomene
-    ![pozaAbdomene1](https://i.imgur.com/0F404Lm.png){.framed-photo}
-    :::
-    - **Yoga**
-    :::details Poze zonă pentru yoga
-    ![pozaYoga1](https://i.imgur.com/DnZ4oD9.png){.framed-photo}
+    - **Benzi de alergare**
+    :::details Zona benzilor de alergare
+    ![pozaBanda1](https://i.imgur.com/LglU9Vo.png){.framed-photo}
     :::
 
 - Când începeți să lucrați la un aparat, dupa un anumit timp o să vă apară în dreptul bării de progres un mini-game care se bazează pe apăsarea repetată a tastei <KeyIcon keyType="space"/> până când culoarea portocalie va trece de linia albă delimitatoare și, de asemenea, trebuie menținută după acea linie pentru scurt timp. Acest mini-game împiedică practicarea AFK-ului în sală și este necesar pentru a crește progresul. Mai jos regăsiți o reprezentare a acestui mini-game:
@@ -64,9 +50,9 @@ title: Sala de forță
  
 ## <span class="header-font">Cum pot accelera progresul la sală?</span>
 
-- Progresul poate fi accelerat folosind diferite suplimente. Acestea pot fi cumpărate de la tonomatul din dreapta de la intrarea în sală. Pentru a cumpăra un supliment, trebuie să vă apropiați de tonomat și să apăsați tasta <KeyIcon keyType="e"/>.
-:::details Tonomat suplimente
-![pozaTonomat1](https://i.imgur.com/v3FeTwA.png){.framed-photo}
+- Progresul poate fi accelerat folosind diferite suplimente. Acestea pot fi cumpărate de la recepția de la intrarea în sală. Pentru a cumpăra un supliment, trebuie să vă apropiați de NPC-ul de la recepție și să apăsați tasta <KeyIcon keyType="e"/>.
+:::details NPC recepție suplimente
+![pozaTonomat1](https://i.imgur.com/OI7iK8j.png){.framed-photo}
 :::
 ::: warning ATENȚIE!
 - Progresul scade progresiv, mai exact cu 1% pe oră jucată pe server.

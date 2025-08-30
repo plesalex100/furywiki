@@ -69,6 +69,16 @@ Există 4 tipuri de case:
 <Videos video-source="https://www.youtube.com/embed/vvNNkpJPY44" />
 :::
 
+## <span class="header-font">Accesul la barbut</span>
+- Casele din oraș, precum și apartamentele din Fury Estates, oferă acces la un barbut privat, care poate fi folosit doar de către proprietarii caselor/apartamentelor în interiorul acestora.
+- Înainte de a putea folosi barbutul, trebuie să fie depuși bani în contul de asigurări pentru barbut, suma minimă fiind de 100.000$, iar maxima de 500.000$ pentru cei fara VIP (pentru cei cu VIP limita crește). Această asigurare este în valoare de 100% din suma pe care dorește să o joace și poate fi făcută pe o perioadă de 7 sau 14 zile. Suma va fi returnată după expirarea termenului. Acest lucru poate fi făcut la NPC-ul aflat la parterul clădirii Fury Estates, pe canapea, lângă recepție.
+
+![](https://i.imgur.com/s51HXAD.png){.framed-photo}
+
+:::tip 
+- Există o zonă specială de barbut disponibilă pentru toată lumea la [CNN](/general/cnn.html).
+::: 
+
 ## <span class="header-font">Cum pot vedea unde e casa mea personală/casa unde am chirie/casa de la care am o copie a cheii?</span>
 
 :::info

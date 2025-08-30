@@ -31,6 +31,7 @@ export default defineConfig({
         text: 'Regulament',
         items: [
           { text: 'Regulament General', link: '/informatii/regulament' },
+          { text: 'Regulament Discord', link: '/informatii/regulamentdiscord' },
           { text: 'Regulament Business', link: '/informatii/regulamentbiz' },
           { text: 'Regulament OOC Mafii/Organizații Ilegale', link: '/informatii/regulamentmafii'}
         ]
@@ -74,9 +75,10 @@ export default defineConfig({
           { text: "Autentificare", link: '/informatii/auth' },
           { text: 'Setări Grafică', link: '/informatii/settings' },
           { text: "Regulament General", link: '/informatii/regulament' },
+          { text: "Regulament Discord", link: '/informatii/regulamentdiscord' },
           { text: "Regulament Business", link: '/informatii/regulamentbiz' },
-          { text: "Ghid înființare mafie", link: '/informatii/ghidmafie' },
           { text: "Regulament OOC Mafii/Organizații Ilegale", link: '/informatii/regulamentmafii'},
+          { text: "Ghid înființare mafie", link: '/informatii/ghidmafie' },
           { text: 'Zone Publice/Rău Famate/Retrase', link: '/informatii/map' },
           { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
           { text: "Comenzi des folosite", link: '/informatii/comenzi' },
@@ -94,14 +96,16 @@ export default defineConfig({
           // { text: "Garaje & Parcări", link: '/general/garaje'}, -- removed for now
           { text: "Bancomate", link: '/general/atm'},
           { text: "Asigurare medicală", link: '/general/asigurare' },
+          { text: "Sistemul de dependență", link: '/general/addiction' },
           { text: "Școala de șoferi", link: '/general/scoala' },
           { text: "Depozit Paleto", link: '/general/depozit' },
           { text: "Biroul de Licențe", link: '/general/licente' },
           { text:"Târg Auto", link: '/general/targauto' },
           { text: "CNN (Anunțuri)", link: '/general/cnn' },
           { text: "Sala de forță", link: '/general/sala' },
-          // { text: "Spălătorii auto", link: '/general/spalatorii' }, -- not really necesarry
+          // { text: "Spălătorii auto", link: '/general/spalatorii' }, -- not really necessary
           { text: "Magazin de arme", link: '/general/gunshop' },
+          { text: "Fury Estates", link: '/general/estates' },
           // { text: "Rockstar Editor", link: '/general/rockstareditor' },
         ]
       },
@@ -115,29 +119,6 @@ export default defineConfig({
             text: "Joburi legale",
             collapsed: true,
             items: [ 
-              // in ordinea numarului de ore necesare - low to high
-
-              // { text: "Spalator de geamuri", link: '/jobs/windowcleaner' }, -- removed
-              // { text: "Curier", link: '/jobs/curier' },
-              // { text: "Pescar", link: '/jobs/fisher' },
-              // { text: "Șofer de autobuz", link: '/jobs/busdriver' },
-              // { text: "Miner", link: '/jobs/miner' },
-              // { text: "Gunoier", link: '/jobs/gunoier' }, 
-              // { text: "Vatman", link: '/jobs/vatman' },
-              // { text: "Măcelar", link: '/jobs/butcher' }, 
-              // { text: "McDonald's", link: '/jobs/mcds' },
-              // { text: "Tirist", link: '/jobs/trucker' },
-              // { text: "Electrician", link: '/jobs/electrician' },
-              // { text: "Stivuitorist", link: '/jobs/forklift' },
-              // { text: "Petrolist", link: '/jobs/petrolist' },
-              // { text: "Farmacist", link: '/jobs/farmacist' },
-              // { text: "Tăietor de lemne", link: '/jobs/lumberjack' },
-              // { text: "Vânător", link: '/jobs/hunter' },
-              // { text: "Pilot", link: '/jobs/pilot' },
-              // { text: "Scafandru", link: '/jobs/diver' },
-              // { text:"Pescar Oceanic", link: '/jobs/fisherv2' },
-              // { text:"Muncitor la Carieră", link: '/jobs/minerv2' }
-
               // V3 order low-high
               { text: "Curier", link: '/jobs/curier' },               // 0h
               { text: "Gunoier", link: '/jobs/gunoier' },             // 0h
@@ -151,9 +132,10 @@ export default defineConfig({
               { text: "Stivuitorist", link: '/jobs/forklift' },       // 75h
               { text: "Tăietor de lemne", link: '/jobs/lumberjack' }, // 75h
               { text: "Petrolist", link: '/jobs/petrolist' },         // 75h
+              { text: "Livrator de ziare", link: '/jobs/postman' },   // 100h
               { text: "Miner", link: '/jobs/miner' },                 // 100h
               { text: "Farmacist", link: '/jobs/farmacist' },         // 100h
-              { text: "Tirist", link: '/jobs/trucker' },            // 150h
+              { text: "Tirist", link: '/jobs/trucker' },              // 150h
               { text: "Pilot Cargo", link: '/jobs/pilot' },           // 200h
               { text: "Vânător", link: '/jobs/hunter' },              // 300h
               { text: "Scafandru", link: '/jobs/diver' },             // 300h
@@ -169,11 +151,7 @@ export default defineConfig({
               { text: "Droguri", link: '/jobs/ilegale/drugs' },               
               { text: "Arme", link: '/jobs/ilegale/weapons' },
               { text: "Hacker", link: '/jobs/ilegale/hacker' },            
-              { text: "Furt de mașini", link: '/jobs/ilegale/lockpick' }                
-              // { text: "", link: '/jobs/' },             
-              // { text: "", link: '/jobs/' },     
-              // { text: "", link: '/jobs/' },              
-              
+              { text: "Furt de mașini", link: '/jobs/ilegale/lockpick' }      
             ]
           },
         ]

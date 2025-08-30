@@ -41,13 +41,35 @@ title: Investiții
 |     11 ore   |    $53680   |
 |     15 ore   |    $77000   |
 
+- Acest reward este cel pentru cei care nu dețin niciun fel de VIP. Dacă deții VIP, reward-urile tale vor fi diferite.
+
 ::: tip Recomandare!
 - Este recomandat să vă stabiliți dinainte orele pe care le veți juca în ziua respectivă, astfel încât să nu pierdeți niciun reward.
 
 De exemplu, dacă am făcut o investiție de 5 ore, dar am jucat doar 4 ore, nu voi primi niciun reward. Dar dacă am făcut o investiție de o oră și eu am jucat 6 ore, voi primi reward-ul doar pentru o oră, astfel data viitoare voi calcula mai bine câte ore îmi voi petrece pe server.
 :::
 
- ### <span class="header-font">Long term </span>
+### <span class="header-font">Short term Coins</span>
+:::info
+-> funcționează exact ca și investițiile short term normale, doar că reward-ul nu constă în bani, ci în FireCoins.
+:::
+
+|  Ore jucate  |    Reward         |
+| :-----------:|   :-----:         |
+|     o oră    |    2 Fire Coins   |
+|     3 ore    |    3 Fire Coins   |
+|     4 ore    |    4 Fire Coins   |
+|     6 ore    |    6 Fire Coins   |
+|     9 ore    |    9 Fire Coins   |
+|     12 ore   |    12 Fire Coins  |
+|     15 ore   |    15 Fire Coins  |
+|     20 ore   |    20 Fire Coins  |
+
+:::danger ATENȚIE!
+- Puteți avea doar o investiție short term activă la un moment dat: fie cu reward în bani, fie cu reward în FireCoins.
+:::
+
+### <span class="header-font">Long term </span>
  :::info
  -> se investesc atât ore, cât și sume de bani
 

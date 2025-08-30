@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, watch } from 'vue'
 
-const VIDEO_SOURCE = 'https://www.youtube.com/embed/hcU1bH1u0Ro?si=_qz9OThGdPdoXjzq'
+const VIDEO_SOURCE = 'https://www.youtube.com/embed/HSNW0izFmoE?si=31oaw50N1QfFowql'
 const showWhyFury = ref(false)
 
 watch(

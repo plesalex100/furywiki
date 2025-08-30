@@ -33,6 +33,7 @@ title: Regulament General
 ### <span class="header-font">1.05 No Fear (NF) </span>
 - Reprezintă momentul în care un jucător **nu simulează frica** într-o situație Roleplay
 ::: info Exemple
+- <span style="color: red;">Ex: In situatiile in care mergeti la actiune intr-un mod mixt/combinat (oameni ce apartin de organizatii/mafii + civili, sau civili + civili), iar un civil ce apartine grupului vostru (sageata, prietenii ic, etc) este luat ostatic (/th /o), daca trageti asupra persoanei ce il are ostatic se va considera no-fear. Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierdere</span>
 - Ex: Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
 - Ex: Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
 - Ex: Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.
@@ -45,10 +46,15 @@ title: Regulament General
 - Reprezintă **o subramură a No Fear-ului** ce are ca obiect simularea fricii față de **organele de poliție**.
 - Se interzice **luarea în derâdere** sub orice formă a polițiștilor. (sicanarea verbala, bataia de joc, comportament necorespunzator)
 - Se interzice **Cop-Bait-ul**, care reprezintă instigarea organelor de poliție în mod intenționat. (drifturi lângă un polițist, în fața secției de poliție, trecerea pe culoarea roșie a semaforului în mod intenționat atunci când un polițist este în preajmă)
+:::info Exemplu
+- <span style="color:red">Scoaterea placutelor de inmatriculare si folosirea vehiculului in zonele publice fara un motiv bine intemeiat sau un context RP favorabil se va considera Copbait si veti fi sanctionati daca stati fara numere de inmatriculare fara un motiv bun.</span>
+
+<span style="color:red">AVETI GRIJA, MOTIV BUN NU ESTE: CA SA NU-MI FACA POLITIA MANDAT CA FAC DRIFTURI LA FLEECA!!!</span>
+:::
 - Se interzice ca **odata ce ajungeti la celule**, chiar inainte sa fiti procesati, sa va tocmiti cu organele PD pentru a cere reducere la amenda/sentinta.
 
-### <span class="header-font">1.07 Power Gaming (PG) </span>
-- Reprezintă momentul în care **simulați** folosirea unor **puteri supranaturale**, cat si neoferirea de sanse egale in RP.
+### <span class="header-font">1.07 Power Gaming</span>
+- Reprezintă momentul în care **simulați folosirea unor puteri supranaturale**, cat si neoferirea de sanse egale in RP.
 - Se consideră powergaming când ești implicat într-un accident și nu rolezi pe /me conform situației și intensității accidentului. Indiferent că sunteți în urmărire sau doar circulati, faptul că sunteți implicat într-un accident chiar și singuri și nu rolați pe /me se sancționează cu PG.
 - Nu se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti tranzactii intr-o zona rau famata/retrasa cu obiecte/masini si inainte sa faceti tranzactia il jefuiti/rapiti.
 - Se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti o tranzactie de tipul : " Vand inel cu diamant/furi/aur" si il ademeniti intr-o zona rau famata/retrasa pentru a-l jefui/rapi. Incercam ca tranzactiile de tipul asta sa nu fie permise.
@@ -311,9 +317,6 @@ Caz B. Esti acuzat direct de metagaming => nu se mai discuta nimic se da sanctiu
 - /me Reține cum arată.
 - /me Simte miros de fraier.
 :::
-:::info !!!
-- Nu este obligatoriu sa mai rolati /me in cazul unui accident rutier in timpul unei urmariri. In cazul unui accident care nu are loc in timpul unei urmariri sunteti obligati sa faceti RP cu persoana cu care ati avut accidentul.
-:::
 
 ### <span class="header-font">1.35 Ofera bani</span>
 - Este interzis sa soliciti unor jucatori noi sa-ti ofere banii de inceput. Se sanctioneaza cu Character-Kill (CK).
@@ -377,6 +380,8 @@ VA ESTE STRICT INTERZIS SA TRAGETI IN TIMP CE CARACTERUL VOSTRU ESTE IN ANIMATIA
 - Sa obligi playerii sa stea in RP cu tine “Maximul de 2h” doar pentru amuzamentul personal si ca sa ii frustrezi pe ceilalti
 - Intr-o situatie de ostatici, pui ostaticul sau spui tu pe statia lor sa vina toti membrii care sunt in oras in momentul respectiv
 - Este considerat Low Effort sa jefuiesti un bancomat doar ca sa te bati cu Politia. Fiind considerat un jaf mic, pentru playerii cu putine ore, nu te-ai risca sa mori/sa fii prins de Politie si arestat pentru o suma atat de mica.
+- <span style="color:red">Va este strict interzis sa va bateti in Puscarie, decizia vine dupa ce multi jucatori intrau la jail si incercau sa se bata si sa omoare alti jucatori strict pentru amuzamentul personal.</span>
+- <span style="color:red">Folosirea mastilor in zonele publice este interzisa, daca nu participati la actiune ilegala. Nu aveti niciun motiv plauzibil sa va acoperiti fata in public, decat in cazurile de jaf sau in care luati un ostatic intr-o actiune inceputa pe o zona rau famata (mafii)</span>
 :::
 
 **Totodata Low effort va fi si considerat un motiv care nu este bine intemeiat pentru a face anumite actiuni**
@@ -399,7 +404,7 @@ a locurilor foarte retrase)
 - **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard
 :::
 :::warning map.furyrp.ro
-- Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit.
+- Link-ul de pe panel https://map.furyrp.ro/ reprezinta doar e estimare a zonelor si ar trebui folosit ca atare. Ilegalitatile pot avea loc si in zone retrase in baza unui context IC bine definit, iar dezicia in cazul zonelor este luata de catre Adminul de la ticket.
 :::
 
 ### <span class="header-font">1.47 Necooperare cu membrii staff</span>
@@ -426,6 +431,29 @@ a locurilor foarte retrase)
 ### <span class="header-font">1.50 Bind-uri</span>
 - Vă este strict interzis să vă faceți bind-uri cu ``/me`` pentru accidente sau alte motive, vă este strict interzis să aveți bind pentru ``/th(/o)``.
 - Totodată vă este interzis să aveți binduri de animații pentru a da cancel la alte animații și a face bug-uri, iar animațiile sunt interzise în combat.
+
+### <span class="header-font">1.51 Filmarea acțiunilor pe server</span>
+:::danger Este OBLIGATORIU să filmați acțiunile importante:
+- Jefuiri
+- Bătăi / conflicte
+- Situații de RP important (acțiuni planificate, intervenții importante, CK-uri etc.)
+:::
+
+:::warning Este RECOMANDAT să filmați:
+- Tranzacții de bunuri/servicii
+- Dăruiri de bani sau iteme (indiferent de valoare)
+:::
+
+- Lipsa filmării într-o situație reclamabilă duce automat la închiderea ticketului.
+- Nu putem analiza corect o plângere fără context complet.
+
+### <span class="header-font">1.52 Restricții BARBUT</span>
+:::danger
+- Este strict interzisă jucarea de barbut pe orice altceva decât pe suma de bani exact cum permite sistemul.
+- Nerespectarea acestei reguli va fi sancționată.
+- Este interzis orice tip de SCAM la barbut.
+- Orice tentativă de a încuraja încălcarea regulamentului va fi sancționată direct, indiferent dacă s-a produs sau nu un SCAM.
+:::
 
 ## <p style="text-align: center;">Activitățile Ilegale</p>
 
@@ -466,6 +494,7 @@ a locurilor foarte retrase)
 - 3.09  Nu aveti voie sa jefuiti aceeasi persoana mai mult de o data intr-un interval de 2 ore.
 - 3.10  Pe Cayo Perico se poate jefui la orice oră.
 - 3.11 Încălțămintea și bijuteriile pot fi jefuite.
+- 3.12  Este interzisă jefuirea genții, se permite doar jefuirea itemelor.
 
 <hr style="transform: translateY(10px)"/>
 
@@ -509,11 +538,7 @@ Situatia 2: In cazul unei urmariri in care in masina se afla un membru cu grad s
 Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1 membru cu grad 3 familie mica in ideea in care daca 1 membru cu grad cere intariri sa aveti motiv ca si civilii aflati in masinile celorlalti membri cu grad sa poata intervenii.
 :::
 
-### <span class="header-font">8.0 Regulament Jafuri / Banca Pacific</span>
-
-<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Pacific:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 16, maxim 18 oameni înarmați.
-- Se consideră foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
+### <span class="header-font">8.0 Regulament Jafuri</span>
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Interceptare:</span>
 - Maximul de persoane ce pot participa la acțiunea de Jaf la Interceptare este de minim 18, maxim 20 oameni înarmați.
@@ -521,10 +546,13 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 - În cazul în care trecătorii sunt vizibili înarmați vor fi somați, iar mai apoi doborâți.
 - În cazul în care trecătorii vor să pătrundă într-un perimetru restrâns al valizei, membrii LSPD pot deschide focul, având în vedere cauza probabilă ca acesta să fie un membru al jafului.
 
-<!-- <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Transport Bancar:</span>
-- Maximul de persoane ce pot participa la acțiunea de Jaf la Transport Bancar este de 25.
-- Se consideră foc deschis doar din momentul în care cei care atacă transportul deschid focul.
-- LSPD are dreptul să oprească și să imobilizeze prin orice mijloace pe cei ce nu respectă semnalele de urgență și prioritatea convoiului. -->
+<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Pacific:</span>
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Banca Pacific este de minim 18, maxim 22 oameni înarmați.
+- Se consideră foc deschis la Pacific, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
+
+<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Paleto Bay:</span>
+- Maximul de persoane ce pot participa la acțiunea de Jaf la Paleto Bay este de minim 15, maxim 18 oameni înarmați.
+- Se consideră foc deschis la Paleto Bay, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Flecca:</span>
 - Acțiunea de tip Jaf la Banca Flecca va fi efectuată de un număr de minim 3 persoane, maxim 6 persoane înarmate, având în vedere dimensiunile băncii.
@@ -533,9 +561,17 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 - Nu se consideră foc deschis, la acest jaf se NEGOCIAZĂ !
 - Armele vor trebui îndreptate strict către ostatic/ostatici, dacă există arme îndreptate asupra unităților LSPD aceștia vă pot soma să nu îi mai amenințați sau vor deschide focul, viața lor fiind pusă în pericol de arma ce îi amenință.
 
+<span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Magazin:</span>
+- Acesta este un jaf destinat exclusiv civililor. Participarea membrilor cu grad într-o organizație sau mafie este strict interzisă, indiferent de motiv.
+- Acțiunea de jaf la magazin se poate desfășura cu un număr minim de 1 persoană și un maxim de 4 persoane.
+:::warning Jafurile pot fi date cu sau fără ostatic:
+- Dacă există ostatic, se respectă regulile de negociere valabile la jaful Fleeca.
+- Dacă nu există ostatic, jaful este considerat foc deschis.
+:::
+
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Vangelico:</span>
 - Acțiunea de tip Jaf la Vangelico va fi efectuată de un număr de minim 7 persoane, maxim 12 persoane înarmate.
-- Foc deschis
+- Se consideră foc deschis.
 
 :::info
 - **In cazul in care sunt oameni doborati si acestia apuca sa-si dea respawn, nu au dreptul sa se intoarca la jaf.**
