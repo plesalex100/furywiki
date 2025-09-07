@@ -12,6 +12,17 @@ title: Update-uri Regulament
 
 ### 
 
+## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri)
+
+### Jaf Fleeca
+- În cazul în care un jaf nu poate fi inițiat (din cauza cooldown-ului) și poliția a ajuns deja la fața locului, persoanele implicate sunt obligate să negocieze pentru eliberarea ostaticului !
+
+:::warning
+- Este strict interzis să trageți de timp cu scopul de a începe ulterior jaful de față cu poliția !
+- Folosirea prietenilor sau a complicilor drept ostatici este strict interzisă !
+- Orice încercare de a abuza de această situație va fi sancționată cu BAN pentru FailRP !
+:::
+
 ## [1.53 PC Check](/informatii/regulament.html#_1-53-pc-check)
 - Jucătorii care folosesc sisteme de operare custom (OS-uri personalizate) pot fi banați dacă serviciile importante sunt dezactivate sau imposibil de activat.
 - Jucătorii care vând, cumpără, dețin, folosesc sau distribuie bypass-uri sau cheat-uri pot fi banați.

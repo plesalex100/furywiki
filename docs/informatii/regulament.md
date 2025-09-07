@@ -606,11 +606,19 @@ Situatia 3: Va este strict INTERZIS sa va impartiti in mai multe masini de ex. 1
 - Se consideră foc deschis la Paleto Bay, deoarece este considerat un jaf armat care a pus viața în pericol a cetățenilor, LSPD va intra folosind forța letală.
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf la Flecca:</span>
-- Acțiunea de tip Jaf la Banca Flecca va fi efectuată de un număr de minim 3 persoane, maxim 6 persoane înarmate, având în vedere dimensiunile băncii.
+- Acțiunea de tip Jaf la Banca Flecca va fi efectuată de un număr de minim 3 persoane, maxim 6 persoane înarmate CU ARME DE FOC, având în vedere dimensiunile băncii.
 - Pentru acest jaf este obligatorie luarea de ostatici.
 - În schimbul siguranței ostaticului/ostaticilor se va cere cale liberă, iar un tip de unitate specializată să nu participe la urmărire de la început (HS, Moto, Heli, acestea se pot alătura urmăririi în timp, dar nu au voie să vă urmărească de la început).
 - Nu se consideră foc deschis, la acest jaf se NEGOCIAZĂ !
 - Armele vor trebui îndreptate strict către ostatic/ostatici, dacă există arme îndreptate asupra unităților LSPD aceștia vă pot soma să nu îi mai amenințați sau vor deschide focul, viața lor fiind pusă în pericol de arma ce îi amenință.
+- În cazul în care un jaf nu poate fi inițiat (din cauza cooldown-ului) și poliția a ajuns deja la fața locului, persoanele implicate sunt obligate să negocieze pentru eliberarea ostaticului !
+
+:::warning
+- Este strict interzis să trageți de timp cu scopul de a începe ulterior jaful de față cu poliția !
+- Folosirea prietenilor sau a complicilor drept ostatici este strict interzisă !
+- Orice încercare de a abuza de această situație va fi sancționată cu BAN pentru FailRP !
+:::
+
 
 <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Jaf Magazin:</span>
 - Acesta este un jaf destinat exclusiv civililor. Participarea membrilor cu grad într-o organizație sau mafie este strict interzisă, indiferent de motiv.

@@ -12,6 +12,46 @@ title: Update-uri Server
 
 ### 
 
+## Server Update v3.75
+
+### Update Jafuri 🏦
+- In urma parerilor si sugestiilor voastre, am venit cu o rezolvare pentru a remedia problema relatiilor dintre cooldown-uri
+#### Jafurile dispun acum de 2 cooldown-uri separate: ⌛
+- Jaf Pacific/Paleto/Interceptare - Cooldown O ORA intre ele si alt jaf de acelasi fel.
+- Jaf Fleeca/Vangelico - Cooldown 30 minute intre ele sau jaf de acelasi fel.
+
+:::tip Exemple pentru a clarifica: 
+- Daca X doreste sa dea un jaf Fleeca, iar mafia Y doreste sa dea un jaf pacific, iar organizatia Z doreste sa dea Biju, respectand ordinea, cooldown-urile se vor activa dupa cum urmeaza: Jaful Fleeca a fost dat <-> Cooldown 30 de minute pentru cei care doresc sa dea Fleeca sau Vangelico, Cooldown 15 minute pentru cei care doresc sa dea Pacific.
+- Daca mafia X a inceput o interceptare, atat jafurile mari cat si jafurile mici vor avea acelasi cooldown -> O ORA.
+:::
+
+### Update - Job Pasiv 🎲
+- A fost implementat un nou job, insa de data aceasta, este un job pasiv.
+- Acest job nu necesita sa va schimbati uniforma sau sa ramaneti intr-o zona anume.
+
+#### Introducem Job-ul de Apicultor 🐝
+:::info Cum se practica acest job?
+- Obtine materialele necesare pentru a-ti crafta un stup aferent nivelului tau.
+- Vorbeste cu apicultorul pentru a gasi locatiile pentru amplasare a stupilor
+- Amplaseaza stupul si asteapta albinele sa faca restul!
+:::
+
+‼️ ATENTIE: Albilenor nu le place aglomeratia, asa ca, daca o zona este prea incarcata, mergeti in alta zona, mai libera 😉 
+Totodata, daca nu culegeti stupii la timp, este posibil ca albinele sa paraseasca stupul definitiv.
+
+
+### Update - Membrii LSPD 👮🏻
+- Membrii LSPD nu vor mai putea oferi amenzi/sentinte/confiscarea permisului colegilor ON-DUTY
+- Adaugata o optiune valabila gradelor COMISAR+ pentru RESTITUIRE permis de conducere.
+
+### Bugs & Fixes 🔧
+- Jaf magazin: Rezolvat bug-ul care va putea genera lockpick-uri 🏪
+- Cardurile verzi: Drop chance-ul a fost micsorat 🔻 
+- Din jafurile magazine: De la 100% -> 30%
+- Din bank transporter: Din 3 ture -> 4 ture
+- Eprubeta a fost revizuita, fiind setata greutatea la 200g.
+- Bug-ul cu asigurarile la barbut a fost remediat, acum cand veti revendica o asigurare, o sa va scada suma din suma jucata.
+
 ## Server Update v3.72
 
 ### 🚴 Job nou: Delivery de ziare pe bicicletă
