@@ -575,8 +575,6 @@ smurd este **singura** variantă de scăpare cu viață dintr-o situație extrem
 - 6.02 Se interzice furtul unui autovehicul dintr-o zonă publică. 
 ##
 
-<hr style="transform: translateY(10px)"/>
-
 ### <span class="header-font">7.0 Civil pentru Mafiot</span>
 
 - Va este strict interzis sa interveniti ca civili (adica membri fara grad in mafie)  in roleplay-ul cu POLITIA al membrilor dintr-o mafie (cu grad), exceptie facand situatia in care roleplay-ul incepe cu toata lumea de fata (Membri mafie cu grad + Membri familia mica ) si in cazul jafurilor armate ( Jaf Pacific / Vangelico )
