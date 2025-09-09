@@ -21,8 +21,8 @@ title: Job - Apicultor
 | Skill                | Bonus                    |
 | -------------------  | -------------------      |
 | 1                    | -                                                                                                        |
-| 2                    | Stup de nivel 2 + boost la timpul de expirare + șansă mai mare de a obține tipuri de miere mai scumpe    |
-| 3                    | Stup de nivel 3 + boost la timpul de expirare + șansă mai mare de a obține tipuri de miere mai scumpe    |
+| 2                    | <center> Stup de nivel 2 + boost la timpul de expirare + șansă mai mare de a obține tipuri de miere mai scumpe </center>    |
+| 3                    | <center> Stup de nivel 3 + boost la timpul de expirare + șansă mai mare de a obține tipuri de miere mai scumpe </center>    |
 
 :::tip
 - Cu cât skill-ul este mai mare, cu atât durata de expirare a stupului este mai mare.
