@@ -47,5 +47,5 @@ Cantitatea acestora poate varia în funcție de nivelul stupului pe care doriți
 :::warning !
 - Practicarea completă a jobului necesită timp și răbdare, deoarece albinele au nevoie de timp pentru a produce miere.
 - ATENȚIE: Albinelor nu le place aglomerația, așa că, dacă o zonă este prea încărcată, mergeți în alta zonă, mai liberă 😉
-- <span style="color:orange">Totodată, dacă nu culegeți stupii la timp, este posibil ca albinele să părăsească stupul definitiv.</span>
+- <span style="color:red">Totodată, dacă nu culegeți stupii la timp, este posibil ca albinele să părăsească stupul definitiv.</span>
 :::
