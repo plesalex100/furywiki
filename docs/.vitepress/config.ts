@@ -120,6 +120,7 @@ export default defineConfig({
             collapsed: true,
             items: [ 
               // V3 order low-high
+              { text: "Apicultor", link: '/jobs/honey' },             // 0h
               { text: "Curier", link: '/jobs/curier' },               // 0h
               { text: "Gunoier", link: '/jobs/gunoier' },             // 0h
               { text: "Pescar", link: '/jobs/fisher' },               // 0h
