@@ -33,7 +33,8 @@ export default defineConfig({
           { text: 'Regulament General', link: '/informatii/regulament' },
           { text: 'Regulament Discord', link: '/informatii/regulamentdiscord' },
           { text: 'Regulament Business', link: '/informatii/regulamentbiz' },
-          { text: 'Regulament OOC Mafii/Organizații Ilegale', link: '/informatii/regulamentmafii'}
+          { text: 'Regulament OOC Mafii/Organizații Ilegale', link: '/informatii/regulamentmafii' },
+          { text: 'Regulament War', link: '/informatii/regulamentwar' }
         ]
       },
       // { text: 'Updates Server', link: '/informatii/updatesv' },
