@@ -4,7 +4,7 @@ title: Regulament War
 
 # <span class="header-font"><center>Regulament War</center></span>
 
-<span class="title-font">1. Daca o mafie este in avantaj de puncte, aceasta este in continuare obligata sa vina pe turf.
+<span class="title-font">1. Daca o mafie este in avantaj de puncte, aceasta este in continuare obligata sa vina pe turf.</span>
 
 2. Nu aveti voie sa iesiti din raza turfului intr-un war decat pentru maxim 5 secunde atunci cand doriti sa ajungeti intr-o alta pozitie si nu aveti alta varianta.
 
@@ -44,7 +44,7 @@ title: Regulament War
 
 20. Cat timp esti in timpul warurlui esti obligat sa filmezi.
 
-21. Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).</span>
+<span class="title-font">21. Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).</span>
 
 :::danger Atenție!
 - Aveți responsabiliatea de a urmări constant actualizările regulamentului.
