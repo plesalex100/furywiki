@@ -2,7 +2,7 @@
 title: Regulament War
 ---
 
-<span class="header-font"><center>Regulament War</center></span>
+# <span class="header-font"><center>Regulament War</center></span>
 
 <span class="title-font">1. Daca o mafie este in avantaj de puncte, aceasta este in continuare obligata sa vina pe turf.
 
