@@ -46,6 +46,6 @@ title: Regulament War
 
 21. <span class="title-font">Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).</span>
 
-:::danger !
+:::danger Atenție!
 - Aveți responsabiliatea de a urmări constant actualizările regulamentului.
 :::
