@@ -12,6 +12,37 @@ title: Update-uri Server
 
 ### 
 
+## Server Update v3.77
+
+### 🔫 MAFIA WARS
+- A fost adăugat sistemul de war-uri clasic. Cum funcționează acest sistem?
+
+### 🌍 Turf-uri & organizații
+- Momentan, anumite turf-uri au fost atribuite organizațiilor/mafiilor de pe server.
+- Fiecare mafie/organizație are acum în balanță 💰 1.000.000 credite.
+- Cu aceste credite, la început de war sau după respawn, îți poți cumpăra un kit de war pentru a reveni în luptă.
+
+### ⚔️ Desfășurarea war-ului
+- Durata unui war: 20 minute.
+- Câștigător: mafia care obține cele mai multe ☠️ kill-uri.
+
+### 🛒 Meniu & funcționalități
+- Meniul de buy → TAB.
+- Arme → tot în TAB.
+- La spawn → TAB + F pentru meniul de garaj.
+
+### 📊 Statistici & leaderboard
+- Pe panel, la profilul fiecărui jucător, există secțiunea War Statistics.
+- Jucătorii apar în leaderboard în funcție de rating, calculat pe baza performanței din war-uri.
+
+### 💎 VIP & War Credits
+- Fiecare VIP oferă acum o 🏆 statuetă, ce poate fi convertită în War Credits.
+- Mafioții pot cumpăra statuete de la alți jucători → circulația banilor pe server devine mai dinamică.
+- În viitor, anumite iteme vor putea fi și ele convertite în War Credits.
+
+### 🗺️ Turf-uri
+- Le poți vedea pe hartă cu comanda: /turfs
+
 ## Server Update v3.75
 
 ### Update Jafuri 🏦
