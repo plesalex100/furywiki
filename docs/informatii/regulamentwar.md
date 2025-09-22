@@ -6,7 +6,7 @@ title: Regulament War
 
 ##
 
-<span class="title-font">1. Daca o mafie este in avantaj de puncte, aceasta este in continuare obligata sa vina pe turf.</span>
+<span class="title-font">1. Daca o mafie este in avantaj de puncte, aceasta este in continuare obligata sa vina pe turf.</span><br>
 <span class="title-font">2. Nu aveti voie sa iesiti din raza turfului intr-un war decat pentru maxim 5 secunde atunci cand doriti sa ajungeti intr-o alta pozitie si nu aveti alta varianta.</span>
 <span class="title-font">3. In cazul in care se trage asupra voastra, nu aveti voie sa parasiti sub nicio imprejurare turful.</span>
 <span class="title-font">4. Suferintele la war vor fi sanctionate cu ban/suspend la war.</span>
