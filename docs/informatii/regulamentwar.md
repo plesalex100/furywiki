@@ -2,7 +2,7 @@
 title: Regulament War
 ---
 
-# <span class="header-font"><center>Regulament War</center>
+# <span class="header-font"><center>Regulament War</center></span>
 
 ##
 
