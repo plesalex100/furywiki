@@ -78,6 +78,7 @@ export default defineConfig({
           { text: "Regulament Discord", link: '/informatii/regulamentdiscord' },
           { text: "Regulament Business", link: '/informatii/regulamentbiz' },
           { text: "Regulament OOC Mafii/Organizații Ilegale", link: '/informatii/regulamentmafii'},
+          { text: "Regulament War", link: '/informatii/regulamentwar' },
           { text: "Ghid înființare mafie", link: '/informatii/ghidmafie' },
           { text: 'Zone Publice/Rău Famate/Retrase', link: '/informatii/map' },
           { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
