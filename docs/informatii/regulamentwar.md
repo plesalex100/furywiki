@@ -8,7 +8,7 @@ title: Regulament War
 
 1. Daca o mafie este in avantaj de puncte, aceasta este in continuare obligata sa vina pe turf.<br>
 2. Nu aveti voie sa iesiti din raza turfului intr-un war decat pentru maxim 5 secunde atunci cand doriti sa ajungeti intr-o alta pozitie si nu aveti alta varianta.<br>
-3. In cazul in care se trage asupra voastra, nu aveti voie sa parasiti sub nicio imprejurare turful.<br>
+3. In cazul in care se trage asupra voastra, nu aveti voie sa parasiti sub nicio forma turful.<br>
 4. Suferintele la war vor fi sanctionate cu ban/suspend la war.<br>
 5. Pe turfurile pe care se intalnesc zone avantajoase (cladiri, subsolul unei cladiri) au voie sa stea un numar limitat de persoane. In subsolul unei cladiri au voie sa stea maxim 4 persoane, in timp ce pe o cladire pot sta maxim 6 persoane.<br>
 6. Este interzisa intrarea pe turf folosind elicopterul.<br>
