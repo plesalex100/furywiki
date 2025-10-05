@@ -129,6 +129,14 @@ title: Comenzi Utile
 
 - Afiseaza meniul cu optiunile de FPS Boost.
 
+### /disableannounces
+
+- Opreste aparitia anunturilor de la CNN si FLX
+
+### /streamermode
+
+- Opreste toate sunetele furnizate de boxe/masini
+
 ### to add more
 
 ## Butoane cu funcții prestabilite
