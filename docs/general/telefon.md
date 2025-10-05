@@ -15,6 +15,10 @@ title: Telefon
 
 - Pentru a deschide telefonul, apăsați tasta ["L"](/informatii/comenzi#tasta-l).
 
+## <span class="header-font">Ce fac daca am dat oprit accesul la microfon din telefon?</span>
+
+- Prima dată, vă asigurați că FiveM-ul este oprit. Apoi mergeți în AppData\Roaming\CitizenFX, căutați fișierul media_access.json și îl ștergeți. Data viitoare când vă conectați pe server, o să primiți acel mesaj în care puteți permite folosirea microfonului de către telefon!
+
 ## <span class="header-font">Ce reprezintă fiecare aplicație?</span>
 
 :::info Interfață
