@@ -22,10 +22,6 @@ Pentru a juca pe această platformă trebuie să aveți GTA 5 cumpărat.
  Acest mod de joc are în spate niște *[REGULI](/informatii/regulament.html)* care trebuiesc citite și reținute deoarece respectarea acestora contribuie la buna desfășurare a activităților și interacțiunilor playerilor pe server. 
 :::
 
-## <span class="header-font">Q: Ce tip de roleplay are serverul?</span>
-
-### A: Serverul este de tip <span style="color:red">Advanced Roleplay</span>, astfel toate acțiunile trebuiesc făcute la un nivel cât mai înalt de realism și cât mai avansate.
-
 ## <span class="header-font">Q: Trebuie să fac un test introductiv ca să joc pe server?</span>
 
 ### A: Nu, serverul poate fi jucat de oricine, însă abaterea de la [regulamentul general](/informatii/regulament.html) va fi sancționată ca atare.
