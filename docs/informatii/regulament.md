@@ -57,11 +57,12 @@ title: Regulament General
 
 ### <span class="header-font">1.07 Power Gaming</span>
 - Reprezintă momentul în care **simulați folosirea unor puteri supranaturale**, cat si neoferirea de sanse egale in RP.
-- Se consideră powergaming când ești implicat într-un accident și nu rolezi pe /me conform situației și intensității accidentului. Indiferent că sunteți în urmărire sau doar circulati, faptul că sunteți implicat într-un accident chiar și singuri și nu rolați pe /me se sancționează cu PG.
+- Se consideră PowerGaming când ești implicat într-un accident și nu rolezi pe /me conform situației și intensității accidentului. Indiferent că sunteți în urmărire sau doar circulati, faptul că sunteți implicat într-un accident chiar și singuri și nu rolați pe /me se sancționează cu PG.
 - Nu se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti tranzactii intr-o zona rau famata/retrasa cu obiecte/masini si inainte sa faceti tranzactia il jefuiti/rapiti.
 - Se considera PG atunci cand ademenesti ( Bait ) un jucator sa faceti o tranzactie de tipul : " Vand inel cu diamant/furi/aur" si il ademeniti intr-o zona rau famata/retrasa pentru a-l jefui/rapi. Incercam ca tranzactiile de tipul asta sa nu fie permise.
 - Se considera PG atunci cand de exemplu cineva vrea sa cumpere o masina , acesta va cere sa faca un test-drive cu ea si il fortati sa vina cu voi intr-o zona rau famata/retrasa. De ce? Pentru ca din script nu puteti sa sariti din masina decat la viteze foarte mici, astfel nu dati sansa la RP si celuilalt.
 - Nu se considera PG atunci cand intr-un RP blocati caile de acces. De ce? In functie de RP-ul pe care vreti sa-l faceti PD/Mafie fiecare isi creaza un avantaj blocand caile de acces. ( Mafiile blocheaza o locatie sa prinda jefuitori sau alta mafie, PD-ul blocheaza o zona sa nu iasa nimeni din ea la razie etc.)
+- Nu se consideră PG momentul în care percheziționați/jefuiți o persoană în timp ce aveți echipată o armă de calibru mare!
 - Nu aveti voie ca intr-un RP, in cazul in care sunt sa zicem 4 persoane, ca toate sa fie legate la maini si cu punga pe cap. Aveti obligatia ca macar o persoana sa fie dezlagata la maini si una sa fie fara punga pe cap si totodata persoanele legate sau cele cu pungi pe cap trebuie sa aibe sansa sa poate comunica intre ei.  Aici permitem ca persoana care este legata sa poata rola /me rupe punga cu gura celui care este lasat doar cu punga pe cap.
 
 :::warning ATENȚIE!

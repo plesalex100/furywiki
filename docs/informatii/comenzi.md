@@ -11,21 +11,17 @@ title: Comenzi Utile
 
 - Deschide un meniu cu locațiile din joc.
 
-### /staff
-
-- Afișează în chat toți membrii staff online.
-
 ### /ticket
 
 - Deschide un meniu cu opțiuni pentru a trimite o întrebare/ticket/bug către membri staff.
 
-<!-- ### /th
+### /th
 
 - Această comandă este folosită în anumite situații roleplay și constă în luarea unui ostatic cu arma la cap.
 :::warning ATENȚIE!
 - Comanda trebuie folosită în situații roleplay și nu pentru a face trolling.
 - Ai nevoie de un pistol pentru a putea folosi această comandă.
-::: -->
+:::
 
 ### /carry
 
@@ -157,7 +153,7 @@ Citește [regulamentul](regulament) pentru a afla în ce condiții ai voie să f
 - Ridică mâinile în sus. (handsup)
 
 ### Tasta M
-- Afișează HUD-ul cu banii din bancă, numărul de fury coins de pe cont și hunger/water bar-ul.
+- Afișează HUD-ul cu banii din bancă, numărul de fury coins de pe cont și bara de foame/apă.
 :::warning Atenție!
 La apăsarea acestei taste caracterul tău va face o animație specifică!
 :::
