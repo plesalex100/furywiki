@@ -35,13 +35,13 @@ title: Regulament General
 - Reprezintă momentul în care un jucător **nu simulează frica** într-o situație Roleplay. Dacă un jefuitor are asupra lui o bâtă sau o rozetă, iar victima deține o armă de foc, nu se consideră încălcare a regulii NoFear în momentul în care victima scoate arma de foc.
 ::: info Exemple
 - <span style="color: red;">Ex: In situatiile in care mergeti la actiune intr-un mod mixt/combinat (oameni ce apartin de organizatii/mafii + civili, sau civili + civili), iar un civil ce apartine grupului vostru (sageata, prietenii ic, etc) este luat ostatic (/th /o), daca trageti asupra persoanei ce il are ostatic se va considera no-fear. Luam aceasta decizie deoarece se abuza de acest aspect fara sa existe vreo pierdere</span>
-- Ex: Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
-- Ex: Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
-- Ex: Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.
-- Ex: Se considera NF atunci cand observi ca se indreapta catre tine o masina si tu iei decizia sa o opresti iesind in fata ei
-- Ex :Se considera NF atunci cand dupa un schimb de focuri sau atunci cand cineva a tras dupa tine , dar tu crezi ca s-a creat un Fail acolo, te intorci doar ca sa iei ID-uri sau sa ii " certi" ca de ce trag dupa tine etc.
-- Ex: Acel moment cand un membru din familia/organizatia ta este luat ca ostatic si tu sau oricare alt membru nu respecta faptul ca aveti un om luat ostatic.
-- EX: În timpul unei percheziții efectuate cu scopul de a jefui, este considerat NoFear dacă victima se întoarce și îl atacă pe jefuitor în timp ce este percheziționată/jefuită.
+- Ești sub amenințarea unei arme iar tu ai un comportament agresiv, adresându-le înjurii.
+- Ești sub amenințarea unei arme iar tu nu te conformezi indicațiilor primite.
+- Se considera NF in momentul in care chiar daca esti intr-o zona publica , tu abuzezi de aceasta regula si incepi sa vorbesti neadecvat cu alte persoane stiind ca regulamentul cumva te salveaza ca esti in acea zona.
+- Se considera NF atunci cand observi ca se indreapta catre tine o masina si tu iei decizia sa o opresti iesind in fata ei
+- Se considera NF atunci cand dupa un schimb de focuri sau atunci cand cineva a tras dupa tine , dar tu crezi ca s-a creat un Fail acolo, te intorci doar ca sa iei ID-uri sau sa ii " certi" ca de ce trag dupa tine etc.
+- Acel moment cand un membru din familia/organizatia ta este luat ca ostatic si tu sau oricare alt membru nu respecta faptul ca aveti un om luat ostatic.
+- În timpul unei percheziții efectuate cu scopul de a jefui, este considerat NoFear dacă victima se întoarce și îl atacă pe jefuitor în timp ce este percheziționată/jefuită.
 :::
 
 ### <span class="header-font">1.06 COP-FEAR (CF)</span>
