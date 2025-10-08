@@ -521,7 +521,7 @@ a locurilor foarte retrase)
 - 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ore. Aveți dreptul să țineți persoana în RP doar cu un motiv bine întemeiat și nu pentru amuzament. <span style="color:red">
 (Regula Low Effort)</span>
 - 2.10  Puteți sechestra o persoană doar cu acordul unui <span style="color:red">Admin 4+</span>, un motiv foarte bine întemeiat și cu dovezi pentru a motiva sechestrul!
-- 2.11  In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 300.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
+- 2.11  In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 100.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
 - 2.12  Rapirile sunt permise doar cu un motiv bine intemeiat. Nerespectarea atrage sanctiuni de FailRP. <span style="color:red">(Warn/Ban 3d-14d)</span>
 
 :::danger
