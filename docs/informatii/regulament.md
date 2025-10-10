@@ -511,18 +511,19 @@ a locurilor foarte retrase)
 - 2.02   Nu aveți voie să răpiți persoanele ce practică un job legal vizibil.
 - 2.03   Membrii **mafiei** au dreptul de a răpi pe cineva dintr-o zonă publică, **doar** în cazul în care acțiunea a început într-o zonă rău famată/retrasă, iar respectivul a reușit să fugă. În acest caz răpirea trebuie efectuată rapid, jucătorul trebuie legat, luat pe sus și dus într-o zonă rău famată/retrasă.In aceasta situatie , trasul asupra persoanei in zona publica sau jefuitul acesteia,este strict interzis ! **Dacă respectiva persoană a fugit la secția de poliție nu se mai poate interveni asupra lui**.
 - 2.04   Este interzisă luarea de ostatici pentru a da jaf la bancă (Exceptand Fleeca si Jaf Magazin).
-- 2.05   Este interzis să răpești o persoana având ca unic scop cererea de răscumpărare din partea Poliției.
-- 2.06   Atunci când negociați eliberarea unui ostatic, ambele părți au obligația de a respecta învoiala inițială.
-- 2.07   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
-- 2.08  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
+- 2.05   Este permis să luați ostatic din interiorul unui magazin sau din interiorul unei bănci Fleeca cu scopul de a porni jaful. Dacă în incinta băncii/magazinului există mai mulți oameni, aveți posibilitatea de a reține un singur ostatic, iar restul oamenilor sunteți obligați să îi eliberați.
+- 2.06   Este interzis să răpești o persoana având ca unic scop cererea de răscumpărare din partea Poliției.
+- 2.07   Atunci când negociați eliberarea unui ostatic, ambele părți au obligația de a respecta învoiala inițială.
+- 2.08   Nu este permis să cereți poliției ca toate unitățile să lase armele jos, să se pună în genunchi sau să aducă un anumit suspect ce este reținut în schimbul ostaticului.
+- 2.09  In cazul in care aveti un ostatic si aveti oameni doborati, va este strict INTERZIS sa cereti politiei sa va trateze oamenii si sa-i descatuseze iar mai apoi sa va ofere cale libera in schimbul acelui ostatic. Aveti dreptul sa cereti cale libera DOAR pentru oamenii ramasi in viata.
 :::warning ATENTIE!
 - NU AVEȚI VOIE SĂ CEREȚI OAMENI CARE DEJA SUNT CAPTURAȚI ȘI LA SECȚIE.
 :::
-- 2.09  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ore. Aveți dreptul să țineți persoana în RP doar cu un motiv bine întemeiat și nu pentru amuzament. <span style="color:red">
+- 2.10  Timpul maxim pentru care un ostatic poate fi ținut în RP este de 2 ore. Aveți dreptul să țineți persoana în RP doar cu un motiv bine întemeiat și nu pentru amuzament. <span style="color:red">
 (Regula Low Effort)</span>
-- 2.10  Puteți sechestra o persoană doar cu acordul unui <span style="color:red">Admin 4+</span>, un motiv foarte bine întemeiat și cu dovezi pentru a motiva sechestrul!
-- 2.11  In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 100.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
-- 2.12  Rapirile sunt permise doar cu un motiv bine intemeiat. Nerespectarea atrage sanctiuni de FailRP. <span style="color:red">(Warn/Ban 3d-14d)</span>
+- 2.11  Puteți sechestra o persoană doar cu acordul unui <span style="color:red">Admin 4+</span>, un motiv foarte bine întemeiat și cu dovezi pentru a motiva sechestrul!
+- 2.12  In cazul unei sechestrari/rapiri unde pe o persoana se va cere o rascumparare, aceasta va fi de maxim 100.000$ in bani sau bunuri. In cazul in care nu-si permit suma, acestia pot munci pentru a obtine materiale/bani pentru a plati suma. Toate sechestrarile vor fi aprobate de Admin 4+.
+- 2.13  Rapirile sunt permise doar cu un motiv bine intemeiat. Nerespectarea atrage sanctiuni de FailRP. <span style="color:red">(Warn/Ban 3d-14d)</span>
 
 :::danger
 - NU UITATI CA SA PUTETI RAPI/SECHESTRA PE CINEVA TREBUIE SA AVETI UN MOTIV BINE INTEMEIAT, SI INFORMATII CLARE DESPRE ACEA PERSOANA. 
