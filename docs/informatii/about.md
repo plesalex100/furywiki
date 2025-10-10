@@ -30,10 +30,10 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 
 #### <span style="color:red">Fondator & Co-Fondator</span>
 - Fondatorul și Co-Fondatorul sunt cei care au pus bazele comunității și se ocupă de dezvoltarea acesteia.
-:::info <span style="color:#FF7F7F">Aceștia pot fi contactați pentru:</span>
-- <span style="color:#FF7F7F">probleme grave la nivel de comunitate</span>
-- <span style="color:#FF7F7F">propuneri de colaborări</span>
-- <span style="color:#FF7F7F">pentru probleme la plățile de pe [Store](https://store.furyrp.ro)</span>
+:::info <span style="color:red">Aceștia pot fi contactați pentru:</span>
+- <span style="color:red">probleme grave la nivel de comunitate</span>
+- <span style="color:red">propuneri de colaborări</span>
+- <span style="color:red">pentru probleme la plățile de pe [Store](https://store.furyrp.ro)</span>
 :::
 
 <hr style="transform: translateY(10px)"/>
@@ -48,26 +48,43 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 
 <hr style="transform: translateY(10px)"/>
 
-#### <span style="color:green">Admin 1-5</span>
-- Adminii formează echipa de support care stau la dispoziția fiecărui jucător în orice moment al zilei, atât pe joc, cât și pe [serverul de discord](https://discord.gg/furyro).
-:::info <span style="color:#90EE90">Aceștia poat fi contactați pentru:</span>
+#### <span style="color:red">Admin 5</span> - responsabili direcți ai echipei de admini, ocupându-se de coordonarea și supravegherea activității acestora. Pe lângă rolul administrativ, ei fac parte și din echipa tehnică, având acces la sarcinile ce țin de partea tehnică a serverului. De asemenea, ei sunt cei care se ocupă de recrutarea și selecția noilor membri ai echipei administrative.
+:::info <span style="color:red">Aceștia pot fi contactați pentru:</span>
+- <span style="color:red">întrebări legate de sisteme / locații / joburi de pe server</span>
+- <span style="color:red">probleme grave la nivel de comunitate</span>
+- <span style="color:red">reclamații la adresa altor jucători</span>
+- <span style="color:red">reclamatii la adresa adminilor ( inclusiv Admin 4 )</span>
+- <span style="color:red">probleme grave din factiuni</span>
+:::
+
+#### <span style="color:orange">Admin 4</span> - responsabili cu oferirea de suport adminilor mai mici și cu supervizarea anumitor facțiuni din cadrul serverului.
+:::info <span style="color:orange">Aceștia pot fi contactați pentru:</span>
+- <span style="color:orange">întrebări legate de sisteme / locații / joburi de pe server</span>
+- <span style="color:orange">probleme minore la nivel de comunitate</span>
+- <span style="color:orange">pierderi de arme din cauza unor bug-uri</span>
+- <span style="color:orange">reclamații la adresa altor jucători</span>
+- <span style="color:orange">intrebari legate de situatia ticketelor pe discord</span>
+- <span style="color:orange">situatii din cadrul factiunilor pe care le administreaza</span>
+:::
+
+#### <span style="color:yellow">Admin 3</span> - responsabili de ticketele pe discord care sunt facute in urma reclamatiilor jucatorilor.
+:::info <span style="color:yellow">Aceștia pot fi contactați pentru:</span>
+- <span style="color:yellow">întrebări legate de sisteme / locații / joburi de pe server</span>
+- <span style="color:yellow">probleme minore la nivel de comunitate</span>
+- <span style="color:yellow">pierderi de arme din cauza unor bug-uri</span>
+- <span style="color:yellow">reclamații la adresa altor jucători</span>
+- <span style="color:yellow">intrebari legate de situatia ticketelor pe discord</span>
+:::
+
+#### <span style="color:green">Admin 1-2</span> - responsabili de ticketele pe joc.
+- <span style="color:#90EE90"> Adminii 1 </span> sunt considerati admini in teste.
+- <span style="color:lime"> Adminii 2 </span> sunt considerati admini care au trecut de perioada de proba.
+:::info <span style="color:#90EE90">Aceștia pot fi contactați pentru:</span>
 - <span style="color:#90EE90">întrebări legate de sisteme / locații / joburi de pe server</span>
 - <span style="color:#90EE90">probleme minore la nivel de comunitate</span>
 - <span style="color:#90EE90">pierderi de arme din cauza unor bug-uri</span>
 - <span style="color:#90EE90">reclamații la adresa altor jucători</span>
 :::
-
-<div class="fury-mastery-link">
-  <a href="https://panel.furyrp.ro/#/" target="_blank">
-    <div class="banner-wrapper">
-      <img class="banner" alt="Fury banner" src="https://i.imgur.com/zkLJr80.png" />
-    </div>
-    <p class="description">Vă recomandăm să vă creați un cont pe <span>panel.furyrp.ro</span></p>
-    <div class="logo-wrapper">
-        <img alt="Fury Logo" src="https://i.imgur.com/jfZJFEV.png" />
-    </div>
-  </a>
-</div>
 
 <hr style="transform: translateY(10px)"/>
 
