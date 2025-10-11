@@ -23,7 +23,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'About Us', link: '/informatii/about' },
+  { text: 'Panel', link: 'https://panel.furyrp.ro' },
+  { text: 'About Us', link: '/informatii/about' },
       { text: 'Autentificare', link: '/informatii/auth' },
       { text: 'Setări Grafică', link: '/informatii/settings' },
       { text: 'FAQ', link: '/informatii/intrebari' },
