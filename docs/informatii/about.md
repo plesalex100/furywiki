@@ -30,6 +30,13 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 
 #### <span style="color:red">Fondator & Co-Fondator</span>
 - Fondatorul și Co-Fondatorul sunt cei care au pus bazele comunității și se ocupă de dezvoltarea acesteia.
+<div class="admin-team-list">
+
+- <span style="color:orange; font-weight:bold;">plesalex100</span> <span style="font-style:italic;">— Fondator</span>
+- <span style="color:orange; font-weight:bold;">cOm</span> <span style="font-style:italic;">— Co-Fondator</span>
+
+</div>
+
 :::info <span style="color:red">Aceștia pot fi contactați pentru:</span>
 - <span style="color:red">probleme grave la nivel de comunitate</span>
 - <span style="color:red">propuneri de colaborări</span>
