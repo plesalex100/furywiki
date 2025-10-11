@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: Fury Romania Advanced Roleplay
+  name: Fury Romania Roleplay
   text: Official Wiki
   tagline: Află informațiile updatate la zi despre toate sistemele prezente pe serverul nostru.
   image:
@@ -12,9 +12,6 @@ hero:
     - theme: brand
       text: Află mai multe ->
       link: /informatii/about
-    - theme: alt
-      text: 🎧 Alătură-te pe Discord
-      link: https://discord.gg/furyro
 ---
 <!-- https://vitepress.dev/reference/default-theme-home-page -->
 
