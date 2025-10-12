@@ -188,7 +188,7 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 - Este interzisa perchezitia unui jucator, iar in cazul in care persoana respectiva nu detine asupra lui ceea ce v-ar fi facut sa il jefuiti, sa il omorati. Adica : Daca ideea RP-ului este de a jefui persoana respectiva, atunci imi este interzis sa il perchezitionez si dupa aceea sa il omor. De ce?  E clar ca nu v-a convenit ceea ce avea pe el si ati ales sa il omorati. Dar daca ideea Rp-ului este cu totul alta ( Beef IC, Injuraturi, Informatii  etc. ) atunci nu este sanctionabil faptul ca l-ati perchezitionat si dupa ati ales sa il omorati.
 - Excepție de la această regulă face situația în care cel care a fost deja jefuit începe să aibe un comportament nepotrivit și nu respectă indicațiile jefuitorului.
 - Exceptie de la aceasta regula face situatia in care jefuitorul este prins de persoana pe care a jefuito si acesta ia de pe el doar bunurile care i-au fost furate
-- <span style="color:red">**Se interzice omorarea si jefuirea unei persoane.</span> ( Cei care incearca sa jefuiasca persoane picate de alti oameni sau se afla in coma, sunt sanctionati cu Kill&Rob )
+- <span style="color:red">**Se interzice omorarea si jefuirea unei persoane.</span> ( Cei care incearca sa jefuiasca persoane picate de alti oameni sau care sunt gasiti in coma, sunt sanctionati cu Kill&Rob )
 
 ### <span class="header-font">1.20 Mixing (MX)</span>
 - Reprezintă transmiterea informațiilor In Character (IC) în Out of Character (OOC). 
