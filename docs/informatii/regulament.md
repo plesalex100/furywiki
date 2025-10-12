@@ -159,7 +159,7 @@ Se va primi CK atunci:
 ### <span class="header-font">1.16 Roleplay Scarbos & Injosirea jucatorilor</span>
 - Reprezinta Roleplay-urile ce descriu actiuni de tip Erotic Roleplay, dar si altele.
 - Este strict interzis sa porniti Roleplay-uri care descriu: canibalism, necrofilie, pedofilie, profanare de morminte, injosirea persoanelor lesinate/in coma prin diferite actiuni.
-- În cazul în care cineva începe un astfel de roleplay fără acordul dvs., aveți tot dreptul nu dați curs scenariului și să chemați un admin întrerupând astfel roleplay-ul. 
+- În cazul în care cineva începe un astfel de roleplay fără acordul dvs. , aveți tot dreptul să nu dați curs scenariului și să chemați un admin, întrerupând astfel roleplay-ul. În cazul în care nu sunt admini disponibili, deconectarea din RP este permisă.
 
 ### <span class="header-font">1.17 Trolling (Troll)</span>
 - Reprezintă momentul în care un jucător nu are intenția de a face roleplay serios pe server, deranjând fără motiv alte persoane pentru a crea conflicte, provocarea altor jucători fără un motiv, scopul unic fiind propriul amuzament, caterinca de proastă calitate.
