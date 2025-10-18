@@ -554,7 +554,7 @@ a locurilor foarte retrase)
 - 4.03 Se permite deschiderea focului asupra poliției indiferent de zonă, doar în cazul în care poliția a deschis focul asupra voastră. ( Regula se aplica doar in zona in care a inceput focul )
 - 4.04 **Se interzice folosirea Musketei de la jobul de Vânător pentru a comite o ilegalitate**.
 - 4.05 Se interzice folosirea pipebomb-ului in interioare(interiorul bancii, interiorul casei arse, interiorul altor sedii, cladiri, etc), pe trotuare si langa cladiri.
-- 4.06 Se interzice folosirea molotvului in interioare si pe trotuare.
+- 4.06 Se interzice folosirea molotovului in interioare si pe trotuare.
 - 4.07 Folosirea explozivilor in mod abuziv poate atrage sanctiune, acestia au fost introdusi pentru a va putea crea un avantaj in situatiile in care n-aveti alta sansa, incercati sa limitati folosirea lor daca situatia nu o cere sau nu ar fi necesar, veti fi SANCTIONATI.
 - 4.08 Nu veti folosi pipebomb sau molotov in zone publice, decat in cazul jafurilor, iar asta se va intampla strict in perimetrul bancii nu la distanta mare de aceasta si in cazul Razboaielor intre Factiuni.
 - 4.09 La jafuri se pot folosi maxim 2 pipebomb-uri.
