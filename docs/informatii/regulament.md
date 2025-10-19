@@ -250,7 +250,7 @@ Scam IC
 - În acest caz, aveți obligația de a lua legătura cu un Admin 5+ pentru a primi aprobarea roleplay-ului.
 :::
 
-### <span class="header-font">1.28 Refuz Roleplay</span><div>
+### <span class="header-font">1.28 Refuz Roleplay</span>
 - **Este interzis să refuzați interacțiunea roleplay** cu ceilalți jucători. Se consideră **Refuz Roleplay** în momentul în care
 părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bară (AFK), refuzați orice fel de interacțiune.
 - In cazul care sunteti cu masina personala si sunteti intr-o urmarire cu PD, nu aveti voie sa rolati ca este portbagajul stricat sau alte scuze pentru nu-l deschide.
