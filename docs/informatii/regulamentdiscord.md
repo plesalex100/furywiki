@@ -31,6 +31,7 @@ title: Regulament Discord
 - Sancțiunile posibile includ: avertisment, mute temporar sau permanent, kick, ban sau blacklist, în funcție de gravitatea faptei.
 - Lipsa de colaborare cu staff-ul, pasiv-agresivitatea sau sfidarea directă pot reprezenta circumstanțe agravante.
 - In cazul reclamatiilor pe discord aveti nevoie de dovada, si reclamatia se poate face la maxim 48h. In caz contrar, orice ticket deschis dupa mai mult de 48h de la intamplarea fail-ului o sa fie inchis.
+- Banurile acordate pe Discord, în urma toxicității de care a dat dovadă un player, nu se pot contesta!
 
 ### <span class="header-font">CLAUZĂ FINALĂ</span>
 - Necunoașterea regulamentului nu constituie scuză pentru încălcarea acestuia.
