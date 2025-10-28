@@ -237,6 +237,7 @@ Scam OOC
 - Schimburile si schimburile cu diferenta trebuiesc onorate:
 ::: warning Exemple
 - Vand masina x pe 5.000.000$ + masina y, celalat jucator este obligat sa imi dea si masina y pe 1$. Se aplica si la case/proprietati.
+- Exceptie: Momentul in care schimbul include bunuri ilegale (ex: droguri/arme/bani murdari) se rezolva IC. ( Masina + droguri > Masina)
 :::
 Scam IC 
 - Nu se considera scam in cazul in care incercati sa vindeti bunuri ce pot fi vandute prin sistemele serverului (K-> vine vehicul/vinde casa) si fentati taxele aferente acestui sistem prin a vinde bunul pe o suma infima ca dupa sa asteptati un transfer sau bani cash din partea celuilalt player.
