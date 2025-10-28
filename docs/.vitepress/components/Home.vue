@@ -15,7 +15,7 @@ import SiteMap from './SiteMap.vue'
 
   <section id="highlights" class="vt-box-container">
     <div class="vt-box">
-      <h2 style="font-family:'Conthrax';color: orange;">Roleplay Advanced</h2>
+      <h2 style="font-family:'Conthrax';color: orange;">Nivel Roleplay</h2>
       <p>
         Dorința noastră este ca nivelul de roleplay să fie cât mai complex și ridicat cu putință, 
         astfel încât să oferim o experiență cât mai plăcută și realistă jucătorilor noștri.
