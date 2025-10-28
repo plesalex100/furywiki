@@ -227,7 +227,7 @@ Te întâlnești cu o persoană pe care nu ai mai văzut-o niciodată și încep
 ### <span class="header-font">1.25 Afacerile ilegale</span>
 - Este **interzis să achiziționați cu bani reali** (PayPal/Paysafe/Transfer Bancar, etc.) **bunuri IN-GAME** de la **alți jucători**.
 
-### <span class="header-font">1.26 SCAM IC/OOC</span><div>
+### <span class="header-font">1.26 SCAM IC/OOC</span>
 
 - Nu se consideră scam în cazul în care împrumutați de bună voie un jucător cu orice bun material.
 
