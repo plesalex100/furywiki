@@ -145,7 +145,6 @@ Edit: Cu aparitia stunt-urilor permise, politia o sa primeasca liber la niste pr
 Se va primi CK atunci: 
 - Când un jucător se sinucide (/me moare, accidente intentionate).
 - La anumite situatii de no-fear
-- Cand esti ostatic si membrii din aceeasi organizatie nu respecta faptul ca esti luat ostatic
 - Când un jucător își trădează organizația, gruparea din care face parte.
 - Când un jucător descoperă și/sau abuzează de un BUG ce îi oferă beneficii materiale.
 
