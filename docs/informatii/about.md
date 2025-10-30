@@ -8,7 +8,7 @@ title: About us
 
 # <center><span class="title-font">:fire:About us:fire:</span></center>
 
-## <span class="header-font">Cine suntem noi?</span>
+## <span class="header-font">Cine suntem noi?</span><div>
 
 Suntem o comunitate de FiveM fondată în data de 28.04.2022 de către **Alex**, cunoscut sub nickname-ul de <span style="color:orange">**plesalex100**</span>, scripterul serverului, care a pus bazele comunității alături de alți membrii fondatori pentru a dezvolta un proiect unic din mai multe puncte de vedere.
 
