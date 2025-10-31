@@ -414,7 +414,7 @@ locațiilor unde se desfășoară joburi legale și a garajelor.
 
 - **Totodata Low effort va fi si considerat un motiv care nu este bine intemeiat pentru a face anumite actiuni** !
 
-- **Nu mai este considerat low effort umilirea/RP scarbos ( RP de tortura ) intre factiunile de tip mafie/organizatie si chiar familiile IC/jefuitori** !
+- **Nu mai este considerat low effort umilirea/RP scarbos ( RP de tortura ) intre factiunile de tip mafie/organizatie si chiar familiile IC/jefuitori (inclusiv persoanele care manifestă un comportament nesimțit, abuziv sau folosesc înjurături grave)** !
 :::danger 
 ***ATENTIE, IN RP-URI CU FETELE INCERCATI CHIAR DACA AVETI UN MOTIV BUN, SA VA ABTINETI DE LA COMENTARII MISOGINE SAU SA LE INJURATI DOAR PENTRU CA SUNT FEMEI SE INCADREAZA LA REGULA DE TOXICITATE**
 :::
