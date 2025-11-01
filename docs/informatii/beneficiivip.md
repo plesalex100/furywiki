@@ -64,12 +64,12 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
 ">
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Ocelot Jugular</h3>
-    <img src="https://i.imgur.com/74A5kEb.png" alt="Ocelot Jugular"
+    <img src="/images/beneficiiVIP/vipsilver.png" alt="Ocelot Jugular"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Barca Mica</h3>
-    <img src="https://i.imgur.com/ozxwfa5.png" alt="Barca Mica"
+    <img src="/images/beneficiiVIP/BarcaSILVER.png" alt="Barca Mica"
          style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 </div>
@@ -135,12 +135,12 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
 ">
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;"> Bravado Gresley TX</h3>
-    <img src="https://i.imgur.com/2ur6ivs.png" alt="Bravado Gresley TX"
+    <img src="/images/beneficiiVIP/vipgold.png" alt="Bravado Gresley TX"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
    <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Barca Longfin</h3>
-    <img src="https://i.imgur.com/3QAxJNF.png" alt="Barca Longfin"
+    <img src="/images/beneficiiVIP/BarcaGOLD.png" alt="Barca Longfin"
          style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 </div>
@@ -207,18 +207,18 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
 ">
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Nagasaki BF-400</h3>
-    <img src="https://i.imgur.com/8ROwiVK.png" alt="Nagasaki BF-400"
+    <img src="/images/beneficiiVIP/vipdiamond2.png" alt="Nagasaki BF-400"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Pegassi Vacca</h3>
-    <img src="https://i.imgur.com/4ZICDvY.png" alt="Pegassi Vacca"
+    <img src="/images/beneficiiVIP/vipdiamond.png" alt="Pegassi Vacca"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
    <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Maverick</h3>
-    <img src="https://i.imgur.com/jKGfeQK.png" alt="Maverick"
+    <img src="/images/beneficiiVIP/HeliDIAMOND.png" alt="Maverick"
          style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 </div>
@@ -286,25 +286,25 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
 ">
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Nagasaki Carbon RS</h3>
-    <img src="https://i.imgur.com/5dz33Ct.png" alt="Nagasaki Carbon RS"
+    <img src="/images/beneficiiVIP/vipfury3.png" alt="Nagasaki Carbon RS"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Benefactor G63</h3>
-    <img src="https://i.imgur.com/YJYhg7t.png" alt="Benefactor G63"
+    <img src="/images/beneficiiVIP/vipfury.png" alt="Benefactor G63"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 
    <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Pfister 911 Venum</h3>
-    <img src="https://i.imgur.com/TyZoInP.png" alt="Pfister 911 Venum"
+    <img src="/images/beneficiiVIP/vipfury2.png" alt="Pfister 911 Venum"
          style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Volatus</h3>
-    <img src="https://i.imgur.com/4IACafD.png" alt="Volatus"
+    <img src="/images/beneficiiVIP/HeliFURY.png" alt="Volatus"
          style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 </div>
