@@ -60,6 +60,7 @@ export default defineConfig({
 
     sidebar: [
       {
+        //@ts-ignore
         text: 'Istoric Update-uri',
         activeMatch: `^/informatii/`,
         items: [
@@ -69,6 +70,7 @@ export default defineConfig({
       },
 
       {
+        //@ts-ignore
         text: 'Informații utile',
         activeMatch: `^/informatii/`,
         items: [
@@ -85,11 +87,13 @@ export default defineConfig({
           { text: "Întrebări frecvente", link: '/informatii/intrebari' }, 
           { text: "Comenzi des folosite", link: '/informatii/comenzi' },
           { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' },
+          { text: "Beneficii VIP", link: '/informatii/beneficiivip' },
           { text: "Panel", link: '/informatii/panel' },
         ]
       },
 
       {
+        //@ts-ignore
         text: 'General',
         activeMatch: `^/informatii/`,
         items: [
@@ -113,6 +117,7 @@ export default defineConfig({
       },
 
       {
+        //@ts-ignore
         text: 'Activități legale/ilegale',
         activeMatch: `^/informatii/`,
         items: [
@@ -121,29 +126,30 @@ export default defineConfig({
             text: "Joburi legale",
             collapsed: true,
             items: [ 
-              // V3 order low-high
-              { text: "Apicultor", link: '/jobs/honey' },             // 0h
-              { text: "Curier", link: '/jobs/curier' },               // 0h
-              { text: "Gunoier", link: '/jobs/gunoier' },             // 0h
-              { text: "Pescar", link: '/jobs/fisher' },               // 0h
-              { text: "Șofer de autobuz", link: '/jobs/busdriver' },  // 25h
-              { text: "McDonald's", link: '/jobs/mcds' },             // 25h
-              { text: "Electrician", link: '/jobs/electrician' },     // 25h
-              { text: "Vatman", link: '/jobs/vatman' },               // 50h
-              { text: "Măcelar", link: '/jobs/butcher' },             // 50h
-              { text: "Șofer Bancar", link: '/jobs/bankdriver' },     // 50h
-              { text: "Stivuitorist", link: '/jobs/forklift' },       // 75h
-              { text: "Tăietor de lemne", link: '/jobs/lumberjack' }, // 75h
-              { text: "Petrolist", link: '/jobs/petrolist' },         // 75h
-              { text: "Livrator de ziare", link: '/jobs/postman' },   // 100h
-              { text: "Miner", link: '/jobs/miner' },                 // 100h
-              { text: "Farmacist", link: '/jobs/farmacist' },         // 100h
-              { text: "Tirist", link: '/jobs/trucker' },              // 150h
-              { text: "Pilot Cargo", link: '/jobs/pilot' },           // 200h
-              { text: "Vânător", link: '/jobs/hunter' },              // 300h
-              { text: "Scafandru", link: '/jobs/diver' },             // 300h
-              { text:"Pescar Oceanic", link: '/jobs/fisherv2' },      // 400h
-              { text:"Muncitor la Carieră", link: '/jobs/minerv2' }   // 550h
+              // V4 order low-high
+              { text: "Apicultor", link: '/jobs/honey' },              // 0h
+              { text: "Electrician", link: '/jobs/electrician' },      // 0h
+              { text: "Pescar", link: '/jobs/fisher' },                // 0h
+              { text: "Șofer de autobuz", link: '/jobs/busdriver' },   // 25h
+              { text: "Livrator de ziare", link: '/jobs/postman' },    // 25h
+              { text: "Petrolist", link: '/jobs/petrolist' },          // 75h
+              { text: "Tăietor de lemne", link: '/jobs/lumberjack' },  // 100h
+              { text: "Miner", link: '/jobs/miner' },                  // 100h
+              { text: "Măcelar", link: '/jobs/butcher' },              // 150h
+              { text: "Tirist", link: '/jobs/trucker' },               // 150h
+              { text: "Vânător", link: '/jobs/hunter' },               // 150h
+              { text: "Curier", link: '/jobs/curier' },                // 200h
+              { text: "Farmacist", link: '/jobs/farmacist' },          // 250h
+              { text: "Gunoier", link: '/jobs/gunoier' },              // 300h
+              { text: "Fury Burger", link: '/jobs/mcds' },             // 300h
+              { text: "Șofer Bancar", link: '/jobs/bankdriver' },      // 400h
+              { text: "Stivuitorist", link: '/jobs/forklift' },        // 600h
+              { text: "Muncitor la Carieră", link: '/jobs/minerv2' },  // 600h
+              { text: "Pilot Cargo", link: '/jobs/pilot' },            // 700h
+              { text: "Scafandru", link: '/jobs/diver' },              // 800h
+              { text: "Pescar Oceanic", link: '/jobs/fisherv2' },      // 1000h
+              { text: "Vatman", link: '/jobs/vatman' }                 // 1200h
+
             ]
           },
           {
@@ -161,6 +167,7 @@ export default defineConfig({
       },
 
       {
+        //@ts-ignore
         text: 'Economie',
         activeMatch: `^/informatii/`,
         items: [
@@ -181,6 +188,7 @@ export default defineConfig({
       },
 
       {
+        //@ts-ignore
         text: 'Proprietăți',
         activeMatch: `^/informatii/`,
         items: [
@@ -194,6 +202,7 @@ export default defineConfig({
       },
 
       {
+        //@ts-ignore
         text: 'Instituții publice',
         activeMatch: `^/informatii/`,
         items: [

@@ -59,6 +59,7 @@ Scopul proiectului <span style="color:red">Fury</span> presupune să vă punem l
 :::info <span style="color:red">Aceștia pot fi contactați pentru:</span>
 - <span style="color:red">întrebări legate de sisteme / locații / joburi de pe server</span>
 - <span style="color:red">probleme grave la nivel de comunitate</span>
+- <span style="color:red">pierderi de iteme sau bani din cauza unor bug-uri</span>
 - <span style="color:red">reclamații la adresa altor jucători</span>
 - <span style="color:red">reclamatii la adresa adminilor ( inclusiv Admin 4 )</span>
 - <span style="color:red">probleme grave din factiuni</span>
