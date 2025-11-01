@@ -88,7 +88,6 @@ export default defineConfig({
           { text: "Comenzi des folosite", link: '/informatii/comenzi' },
           { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' },
           { text: "Beneficii VIP", link: '/informatii/beneficiivip' },
-          { text: "Starter Pack", link: '/informatii/starterpack' },
           { text: "Supporter", link: '/informatii/supporter' },
           { text: "Panel", link: '/informatii/panel' },
         ]
