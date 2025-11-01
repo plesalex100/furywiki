@@ -277,13 +277,13 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
 
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Benefactor G63</h3>
-    <img src="https://i.imgur.com/rHhHUcW.png" alt="Benefactor G63"
+    <img src="https://i.imgur.com/YJYhg7t.png" alt="Benefactor G63"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 
   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Pfister 911 Venum</h3>
-    <img src="https://i.imgur.com/3WPn5hm.png" alt="Pfister 911 Venum"
+    <img src="https://i.imgur.com/TyZoInP.png" alt="Pfister 911 Venum"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 </div>
