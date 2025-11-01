@@ -6,7 +6,7 @@ title: Beneficii VIP
 
 Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege pachetul care ți se potrivește și bucură-te de beneficii exclusive.
 
-## <span class="title-font" style="color: silver;font-size: 32px;"><center>VIP Silver</center></span>
+## <span class="title-font" style="color: silver;font-size: 32px;"><center>⚪VIP Silver⚪</center></span>
 
 <div style="text-align: center; margin-top: 10px;">
   <div style="
@@ -47,7 +47,7 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
     <li><b>10%</b> reducere la <b>tuning auto</b></li>
     <li><b>Prioritate la restock dealership (5 minute)</b> – Restock-ul are loc la ora 21:00 → Poți cumpăra din dealership la ora <b>21:11!</b></li>
     <li><b>Statuetă Silver</b> (100.000 War Credits)</li>
-    <li><b>1x Vehicul Premium:</b> Ocelot Jugular</li>
+    <li><b>2x Vehicule Premium:</b> Ocelot Jugular + Barca Mica</li>
   </ul>
 </div>
 
@@ -67,9 +67,14 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
     <img src="https://i.imgur.com/74A5kEb.png" alt="Ocelot Jugular"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
+  <div style="flex: 1; min-width: 300px; max-width: 350px;">
+    <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Barca Mica</h3>
+    <img src="https://i.imgur.com/ozxwfa5.png" alt="Barca Mica"
+         style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
+  </div>
 </div>
 
-## <span class="title-font" style="color: gold;font-size: 32px;"><center>VIP Gold</center></span>
+## <span class="title-font" style="color: gold;font-size: 32px;"><center>⭐VIP Gold⭐</center></span>
 
 <div style="text-align: center; margin-top: 10px;">
   <div style="
@@ -113,7 +118,7 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
     <li><b>Posibilitatea</b> de a avea <b>3 vehicule scoase simultan</b></li>
     <li><b>Prioritate la restock dealership (10 minute)</b> – Restock-ul are loc la ora 21:00 → Poți cumpăra din dealership la ora <b>21:06!</b></li>
     <li><b>Statuetă Gold</b> (150.000 War Credits)</li>
-    <li><b>1x Vehicul Premium:</b> Bravado Gresley TX +<b> Vehiculul din pachetul precedent</b></li>
+    <li><b>2x Vehicule Premium:</b> Bravado Gresley TX + Barca Longfin +<b> Vehiculele din pachetul precedent</b></li>
   </ul>
 </div>
 
@@ -133,9 +138,14 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
     <img src="https://i.imgur.com/2ur6ivs.png" alt="Bravado Gresley TX"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
+   <div style="flex: 1; min-width: 300px; max-width: 350px;">
+    <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Barca Longfin</h3>
+    <img src="https://i.imgur.com/3QAxJNF.png" alt="Barca Longfin"
+         style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
+  </div>
 </div>
 
-## <span class="title-font" style="color: cyan;font-size: 32px;"><center>VIP Diamond</center></span>
+## <span class="title-font" style="color: cyan;font-size: 32px;"><center>💎VIP Diamond💎</center></span>
 
 <div style="text-align: center; margin-top: 10px;">
   <div style="
@@ -180,7 +190,7 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
     <li><b>Asigurare FuryBet 5%</b> – Ex: Dacă pariezi <b>$100.000</b> și pierzi, primești înapoi <b>$5.000</b>.</li>
     <li><b>Prioritate la restock dealership (15 minute)</b> – Restock-ul are loc la ora 21:00 → Poți cumpăra din dealership la ora <b>21:01!</b></li>
     <li><b>Statuetă Diamond</b> (300.000 War Credits)</li>
-    <li><b>2x Vehicule Premium:</b> Nagasaki BF-400 + Pegassi Vacca +<b> Vehiculele din pachetele precedente</b></li>
+    <li><b>3x Vehicule Premium:</b> Nagasaki BF-400 + Pegassi Vacca + Maverick<b> Vehiculele din pachetele precedente</b></li>
   </ul>
 </div>
 
@@ -206,9 +216,14 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
     <img src="https://i.imgur.com/4ZICDvY.png" alt="Pegassi Vacca"
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
+   <div style="flex: 1; min-width: 300px; max-width: 350px;">
+    <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Maverick</h3>
+    <img src="https://i.imgur.com/jKGfeQK.png" alt="Maverick"
+         style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
+  </div>
 </div>
 
-## <span class="title-font" style="color: orange; font-size: 32px;"><center>VIP Fury</center></span>
+## <span class="title-font" style="color: orange; font-size: 32px;"><center>🔥VIP Fury🔥</center></span>
 
 <div style="text-align: center; margin-top: 10px;">
   <div style="
@@ -255,7 +270,7 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
     <li><b>Limită maximă pariu FuryBet:</b> $1.500.000</li>
     <li><b>Prioritate la restock dealership (16 minute)</b> – Restock-ul are loc la ora 21:00 → Poți cumpăra din dealership la ora <b>21:00!</b></li>
     <li><b>Statuetă FURY</b> (500.000 War Credits)</li>
-    <li><b>3x Vehicule Premium:</b> Nagasaki Carbon RS + Benefactor G63 + Pfister 911 Venum +<b> Vehiculele din pachetele precedente</b></li>
+    <li><b>4x Vehicule Premium:</b> Nagasaki Carbon RS + Benefactor G63 + Pfister 911 Venum + Volatus +<b> Vehiculele din pachetele precedente</b></li>
   </ul>
 </div>
 
@@ -281,10 +296,16 @@ Serverul nostru oferă 4 pachete VIP accesibile pentru toți jucătorii! Alege p
          style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 
-  <div style="flex: 1; min-width: 300px; max-width: 350px;">
+   <div style="flex: 1; min-width: 300px; max-width: 350px;">
     <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Pfister 911 Venum</h3>
     <img src="https://i.imgur.com/TyZoInP.png" alt="Pfister 911 Venum"
-         style="width: 100%; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
+         style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
+  </div>
+
+  <div style="flex: 1; min-width: 300px; max-width: 350px;">
+    <h3 style="margin-bottom: 8px; font-size: 18px; font-weight: 600;">Volatus</h3>
+    <img src="https://i.imgur.com/4IACafD.png" alt="Volatus"
+         style="width: 100%; height: 220px; object-fit: cover; border: 2px solid #ccc; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   </div>
 </div>
 
