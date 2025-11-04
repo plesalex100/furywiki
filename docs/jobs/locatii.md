@@ -21,4 +21,4 @@ title: Locații
 - O altă metodă este folosirea aplicației E-Jobs, selectarea jobului și apăsarea pe butonul de locație.
 :::
 
-![](https://i.imgur.com/J45IOJv.png){.framed-photo}
+![](/images/telefon/ejobs.png){.framed-photo}
