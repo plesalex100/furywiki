@@ -7,7 +7,7 @@ title: Farmacist
 ## <span class="title-font">Cerințe</span>
 
 :::info
-- Experiență de minim 100 ore.
+- Experiență de minim 250 ore.
 - Foaie cu rețete pentru substanțe
 - Memorie și răbdare foarte bună
 :::

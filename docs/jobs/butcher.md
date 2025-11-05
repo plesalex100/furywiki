@@ -7,7 +7,7 @@ title: Măcelar
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 50 ore.
+- Experiență de minim 150 ore.
 - Deținerea unui [permis de conducere](/general/scoala) valabil (opțional).
 :::
 
@@ -65,5 +65,4 @@ Acest job constă în a lua o tavă și a colecta bucățile de carne din 2 cuti
 :::
 :::tip SFAT!
 - Este mai profitabil să livrați cutiile decât să le colectați și împachetați.
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::

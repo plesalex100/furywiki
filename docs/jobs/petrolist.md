@@ -84,9 +84,10 @@ Din câte observați, aveți posibilitatea de a avea 3 cisterne. Trebuie să vă
 ![](https://i.imgur.com/qrCY6cN.gif){.framed-gif}
 
 - După ce ați umplut toată cisterna, trebuie să mergeți la rafinărie (marcat cu un blips cu o picătură gri) pentru a rafina combustibilul.
-
+- Optional: puteti rafina combustibilul prelucrat anterior in combustibil premium pentru un profit mai mare.
 - Dupa ce ați rafinat combustibilul, puteți vinde la una din toate benzinăriile marcate pe hartă sau la zona de unde scoateți cisternele folosind prima opțiune: Vinde Combustibilul.
 :::
+
 
 
 

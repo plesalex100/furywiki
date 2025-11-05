@@ -65,5 +65,4 @@ Acest job constă în prinderea peștilor și vânzarea acestora la o locație s
 
 :::tip SFAT!
 - Peștele de lac poate fi folosit ca momeală pentru ->[pescarul oceanic](/jobs/fisherv2)<-
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::

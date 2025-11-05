@@ -10,7 +10,7 @@ title: Șofer de autobuz
 ### <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 25 ore.
+- Experiență de minim 50 ore.
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 :::
 
@@ -48,7 +48,3 @@ Acest job constă în urmărirea rutei și preluarea călătorilor din stație.
 ![gifBusDriver](https://i.imgur.com/2QEdutJ.gif){.framed-gif}
 
 - Plata va fi făcută la finalul cursei.
-
-:::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
-:::

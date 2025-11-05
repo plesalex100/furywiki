@@ -10,6 +10,7 @@ title: Curier
 
 ## <span class="header-font"> Cerințe </span>
 :::info
+- Experiență de minim 200 ore.
 - Nu este necesară experiență.
 - Deținerea unui permis de conducere valabil.
 :::

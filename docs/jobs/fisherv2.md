@@ -11,7 +11,7 @@ title: Pescar Oceanic
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Minim 400 ore experiență.
+- Minim 1000 ore experiență.
 - Momeală specializată - pește obținut la pescarul de baltă.
 - Deținerea unei [licențe](/general/licente) de pescar pentru a putea lucra legal.
 :::

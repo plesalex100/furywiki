@@ -11,7 +11,7 @@ title: Electrician
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 25 ore.
+- Nu este necesară experiență.
 - Deținerea unei [licențe](/general/licente.html) de electrician pentru a putea lucra legal.
 :::
 
@@ -64,7 +64,6 @@ Acest job are un impact foarte mare asupra orașului și constă în repararea p
 :::
 
 :::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
-- Dacă capacitatea este mai mică de 1000 de megawați, plata jobului este triplă.
+- Dacă ,capacitatea este mai mică de 1000 de megawați, plata jobului este triplă.
 :::
 

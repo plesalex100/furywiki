@@ -10,7 +10,7 @@ title: Vanator
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 300 ore.
+- Experiență de minim 150 ore.
 - Deținerea unui tip de armă specială -> Musket (poate fi achiziționată de la NPC-ul jobului).
 - Deținerea unei [licențe](/general/licente) de vânător pentru a putea lucra legal.
 :::
@@ -90,8 +90,4 @@ Este recomandată folosirea unei genți pentru a putea transporta mai multe mate
 
 :::details Vânzare materiale
 ![](https://i.imgur.com/E1Zp1xS.gif){.framed-gif}
-:::
-
-:::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::

@@ -11,7 +11,7 @@ title: Scafandru
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 300 ore.
+- Experiență de minim 800 ore.
 - Cunoștințe bune în domeniul scufundărilor.
 :::
 

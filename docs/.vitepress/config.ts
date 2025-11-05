@@ -133,8 +133,8 @@ export default defineConfig({
               { text: "Apicultor", link: '/jobs/honey' },              // 0h
               { text: "Electrician", link: '/jobs/electrician' },      // 0h
               { text: "Pescar", link: '/jobs/fisher' },                // 0h
-              { text: "Șofer de autobuz", link: '/jobs/busdriver' },   // 25h
               { text: "Livrator de ziare", link: '/jobs/postman' },    // 25h
+              { text: "Șofer de autobuz", link: '/jobs/busdriver' },   // 50h
               { text: "Petrolist", link: '/jobs/petrolist' },          // 75h
               { text: "Tăietor de lemne", link: '/jobs/lumberjack' },  // 100h
               { text: "Miner", link: '/jobs/miner' },                  // 100h

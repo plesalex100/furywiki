@@ -8,7 +8,7 @@ title: Tăietor de lemne
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 75 ore.
+- Experiență de minim 100 ore.
 - Deținerea unui topor (poate fi achiziționat de la [gunshop](/general/gunshop)).
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 :::
@@ -67,6 +67,3 @@ Acest job constă în tăierea copacilor din pădure, transportarea lemnelor cu 
 :::
 
 ![](https://i.imgur.com/Q4Xr88c.png){.framed-photo}
-:::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
-:::

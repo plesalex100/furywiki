@@ -10,7 +10,7 @@ title: Livrare Ziare
 
 ## <span class="header-font">Cerințe</span>
 :::info
-- Experiență de minim 100 ore.
+- Experiență de minim 25 ore.
 - Abilități de aruncare precisă.
 - Deținerea a maxim 250 ziare.
 :::

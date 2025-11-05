@@ -11,7 +11,7 @@ title: Muncitor la Carieră
 ## <span class="title-font">Cerințe</span>
 
 :::info
-- Experiență de minim 550 ore.
+- Experiență de minim 600 ore.
 - Deținerea unui permis de conducere categoria CE.
 - Deținerea unei [licențe](/general/licente) de muncitor de carieră validă pentru a putea lucra legal. 
 :::

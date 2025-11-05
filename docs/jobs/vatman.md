@@ -9,7 +9,7 @@ title: Vatman
 
 ## <span class="header-font">Cerințe</span>
 :::info
-- Experiență de minim 50 ore.
+- Experiență de minim 1200 ore.
 :::
 
 ## <span class="header-font">Skills</span>
@@ -62,12 +62,8 @@ Brake -> reprezintă frânarea trenului; dacă este butonul de brake este roșu,
 :::details Oprire în stație
 ![](https://i.imgur.com/PPYGiWx.gif){.framed-gif}
 :::
-:::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
-:::
 
 :::info
 - Aveți posibilitatea de a vă da jos din tren dacă este nevoie, însă nu vă îndepărtați de el prea mult, deoarece tura se va anula.
-
 - Puteți face jobul până când vă plictisiți sau până când vă terminați tura. Puteți anula tura părăsind trenul, însă nu este recomandat.
 :::

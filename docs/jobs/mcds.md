@@ -7,7 +7,7 @@ title: Mc Donalds
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 25 ore.
+- Experiență de minim 300 ore.
 :::
 
 ## <span class="header-font">Skills</span>
@@ -49,8 +49,4 @@ Acest job constă în prepararea comenzilor primite dar și în a menține resta
 ![](https://i.imgur.com/o6StZZQ.gif){.framed-gif}
 
 - Plata va fi făcută după fiecare comandă finalizată / zonă curățată.
-:::
-
-:::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::

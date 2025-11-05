@@ -11,7 +11,7 @@ title: Job - Șofer Bancar
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 50 ore.
+- Experiență de minim 400 ore.
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 - Deținerea unei [licențe](/general/licente) de tirist pentru a putea practica legal jobul.
 :::tip

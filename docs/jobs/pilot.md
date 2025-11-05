@@ -10,7 +10,7 @@ title: Pilot
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 200 ore.
+- Experiență de minim 700 ore.
 - Deținerea unor cunoștințe medii despre pilotaj.
 - Deținerea unei stații pe care **sunteți obligați** să fiți conectați pe frecvența 017.
 :::
@@ -65,8 +65,4 @@ Acest job constă în încărcarea unor cutii în avion și transportarea acesto
 
 :::warning Atenție!
 Distrugerea avionul va duce la anularea turei și aplicarea unei taxe.
-:::
-
-:::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::

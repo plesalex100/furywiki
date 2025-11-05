@@ -8,7 +8,7 @@ title: Stivuitorist
 ## <span class="header-font">Cerințe</span>
 
 :::info
-- Experiență de minim 75 ore.
+- Experiență de minim 600 ore.
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 - Deținerea unei [licențe](/general/licente) de stivutiorist pentru a putea lucra legal.
 :::
@@ -65,8 +65,5 @@ Acest job constă în transportarea paleților din jurul depozitului și încăr
 
 - Pentru a încheia tura, vorbiți cu NPC-ul de la intrare.
 
-:::
-:::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 :::
 

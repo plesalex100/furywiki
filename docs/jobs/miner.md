@@ -90,6 +90,5 @@ Acest job constă în adunarea de minereuri, prelucrarea lor la topitorie și v�
 - După prelucrare, puteți vinde lingourile/materialele la magazinul de bijuterii(se află la cod poștal 642).
 
 :::tip SFAT!
-- Există un bonus JOB de 5% pentru joburile legale între 18:00 și 20:00 (L-V) și între 18:00 și 22:00 (S-D).
 - Materialele care nu pot fi vândute se folosesc în alte scopuri.
 :::
