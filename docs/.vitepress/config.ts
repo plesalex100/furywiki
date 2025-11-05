@@ -88,6 +88,7 @@ export default defineConfig({
           { text: "Comenzi des folosite", link: '/informatii/comenzi' },
           { text: "Afaceri cu Firecoins", link: '/informatii/afacerifc' },
           { text: "Beneficii VIP", link: '/informatii/beneficiivip' },
+          { text: "Starter Pack", link: '/informatii/starterpack' },
           { text: "Supporter", link: '/informatii/supporter' },
           { text: "Panel", link: '/informatii/panel' },
         ]
@@ -150,7 +151,6 @@ export default defineConfig({
               { text: "Scafandru", link: '/jobs/diver' },              // 800h
               { text: "Pescar Oceanic", link: '/jobs/fisherv2' },      // 1000h
               { text: "Vatman", link: '/jobs/vatman' }                 // 1200h
-
             ]
           },
           {
