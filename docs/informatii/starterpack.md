@@ -19,3 +19,7 @@ title: Starter Pack
 - Beneficiile sunt acordate instant după achiziție.
 - VIP-ul din Starter Pack nu ofera suma bonus de la achiziționarea unui VIP normal.
 :::
+
+:::danger DE RETINUT!
+- Odata achizitionat, Starter Pack-ul nu poate fi returnat sau schimbat!
+:::
