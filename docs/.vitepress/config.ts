@@ -124,6 +124,7 @@ export default defineConfig({
         activeMatch: `^/informatii/`,
         items: [
           { text: 'Unde se află fiecare job?', link: '/jobs/locatii' },
+          { text: 'Job Boost', link: '/jobs/jobboost' },
           {
             text: "Joburi legale",
             collapsed: true,
