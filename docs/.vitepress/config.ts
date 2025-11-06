@@ -103,6 +103,7 @@ export default defineConfig({
           { text: "Telefon", link: '/general/telefon' },
           // { text: "Garaje & Parcări", link: '/general/garaje'}, -- removed for now
           { text: "Bancomate", link: '/general/atm'},
+          { text: "Barbut", link: '/general/barbut'},
           { text: "Asigurare medicală", link: '/general/asigurare' },
           { text: "Sistemul de dependență", link: '/general/addiction' },
           { text: "Școala de șoferi", link: '/general/scoala' },
