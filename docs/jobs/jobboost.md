@@ -15,14 +15,14 @@ title: Job Boost
 </p>
 <h2 style="color:#ffb84d;">Evening Job Boost (Cursul săptămânii)</h2>
 <ul>
-    <li>14:00 – 16:00 → <strong style="color:#4dd2ff;">+5%</strong></li>
+    <li>14:00 – 17:00 → <strong style="color:#4dd2ff;">+5%</strong></li>
     <li>17:00 – 19:00 → <strong style="color:#4dff88;">+10%</strong></li>
     <li>19:00 – 20:00 → <strong style="color:#4dd2ff;">+7%</strong></li>
 </ul>
 
 <h2 style="color:#ffb84d;">Weekend Job Boost</h2>
 <ul>
-    <li>18:00 – 21:00 → <strong style="color:#4dd2ff;">+5%</strong></li>
+    <li>18:00 – 22:00 → <strong style="color:#4dd2ff;">+5%</strong></li>
 </ul>
 
 <h2 style="color:#ff5555;">VIP Job Boost</h2>
