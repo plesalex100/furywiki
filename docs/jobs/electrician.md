@@ -23,10 +23,10 @@ title: Electrician
 | Skill                | Bonus Plată              | Șansă drop iteme speciale |
 | -------------------  | -------------------      | ---------------           |
 | 1                    | -                        | -                         |
-| 2                    | plată mărită cu 15%      | +7%                       |
-| 3                    | plată mărită cu 30%      | +10%                      |
-| 4                    | plată mărită cu 45%      | +20%                      |
-| 5                    | plată mărită cu 60%      | +40%                      |
+| 2                    | plată mărită cu 6%       | +7%                       |
+| 3                    | plată mărită cu 9%       | +10%                      |
+| 4                    | plată mărită cu 12%      | +20%                      |
+| 5                    | plată mărită cu 15%      | +40%                      |
 
 ## <span class="header-font">Cum practic acest job?</span>
 

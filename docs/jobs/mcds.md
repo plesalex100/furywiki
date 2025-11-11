@@ -17,10 +17,10 @@ title: Mc Donalds
 | Skill                | Bonus Plată              |
 | -------------------  | -------------------      |
 | 1                    | -                        |
-| 2                    | plată mărită cu 15%      |
-| 3                    | plată mărită cu 30%      |
-| 4                    | plată mărită cu 45%      |
-| 5                    | plată mărită cu 60%      |
+| 2                    | plată mărită cu 6%       |
+| 3                    | plată mărită cu 9%       |
+| 4                    | plată mărită cu 12%      |
+| 5                    | plată mărită cu 15%      |
 
 ## <span class="header-font">Cum practic acest job?</span>
 

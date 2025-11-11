@@ -23,10 +23,10 @@ title: Livrare Ziare
 | Skill                | Bonus                                     | Bicicletă deblocată
 | -------------------  | -------------------                       | -------------------
 | 1                    | -                                         | -
-| 2                    | plată mărită cu 15%                       | Bicicleta Scorcher
-| 3                    | plată mărită cu 30%                       | Bicicleta Fixter
-| 4                    | plată mărită cu 45%                       | Bicicleta Inductor
-| 5                    | plată mărită cu 60%                       | -
+| 2                    | plată mărită cu 6%                        | Bicicleta Scorcher
+| 3                    | plată mărită cu 9%                        | Bicicleta Fixter
+| 4                    | plată mărită cu 12%                       | Bicicleta Inductor
+| 5                    | plată mărită cu 15%                       | -
 
 - În ceea ce privește bonusurile, acestea se aplică în funcție de distanța de la care arunci ziarele și nimerești ținta (ținta = ușa de la casă).
 - Aceste bonusuri încep de la mărirea plății de la 20% până la 100%.
