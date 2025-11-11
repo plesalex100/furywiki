@@ -25,14 +25,14 @@ Puteți lucra și fără licență, dar la un traffic stop din partea poliției 
 - Trenul are mai mult spațiu pentru minereuri în funcție de skill-ul deținut.
 - Bulldozer-ul este acum mai rapid și are o tracțiune mai bună în funcție de skill-ul deținut.
 
-| Skill                | Spațiu în tren     |
-| -------------------  | -------------------|
-| 1                    | 300 slots, 500kg   |
-| 2                    | 350 slots, 600kg   |
-| 3                    | 400 slots, 700kg   |
-| 4                    | 450 slots, 800kg   |
-| 5                    | 500 slots, 900kg   |
-
+| Skill                | Spațiu în tren      | Viteza Excavator    |
+| -------------------  | ------------------- | ------------------- |
+| 1                    | 300 slots, 500kg    | -                   |
+| 2                    | 350 slots, 600kg    | +20%                |
+| 3                    | 400 slots, 700kg    | +33%                |
+| 4                    | 450 slots, 800kg    | +47%                |
+| 5                    | 500 slots, 900kg    | +60%                |
+             
 ## <span class="title-font">Cum practic acest job?</span>
 
 :::info
