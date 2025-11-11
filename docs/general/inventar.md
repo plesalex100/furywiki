@@ -15,7 +15,7 @@ title: Inventar
 :::
 :::details Apasă pentru a vedea interfața inventarului
 - Cam așa ar arăta interfața inventarului:
-![pozaInventar](https://i.imgur.com/hN0et1X.png){.framed-photo}
+![pozaInventar](/images/inventory/inventar.png){.framed-photo}
 :::
 
 
@@ -23,26 +23,26 @@ title: Inventar
 
 - Aceste butoane ne oferă posibilitatea de a:
 :::details Vinde itemele altui jucător
-![pozaInventarSell](https://i.imgur.com/nvEtkxC.png){.framed-photo}
+![pozaInventarSell](/images/inventory/vinde.png){.framed-photo}
 :::
 :::details Oferi itemele altui jucător
-![pozaInventarGive](https://i.imgur.com/uHwP2Bp.png){.framed-photo}
+![pozaInventarGive](/images/inventory/ofera.png){.framed-photo}
 :::
 :::details Folosi itemele
-![pozaInventarUse](https://i.imgur.com/dIecVtF.png){.framed-photo}
+![pozaInventarUse](/images/inventory/foloseste.png){.framed-photo}
 :::
 :::details Arunca itemele pe jos
-![pozaInventarThrow](https://i.imgur.com/0MtIXmt.png){.framed-photo}
+![pozaInventarThrow](/images/inventory/arunca.png){.framed-photo}
 :::
 
 
-- Puteți selecta cantitatea de iteme oferite/aruncate completând câmpul "Amount".
+- Puteți selecta cantitatea de iteme oferite/aruncate completând câmpul "Cantitate".
 
-![pozaInventarAmount](https://i.imgur.com/cxwUCAS.png){.framed-photo}
+![pozaInventarAmount](/images/inventory/cantitate.png){.framed-photo}
 
 - Puteți căuta un item după nume completând câmpul "Search".
 
-![pozaInventarSearch](https://i.imgur.com/M3Sro2A.png){.framed-photo}
+![pozaInventarSearch](/images/inventory/search.png){.framed-photo}
 
 - Itemele aruncate pe jos pot fi ridicate de orice player, iar dacă nu vor fi ridicate, după o perioadă vor dispărea.
 
@@ -53,25 +53,16 @@ title: Inventar
 
 - Ne putem scoate/pune diferite obiecte vestimentare pe care le purtăm cu ajutorul butoanelor din dreapta caracterului.
 
-![pozaInventarHaine](https://i.imgur.com/5xHwgHl.png){.framed-photo}
+![pozaInventarHaine](/images/inventory/vestimentatie.png){.framed-photo}
 
 ## <span class="header-font">Forma fizică</span>
 :::info
 - Forma fizică se împarte pe 7 levele și cu cât procentul de progress crește, aspectul fizic și mușchii caracterului se vor defini, dar și mai important, numărul de slot-uri și kg de iteme în urma purtării [genții](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) va crește.
 :::
 
-![pozaInventarForma](https://i.imgur.com/ZeqEQqA.png){.framed-photo}
+![pozaInventarForma](/images/inventory/formafizica.png){.framed-photo}
 :::tip
 - Progress bar-ul "Formă fizică" poate fi crescut mergând la [sala de forță](./sala) sau lucrând ca [miner](/jobs/miner).
-:::
-
-## <span class="header-font">Cum folosesc itemele din inventar?</span>
-
-:::info
-- Utilizarea itemelor din inventar se folosesc făcând un drag and drop pe butonul de <span style="padding: 3px 7px; border-radius: 10px; background-color: #ff6f00;">Folosește</span> de la baza inventarului.
-:::
-:::details Exemplu utilizare item
-![gifInventarUse](https://i.imgur.com/dfjtIXh.gif){.framed-gif}
 :::
 
 ## <span class="header-font">Cum accesez cele 6 quick slot-uri?</span>
@@ -88,7 +79,7 @@ title: Inventar
 :::info
 - Indiferent de forma fizică, numărul de kg de iteme care pot fi cărate fără a folosi o [geantă](#utilizarea-gentilor-pentru-a-mari-numarul-de-slot-uri) este de **10kg**.
 
-![pozaInventarKg](https://i.imgur.com/FBTN8iR.png){.framed-photo}
+![pozaInventarKg](/images/inventory/KG.png){.framed-photo}
 :::
 
 ## <span class="header-font">Utilizarea genților pentru a mări numărul de slot-uri</span>
@@ -120,10 +111,10 @@ Cu forma fizică *0%*, numărul de kg de iteme pe care le poți căra este de **
 :::info
 - De asemenea, puteți folosi butonul de lângă cel de dezechipare geantă pentru a crafta diferite obiecte cum ar fi bandaje, pentru a monta undițe cu diferite monturi, etc
 
-![](https://i.imgur.com/Pn6EhWx.png){.framed-photo}
+![](/images/inventory/crafting.png){.framed-photo}
 :::
 :::details Exemplu de iteme care pot fi craftate/montate
-![](https://i.imgur.com/i2OGjD2.png){.framed-photo}
+![](/images/inventory/procesare.png){.framed-photo}
 :::
 
 ## <span class="header-font">Folosirea shortcut-urilor</span>

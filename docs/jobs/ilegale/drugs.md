@@ -6,14 +6,14 @@ title: Ilegal - Droguri
 
 - Pentru a putea produce și vinde droguri, trebuie să ai următoarele ore jucate pe server:
 
-| Drog  | Ore Necesare Livrare        | Ore Necesare Procesare |
+| Drog  | Ore Necesare Procesare        | Ore Necesare Livrare |
 | ----- | --------------------------- | ---------------------- |
-| Tutun     |      75                 |     100                |
-| Marijuana |      125                |     200                |
-| Cocaină   |      200                |     400                |
-| Mefedronă |      300                |     600                |
-| LSA       |      350                |     700                |
-| Spice     |      500                |     1000               |
+| Tutun     |      100                |     75                 |
+| Marijuana |      200                |     100                |
+| Cocaină   |      400                |     200                |
+| Mefedronă |      500                |     250                |
+| LSA       |      1000               |     500                |
+| Spice     |      2000               |     1000               |
 
 :::danger
 - Restul de informații le veți procura prin interacțiuni **IN-CHARACTER**.
