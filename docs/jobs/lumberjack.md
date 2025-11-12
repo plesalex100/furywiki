@@ -12,6 +12,15 @@ title: Tăietor de lemne
 - Deținerea unui topor (poate fi achiziționat de la [gunshop](/general/gunshop)).
 - Deținerea unui [permis de conducere](/general/scoala) valabil.
 :::
+
+| Skill | Bonus Scanduri            |
+| ----- | -------------------       |
+| 1     | -                         |
+| 2     | intre 2 si 3 per bustean  |
+| 3     | intre 2 si 4 per bustean  |
+| 4     | intre 3 si 4 per bustean  |
+| 5     | intre 3 si 5 per bustean  |
+
 :::tip Recomandare!
 Este recomandată folosirea unei genți, care poate fi achiziționată de la [magazin](/proprietati/magazine).
 :::

@@ -18,7 +18,7 @@ title: Depozit
 
 ## <span class="header-font">Ce este depozitul?</span>
 
-- Depozitul este un loc unde orice jucător își poate stoca obiectele, având posibilitatea de a le recupera oricând. Acesta va fi taxat în funcție de cât numărul de kilograme ocupate din depozit. Acesta are o capacitate de 10.000kg.
+- Depozitul este un loc unde orice jucător își poate stoca obiectele, având posibilitatea de a le recupera oricând. Acesta va fi taxat în funcție de numărul de kilograme ocupate din depozit. Acesta are o capacitate de 10.000kg.
 
 ## <span class="header-font">Care este taxa pentru a-mi depozita obiectele?</span>
 
