@@ -427,8 +427,7 @@ locațiilor unde se desfășoară joburi legale și a garajelor.
 
 ::: tip
 - **Zone Publice**: Autostrăzi, Aeroporturi, Sediile joburilor legale, Magazinele de haine, Bancomate, Bănci, Magazine alimentare,
-Restaurante, Secțiile de poliție, Spitale, Dealership, Casino, Primărie, Frizerii, Tuning,  Los Santos (cu excepția zonelor rău famate,           
-a locurilor foarte retrase)
+Restaurante, Secțiile de poliție, Spitale, Dealership, Casino, Primărie, Frizerii, Tuning,  Los Santos.
 - Podul care incepe din Sandy si se termina la intersectia cu Great Ocean Highway , este considerat zona publica !
 - **Zone Retrase**: Munți, Insule, în afara orașului Los Santos, cu excepțiile precizate mai sus, Vinewood
 - **Zone rău famate**: Grove Street, Vespucci Beach, Vespucci Boulevard
