@@ -18,15 +18,14 @@ title: Regulament War
 10. Jucatorilor le este interzis sa foloseasca orice tip de programe pentru a avea un avantaj (ex:Flawless Widescreen).<br>
 11. Jucatorii mafiilor nu au voie sa campeze Out Of Turf si sa intre dupa.<br>
 12. Au voie sa astepte simultan la HQ maxim 4 persoane pentru a evita situatiile in care mafiile intarzie pe turf.<br>
-13. Mafiile pot detine maxim 2 teritorii.<br>
-14. Nu aveti voie sa va luati inainte sau dupa ce primiti atac pozitii pe cladiri inacesibile.<br>
-15. Este interzis sa urcati pe cladiri cu parasuta sau sa veniti pe turf cu parasuta.<br>
-16. Jucatorii sunt obligati ca in timpul war-ului sa foloseasca nickname-urile cu care au intrat in mafie, numele trebuie sa nu aiba caractere speciale pentru a fi complet vizibil. Cei care vor avea nickname-uri puse la troll/alte nume vor primi kick la prima abatere, iar urmatoarea abatere vor fi sanctionati cu ban intre o zi si 3 zile.<br>
-17. Trasul din full bush nu este permis si ca atare se sanctioneaza cu Non FairPlay (Suspend 1-2 zile war, in functie de gravitate).
-18. Nu aveti voie sa va urcati pe HQ-urile adversarilor si sa trageti in acestia.<br>
-19. Pentru a putea juca la war, o mafie are nevoie de minim 5 membrii on pe server in momentul in care se da attack sau se primeste attack. In cazul in care sunteti sub 5 membrii, toate turfurile detinute de mafia voastra, se vor face nule.<br>
-20. Cat timp esti in timpul warurlui esti obligat sa filmezi.<br>
-21. Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).<br>
+13. Nu aveti voie sa va luati inainte sau dupa ce primiti atac pozitii pe cladiri inacesibile.<br>
+14. Este interzis sa urcati pe cladiri cu parasuta sau sa veniti pe turf cu parasuta.<br>
+15. Jucatorii sunt obligati ca in timpul war-ului sa foloseasca nickname-urile cu care au intrat in mafie, numele trebuie sa nu aiba caractere speciale pentru a fi complet vizibil. Cei care vor avea nickname-uri puse la troll/alte nume vor primi kick la prima abatere, iar urmatoarea abatere vor fi sanctionati cu ban intre o zi si 3 zile.<br>
+16. Trasul din full bush nu este permis si ca atare se sanctioneaza cu Non FairPlay (Suspend 1-2 zile war, in functie de gravitate).
+17. Nu aveti voie sa va urcati pe HQ-urile adversarilor si sa trageti in acestia.<br>
+18. Pentru a putea juca la war, o mafie are nevoie de minim 5 membrii on pe server in momentul in care se da attack sau se primeste attack. In cazul in care sunteti sub 5 membrii, toate turfurile detinute de mafia voastra, se vor face nule.<br>
+19. Cat timp esti in timpul warurlui esti obligat sa filmezi.<br>
+20. Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).<br>
 
 :::danger Atenție!
 - Aveți responsabiliatea de a urmări constant actualizările regulamentului.

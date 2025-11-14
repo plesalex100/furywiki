@@ -38,23 +38,21 @@ title: Update-uri Regulament
 
 12. Au voie sa astepte simultan la HQ maxim 4 persoane pentru a evita situatiile in care mafiile intarzie pe turf.
 
-13. Mafiile pot detine maxim 2 teritorii.
+13. Nu aveti voie sa va luati inainte sau dupa ce primiti atac pozitii pe cladiri inacesibile.
 
-14. Nu aveti voie sa va luati inainte sau dupa ce primiti atac pozitii pe cladiri inacesibile.
+14. Este interzis sa urcati pe clariri cu parasuta sau sa veniti pe turf cu parasuta.
 
-15. Este interzis sa urcati pe clariri cu parasuta sau sa veniti pe turf cu parasuta.
+15. Jucatorii sunt obligati ca in timpul war-ului sa foloseasca nickname-urile cu care au intrat in mafie, numele trebuie sa nu aiba caractere speciale pentru a fi complet vizibil. Cei care vor avea nickname-uri puse la troll/alte nume vor primi kick la prima abatere, iar urmatoarea abatere vor fi sanctionati cu ban intre o zi si 3 zile.
 
-16. Jucatorii sunt obligati ca in timpul war-ului sa foloseasca nickname-urile cu care au intrat in mafie, numele trebuie sa nu aiba caractere speciale pentru a fi complet vizibil. Cei care vor avea nickname-uri puse la troll/alte nume vor primi kick la prima abatere, iar urmatoarea abatere vor fi sanctionati cu ban intre o zi si 3 zile.
+16. Trasul din full bush nu este permis si ca atare se sanctioneaza cu Non FairPlay (Suspend 1-2 zile war, in functie de gravitate).
 
-17. Trasul din full bush nu este permis si ca atare se sanctioneaza cu Non FairPlay (Suspend 1-2 zile war, in functie de gravitate).
+17. Nu aveti voie sa va urcati pe HQ-urile adversarilor si sa trageti in acestia.
 
-18. Nu aveti voie sa va urcati pe HQ-urile adversarilor si sa trageti in acestia.
+18. Pentru a putea juca la war, o mafie are nevoie de minim 5 membrii on pe server in momentul in care se da attack sau se primeste attack. In cazul in care sunteti sub 5 membrii, toate turfurile detinute de mafia voastra, se vor face nule.
 
-19. Pentru a putea juca la war, o mafie are nevoie de minim 5 membrii on pe server in momentul in care se da attack sau se primeste attack. In cazul in care sunteti sub 5 membrii, toate turfurile detinute de mafia voastra, se vor face nule.
+19. Cat timp esti in timpul warurlui esti obligat sa filmezi.
 
-20. Cat timp esti in timpul warurlui esti obligat sa filmezi.
-
-21. Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).
+20. Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).
 
 ## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri)
 
