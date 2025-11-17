@@ -26,6 +26,7 @@ title: Regulament War
 18. Pentru a putea juca la war, o mafie are nevoie de minim 5 membrii on pe server in momentul in care se da attack sau se primeste attack. In cazul in care sunteti sub 5 membrii, toate turfurile detinute de mafia voastra, se vor face nule.<br>
 19. Cat timp esti in timpul warurlui esti obligat sa filmezi.<br>
 20. Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).<br>
+21. Este strict interzis ca un participant să poarte o culoare de echipament diferită de cea pe care a achiziționat-o oficial.<br>
 
 :::danger Atenție!
 - Aveți responsabiliatea de a urmări constant actualizările regulamentului.
