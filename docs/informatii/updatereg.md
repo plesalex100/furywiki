@@ -54,6 +54,8 @@ title: Update-uri Regulament
 
 20. Nu ai voie sa faci vdm pe turf(nu ai voie sa calci persoane pe turf cu masina/motorul).
 
+21. Este strict interzis ca un participant să poarte o culoare de echipament diferită de cea pe care a achiziționat-o oficial.<br>
+
 ## [8.0 Regulament Jafuri](/informatii/regulament.html#_8-0-regulament-jafuri)
 
 ### Jaf Fleeca
