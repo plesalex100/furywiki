@@ -282,6 +282,7 @@ părăsiți jocul în mod intenționat într-un Roleplay, puneți jocul în bar�
 
 ### <span class="header-font">1.31 Bug-abuse / Cheating</span>
 - Este interzis să abuzați de anumite vulnerabilități ale serverului. În momentul în care descoperiți un BUG, aveți obligația de a-l raporta. Persoanele care sunt surprinse că au abuzat de anumite bug-uri pentru a-și crea un avantaj vor fi sancționate cu BAN + CK (în funcție de gravitatea situației).
+- Utilizarea de macro-uri pentru a face farming AFK nu este considerată cheating și este permisă pe server cât timp persoana care folosește macro-ul este prezentă la PC! (În cazul în care persoana este descoperită că fiind AFK și nu răspunde la mesajele adminului, se consideră Macro AFK și se sancționează cu ban 30d + reset skill job)
 
 | Abatere             | Sancțiune                                 | Puncte de interdicție                        |
 |---------------------|-------------------------------------------|----------------------------------------------|
