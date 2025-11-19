@@ -17,7 +17,7 @@ title: Regulament General
 - <span style="color:red">Se consideră FailRP din partea membrilor LSPD, care încep ei primii focul (Exceptând Regulament Jafuri) fără a fi un cod 0 efectiv în zonă. În momentul în care membrii LSPD deschid focul doar ca să captureze pe cineva ce nu le-a pus viața în pericol cu o armă albă/armă de foc se consideră FailRP deoarece misiunea membrilor LSPD în Los Santos este de a proteja cetățenii și de a imobiliza infractorii cu un nivel de forță adecvat. Nu este considerat FailRP momentul în care în urma unui ordin al unui Superior din cadrul LSPD se va deschide focul la roți pentru imobilizarea suspectului/suspecților.</span>
 ::: info Exemplu
 - Un cetățean merge la secția de poliție pentru a raporta o răpire, iar polițistul din tură refuză să facă demersurile pentru soluționarea cazului.
-- Impersonarea unui membru al forțelor de ordine.
+- Impersonarea unui membru al facțiunilor legale.
 - Merg la CNN și dau anunț "Vand arme in paleto (politia nu vede) sau "Vand droguri in fata spitalului (politia nu vede)" sau "Vand Jucarii mari/mici" sau "Vand faina/zapada fina" etc.
 - Situatia in care aveti un ostatic si chemati cel mai mare membru in grad disponibil sa negocieze pentru viata acestuia si cand acesta vine la negociere este luat cu armele pe sus.
 :::
