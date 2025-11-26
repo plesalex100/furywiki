@@ -497,6 +497,7 @@ Restaurante, Secțiile de poliție, Spitale, Dealership, Casino, Primărie, Friz
 - Asocierea cu comunitatile de Cheating este strict inerzisa si va recomandam sa parasiti toate serverele de Discord etc. de genul pentru a nu avea probleme in cazul unui eventual PC Check.
 - Întârzierea pe support/ Tragerea de timp la PC Check este strict interzisă și poate duce la ban.
 - Refuzarea unui PC Check duce la Ban de CHEATS !
+- Persoanele acuzate de cheats o sa fie trase la PC Check doar in urma unor reclamatii !
 
 | **Categorie**                | **Servicii/Acțiuni**                                                                                                                                         |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
