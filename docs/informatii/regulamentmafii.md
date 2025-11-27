@@ -49,7 +49,7 @@ title: Regulament OOC Mafii/Organizații Ilegale
 - Nu aveți voie sa va aliați cu alte facțiuni/civili pentru a va bate cu politia. Singura abstracție de la aceasta regula este când Politia intervine peste voi si sunteți in același loc/același vehicul.
 
 ### <span class="header-font"> 9. Minimul de ore pentru grad </span>
-- <span style="color:red">Minimul de ore pentru un membru de mafie/organizație este 250h.</span>
+- <span style="color:red">Minimul de ore pentru un membru de mafie/organizație este 50h.</span>
 
 ### <span class="header-font"> 10. Discord </span>
 - Membri mafiilor sunt obligati sa fie prezenti pe un canal de pe discord-ul de mafie la actiuni sau cand se joaca. (PE DEAFEN DESIGUR)
@@ -82,6 +82,11 @@ title: Regulament OOC Mafii/Organizații Ilegale
 ### <span class="header-font"> 18. Meta pe arme </span>
 
 - Se poate recunoaste de catre sindicat/mafii/organizatii un posibil jefuitor cu grad/afiliat unei factiuni in functie de armament. Decizia vine deoarece este prea op sa jefuiesti cu navy/db.
+
+### <span class="header-font"> 19. Transfer Cooldown </span>
+
+- Puteti sa fiti adaugati intr-o mafie atata timp cat nu aveti transfer cooldown.
+- Daca va alaturati unei mafii/organizatii care a fost deschisa de mai putin de 14 zile si in urma inchiderii acesteia primiti transfer cooldown, acesta va fi scos.
 
 :::danger IMPORTANT!
 - Ne rezervăm dreptul de a actualiza, modifica regulamentul.
